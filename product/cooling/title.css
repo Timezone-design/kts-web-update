@@ -1,0 +1,50 @@
+/* タイトルバナー 製品情報 クーリング */
+
+.pr_title_1 {padding: 3px; font-weight: bold;}
+.pr_title_2 {padding: 5px 10px 1px; font-size: small; font-weight: bold;}
+.pr_title_hr {height: 1px; width: 100%; color: #FFF; margin: 1px 1px 5px;}
+
+/* アルミインテークパイプ */
+.pr_title_ikp {margin: 1px 5px 1px; background: url(img/title/ikp_2.gif); width: 352px; height: 45px;}
+.pr_title_ikp a {display: block;}
+.pr_title_ikp img {border: none;}
+.pr_title_ikp a:hover img {visibility: hidden;}
+
+/* アルミラジエーターアッパーホース */
+.pr_title_rp {margin: 1px 5px 1px; background: url(img/title/rp_2.gif); width: 484px; height: 45px;}
+.pr_title_rp a {display: block;}
+.pr_title_rp img {border: none;}
+.pr_title_rp a:hover img {visibility: hidden;}
+
+/* シリコンラジエーターアッパーホースSET */
+.pr_title_rq {margin: 1px 5px 1px; background: url(img/title/rq_2.gif); width: 465px; height: 45px;}
+.pr_title_rq a {display: block;}
+.pr_title_rq img {border: none;}
+.pr_title_rq a:hover img {visibility: hidden;}
+
+/* ラジエーターブリーザータンク */
+.pr_title_or_a01 {margin: 1px 5px 1px; background: url(img/title/or_a01_2.gif); width: 426px; height: 45px;}
+.pr_title_or_a01 a {display: block;}
+.pr_title_or_a01 img {border: none;}
+.pr_title_or_a01 a:hover img {visibility: hidden;}
+
+/* アルミラジエーターリザーバータンク */
+.pr_title_ow {margin: 1px 5px 1px; background: url(img/title/ow_2.gif); width: 503px; height: 45px;}
+.pr_title_ow a {display: block;}
+.pr_title_ow img {border: none;}
+.pr_title_ow a:hover img {visibility: hidden;}
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	.pr_title_pc {display: none;}
+	.pr_title_sp {padding: 1px; width: 100%;}
+	.pr_title_sp img{width: 100%; height: auto;}
+	.pr_title_2 {color: #0FF;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	.pr_title_sp {display: none;}
+}

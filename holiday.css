@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* 共通部分 */
+*.holiday_table {width: 95%; margin: 5px auto; background-color: #FFF; border-collapse: collapse; color: #666; text-align: center;}
+*.holiday_table_top {font-weight: bold; background-color: #FFC;}
+*.holiday_table td {border: solid 2px #666; padding: 2px; color: #000;}
+*.holiday_back_f00 {background-color: #f00;}
+*.holiday_back_00f {background-color: #00f;}
+*.holiday_back_0f0 {background-color: #0F0;}
+*.holiday_300 {display: table; margin: 5px auto 3px; width: 300px;}
+*.holiday_300_l_f00 {display: table-cell; width: 30px; background-color: #F00;}
+*.holiday_300_l_00f {display: table-cell; width: 30px; background-color: #00F;}
+*.holiday_300_l_0f0 {display: table-cell; width: 30px; background-color: #0F0;}
+*.holiday_300_r {display: table-cell; width: 270px; padding-left: 5px; font-size: small;}
+*.holiday_main {margin: 5px auto; background-color: #000; padding-top: 5px; padding-bottom: 5px;}
+
+/* スマートフォン */
+@media screen and (max-width: 479px) {
+	*.holiday_title {font-size: large; font-weight: bold; text-align: center; color: #FFF;}
+	*.holiday_text {font-size: small; margin: 3px auto; text-align: center; color: #FFF;}
+	*.holiday_c {margin: 10px auto 5px;}
+	*.holiday_500 {margin-top: 5px; margin-left: 10px; margin-bottom: 3px; font-size: small;}
+	*.holiday_500_c1 {font-weight: bold;}
+	*.holiday_500_c2 {padding-left: 20px;}
+	*.holiday_500_c3 {padding-left: 20px;}
+}
+
+
+/* PC */
+@media screen and (min-width: 480px) {
+	*.holiday_hr {display: none;}
+	*.holiday_main {width: 750px;}
+	*.holiday_title {margin: 5px auto; font-size: x-large; font-weight: bold; text-align: center; color: #FFF;}
+	*.holiday_text {margin: 3px auto; text-align: center; color: #FFF;}
+	*.holiday_t {display: table; width: 100%;}
+	*.holiday_c {display: table-cell; width: 50%; vertical-align: top; text-align: center;}
+	*.holiday_500 {display: table; width: 500px; margin: 5px auto 3px;}
+	*.holiday_500_c1 {display: table-cell; width:80px; font-weight: bold;}
+	*.holiday_500_c2 {display: table-cell; width:180px; padding-left: 3px;}
+	*.holiday_500_c3 {display: table-cell; width:240px; padding-left: 3px;}
+}

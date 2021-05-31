@@ -1,0 +1,400 @@
+/* PRODUCT 製品情報 */
+
+/* 共通部分 */
+	.pr_banner {width: 100%; text-align: center;}
+	.pr_price_n_lt {text-decoration: line-through;}
+	.pr_price_camp {color: #F00; font-weight: bold;}
+	.pr_price_camp_box {color: #F00; font-weight: bold;}
+	.pr_right_link {text-align: right; font-size: small; font-weight: bold; margin-right: 3px; }
+	.pr_right_link a {color: #FF0;}
+	.pr_right_link a:hover {color: #F00;}
+	.pr_info_400 {margin: 0 auto; padding: 2px; text-align: left; background-color: #333;}		
+	.pr_info_500 {margin: 0 auto; padding: 2px; text-align: left; background-color: #333;}
+	.pr_photo_u_text a {color: #0FF;}
+	.pr_photo_u_text a:hover {color: #FF0;}
+	.pr_price_text {font-size: small; font-weight: bold; text-align: center;}
+	/* SE3P アーム注釈用 */
+	.pr_se3p_right {display: table;}
+	.pr_se3p_right_title {font-size: small; font-weight: bold;}
+	.pr_se3p_right_170 {display: table-cell; width: 170px; vertical-align: top;}
+	.pr_se3p_right_200 {width: 200px; margin: 5px auto 3px;}
+	.pr_se3p_right_200 a {display: inline-block; background: url(arm/img/se3p/at_101_200_2.jpg);}
+	.pr_se3p_right_200 img {border: none; width: 200px; height: 150px;}
+	.pr_se3p_right_200 a:hover img {visibility: hidden;}
+	.pr_se3p_right_top_m {margin-top: 3px;}
+	.pr_photo_se3p_2 {margin-top: 5px;}
+	/* FD3S スーパーロアアームバー注釈用 */
+	.pr_rbs_fd3s_c2 {font-size: small; padding: 2px;}
+	.pr_rbs_fd3s_250 {width: 250px; margin: 0px auto 3px;}
+	.pr_rbs_fd3s_250 a {display: inline-block; background: url(body/img/rbs_402r_att02.jpg);}
+	.pr_rbs_fd3s_250 img {border: none; width: 250px; height: 188px;}
+	.pr_rbs_fd3s_250 a:hover img {visibility: hidden;}
+	.pr_rbs_fd3s_250_text {font-size: small; color: #FF0; text-align: center; padding-bottom: 3px;}
+	.pr_car_name {font-size: large; font-weight: bold;}
+	.pr_car_name a {color: #FFF; text-decoration: none;}
+	.pr_car_name a:hover {color: #0FF;}
+	.pr_title_w {font-weight: bold; color: #0FF; background-color: #000; padding: 3px;}
+	/* 仕様内table */
+	.pr_info_table1 {width: 55px; vertical-align: top;}
+	.pr_info_table2 {width: 80px; text-align: right;}
+
+/* タイトル部分 */
+	.pr_car_title {font-size: large; font-weight: bold; padding: 2px;}
+	.pr_item_title {font-weight: bold; color: #0FF;}
+
+/* リンク */
+	a.link_pr_shop {color: #F00;}
+	a.link_pr_shop:hover {color: #00F;}
+	a.link_pr_shop_000 {color: #000;}
+	a.link_pr_shop_000:hover {color: #00F;}
+
+/* 注釈用 */
+	.pr_r_text_f00 {display: table; padding: 2px; font-size: small; font-weight: normal; color: #F00;}
+	.pr_r_text_ff0 {display: table; padding: 2px; font-size: small; font-weight: normal; color: #FF0;}
+	.pr_r_text1 {display: table-cell; width: 20px; text-align: right;}
+	.pr_r_text2 {display: table-cell;}
+
+/* SDデルタ仕様部分 */
+	.pr_sdd_info_text {padding-top: 2px; padding-left: 2px; font-size: small;}
+	.pr_sdd_info_img_full {width: 100%; height: auto;}
+	.pr_sdd_font_333 {margin-top: 2px; padding: 2px; font-size: small;	background-color: #333;}
+
+/* 車高調車種別専用ページ */
+	.damper_car_center_text {font-size: small; text-align: center; margin: 0 auto 0;}
+	.damper_car_order {width: 100%; text-align: right;}
+	.damper_car_order a:hover img {opacity: 0.7;}
+
+/* 60φWオールステンフロントパイプ 説明文用 */
+	.pr_fp_w {font-size: small;}
+	.pr_fp_w_info_p {font-weight: bold; text-align: center;}
+	.pr_fp_w_info_text {background-color: #333; padding: 3px;}
+	.pr_fp_w_info_text_c {background-color: #333; padding: 3px; text-align: center;}
+	.pr_fp_w_info_text_c_t {background-color: #333; margin: 3px auto; border-collapse: collapse;}
+	.pr_fp_w_info_text_c_t td {border: solid 1px #CCC; padding: 3px; font-size: small; text-align: center;}
+	.pr_fp_w_e {margin: 2px auto; font-size: small;}
+
+/* オーダーメイドフロアーマット */
+	*.pr_app3_mat_cell img{width: 235px; height: 176px;}
+
+/* ドライバッテリー */
+	.pr_bd_box {width: 100%; margin: 1px; color: #FFF; font-size: small; text-align: center; background-color: #000; border-collapse: collapse;}
+	.pr_bd_box_title {font-weight: bold;}
+	.pr_bd_box td {border: solid 1px #FFF; padding: 2px;}
+	.pr_bd_info {display: table; font-size: small;}
+	.pr_bd_info_cell1 {display: table-cell; vertical-align: top; width: 30px; text-align: right;}
+	.pr_bd_info_cell1_80 {display: table-cell; vertical-align: top; width: 80px; text-align: right;}
+	.pr_bd_info_cell2 {display: table-cell; vertical-align: top; width: 45px;}
+	.pr_bd_info_cell {display: table-cell; vertical-align: top;}
+	.pr_bd_info_title {color: #000; background-color: #FF0; font-weight: bold; text-align: center; padding: 2px;}
+	.pr_bd_text_1 {margin: 5px auto 2px; padding: 0px 2px 2px 0px; font-size: small;}
+	.pr_bd_text_2 {margin: 2px auto 2px; padding: 0px 2px 2px 10px; font-size: small;}
+	.pr_bd_text_3 {margin: 2px auto 2px; padding: 0px 2px 2px 20px; font-size: small;}
+	.pr_bd_text_3t {margin: 2px auto 2px; padding: 0px 2px 2px 20px; font-size: small; display: table;}
+	.pr_bd_text_c_l_15 {margin-top: 2px; margin-bottom: 2px; display: table-cell; width: 15px; vertical-align: top; text-align: right;}
+	.pr_bd_text_c_l_80r {margin-top: 2px; margin-bottom: 2px; display: table-cell; width: 80px; vertical-align: top; text-align: right;}
+	.pr_bd_text_c {margin-top: 2px; margin-bottom: 2px; display: table-cell; vertical-align: top;}
+
+/* シリコンホース */
+	.pr_hs_price_text {font-size: small; text-align: left;}
+
+/* SP表示部分 */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	.pr_gp, .pr_sp_none, .damper_box, .pr_pc_text, .pr_top_title, .pr_top_search, .pr_sdd_info_img_730 {display: none;}
+	.pr_title {display: none;}
+	.pr_title_sp {font-weight: bold; color: #0FF; background-color: #000; padding: 3px;}
+	.pr_title_sp_photo {margin: 3px auto;}
+	.pr_car_title_sp {font-size: large; font-weight: bold; padding: 2px;}
+	.pr_back {width: 100%; background-color: #000; padding: 0 0 10px;}
+	.pr_font_333 {padding: 2px;	font-size: small; background-color: #333;}
+	.pr_price {font-size: small; text-align: center;}
+	.pr_price_camp {font-size: medium; font-weight: bold; color: #F00;}
+	.pr_price_camp_box {font-size: small;}
+	.pr_info img {width: 100%; height: auto;}
+	.pr_info_title {font-weight: bold; margin: 5px 0 2px;}
+	.pr_info_title_730 {font-weight: bold; margin: 5px 0 2px;}
+	.pr_info_text {font-size: small; padding: 2px;}
+	.pr_info_text_730 {font-size: small; padding: 2px;}
+	.pr_info_text_se3p {font-size: small; padding: 2px;}
+	.damper_info {display: table;}
+	.damper_info1 {display: table-cell;	width: 15px; vertical-align: top; font-size: small;	padding: 1px; text-align: right;}
+	.damper_info2 {display: table-cell;	vertical-align: top; font-size: small; padding: 1px;}
+	.damper_info3 {font-size: small; padding: 1px;}
+	.damper_info_photo {display: table-cell; vertical-align: top; padding: 1px;}
+	.damper_info_link {text-align: right; font-weight: bold; margin-right: 3px;}
+	.damper_info_link a {color: #FF0;}
+	.damper_info_link a:hover {color: #F00;}
+	.pr_banner {margin: 5px 0;}
+	.pr_info {margin: 5px 0;}
+	.damper_table {width: 100%; margin: 1px; color: #000; font-size: small; text-align: center; background-color: #FFF;	border-collapse: collapse;}
+	.damper_table td {border: solid 1px #333; padding: 1px;}
+	.damper_table_title {font-weight: bold;	background-color: #FF0;}
+	.damper_table_line {background-color: #CCC;}
+	.damper_table_sp_text {color: #F00;}
+	.pr_font_b_0ff {color: #0FF; font-weight: bold;}
+	.pr_sp_text_f00_c {font-size: x-small; color: #F00;}
+	.pr_sp_text_f00 {display: table; font-size: x-small; color: #F00; text-align: right; padding: 1px;}
+	.pr_sp_text {display: table; font-size: x-small; padding: 1px;}
+	.pr_sp_text_cell1 {display: table-cell; width: 30px; text-align: right; vertical-align: top;}
+	.pr_sp_text_cell2 {display: table-cell;	vertical-align: top;}
+	.pr_table_cell {font-size: small; text-align: center; margin-bottom: 2px;}
+	.pr_table_cell_33 {font-size: small; text-align: center; margin-bottom: 2px;}
+	.pr_table_cell_25_1 {display: table; width: 100%; text-aligh: center; font-size: small;}
+	.pr_table_cell_25_2 {display: table-cell; width: 50%; vertical-align: top; margin-bottom: 2px;}
+	.pr_table_cell_25_2 img{width: 100%; height: auto;}
+	.pr_info_400 {font-size: small;}
+	.pr_info_500 {font-size: small;}
+	.pr_app_box {width: 100%; margin: 1px; color: #000; font-size: x-small; text-align: center; background-color: #FFF; border-collapse: collapse;}
+	.pr_app_box td {border: solid 1px #333; padding: 1px;}
+	.pr_app_box_title {font-weight: bold; background-color: #FF0;}
+	.pr_app_box_100p {width: 100%; margin: 1px; color: #000; font-size: x-small; text-align: center; background-color: #FFF; border-collapse: collapse;}
+	.pr_app_box_100p td {border: solid 1px #333; padding: 1px;}
+	.pr_app_box_350px {width: 100%; margin: 1px; color: #000; font-size: small; text-align: center; background-color: #FFF; border-collapse: collapse;}
+	.pr_app_box_350px td {border: solid 1px #333; padding: 1px;}
+	.pr_car_name_cell, .pr_car_name_cell_360, .pr_car_name_cell_540 {width: 95%; margin: 3px auto 2px;}
+	/* db_info.html用 */
+	/* 画像サイズの固定 */
+	.pr_photo_180 {text-align: center;}
+	.pr_photo_180 img {width: 160px; height: 120px;}
+	.pr_photo_info {text-align: center;}
+	.pr_info_250 {width: 250px; height: 187px;}
+	.pr_info_normal {width: 100%; height: auto;}
+	.order_button {width: 170px; height: 30px;}
+	.order_button_100 {width: 100%; height: auto;}
+	.pr_normal_photo_230 img {width: 100%; height: auto;}
+	.pr_normal_photo_330 img {width: 100%; height: auto;}
+	.pr_normal_photo_360 img {width: 100%; height: auto;}
+	.pr_normal_photo_400 img {width: 100%; height: auto;}
+	.pr_maker_title img {width: 100%; hright: auto;}
+	.pr_photo_u_text {text-align: left;	padding: 1px; margin: 0 auto 10px; background-color: #333;}
+	/* TOPページ カテゴリリンク */
+	.pr_top_cate_cell {margin: 3px auto; text-align: center;}
+	.pr_top_cate_cell img {width: 240px; height: 45px;}
+	.pr_top_cate_suspension, .pr_top_cate_drive, .pr_top_cate_cooling, .pr_top_cate_brake, .pr_top_cate_arm, .pr_top_cate_body, .pr_top_cate_ex, .pr_top_cate_intake, .pr_top_cate_interior, .pr_top_cate_exterior, .pr_top_cate_engine, .pr_top_cate_other {margin: 3px auto; text-align: center;}
+	.pr_top_cate_suspension, .pr_top_cate_drive, .pr_top_cate_cooling, .pr_top_cate_brake, .pr_top_cate_arm, .pr_top_cate_body, .pr_top_cate_ex, .pr_top_cate_intake, .pr_top_cate_interior, .pr_top_cate_exterior, .pr_top_cate_engine, .pr_top_cate_other img {width: 240px; height: 45px;}
+	.pr_car_title {width: 100%;}
+	.pr_item_title {width: 100%;}
+	/* SE3P説明文用 */
+	.pr_se3p_photo_c1 img {width: 100%; height: auto;}
+	.pr_se3p_right_title {margin-top: 3px;}
+	/* SDデルタ仕様部分 */
+	.pr_sdd_info_cell_360 {margin-bottom: 15px;}
+	.pr_sdd_info_img {width: 100%; height: auto;}
+	.pr_sdd_info_img_sp {width: 100%; height: auto;}
+	/* 車高調車種別専用ページ */
+	.damper_car_table {font-size: small;}
+	.damper_car_cell1 {font-weight: bold; margin-left: 5px; margin-top: 2px;}
+	.damper_car_cell2 {margin-left: 10px;}
+	.damper_hr {margin: 10px auto 10px; background-color: #FFF; height: 1px;}
+	.damper_car_photo {margin: 1px auto 5px;}
+	.damper_car_photo img {width: 100%; height: auto;}
+	.damper_car_order img {width: 100%; height: auto;}
+	/* オーダーメイドマット */
+	*.pr_app3_mat_cell {text-align: center; margin-bottom: 3px; font-size: small;}
+	/* コンビネーションスペーサー 注意文 */
+	.pr_ws_m_text_title {width: 99%; margin: 3px auto 1px; font-size: small; font-weight: bold; color: #000; text-align: center; background-color: #FF0; padding: 2px;}
+	.pr_ws_m_text {width: 99%; margin: 1px auto 3px; font-size: small; color: #000; background-color: #CF6; padding: 2px;}
+	/* ドライバッテリー */
+	.pr_bd_box {font-size: x-small;}
+	.pr_bd_info_title {width: 99%;}
+	.pr_bd_text_3t {width: auto; margin: 2px 2px 2px 20px; padding: 0px 2px 2px 0px;}
+	/* SC DAMPER SYSTEM β SPRING SET */
+	.pr_beta_set_img_100 {width: 100%; height: auto;}
+	.pr_beta_set_link {width: 98%; margin: 5px auto 10px; font-size: small; font-weight: bold;}
+	.pr_beta_set_link a {color: #FF0;}
+	.pr_beta_set_link a:hover {color: #F00;}
+	.pr_beta_set_115 img {width: 115px; height: auto;}
+}
+
+/* PC表示部分 */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	.damper_info_link, .pr_title_sp, .pr_pc_none, .damper_table_sp_text, .pr_sp_text_f00_c, .pr_sp_text_f00, .pr_sp_text, .pr_title_sp_photo, .pr_car_title_sp, .pr_sdd_info_img_sp {display: none;}
+	/* TOPページタイトル */
+	.pr_top_title {width: 740px; margin: 3px auto; background-color: #000;}
+	/* 商品タイトル */
+	.pr_back {width: 750px;	background-color: #000;	padding: 0 0 10px;}
+	.pr_title {margin: 3px 0 0 5px;	width: 740px; table-layout: fixed;}
+	/* PC表示 商品画像サイズ固定 */
+	.pr_img_size {width: 330px;	height: auto;}
+	.pr_font_333 {margin: 2px; padding: 2px; width: 100%; font-size: small;	background-color: #333;}
+	.pr_font {margin: 2px; padding: 2px; width: 100%; font-size: small;}
+	.pr_font2 {margin: 0px 2px 2px;	padding: 0px 2px 2px; width: 100%; font-size: small;}
+	.pr_font_b_0ff {color: #0FF; font-weight: bold; margin: 0px 2px 2px; padding: 0px 2px 2px; width: 100%;}
+	.pr_title_w  {width: 730px; margin: 1px auto 1px;}
+	.pr_info_title {margin: 2px; padding: 2px; width: 100%; font-size: small; font-weight: bold;}
+	.pr_info_title_full {table-layout: table; margin: 2px; padding: 2px; width: 100%; font-size: small; font-weight: bold;}
+	.pr_info_text {margin: 0px 5px 2px; padding: 0px 2px 2px; width: 100%; font-size: small;}
+	.pr_info_text_730 {margin: 2px auto 2px; padding: 0px 2px 2px; width: 730px; font-size: small;}
+	.pr_info_text_se3p {margin: 0px 5px 2px; padding: 0px 2px 2px; width: 730px; font-size: small;}
+	.pr_gp {margin: 2px; padding: 2px; width: 100%;}
+	.pr_price_title {font-size: small; font-weight: bold;}
+	.pr_price_n {font-size: small;}
+	.pr_price_camp {color: #F00; font-weight: bold;}
+	.pr_info {display: table; margin: 0 0 0 5px; width: 730px; table-layout: fixed;}
+	.pr_photo {display: table-cell; width: 330px; vertical-align: top;}
+	.pr_photo_180 {display: table-cell; width: 180px; vertical-align: top; text-align: right;}
+	.pr_photo_se3p_1 {display: table-cell; width: 415px; vertical-align: top; text-align: right;}
+	.pr_photo_se3p_2 {display: table-cell; width: 500px; vertical-align: top; text-align: right;}
+	.pr_se3p_photo_c1 a {display: inline-block; background: url(arm/img/se3p/rear_3p_2.jpg);}
+	.pr_se3p_photo_c1 img {border: none; width: 500px; height: 281px;}
+	.pr_se3p_photo_c1 a:hover img {visibility: hidden;}
+	.pr_text {display: table-cell; vertical-align: top;}
+	.damper_box {display: table; width: 730px; margin: 5px auto; border: solid 1px #FF0;}
+	.damper_box0 {display: table; width: 100%;}
+	.damper_box1 {display: table-cell; width: 100%; padding: 1px; border: solid 1px #FF0;}
+	.damper_box2 {display: table-cell; width: 50%; padding: 1px; border: solid 1px #FF0;}
+	.pr_info_title_730 {margin: 7px auto 3px; width: 730px; font-size: small; font-weight: bold;}
+	.damper_info {display: table;}
+	.damper_info1 {display: table-cell;	width: 15px; vertical-align: top; font-size: small;	padding: 1px; text-align: right;}
+	.damper_info2 {display: table-cell;	vertical-align: top; font-size: small; padding: 1px;}
+	.damper_info3 {font-size: small; padding: 1px;}
+	.damper_info_photo {display: table-cell; vertical-align: top; padding: 1px;}
+	.damper_info_photo_c {width: 100%; text-align: center;}
+	.damper_info_title {font-weight: bold;}
+	.damper_table {width: 730px; margin: 3px auto; color: #000; font-size: small; text-align: center; background-color: #FFF; border-collapse: collapse;}
+	.damper_table td {border: solid 1px #333; padding: 1px;}
+	.damper_table_title {font-weight: bold;	background-color: #FF0;}
+	.damper_table_line {background-color: #CCC;}
+	.pr_table {display: table; margin: 0 auto 0; width: 730px; text-align: center; font-size: small;}
+	.pr_table_cell {display: table-cell; width: 50%; vertical-align: top; margin-bottom: 2px;}
+	.pr_table_cell_33 {display: table-cell; width: 33%; vertical-align: top; margin-bottom: 2px;}
+	.pr_table_cell_25_1 {display: table; width: 365px; text-aligh: center; font-size: small;}
+	.pr_table_cell_25_2 {display: table-cell; width: 50%; vertical-align: top; margin-bottom: 2px;}
+	.pr_table_cell_25_2 img{width: 180px; height: auto;}
+	.pr_info_400 {width: 400px;}
+	.pr_info_500 {width: 500px;}
+	.pr_normal_photo_230 img {width: 230px;	height: auto;}
+	.pr_normal_photo_330 img {width: 330px;	height: auto;}
+	.pr_normal_photo_360 img {width: 360px;	height: auto;}
+	.pr_normal_photo_400 img {width: 400px; height: auto;}
+	.pr_maker_title {width: 730px; margin: 3px auto 3px;}
+	.pr_maker_title img {width: 480px; height: auto;}
+	.pr_app_box {width: 730px; margin: 3px auto; color: #000; font-size: small;	text-align: center;	background-color: #FFF;	border-collapse: collapse;}
+	.pr_app_box td {border: solid 1px #333;	padding: 1px;}
+	.pr_app_box_title {font-weight: bold; background-color: #FF0;}
+	.pr_app_box_100p {width: 99%; margin: 3px auto; color: #000; font-size: small;	text-align: center;	background-color: #FFF;	border-collapse: collapse;}
+	.pr_app_box_100p td {border: solid 1px #333;	padding: 1px;}
+	.pr_app_box_350px {width: 350px; margin-top: 2px; margin-bottom: 5px; margin-left: 10px; color: #000; font-size: small;	text-align: center;	background-color: #FFF;	border-collapse: collapse;}
+	.pr_app_box_350px td {border: solid 1px #333;	padding: 1px;}
+	.pr_pc_text {width: 730px; margin: 1px auto; font-size: small;}
+	.pr_photo_u_text {width: 330px;	text-align: left; padding: 1px; margin: 0 auto 3px; background-color: #333;}
+	.pr_car_name {display: table; width: 720px; margin: 2px auto 1px;}
+	.pr_car_name_cell {display: table-cell; vertical-align: top; width: 180px;}
+	.pr_car_name_cell_360 {display: table-cell; vertical-align: top; width: 360px;}
+	.pr_car_name_cell_540 {display: table-cell; vertical-align: top; width: 540px;}
+	/* 設定車種3列表示 */
+	*.pr_app3 {display: table; widht: 730px; margin: 3px auto;}
+	*.pr_app3_cell {display: table-cell; width: 240px; text-align: center;}
+	*.pr_app3_mat_cell {display: table-cell; width: 240px; text-align: center; font-size: small;}
+	/* 設定車種4列表示 */
+	*.pr_app4 {display: table; widht: 730px; margin: 3px auto;}
+	*.pr_app4_cell {display: table-cell; width: 180px; text-align: center;}
+	/* SC DAMPER SYSTEM β SPRING SET */
+	.pr_beta_set_title {margin: 0 auto; text-align: center; background-color: #000;}
+	.pr_beta_set_link {width: 730px; margin: 0 auto; font-size: small; font-weight: bold; text-align: right;}
+	.pr_beta_set_link a {color: #FF0;}
+	.pr_beta_set_link a:hover {color: #F00;}
+	.pr_beta_set_115 {display: table-cell; width: 120px; text-align: right; vertical-align: top;}
+	.pr_beta_set_115 img {width: 115px; height: auto;}
+	/* TOPページ カテゴリリンク */
+	.pr_top_cate {display: table; width: 740px; text-align: center; margin: 2px auto;}
+	.pr_top_cate_cell {display: table-cell; width: 33%;}
+	/* サスペンション */
+	.pr_top_cate_suspension {display: table-cell; width: 33%;}
+	.pr_top_cate_suspension a {display: inline-block; background: url(img/suspension_2.gif);}
+	.pr_top_cate_suspension img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_suspension a:hover img {visibility: hidden;}
+	/* 駆動系 */
+	.pr_top_cate_drive {display: table-cell; width: 33%;}
+	.pr_top_cate_drive a {display: inline-block; background: url(img/drive_2.gif);}
+	.pr_top_cate_drive img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_drive a:hover img {visibility: hidden;}
+	/* クーリング */
+	.pr_top_cate_cooling {display: table-cell; width: 33%;}
+	.pr_top_cate_cooling a {display: inline-block; background: url(img/cooling_2.gif);}
+	.pr_top_cate_cooling img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_cooling a:hover img {visibility: hidden;}
+	/* ブレーキ */
+	.pr_top_cate_brake {display: table-cell; width: 33%;}
+	.pr_top_cate_brake a {display: inline-block; background: url(img/brake_2.gif);}
+	.pr_top_cate_brake img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_brake a:hover img {visibility: hidden;}
+	/* アーム・ロッド */
+	.pr_top_cate_arm {display: table-cell; width: 33%;}
+	.pr_top_cate_arm a {display: inline-block; background: url(img/arm_2.gif);}
+	.pr_top_cate_arm img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_arm a:hover img {visibility: hidden;}
+	/* ボディ補強 */
+	.pr_top_cate_body {display: table-cell; width: 33%;}
+	.pr_top_cate_body a {display: inline-block; background: url(img/body_2.gif);}
+	.pr_top_cate_body img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_body a:hover img {visibility: hidden;}
+	/* エキゾースト */
+	.pr_top_cate_ex {display: table-cell; width: 33%;}
+	.pr_top_cate_ex a {display: inline-block; background: url(img/ex_2.gif);}
+	.pr_top_cate_ex img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_ex a:hover img {visibility: hidden;}
+	/* インテーク */
+	.pr_top_cate_intake {display: table-cell; width: 33%;}
+	.pr_top_cate_intake a {display: inline-block; background: url(img/intake_2.gif);}
+	.pr_top_cate_intake img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_intake a:hover img {visibility: hidden;}
+	/* インテリア */
+	.pr_top_cate_interior {display: table-cell; width: 33%;}
+	.pr_top_cate_interior a {display: inline-block; background: url(img/interior_2.gif);}
+	.pr_top_cate_interior img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_interior a:hover img {visibility: hidden;}
+	/* エクステリア */
+	.pr_top_cate_exterior {display: table-cell; width: 33%;}
+	.pr_top_cate_exterior a {display: inline-block; background: url(img/exterior_2.gif);}
+	.pr_top_cate_exterior img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_exterior a:hover img {visibility: hidden;}
+	/* エンジン */
+	.pr_top_cate_engine {display: table-cell; width: 33%;}
+	.pr_top_cate_engine a {display: inline-block; background: url(img/engine_2.gif);}
+	.pr_top_cate_engine img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_engine a:hover img {visibility: hidden;}
+	/* その他 */
+	.pr_top_cate_other {display: table-cell; width: 33%;}
+	.pr_top_cate_other a {display: inline-block; background: url(img/other_2.gif);}
+	.pr_top_cate_other img {border: none; width: 240px; height: 45px;}
+	.pr_top_cate_other a:hover img {visibility: hidden;}
+	/* パーツクイックサーチ */
+	.pr_top_search {width: 740px; margin: 3px auto; text-align: right; font-size: small; font-weight: bold;}
+	.pr_item_title {width: 730px; margin: 0 auto;}
+	.pr_car_title {width: 730px; margin: 0 auto;}
+	/* SDデルタ仕様部分 */
+	.pr_sdd_info {display: table; width: 730px; margin: 1px auto 10px;}
+	.pr_sdd_info_img {width: 360px; height: auto;}
+	.pr_sdd_info_img_330 {width: 330px; height: auto;}
+	.pr_sdd_info_img_730 {width: 730px; height: auto;}
+	.pr_sdd_info_cell_360 {display: table-cell; width: 360px; vertical-align: top;}
+	.pr_sdd_info_cell_730 {display: table-cell; width: 730px; vertical-align: top;}
+	.pr_sdd_info_cell_10 {display: table-cell; width: 15px;}
+	/* 車高調車種別専用ページ */
+	.damper_car_table {display: table; font-size: small; margin-left: 0px;}
+	.damper_car_cell1 {display: table-cell; width: 70px; text-align: right;}
+	.damper_car_cell2 {display: table-cell;}
+	.damper_hr {width: 730px; margin: 10px auto 10px; background-color: #FFF; height: 1px;}
+	.damper_car_photo {width: 680px; margin: 1px auto 5px;}
+	/* スパーロアアームバー注釈用 */
+	.pr_rbs_fd3s {display: table; width: 720px; margin: 3px auto;}
+	.pr_rbs_fd3s_c1 {display: table-cell; vertical-align: top; width: 260px;}
+	.pr_rbs_fd3s_c2 {display: table-cell; vertical-align: top;}
+	/* 60φWオールステンフロントパイプ 説明文用 */
+	.pr_fp_w_info_p {width: 600px; margin: 3px auto;}
+	.pr_fp_w_info_text {width: 600px ; margin: 2px auto;}
+	.pr_fp_w_info_text_c {width: 600px ; margin: 2px auto;}
+	.pr_fp_w_info_text_c_t {width: 520px ; margin: 2px auto;}
+	.pr_fp_w_e {width: 650px; margin: 2px auto;}
+	/* コンビネーションスペーサー 注意文 */
+	.pr_ws_m_text_title {width: 730px; margin: 3px auto 1px; font-size: small; font-weight: bold; color: #000; text-align: center; background-color: #FF0; padding: 2px;}
+	.pr_ws_m_text {width: 730px; margin: 1px auto 3px; font-size: small; color: #000; background-color: #CF6; padding: 2px;}
+	/* ドライバッテリー */
+	.pr_bd_info_title {width: 730px; margin: 2px auto;}
+	.pr_bd_text_1 {width: 730px;}
+	.pr_bd_text_2 {width: 730px;}
+	.pr_bd_text_3 {width: 730px;}
+	.pr_bd_text_3t {width: 730px;}
+}

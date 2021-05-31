@@ -1,0 +1,38 @@
+/* タイトルバナー 製品情報 ボディ補強 */
+
+.pr_title_1 {padding: 3px; font-weight: bold;}
+.pr_title_2 {padding: 5px 10px 1px; font-size: small; font-weight: bold;}
+.pr_title_hr {height: 1px; width: 100%; color: #FFF; margin: 1px 1px 5px;}
+
+/* フルハーネス3インチシートベルト4点式 */
+.pr_title_bb {margin: 1px 5px 1px; background: url(img/title/bb_2.gif); width: 556px; height: 45px;}
+.pr_title_bb a {display: block;}
+.pr_title_bb img {border: none;}
+.pr_title_bb a:hover img {visibility: hidden;}
+
+/* 調整式スーパーローポジシートレール */
+.pr_title_bk_rail {margin: 1px 5px 1px; background: url(img/title/bk_rail_2.gif); width: 518px; height: 45px;}
+.pr_title_bk_rail a {display: block;}
+.pr_title_bk_rail img {border: none;}
+.pr_title_bk_rail a:hover img {visibility: hidden;}
+
+/* オーダーメイドフロアーマット */
+.pr_title_mat {margin: 1px 5px 1px; background: url(img/title/mat_2.gif); width: 409px; height: 45px;}
+.pr_title_mat a {display: block;}
+.pr_title_mat img {border: none;}
+.pr_title_mat a:hover img {visibility: hidden;}
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	.pr_title_pc {display: none;}
+	.pr_title_sp {padding: 1px; width: 100%;}
+	.pr_title_sp img{width: 100%; height: auto;}
+	.pr_title_2 {color: #0FF;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	.pr_title_sp {display: none;}
+}

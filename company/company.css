@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* コンテンツ背景 */
+*.company_back {background-color: #000;}
+
+
+/* 見出し用フォント */
+*.com_title {font-weight: bold; padding: 3px;}
+
+/* 見出し部罫線 */
+*.hr_com {color: #FFF;}
+
+/* テーブル */
+*.com_tb, *.com_tb_an, *.com_tb_an_bottom {display: table; font-size: small;}
+*.com_cell_title {font-weight: bold;}
+
+
+/* SP用CSS */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	*.com_cell_com, *.com_cell_tel, *.com_cell_tel2 {display: none;}
+	*.com_tb {margin: 3px 0; padding: 2px; width: 100%;}
+	*.com_cell_title {color: #0FF;}
+	*.com_cell_com_sp, *.com_cell_name {padding-left: 10px;}
+	*.com_cell_name2 {color: #FF0;}
+	*.com_cell_shop {font-weight: bold; padding-left: 5px;}
+	*.com_cell_tel_sp {display: table-cell; padding-left: 15px; font-weight: bold; margin-top: 2px; margin-bottom: 2px;}
+	*.com_cell_tel_sp a:hover {color: #F00;}
+	*.com_cell_fax {display: table-cell; padding-left: 15px;}
+	*.com_cell_tel_sp2 {padding-left: 15px; font-weight: bold; margin-top: 2px; margin-bottom: 2px;}
+	*.com_cell_tel_sp2 a:hover {color: #F00;}
+	*.com_cell_fax2 {padding-left: 15px; font-size: small;}
+	*.com_cell_add {padding-left: 15px;}
+	*.com_cell_hr {color: #CCC;}
+	*.com_cell_title_an {padding-left: 5px;}
+}
+
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	*.com_cell_com_sp, *.com_cell_tel_sp, *.com_cell_tel_sp2 {display: none;}
+	/* コンテンツ背景 */
+	*.company_back {width: 750px; margin: 5px auto;}
+	/* 見出し部罫線 */
+	*.hr_com {width: 740px; margin: 0 auto 5px;}
+	*.com_tb {width: 700px; margin: 15px auto;}
+	*.com_cell_title {display: table-cell; width: 95px; text-align: right; padding-right: 10px;}
+	*.com_cell_name, *.com_cell_com {display: table-cell;}
+	*.com_cell_name2 {padding-left: 5px; color: #FF0;}
+	*.com_cell_tb {display: table; font-size: 12px;}
+	*.com_cell_shop {display: table-cell; width: 80px;}
+	*.com_cell_tel {display: table-cell; width: 120px;}
+	*.com_cell_fax {display: table-cell; width: 120px;}
+	*.com_cell_tel2 {display: table-cell; width: 210px;}
+	*.com_cell_fax2 {width: 120px; margin-left: 82px; font-size: 12px;}
+	*.com_cell_add {display: table-cell;}
+	*.com_cell_hr {size: 1px; width: 100%; color: #CCC;}
+	*.com_cell_tb_bottom {display: table; font-size: 12px; padding-bottom: 10px;}
+	*.com_tb_an {width: 680px; margin: 5px auto 1px;}
+	*.com_tb_an_bottom {width: 680px; margin: 5px auto 1px; padding-bottom: 10px;}
+	*.com_cell_title_an {display: table-cell; width: 130px; padding-right: 10px;}
+}

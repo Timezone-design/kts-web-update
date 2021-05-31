@@ -1,0 +1,122 @@
+/* タイトルバナー 製品情報 ボディ補強 */
+
+.pr_title_1 {padding: 3px; font-weight: bold;}
+.pr_title_2 {padding: 5px 10px 1px; font-size: small; font-weight: bold;}
+.pr_title_hr {height: 1px; width: 100%; color: #FFF; margin: 1px 1px 5px;}
+
+/* ダイレクトステアリングカラー */
+.pr_title_sa {margin: 1px 5px 1px; background: url(img/title/sa_001_2.gif); width: 414px; height: 45px;}
+.pr_title_sa a {display: block;}
+.pr_title_sa img {border: none;}
+.pr_title_sa a:hover img {visibility: hidden;}
+
+/* アルミステアリングブッシュ */
+.pr_title_srb {margin: 1px 5px 1px; background: url(img/title/srb_2.gif); width: 395px; height: 45px;}
+.pr_title_srb a {display: block;}
+.pr_title_srb img {border: none;}
+.pr_title_srb a:hover img {visibility: hidden;}
+
+/* 強化エンジンマウント */
+.pr_title_em {margin: 1px 5px 1px; background: url(img/title/em_001_2.gif); width: 334px; height: 45px;}
+.pr_title_em a {display: block;}
+.pr_title_em img {border: none;}
+.pr_title_em a:hover img {visibility: hidden;}
+
+/* 強化型ミッションマウント */
+.pr_title_sd {margin: 1px 5px 1px; background: url(img/title/sd_001_2.gif); width: 375px; height: 45px;}
+.pr_title_sd a {display: block;}
+.pr_title_sd img {border: none;}
+.pr_title_sd a:hover img {visibility: hidden;}
+
+/* スピンターンノブ */
+.pr_title_sz {margin: 1px 5px 1px; background: url(img/title/sz_2.gif); width: 275px; height: 45px;}
+.pr_title_sz a {display: block;}
+.pr_title_sz img {border: none;}
+.pr_title_sz a:hover img {visibility: hidden;}
+
+/* アルミスペーサー */
+.pr_title_ws_mz {margin: 1px 5px 1px; background: url(img/title/ws_mz_2.gif); width: 280px; height: 45px;}
+.pr_title_ws_mz a {display: block;}
+.pr_title_ws_mz img {border: none;}
+.pr_title_ws_mz a:hover img {visibility: hidden;}
+
+/* コンビネーションスペーサー */
+.pr_title_ws_m {margin: 1px 5px 1px; background: url(img/title/ws_m_2.gif); width: 399px; height: 45px;}
+.pr_title_ws_m a {display: block;}
+.pr_title_ws_m img {border: none;}
+.pr_title_ws_m a:hover img {visibility: hidden;}
+
+/* 超軽量アルミナット3 */
+.pr_title_ws_n20 {margin: 1px 5px 1px; background: url(img/title/ws_n20_2.gif); width: 352px; height: 45px;}
+.pr_title_ws_n20 a {display: block;}
+.pr_title_ws_n20 img {border: none;}
+.pr_title_ws_n20 a:hover img {visibility: hidden;}
+
+/* 7Angles Super Nut */
+.pr_title_ws_n10 {margin: 1px 5px 1px; background: url(img/title/ws_n10_2.gif); width: 300px; height: 45px;}
+.pr_title_ws_n10 a {display: block;}
+.pr_title_ws_n10 img {border: none;}
+.pr_title_ws_n10 a:hover img {visibility: hidden;}
+
+/* SC PULLEY SYSTEM */
+.pr_title_pl {margin: 1px 5px 1px; background: url(img/title/pl_2.gif); width: 290px; height: 45px;}
+.pr_title_pl a {display: block;}
+.pr_title_pl img {border: none;}
+.pr_title_pl a:hover img {visibility: hidden;}
+
+/* SC DRY BATTERY */
+.pr_title_bd {margin: 1px 5px 1px; background: url(img/title/bd_2.gif); width: 265px; height: 45px;}
+.pr_title_bd a {display: block;}
+.pr_title_bd img {border: none;}
+.pr_title_bd a:hover img {visibility: hidden;}
+
+/* オイルフィラーキャップ */
+.pr_title_oc {margin: 1px 5px 1px; background: url(img/title/oc_2.gif); width: 339px; height: 45px;}
+.pr_title_oc a {display: block;}
+.pr_title_oc img {border: none;}
+.pr_title_oc a:hover img {visibility: hidden;}
+
+/* マグネットドレンボルト */
+.pr_title_dv {margin: 1px 5px 1px; background: url(img/title/dv_2.gif); width: 335px; height: 45px;}
+.pr_title_dv a {display: block;}
+.pr_title_dv img {border: none;}
+.pr_title_dv a:hover img {visibility: hidden;}
+
+/* エンジンクエークダンパー */
+.pr_title_ed {margin: 1px 5px 1px; background: url(img/title/ed_2.gif); width: 383px; height: 45px;}
+.pr_title_ed a {display: block;}
+.pr_title_ed img {border: none;}
+.pr_title_ed a:hover img {visibility: hidden;}
+
+/* シリコンホース */
+.pr_title_hs {margin: 1px 5px 1px; background: url(img/title/hs_2.gif); width: 271px; height: 45px;}
+.pr_title_hs a {display: block;}
+.pr_title_hs img {border: none;}
+.pr_title_hs a:hover img {visibility: hidden;}
+
+/* LOW DOWN大容量オイルパン */
+.pr_title_dp {margin: 1px 5px 1px; background: url(img/title/dp_2.gif); width: 431px; height: 45px;}
+.pr_title_dp a {display: block;}
+.pr_title_dp img {border: none;}
+.pr_title_dp a:hover img {visibility: hidden;}
+
+/* LSDオイルキャッチタンク */
+.pr_title_ot_a01 {margin: 1px 5px 1px; background: url(img/title/ot_a01_2.gif); width: 384px; height: 45px;}
+.pr_title_ot_a01 a {display: block;}
+.pr_title_ot_a01 img {border: none;}
+.pr_title_ot_a01 a:hover img {visibility: hidden;}
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	.pr_title_pc {display: none;}
+	.pr_title_sp {padding: 1px; width: 100%;}
+	.pr_title_sp img{width: 100%; height: auto;}
+	.pr_title_2 {color: #0FF;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	.pr_title_sp {display: none;}
+}

@@ -1,0 +1,7 @@
+AuthUserFile /var/www/vhosts/kts-web.com/alignment_heiwajima/kanri/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Protected Area"
+AuthType Basic
+<Limit GET POST>
+require valid-user
+</Limit>

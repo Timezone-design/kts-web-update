@@ -1,0 +1,68 @@
+/* タイトルバナー 製品情報 ボディ補強 */
+
+.pr_title_1 {padding: 3px; font-weight: bold;}
+.pr_title_2 {padding: 5px 10px 1px; font-size: small; font-weight: bold;}
+.pr_title_hr {height: 1px; width: 100%; color: #FFF; margin: 1px 1px 5px;}
+
+/* スーパータワーバー */
+.pr_title_tb_sp {margin: 1px 5px 1px; background: url(img/title/tb_sp_2.gif); width: 307px; height: 45px;}
+.pr_title_tb_sp a {display: block;}
+.pr_title_tb_sp img {border: none;}
+.pr_title_tb_sp a:hover img {visibility: hidden;}
+
+/* L.S TOWER BAR */
+.pr_title_y_tb {margin: 1px 5px 1px; background: url(img/title/y_tb_2.gif); width: 247px; height: 45px;}
+.pr_title_y_tb a {display: block;}
+.pr_title_y_tb img {border: none;}
+.pr_title_y_tb a:hover img {visibility: hidden;}
+
+/* リアピラーバー */
+.pr_title_pb {margin: 1px 5px 1px; background: url(img/title/pb_2.gif); width: 248px; height: 45px;}
+.pr_title_pb a {display: block;}
+.pr_title_pb img {border: none;}
+.pr_title_pb a:hover img {visibility: hidden;}
+
+/* SCロアブレースバー */
+.pr_title_lb_101 {margin: 1px 5px 1px; background: url(img/title/lb_101_2.gif); width: 325px; height: 45px;}
+.pr_title_lb_101 a {display: block;}
+.pr_title_lb_101 img {border: none;}
+.pr_title_lb_101 a:hover img {visibility: hidden;}
+
+/* SUPER LOWER ARM BAR */
+.pr_title_rbs_402 {margin: 1px 5px 1px; background: url(img/title/rbs_402_2.gif); width: 346px; height: 45px;}
+.pr_title_rbs_402 a {display: block;}
+.pr_title_rbs_402 img {border: none;}
+.pr_title_rbs_402 a:hover img {visibility: hidden;}
+
+/* リアサスペンションメンバーブレース */
+.pr_title_lb_003r {margin: 1px 5px 1px; background: url(img/title/lb_003r_2.gif); width: 502px; height: 45px;}
+.pr_title_lb_003r a {display: block;}
+.pr_title_lb_003r img {border: none;}
+.pr_title_lb_003r a:hover img {visibility: hidden;}
+
+/* SUPER STABI BRACE BAR */
+.pr_title_rbs_402sf {margin: 1px 5px 1px; background: url(img/title/rbs_402sf_2.gif); width: 358px; height: 45px;}
+.pr_title_rbs_402sf a {display: block;}
+.pr_title_rbs_402sf img {border: none;}
+.pr_title_rbs_402sf a:hover img {visibility: hidden;}
+
+/* ロールバーパット */
+.pr_title_rg_zp12b {margin: 1px 5px 1px; background: url(img/title/rg_zp12b_2.gif); width: 274px; height: 45px;}
+.pr_title_rg_zp12b a {display: block;}
+.pr_title_rg_zp12b img {border: none;}
+.pr_title_rg_zp12b a:hover img {visibility: hidden;}
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	.pr_title_pc {display: none;}
+	.pr_title_sp {padding: 1px; width: 100%;}
+	.pr_title_sp img{width: 100%; height: auto;}
+	.pr_title_2 {color: #0FF;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	.pr_title_sp {display: none;}
+}

@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* コンテンツ背景 */
+*.houjin_back {background-color: #000;}
+
+
+/* 見出し用フォント */
+*.houjin_title {font-weight: bold; padding: 3px;}
+
+/* 見出し部罫線 */
+*.hr_houjin {color: #FFF;}
+
+/* Campバナー */
+*.houjin_top_b {margin: 2px auto; text-align: center;}
+
+/* テーブル */
+
+
+/* SP用CSS */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	*.houjin_tel_pc {display: none;}
+	*.hr_houjin {margin: 10px auto;}
+	*.houjin_text {width: 98%; margin: 5px auto; font-size: small; font-weight: bold;}
+	*.houjin_tel_sp {width: 98%; margin: 5px auto; font-size: x-large; font-weight: bold; text-align: center;}
+	*.houjin_fax {width: 98%; margin: 5px auto; font-size: x-large; font-weight: bold; text-align: center;}
+	*.houjin_text_cell_l, *.houjin_text_cell_r {width: 98%; margin: 3px auto; font-size: small; text-align: center;}
+	*.houjin_title {width: 98%; margin: 3px auto;}
+	*.houjin_hp_link {width: 98%; margin: 3px auto;}
+	*.houjin_hp_link img {width: 100%; height: auto;}
+	*.houjin_cell_pdf {width: 169px; margin: 3px auto;}
+	*.houjin_cell_text {widt: 98%; margin: 3px auto; top; font-size: small; padding-bottom: 10px;}
+	*.houjin_cell_text a {color: #FFF;}
+	/* campバナー用 */
+	*.houjin_top_b img {width: 100%; height: auto;}
+}
+
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	*.houjin_tel_sp {display: none;}
+	/* コンテンツ背景 */
+	*.houjin_back {width: 750px; margin: 5px auto;}
+	/* 見出し部罫線 */
+	*.hr_houjin {width: 740px; margin: 0 auto 5px;}
+	*.houjin_title {width: 730px; margin: 3px auto;}
+	*.houjin_text {width: 730px; margin: 5px auto; font-size: small; font-weight: bold;}
+	*.houjin_text_cell_l {display: table-cell; width: 50%; font-size: small; text-align: right; padding-right: 5px;}
+	*.houjin_text_cell_r {display: table-cell; width: 50%; font-size: small; padding-left: 5px;}
+	*.houjin_table {display: table; width: 730px; margin: 3px auto;}
+	*.houjin_tel_pc {display: table-cell; width: 50%; font-size: xx-large; font-weight: bold; text-align: right; padding-right: 15px;}
+	*.houjin_fax {display: table-cell; width: 50%; font-size: xx-large; font-weight: bold; padding-left: 15px;}
+	*.houjin_hp_link {width: 480px; margin-left: 15px; background-color: #FFF;}
+	*.houjin_hp_link a:hover img {opacity: 0.7;}
+	*.houjin_table_pdf {display: table; width: 700px; margin: 3px auto; padding-bottom: 10px;}
+	*.houjin_cell_pdf {display: table-cell; width: 169px; vertical-align: top; background-color: #FFF;}
+	*.houjin_cell_pdf a:hover img {opacity: 0.7;}
+	*.houjin_cell_text {display: table-cell; padding-left: 10px; vertical-align: top; font-size: small;}
+	*.houjin_cell_text a {color: #FFF;}
+	/* campバナー用 */
+	*.houjin_top_b {widht: 730px;}
+}

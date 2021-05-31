@@ -1,0 +1,332 @@
+/* PC用左メニュー */
+
+/* SHOP MENU */
+	*.pc_shop_menu {
+		background: url(img/menu_icon/shop_menu_2.gif);
+		width: 180px;
+		height: 28px;
+	}
+	*.pc_shop_menu a {
+		display: block;
+	}
+	*.pc_shop_menu img {
+		border: none;
+	}
+	*.pc_shop_menu a:hover img {
+		visibility: hidden;
+	}
+
+/* WEB SHOP */
+	*.pc_web_shop {
+		background: url(img/menu_icon/tsuhan_2.gif);
+		width: 180px;
+		height: 28px;
+	}
+	*.pc_web_shop a {
+		display: block;
+	}
+	*.pc_web_shop img {
+		border: none;
+	}
+	*.pc_web_shop a:hover img {
+		visibility: hidden;
+	}
+
+/* 基本メニュー用テーブル（背景ホワイト） */
+	*.menu_table {
+		width: 180px;
+		background-color: #FFF;
+		border-spacing: 0;
+		text-align: center;
+	}
+	*.menu_table td {
+		padding: 1;
+	}
+
+/* 基本メニュー 製品情報 */
+	*.pc_product {
+		background: url(img/menu_icon/ma_product_2.gif);
+		width: 87px;
+		height: 21px;
+	}
+	*.pc_product a {
+		display: block;
+	}
+	*.pc_product img {
+		border: none;
+	}
+	*.pc_product a:hover img {
+		visibility: hidden;
+	}
+
+/* 基本メニュー 会社概要 */
+	*.pc_company {
+		background: url(img/menu_icon/ma_company_2.gif);
+		width: 87px;
+		height: 21px;
+	}
+	*.pc_company a {
+		display: block;
+	}
+	*.pc_company img {
+		border: none;
+	}
+	*.pc_company a:hover img {
+		visibility: hidden;
+	}
+
+/* 基本メニュー お問合せ */
+	*.pc_faq {
+		background: url(img/menu_icon/ma_faq_2.gif);
+		width: 87px;
+		height: 21px;
+	}
+	*.pc_faq a {
+		display: block;
+	}
+	*.pc_faq img {
+		border: none;
+	}
+	*.pc_faq a:hover img {
+		visibility: hidden;
+	}
+
+/* 基本メニュー リンク */
+	*.pc_link {
+		background: url(img/menu_icon/ma_link_2.gif);
+		width: 87px;
+		height: 21px;
+	}
+	*.pc_link a {
+		display: block;
+	}
+	*.pc_link img {
+		border: none;
+	}
+	*.pc_link a:hover img {
+		visibility: hidden;
+	}
+
+/* 基本メニュー イベント */
+	*.pc_event {
+		background: url(img/menu_icon/ma_event_2.gif);
+		width: 87px;
+		height: 21px;
+	}
+	*.pc_event a {
+		display: block;
+	}
+	*.pc_event img {
+		border: none;
+	}
+	*.pc_event a:hover img {
+		visibility: hidden;
+	}
+
+/* 基本メニュー キャンペーン */
+	*.pc_camp {
+		background: url(img/menu_icon/ma_camp_2.gif);
+		width: 87px;
+		height: 21px;
+	}
+	*.pc_camp a {
+		display: block;
+	}
+	*.pc_camp img {
+		border: none;
+	}
+	*.pc_camp a:hover img {
+		visibility: hidden;
+	}
+
+/* 基本メニュー 求人情報 */
+	*.pc_recruit {
+		background: url(img/menu_icon/ma_recruit_2.gif);
+		width: 87px;
+		height: 21px;
+	}
+	*.pc_recruit a {
+		display: block;
+	}
+	*.pc_recruit img {
+		border: none;
+	}
+	*.pc_recruit a:hover img {
+		visibility: hidden;
+	}
+
+/* 基本メニュー 求人情報 */
+	*.pc_car {
+		background: url(img/menu_icon/ma_car_2.gif);
+		width: 87px;
+		height: 21px;
+	}
+	*.pc_car a {
+		display: block;
+	}
+	*.pc_car img {
+		border: none;
+	}
+	*.pc_car a:hover img {
+		visibility: hidden;
+	}
+
+/* 定休日のご案内 */
+	*.pc_holiday {
+		background: url(img/menu_icon/holiday_2.gif);
+		width: 180px;
+		height: 28px;
+	}
+	*.pc_holiday a {
+		display: block;
+	}
+	*.pc_holiday img {
+		border: none;
+	}
+	*.pc_holiday a:hover img {
+		visibility: hidden;
+	}
+
+/* 開発車両募集 */
+	*.pc_develop {
+		background: url(img/menu_icon/develop_2.gif);
+		width: 180px;
+		height: 35px;
+	}
+	*.pc_develop a {
+		display: block;
+	}
+	*.pc_develop img {
+		border: none;
+	}
+	*.pc_develop a:hover img {
+		visibility: hidden;
+	}
+
+/* KTSメールマガジン登録・解除フォーム */
+	*.pc_mail {
+		background: url(img/menu_icon/mail_magazine_2.gif);
+		width: 180px;
+		height: 76px;
+	}
+	*.pc_mail a {
+		display: block;
+	}
+	*.pc_mail img {
+		border: none;
+	}
+	*.pc_mail a:hover img {
+		visibility: hidden;
+	}
+
+/* KTS法人営業部 */
+	*.pc_houjin {
+		background: url(img/menu_icon/houjin_2.gif);
+		width: 180px;
+		height: 50px;
+	}
+	*.pc_houjin a {
+		display: block;
+	}
+	*.pc_houjin img {
+		border: none;
+	}
+	*.pc_houjin a:hover img {
+		visibility: hidden;
+	}
+
+/* 古物営業法の規定に基づく表示 */
+	*.pc_used {
+		background: url(img/menu_icon/used_sale_2.gif);
+		width: 180px;
+		height: 20px;
+	}
+	*.pc_used a {
+		display: block;
+	}
+	*.pc_used img {
+		border: none;
+	}
+	*.pc_used a:hover img {
+		visibility: hidden;
+	}
+
+/* 今月のキャンペーン */
+	*.pc_month {
+		background: url(img/menu_icon/camp_menu_b_2.gif);
+		width: 180px;
+		height: auto;
+	}
+	*.pc_month a {
+		display: block;
+	}
+	*.pc_month img {
+		border: none;
+	}
+	*.pc_month a:hover img {
+		visibility: hidden;
+	}
+
+/* 英語サイト */
+	*.pc_en {
+		background: url(img/menu_icon/english_2.gif);
+		width: 180px;
+		height: 30px;
+	}
+	*.pc_en a {
+		display: block;
+	}
+	*.pc_en img {
+		border: none;
+	}
+	*.pc_en a:hover img {
+		visibility: hidden;
+	}
+
+/* ロシア語サイト */
+	*.pc_ru {
+		background: url(img/menu_icon/lang_ru_2.gif);
+		width: 180px;
+		height: 30px;
+	}
+	*.pc_ru a {
+		display: block;
+	}
+	*.pc_ru img {
+		border: none;
+	}
+	*.pc_ru a:hover img {
+		visibility: hidden;
+	}
+
+/* 中国語サイト */
+	*.pc_cn {
+		background: url(img/menu_icon/lang_cn_2.gif);
+		width: 180px;
+		height: 30px;
+	}
+	*.pc_cn a {
+		display: block;
+	}
+	*.pc_cn img {
+		border: none;
+	}
+	*.pc_cn a:hover img {
+		visibility: hidden;
+	}
+
+/* 弊社を装った偽サイトについて */
+	*.pc_20131030 {
+		background: url(20131030/top_menu_b_2.gif);
+		width: 180px;
+		height: 26px;
+	}
+	*.pc_20131030 a {
+		display: block;
+	}
+	*.pc_20131030 img {
+		border: none;
+	}
+	*.pc_20131030 a:hover img {
+		visibility: hidden;
+	}

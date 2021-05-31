@@ -1,0 +1,92 @@
+/* タイトルバナー 製品情報 サスペンション */
+
+.pr_title_1 {padding: 3px; font-weight: bold;}
+.pr_title_2 {padding: 5px 10px 1px; font-size: small; font-weight: bold;}
+.pr_title_hr {height: 1px; width: 100%; color: #FFF; margin: 1px 1px 5px;}
+
+/* SC DAMPER SYSTEM β */
+.pr_title_db {margin: 1px 5px 1px; background: url(img/title/db_2.gif); width: 334px; height: 45px;}
+.pr_title_db a {display: block;}
+.pr_title_db img {border: none;}
+.pr_title_db a:hover img {visibility: hidden;}
+
+/* SC DAMPER SYSTEM γ */
+.pr_title_de_r35 {margin: 1px 5px 1px; background: url(img/title/de_r35_2.gif); width: 337px; height: 45px;}
+.pr_title_de_r35 a {display: block;}
+.pr_title_de_r35 img {border: none;}
+.pr_title_de_r35 a:hover img {visibility: hidden;}
+
+/* L.S DAMPER SYSTEM */
+.pr_title_y_da {margin: 1px 5px 1px; background: url(img/title/y_da_2.gif); width: 306px; height: 45px;}
+.pr_title_y_da a {display: block;}
+.pr_title_y_da img {border: none;}
+.pr_title_y_da a:hover img {visibility: hidden;}
+
+/* 直巻スプリング */
+.pr_title_db_zss {margin: 1px 5px 1px; background: url(img/title/db_zss_2.gif); width: 423px; height: 45px;}
+.pr_title_db_zss a {display: block;}
+.pr_title_db_zss img {border: none;}
+.pr_title_db_zss a:hover img {visibility: hidden;}
+
+/* リアメンバーリジッドスペーサー */
+.pr_title_sm_005 {margin: 1px 5px 1px; background: url(img/title/sm_005_2.gif); width: 443px; height: 45px;}
+.pr_title_sm_005 a {display: block;}
+.pr_title_sm_005 img {border: none;}
+.pr_title_sm_005 a:hover img {visibility: hidden;}
+
+/* リアメンバートラクションスペーサー */
+.pr_title_sm_004 {margin: 1px 5px 1px; background: url(img/title/sm_004_2.gif); width: 492px; height: 45px;}
+.pr_title_sm_004 a {display: block;}
+.pr_title_sm_004 img {border: none;}
+.pr_title_sm_004 a:hover img {visibility: hidden;}
+
+/* アルミリアメンバーブッシュ */
+.pr_title_sm_006 {margin: 1px 5px 1px; background: url(img/title/sm_006_2.gif); width: 396px; height: 45px;}
+.pr_title_sm_006 a {display: block;}
+.pr_title_sm_006 img {border: none;}
+.pr_title_sm_006 a:hover img {visibility: hidden;}
+
+/* 高剛性中空スタビライザー */
+.pr_title_sta {margin: 1px 5px 1px; background: url(img/title/sta_2.gif); width: 398px; height: 45px;}
+.pr_title_sta a {display: block;}
+.pr_title_sta img {border: none;}
+.pr_title_sta a:hover img {visibility: hidden;}
+
+/* 調整式スタビライザーリンク */
+.pr_title_stabi_link {margin: 1px 5px 1px; background: url(img/title/stabi_link_2.gif); width: 410px; height: 45px;}
+.pr_title_stabi_link a {display: block;}
+.pr_title_stabi_link img {border: none;}
+.pr_title_stabi_link a:hover img {visibility: hidden;}
+
+/* ロールセンターアダプター */
+.pr_title_rc_100f {margin: 1px 5px 1px; background: url(img/title/rc_100f_2.gif); width: 379px; height: 45px;}
+.pr_title_rc_100f a {display: block;}
+.pr_title_rc_100f img {border: none;}
+.pr_title_rc_100f a:hover img {visibility: hidden;}
+
+/* ハイキャスキャンセルロッド */
+.pr_title_hk {margin: 1px 5px 1px; background: url(img/title/hk_2.gif); width: 394px; height: 45px;}
+.pr_title_hk a {display: block;}
+.pr_title_hk img {border: none;}
+.pr_title_hk a:hover img {visibility: hidden;}
+
+/* オートレベライザーリンクキット */
+.pr_title_auto_levelizer {margin: 1px 5px 1px; background: url(img/title/auto_levelizer_2.gif); width: 435px; height: 45px;}
+.pr_title_auto_levelizer a {display: block;}
+.pr_title_auto_levelizer img {border: none;}
+.pr_title_auto_levelizer a:hover img {visibility: hidden;}
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	.pr_title_pc {display: none;}
+	.pr_title_sp {padding: 1px; width: 100%;}
+	.pr_title_sp img{width: 100%; height: auto;}
+	.pr_title_2 {color: #0FF;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	.pr_title_sp {display: none;}
+}

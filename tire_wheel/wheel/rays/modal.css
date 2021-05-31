@@ -1,0 +1,28 @@
+@charset "utf-8";
+.mod_table {display:table;}/**/
+.mod_cell {display: table-cell; width: 62px;}/**/
+
+.mod a{display: block;}
+
+.mod a:link{}
+.mod a:visited{}
+.mod a:hover{opacity: 0.8;}
+.mod a:active{opacity: 0.8;}
+
+/* IE用 */
+.mod a:hover img{filter: alpha(opacity=80);}
+.mod_photo {}
+.mod_photo_entry {
+/*	position: absolute;*/
+/*	width: 700px;*/
+	margin: 2px 0 0 0;
+}
+.mod_photo_entry img{width: 100%;}
+
+.mod_th_font_small_c {
+	font-size: small;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 1px;
+	color: #0FF;
+}

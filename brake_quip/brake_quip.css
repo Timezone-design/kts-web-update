@@ -1,0 +1,288 @@
+@charset "utf-8";
+
+/* 共通 */
+.bq_text_title {
+	color: #0FF;
+	font-weight: bold;
+}
+.bq_info_text {
+	font-size: small;
+}
+.bq_info_text_b {
+	font-size: small;
+	font-weight: bold;
+}
+.bq_c {
+	margin-top: 3px;
+	margin-bottom: 3px;
+	text-align: center
+}
+.lineup_close {
+	margin: 15px auto 15px;
+	text-align: center;
+	font-weight: bold;
+}
+.lineup_close a {
+	color: #FFF;
+}
+
+/* WEB SHOPリンク */
+a.link_set {color: #000;}
+a.link_set:hover {color: #00F;}
+
+/* SP表示 */
+@media screen and (max-width: 479px) {
+	*.set_maker_table {display: none;}
+	.bq_back_000 {
+		padding-top: 3px;
+		padding-bottom: 3px;
+		margin: 0 auto;
+		background-color: #000;
+	}
+	.bq_text_title {padding: 1px;}
+	.bq_info_text {padding: 1px;}
+	.bq_info_text_b {padding: 1px;}
+	.bq_td_hose_text {
+		font-size: small;
+		padding: 1px;
+	}
+	.bq_hidden_text {
+		font-size: small;
+		text-align: center;
+		margin-bottom: 3px;
+	}
+	.sp_font_small {
+		font-size: small;
+		padding: 1px;	
+	}
+	.bq_app_table {
+		width: 100%;
+		font-size: x-small;
+		color: #000;
+		background-color: #FFF;
+		text-align: center;
+		border-collapse: collapse;
+		margin-bottom: 3px;
+	}
+	.bq_app_table td {
+		border: solid 1px #333;
+		padding: 1px;
+	}
+	.bq_app_table_title {
+		font-weight: bold;
+		background-color: #FF0;
+	}
+	.bq_img_100 {
+		width: 100%;
+		height: auto;
+	}
+	.bq_img_95 {
+		width: 95%;
+		height: auto;
+	}
+	.bq_lineup {
+		width: 100%;
+		margin: 3px auto;
+	}
+	.bq_lineup_title {
+		color: #0FF;
+		font-weight: bold;
+		margin-top: 2px;
+		margin-bottom: 2px;
+	}
+	.bq_lineup_table {
+		width: 100%;
+		font-size: x-small;
+		color: #000;
+		background-color: #FFF;
+		text-align: center;
+		border-collapse: collapse;
+		margin-bottom: 3px;
+	}
+	.bq_lineup_table td {
+		border: solid 1px #333;
+		padding: 1px;
+	}
+	.bq_lineup_table_title {
+		font-weight: bold;
+		background-color: #FF0;
+	}
+	.bq_lineup_maker_sp {
+		width: 100%;
+		text-align: center;
+		margin: 2px auto 2px;
+	}
+	.bq_lineup_maker {display: none;}
+	.bq_td_hose_3layer {margin: 3px; text-align: center;}
+	.bq_sp_photo_center {margin: 3px; text-align: center;}
+	.bq_td_photo_340 {margin: 3px; text-align: center;}
+	.bq_td_om_photo {margin: 3px; text-align: center;}
+	.bq_td_50 {margin-top: 5px; margin-bottom: 3px;}
+	.bq_td_p1 {margin-left: 15px;}
+	/* 設定車種メーカー */
+	*.set_maker_table_sp {display: table; width: 99%; margin: 2px auto;}
+	*.set_maker_cell_sp {display: table-cell; width: 20%; text-align: center;}
+	*.set_maker_cell_sp img{width: 100%;}
+	*.set_form_button_sp {width: 98%; height: auto;}
+}
+
+/* PC表示 */
+@media screen and (min-width: 480px) {
+	*.set_maker_table_sp {display: none;}
+	.bq_title {
+		width: 750px;
+		margin: 0 auto;
+		text-align: center;
+		background-color: #000;
+	}
+	.bq_back_000 {
+		width: 750px;
+		padding: 5px auto;
+		margin: 5px auto;
+		background-color: #000;
+	}
+	.bq_text_title {
+		width: 730px;
+		margin: 5px auto 2px;
+		padding-top: 3px;
+	}
+	.bq_info_text {
+		width: 730px;
+		margin: 0 auto;
+		padding: 1px 0px 5px 15px;
+	}
+	.bq_info_text_b {
+		width: 730px;
+		margin: 0 auto;
+		padding: 1px 0px 5px 1px;
+	}
+	.bq_table {
+		display: table;
+		width: 730px;
+		margin: 0 auto;
+	}
+	.bq_td {
+		display: table;
+		vertical-align: top;
+		font-size: small;
+	}
+	.bq_td_p1 {
+		display: table;
+		vertical-align: top;
+		font-size: small;
+	}
+	.bq_td_50 {
+		display: table-cell;
+		width: 50%;
+		font-size: small;
+		vertical-align: top;
+	}
+	.bq_td_50 img {
+		width: 250px;
+		height: auto;
+	}
+	.bq_td_180_c {
+		display: table-cell;
+		width: 180px;
+		text-align: center;
+		font-size: small;
+		vertical-align: top;
+	}
+	.bq_td_180_c img {
+		width: 170px;
+		height: auto;
+	}
+	.bq_td_photo_340 {
+		margin-top: 5px;
+		text-align: center;
+	}
+	.bq_td_photo_340 img {
+		width: 340px;
+		height: auto;
+	}
+	.bq_td_om {
+		display: table;
+		width: 100%;
+		margin-top: 3px;
+		margin-bottom: 3px;
+	}
+	.bq_td_hose_3layer {
+		display: table-cell;
+		width: 255px;
+		text-align: right;
+		vertical-align: top;
+	}
+	.bq_td_hose_3layer img {
+		width: 250px;
+		height: auto;
+	}
+	.bq_td_hose_text {
+		margin-left: 5px;
+		margin-bottom: 5px;
+	}
+	.bq_td_om_photo {
+		display: table-cell;
+		width: 205px;
+		text-align: right;
+		vertical-align: top;
+	}
+	.bq_td_om_photo img {
+		width: 200px;
+		height: auto;
+	}
+	.bq_app_table {
+		width: 100%;
+		font-size: small;
+		color: #000;
+		background-color: #FFF;
+		text-align: center;
+		border-collapse: collapse;
+		margin-bottom: 5px;
+	}
+	.bq_app_table td {
+		border: solid 1px #333;
+		padding: 1px;
+	}
+	.bq_app_table_title {
+		font-weight: bold;
+		background-color: #FF0;
+	}
+	.bq_lineup {
+		width: 750px;
+		margin: 5px auto;
+	}
+	.bq_lineup_title {
+		color: #0FF;
+		font-size: large;
+		font-weight: bold;
+		margin-top: 2px;
+		margin-bottom: 2px;
+	}
+	.bq_lineup_table {
+		width: 100%;
+		font-size: small;
+		color: #000;
+		background-color: #FFF;
+		text-align: center;
+		border-collapse: collapse;
+		margin-bottom: 5px;
+	}
+	.bq_lineup_table td {
+		border: solid 1px #333;
+		padding: 1px;
+	}
+	.bq_lineup_table_title {
+		font-weight: bold;
+		background-color: #FF0;
+	}
+	.bq_lineup_maker {
+		width: 660px;
+		text-align: center;
+		margin: 2px auto 2px;
+	}
+	.bq_lineup_maker_sp {display: none;}
+	/* 設定車種メーカー */
+	*.set_maker_table {display: table; width: 730px; margin: 2px auto 2px;}
+	*.set_maker_cell {display: table-cell; widht: 12%; text-align: center;}
+	*.set_maker_link_text {width: 730px; margin: 2px auto 2px;}
+}
