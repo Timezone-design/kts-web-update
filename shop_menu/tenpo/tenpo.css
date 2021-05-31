@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* オンライン決済用 */
+*.mail_text_n {margin: 10px auto; font-size: small; color: #FFF; padding: 3px;}
+*.mail_img {margin: 10px auto; text-align: center;}
+
+/* 文頭中点ありコメント用 */
+*.mail_text_f00 {display: table; font-size: small; padding: 3px; font-size: small;}
+*.mail_text_cell_1 {display: table-cell; width: 15px; text-align: right; vertical-align: top; color: #F00;}
+*.mail_text_cell_2 {display: table-cell; vertical-align: top; color: #FFF;}
+
+/* PayPayリンク部分 */
+*.paypay_link {display: table-cell; vertical-align: top; color: #FFF;}
+*.paypay_link a {color: #FFF;}
+*.paypay_link a:hover {color: #00F;}
+
+/* table */
+*.tenpo_table_cell1 {font-size: small; text-align: right; vertical-align: top; font-weight: bold; padding: 2px;}
+*.tenpo_table_cell2 {font-size: small; vertical-align: top; padding: 2px;}
+
+/* 段落風 */
+*.tenpo_text_1st {margin-top: 3px; margin-left: 5px; margin-bottom: 2px; font-size: small; font-weight: bold;}
+*.tenpo_text_2nd {margin-top: 1px; margin-left: 10px; margin-bottom: 2px; font-size: small;}
+
+/* 店舗STAFF紹介 */
+*.tenpo_staff_table {display: table; margin: 3px auto; width: 98%;}
+*.tenpo_staff_cell_p {display: table-cell; vertical-align: top; text-align: center;}
+*.tenpo_staff_cell_t {display: table-cell; vertical-align: top; font-size: small;}
+*.tenpo_staff_cell_t1 {margin-left: 5px; font-weight: bold;}
+*.tenpo_staff_cell_t2 {margin-top: 3px; margin-left: 10px; margin-bottom: 7px;}
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	*.tenpo_title_sub_font_pc, *.tenpo_mail_online_730, *.tenpo_pc_none, *.img_pc, *.tenpo_staff_hr {display: none;}
+	*.tenpo_title {padding: 7px 2px 0; font-weight: bold;}
+	*.tenpo_title_sub_font_sp {font-size: small; width: 90%; margin: 2px auto 0;}
+	*.tenpo_hr {color: #FFF; background-color: #FFF; height: 1px; margin: 2px auto 2px;}
+	*.tenpo_hr_sp {color: #FFF; background-color: #FFF; height: 1px; margin: 2px auto 2px;}
+	*.tenpo_top_cell_photo {text-align: center;}
+	*.tenpo_top_cell_photo img{width: 80%; height: auto;}
+	*.tenpo_top_cell_text {font-size: small; padding: 3px;}
+	*.tenpo_top_text_table {padding: 2px;}
+	*.tenpo_top_text_table_tf {padding: 2px;}
+	*.tenpo_cell_pd_1 {padding-bottom: 1px;}
+	*.tenpo_title_text {font-size: small; padding: 2px 3px;}
+	*.tenpo_top_cell_text_tf {display: table-cell; font-size: small;}
+	*.tenpo_top_text_cell_tf {text-align:right; display: table-cell; padding: 2px 3px 2px 2px;}
+	*.tenpo_shop_photo img{width: 100%; height: auto;}
+	*.tenpo_mail_online_480 {width: 100%; margin: 3px auto 3px;}
+	*.tenpo_mail_online_480 img{width: 100%; height: auto;}
+	*.tenpo_access_title_sp {margin-top: 10px; margin-left: 2px; margin-bottom: 3px; font-weight: bold}
+	*.tenpo_logo img{width: 100%; height: auto;}
+	*.tenpo_paypay, *.tenpo_map_p {width: 100%; height: auto;}
+	*.tenpo_pit img{width: 100%; height: auto;}
+	*.img_sp {margin: 3px auto;}
+	/* 店舗STAFF紹介 */
+	*.tenpo_staff_hr_sp {color: #333; background-color: #333; height: 1px; margin: 2px auto 2px;}
+	*.tenpo_staff_cell_p {width: 30%;}
+	*.staff_img {width: 100%; height: auto;}
+	*.tenpo_card {width: auto; height: 40px;}
+	/* 代車利用規約 */
+	*.daisya_back {width: 98%; margin: 5px auto; padding: 3px; background-color: #FFF; color: #000;}
+	*.daisya_title {font-size: large; font-weight: bold; text-align: center; margin: 3px auto 5px;}
+	*.daisya_text_title {width: 96%; margin: 10px auto 3px; font-size: small; font-weight: bold;}
+	*.daisya_text {width: 95%; margin: 2px auto; font-size: small;}
+	*.daisya_table_cell {width: 95%; margin: 5px auto;}
+	*.daisya_list_table {margin: 3px auto; width: 100%; color: #000; font-size: small; text-align: center; background-color: #FFF; border-collapse: collapse;}
+	*.daisya_list_table td {border: solid 1px #333; padding: 2px;}
+	*.daisya_list_table_title {font-weight: bold; background-color: #FF0;}
+	*.daisya_list_text {margin-top: 2px; margin-left: 3px; font-size: small;}
+	*.daisya_text_right {width: 95%; margin: 5px auto; font-size: small; font-weight: bold;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	*.tenpo_title_sub_font_sp, *.tenpo_mail_online_480, *.tenpo_sp_none, *.tenpo_access_title_sp, *.tenpo_hr_sp, *.img_sp, *.tenpo_staff_hr_sp {display: none;}
+	*.tenpo_title {width: 730px; margin: 0 auto 0; padding-top: 15px; font-weight: bold;}
+	*.tenpo_title_sub_font_pc {font-size: small; font-weight: normal;}
+	*.tenpo_hr {width: 730px; color: #FFF; background-color: #FFF; height: 1px; margin: 2px auto 2px;}
+	*.tenpo_staff_hr {width: 720px; color: #333; background-color: #333; height: 1px; margin: 2px auto 2px;}
+	*.tenpo_top_table {width: 700px; margin: 0 auto 0; display: table;}
+	*.tenpo_top_cell_photo {width: 210px; vertical-align: top; display: table-cell;}
+	*.tenpo_top_cell_photo img{width: 200px; height: 150px;}
+	*.tenpo_top_cell_text {display: table-cell; font-size: small;}
+	*.tenpo_top_cell_text_tf {display: table-cell; font-size: small;}
+	*.tenpo_top_text_table {display: talbe; padding: 3px;}
+	*.tenpo_top_text_cell {width: 80px; text-align:right; display: table-cell; padding-right: 3px;}
+	*.tenpo_top_text_cell_tf {width: 80px; text-align:right; display: table-cell; padding-right: 3px;}
+	*.tenpo_cell_pd_1 {padding-bottom: 1px;}
+	*.tenpo_title_text {width: 700px; font-size: small; padding: 2px; margin: 0 auto 0;}
+	*.tenpo_mail_online_730 {margin: 3px auto 3px; text-align: center;}
+	/* 店舗個別ページ */
+	*.tenpo_shop_table {display: table; width: 730px; margin: 5px auto 5px; padding-top: 2px;}
+	*.tenpo_shop_cell {display: table-cell; width: 50%; vertical-align: top;}
+	*.tenpo_logo {margin-bottom: 2px;}
+	*.tenpo_shop_photo img{width: 350px; height: auto;}
+	*.tenpo_paypay {width: 480px; height: auto;}
+	*.tenpo_pit {width: 720px;}
+	/* 店舗STAFF紹介 */
+	*.tenpo_staff_tt {display: table; width: 720px; margin: 3px auto;}
+	*.tenpo_staff_cc {display: table-cell; width: 50%; vertical-align: top;}
+	*.tenpo_staff_cell_p {width: 150px;}
+	*.staff_img {width: 150px; height: auto;}
+	/* 代車利用規約 */
+	*.daisya_back {width: 700px; margin: 5px auto; padding: 5px; background-color: #FFF; color: #000;}
+	*.daisya_title {font-size: x-large; font-weight: bold; text-align: center; margin: 3px auto 5px;}
+	*.daisya_text_title {width: 680px; margin: 10px auto 3px; font-size: small; font-weight: bold;}
+	*.daisya_text {width: 670px; margin: 2px auto; font-size: small;}
+	*.daisya_table {display: table; width: 670px; margin: 3px auto;}
+	*.daisya_table_cell {display: table-cell; width: 50%;}
+	*.daisya_list_table {width: 98%; color: #000; font-size: small; text-align: center; background-color: #FFF; border-collapse: collapse;}
+	*.daisya_list_table td {border: solid 1px #333; padding: 2px;}
+	*.daisya_list_table_title {font-weight: bold; background-color: #FF0;}
+	*.daisya_list_text {margin-top: 2px; margin-left: 3px; font-size: small;}
+	*.daisya_text_right {width: 670px; margin: 5px auto; font-size: small; font-weight: bold; text-align: right;}
+}

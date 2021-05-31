@@ -1,0 +1,152 @@
+@charset "utf-8";
+
+/* コンテンツ内タイトル */
+*.al_text_title {font-weight: bold;}
+*.al_text {font-size: small;}
+
+/* コンテンツ内一覧用 */
+*.al_text_tb_fff {display: table; font-size: small; color: #FFF;}
+*.al_text_tb_ff0 {display: table; font-size: small; color: #FF0;}
+*.al_text_tb_ff0_720 {display: table; font-size: small; color: #FF0;}
+*.al_text_tb_f00 {display: table; font-size: small; color: #F00;}
+*.al_text_tb_f00_720_b_r {display: table; font-size: small; color: #F00; font-weight: bold;}
+*.al_text_tb_09f {display: table; font-size: small; color: #09F;}
+*.al_text_tb_0cf {display: table; font-size: small; color: #0CF;}
+*.al_text_tb_fc0 {display: table; font-size: small; color: #FC0;}
+*.al_text_tb_cell_1 {display: table-cell; width: 15p; text-align: right; vertical-align: top}
+*.al_text_tb_cell_2 {display: table-cell; vertical-align: top;}
+
+/* コンテンツ内テーブル */
+*.al_text_table {font-size: small;}
+*.al_text_cell_120 {display: table-cell; width: 120px; text-align: right; vertical-align: top;}
+*.al_text_cell_20 {display: table-cell; width: 20px; text-align: right; vertical-align: top;}
+*.al_text_cell_50p {display: table-cell; width: 50%; vertical-align: top;}
+*.al_text_cell_50p_r {display: table-cell; width: 50%; vertical-align: top;}
+
+/* alignment.html用テーブル（140px✕2） */
+*.al_140box {font-size: small;}
+*.al_140box_photo_tb {display: table; margin: 0 auto; width: 286px;}
+*.al_140box_photo_cell {display: table-cell; text-align: center;}
+
+/* TUV認証ロゴ */
+*.al_tuv_logo img {width: 180px; height: 50px;}
+
+/* 文頭※印有りテキスト用 */
+*.al_text_ff0 {display: table; font-size: small; padding: 1px; color: #FF0;}
+*.al_text_cell_1 {display: table-cell; width: 14px; text-align: right; vertical-align: top;}
+*.al_text_cell_2 {display: table-cell; vertical-align: top;}
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	/* SP非表示 */
+	*.al_title, *.al_menu, *.al_yoyaku_cell, *.al_link_text_r, *.al_link, *.al_price_pc {display: none;}
+	/* コンテンツ背景処理 */
+	*.al_back {margin: 0 auto; background-color: #000; padding-top: 2px;}
+	/* タイトル部分 */
+	*.al_title_sp {font-weight: bold; margin: 5px 0;}
+	/* ページ遷移メニュー */
+	*.al_menu_sp {display:table; width: 100%; font-size: small; text-align: center; border-collapse: collapse;}
+	*.al_menu_sp_tb {display: table; width: 100%;}
+	*.al_menu_sp_cell {display: table-cell; width: 50%; border: solid 1px #FFF; padding: 5px 2px; vertical-align: middle;}
+	*.al_menu_sp_cell_100p {display: table-cell; width: 100%; border: solid 1px #FFF; padding: 5px 2px; vertical-align: middle;}
+	/* 予約リンク部分 */
+	*.al_yoyaku {margin: 5px auto; border: solid 1px #FFF;}
+	*.al_yoyaku_cell_sp {text-align: center;}
+	*.al_yoyaku_cell_sp img {width: 200px; height: 28px;}
+	*.al_yoyaku_cell_f {display: table-cell; text-align: center;}
+	*.al_yoyaku_cell_i {display: table-cell; text-align: center;}
+	*.al_yoyaku_cell_h {display: table-cell; text-align: center;}
+	*.al_yoyaku_cell_f img, *.al_yoyaku_cell_i img, *.al_yoyaku_cell_h img {width: 100%; height: auto;}
+	/* コンテンツ内タイトル */
+	*.al_text_title {margin: 1px auto;}
+	*.al_text {margin: 2px auto;}
+	/* コンテンツ内2分割 280px */
+	/* *.al_text_table {display: table;} */
+	*.al_text_cell_photo280 {text-align: center;}
+	*.al_text_cell_photo280 img {width: 280px; height: 210px;}
+	*.al_text_cell_100p {margin-bottom: 2px;}
+	/* shim.html用テーブル（200px） */
+	*.al_200box_photo_cell {width: 200px; margin: 0 auto;}
+	/* TUV認証ロゴ */
+	*.al_tuv_logo {margin: 1px; text-align: center;}
+	*.al_tuv_text_sp {padding: 1px; text-align: center; font-size: x-large;}
+	/* 料金表 */
+	*.al_price_sp {padding: 1px;}
+	*.al_price_sp_text1 {color: #0F0; padding: 1px;}
+	*.al_price_sp_text2 {font-size: small; color: #FF0;}
+	*.al_price_sp_text3 {color: #F00; font-weight: bold; text-align:right;}
+	*.al_text_tb_0ff_sp {display: table; font-size: small; color: #0FF;}
+	/* 罫線 */
+	*.al_hr {height: 1px; width: 100%; color: #000; margin: 5px auto;}
+	/* リンク用アイコン */
+	*.al_link_sp {display: table; font-size: x-small; width: 100%;}
+	*.al_link_sp img {width: 50px; height: 50px;}
+	*.al_text_cell_50p_r {text-align: right;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* PC非表示 */
+	*.al_title_sp, *.al_menu_sp, *.al_yoyaku_cell_sp, *.al_link_sp, *.al_tuv_text_sp, *.al_price_sp, *.al_text_tb_0ff_sp {display: none;}
+	/* コンテンツ背景処理 */
+	*.al_back {width: 750px; margin: 0 auto; background-color: #000; padding-top: 5px;}
+	/* タイトル部分 */
+	*.al_title {width: 730px; margin: 0 auto; background-color: #00F; font-weight: bold;}
+	*.al_title_text {padding: 3px;}
+	/* ページ遷移メニュー */
+	*.al_menu {display: table; width: 730px; margin: 0 auto; border-collapse: collapse;}
+	*.al_menu_1 {display: table-cell; background: url(img/menu_index_2.gif); width: 146px; height: 20px;}
+	*.al_menu_2 {display: table-cell; background: url(img/menu_alignment_2.gif); width: 146px; height: 20px;}
+	*.al_menu_3 {display: table-cell; background: url(img/menu_shim_2.gif); width: 146px; height: 20px;}
+	*.al_menu_4 {display: table-cell; background: url(img/menu_cam_2.gif); width: 146px; height: 20px;}
+	*.al_menu_5 {display: table-cell; background: url(img/menu_price_2.gif); width: 146px; height: 20px;}
+	*.al_menu a {display: block;}
+	*.al_menu img {border: none;}
+	*.al_menu a:hover img {visibility: hidden;}
+	/* 予約リンク部分 */
+	*.al_yoyaku {display: table; width: 600px; margin: 10px auto; border: solid 1px #FFF;}
+	*.al_yoyaku_cell {display: table-cell;}
+	*.al_yoyaku_cell_f {display: table-cell; text-align: center; background: url(../../img/alignment_yoyaku_f_02.gif); width: 150px; height: 28px;}
+	*.al_yoyaku_cell_i {display: table-cell; text-align: center; background: url(../../img/alignment_yoyaku_i_02.gif); width: 150px; height: 28px;}
+	*.al_yoyaku_cell_h {display: table-cell; text-align: center; background: url(../../img/alignment_yoyaku_h_02.gif); width: 150px; height: 28px;}
+	*.al_yoyaku a {display: block;}
+	*.al_yoyaku img {border: none;}
+	*.al_yoyaku a:hover img {visibility: hidden;}
+	/* コンテンツ内タイトル */
+	*.al_text_title {width: 720px; margin: 3px auto;}
+	*.al_text {width: 710px; margin: 2px auto;}
+	/* コンテンツ内一覧用 */
+	*.al_text_tb_0cf {padding-top: 3px; padding-left: 50px;}
+	*.al_text_tb_fc0 {padding-top: 3px; padding-left: 50px;}
+	*.al_text_tb_ff0_720 {width: 720px; margin: 0 auto;}
+	*.al_text_tb_f00_720_b_r {width: 720px; margin: 0 auto; text-align: right;}
+	/* コンテンツ内2分割 280px */
+	*.al_text_table {display: table; width: 720px; margin: 0 auto;}
+	*.al_text_table_free {display: table;}
+	*.al_text_tb_fff {width: 720px; margin: 2px auto;}
+	*.al_text_cell_photo280 {display: table-cell; width: 283px; vertical-align: top;}
+	*.al_text_cell_100p {margin-bottom: 2px;}
+	/* alignment.html用テーブル（140px✕2） */
+	*.al_140box {display: table; width: 720px; margin: 0 auto;}
+	/* shim.html用テーブル（200px） */
+	*.al_200box_photo_cell {display: table-cell; width: 203px; vertical-align: top;}
+	/* TUV認証ロゴ */
+	*.al_tuv_logo {font-size: 45px;}
+	*.al_tuv_logo img {vertical-align: text-top;}
+	/* 料金表 */
+	*.al_price_pc {width: 700px; margin: 2px auto;}
+	/* 罫線 */
+	*.al_hr {height: 1px; width: 720px; color: #333; margin: 5px auto;}
+	/* リンク用アイコン */
+	*.al_link {display: table; width: 730px; margin: 10px auto; font-size: small;}
+	*.al_link_icon_l {display: table-cell; background: url(img/back_2.gif);}
+	*.al_link_icon_r {display: table-cell; background: url(img/next_2.gif);}
+	*.al_link_text_l {display: table-cell; vertical-align: middle;}
+	*.al_link_text_r {display: table-cell; text-align:right; width: 315px; vertical-align: middle;}
+	*.al_link a {display: block;}
+	*.al_link img {border: none;}
+	*.al_link a:hover img {visibility: hidden;}
+	*.al_link_icon_l {width: 50px; height: 50px;}
+	*.al_link_icon_r {width: 50px; height: 50px;}
+}
+

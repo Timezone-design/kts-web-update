@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+/* タイトル画像 */
+*.shop_menu_title {margin: 0 auto; text-align: center;}
+
+*.shop_menu_info_title {color: #0FF; font-weight: bold; padding: 3px 5px;}
+*.shop_menu_info {font-size: small; padding: 2px 7px;}
+
+/* テーブル処理 */
+*.shop_menu_table {display: table; font-size: small;}
+*.shop_menu_table_tp {display: table; font-size: small;}
+*.shop_menu_table_tp_f {font-size: small;}
+*.shop_menu_cell_1 {display: table-cell; width: 15px; text-align: right; vertical-align: top;}
+*.shop_menu_cell_1 {display: table-cell; vertical-align: top;}
+
+/* 左メニュー */
+*.left_menu_1 {padding: 2px 0 2px 12px; font-size: 12px;}
+*.left_menu_2 {padding: 2px 0 2px 24px; font-size: 12px;}
+*.left_menu_1 a {color: #FFF;}
+*.left_menu_1 a:hover {color: #FF0;}
+*.left_menu_2 a {color: #FFF;}
+*.left_menu_2 a:hover {color: #FF0;}
+*.left_menu {padding: 2px 0; background-color: #000;}
+
+/* camp用 */
+*.sm_camp_back {background-color: #000;}
+*.sm_camp_com_680 {font-size: small;}
+
+/* 文頭中点ありコメント用 */
+*.sm_text_table {display: table; font-size: small; padding: 1px;}
+*.sm_text_table_ff0 {display: table; font-size: small; padding: 1px; color: #FF0;}
+*.sm_text_cell_1 {display: table-cell; width: 10px; text-align: right; vertical-align: top;}
+*.sm_text_cell_2 {display: table-cell; vertical-align: top;}
+
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	*.sm_pc, *.shop_menu_table_cell_230, *.shop_menu_table_top_alignment {display: none;}
+	*.sm_sp img{width: 100%; height: auto;}
+	*.shop_menu_title img {width: 100%; height: auto;}
+	*.shop_menu_back {width: 100%; background-color: #000; padding: 0 0 10px;}
+	*.shop_menu_f_text {font-size: small; margin: 7px 1px;}
+	*.small_right {font-size: small;}
+	/* バナー・画像用 */
+	*.shop_menu_top_photo {margin: 3px auto 3px; text-align: center; width: 100%;}
+	*.shop_menu_top_photo img {width: 100%;	height: auto;}
+	*.shop_menu_top_photo_sp {margin: 3px auto 3px; text-align: center; width: 100%;}
+	*.shop_menu_top_photo_sp img {width: 100%;	height: auto;}
+	/* テーブル処理 */
+	*.shop_menu_table_top_bar {color: #0F0; background-color: #0F0; height: 1px;}
+	*.shop_menu_table_top_comm_t {padding: 2px;}
+	*.shop_menu_table_top_comm_b {padding: 2px;}
+	*.shop_menu_table_top_comm_sp {padding: 1px; text-align: right;}
+	*.shop_menu_table_top_text {padding: 2px;}
+	/* 画像サイズ固定 */
+	*.sm_table_img_120 {width: 120px; height: 90px; margin: 1px;}
+	/* バナー間仕切り用HR */
+	*.sm_sp_hr_b {margin: 0; height: 1px;}
+	/* 左メニュー補完用ボタン */
+	*.sm_button_table_sp {display: table; width: 100%;}
+	*.sm_button_cell_sp {display: table-cell; width: 50%;}
+	*.sm_button_sp {width: 98%;	margin: 1px auto; padding: 5px 0; font-size: 20px; font-weight: bold;	text-decoration: none; display: block; text-align: center; color: #FFF;	background-color: #333;	border: 1px solid #CCC; border-radius: 25px; box-shadow: 2px 2px #CCC;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	*.sm_sp, *.shop_menu_top_photo_sp, *.top_mc_b, *.alignment_top_b, *.shop_menu_table_top_comm_sp, *.sm_sp_hr_b, *.sm_button_table_sp, *.set_maker_table_sp {display: none;}
+	*.shop_menu_table_tp {width: 697px; margin: 0 auto;}
+	*.shop_menu_table_tp_f {width: 697px; margin: 0 auto; text-align: right;}
+	*.shop_menu_back {width: 750px; background-color: #000; margin: 0 auto; padding: 0 0 10px; }
+	*.shop_menu_f_text {text-align: center; margin: 10px 0;}
+	*.shop_menu_title_sp {display: none;}
+	/* camp用 */
+	*.sm_camp_other_title_680 {width: 680px; margin: 0 auto 0; font-weight: bold;}
+	*.sm_camp_other_title_730 {width: 730px; margin: 0 auto 0; font-weight: bold;}
+	*.sm_camp_back {width: 750px; margin: 0 auto 0;}
+	*.sm_camp_com_680 {width: 680; margin: 2px auto 2px;}
+	/* バナー・画像用 */
+	*.shop_menu_top_photo {margin: 3px auto 3px; width: 730px; text-align: center; background-color: #FFF;}
+	*.shop_menu_top_photo a:hover img {opacity: 0.7;}
+	/* テーブル処理（TOPセットメニュー部分） */
+	*.shop_menu_table {width: 730px; margin: 5px auto 5px;}
+	*.shop_menu_table_m0 {width: 730px; margin: 0 auto 0;}
+	*.shop_menu_table_cell_500 {display: table-cell; width: 500px; vertical-align: top;}
+	*.shop_menu_table_cell_280 {display: table-cell; width: 280px; vertical-align: top;}
+	*.shop_menu_table_cell_230 {display: table-cell; width: 230px; vertical-align: top;}
+	*.shop_menu_table_top_back {width: 498px; background-color: #333;}
+	*.shop_menu_table_top_comm_t {padding: 3px;}
+	*.shop_menu_table_top_comm_b {padding: 1px 3px 3px;}
+	*.shop_menu_table_top_bar {color: #0F0; background-color: #0F0; height: 1px; margin: 0; width: 498px;}
+	*.shop_menu_table_top {display: table; padding: 1px;}
+	*.shop_menu_table_top_photo {display: table-cell; vertical-align: top; width: 123px;}
+	*.shop_menu_table_top_text {display: table-cell; vertical-align: top;}
+	*.shop_menu_table_top_text_c {padding: 2px 2px 1px;}
+	*.shop_menu_table_top_banner {margin-top: 2px;}
+	*.shop_menu_table_top_alignment {display: table; width: 730px; margin: 2px auto 2px; font-size: small;}
+	/* バナー オンマウス処理 */
+	*.sm_top_gr2_ichinoe {margin-top: 2px; background: url(img/garagara_ichinoe_230_2.gif);	width: 230px; height: 160px;}
+	*.sm_top_gr2_ichinoe a {display: block;}
+	*.sm_top_gr2_ichinoe img {border: none;}
+	*.sm_top_gr2_ichinoe a:hover img {visibility: hidden;}
+	*.sm_top_gr2_heiwajima {margin-top: 2px; background: url(img/garagara_heiwajima_230_2.gif);	width: 230px; height: 160px;}
+	*.sm_top_gr2_heiwajima a {display: block;}
+	*.sm_top_gr2_heiwajima img {border: none;}
+	*.sm_top_gr2_heiwajima a:hover img {visibility: hidden;}
+}
