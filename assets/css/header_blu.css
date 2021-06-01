@@ -352,3 +352,7 @@ header .clearfix {
     right: 1vw;
   }
 }
+
+.slick-slide {
+  height: auto;
+}
