@@ -1,0 +1,172 @@
+@charset "utf-8";
+/* Monthlyキャンペーン用 */
+
+/* タイトル部分 */
+*.camp_title {margin: 0 auto; text-align: center;}
+*.camp_other_title {margin: 0 auto;	text-align: center;}
+
+/* 罫線の色 */
+*.camp_solid {display: table; margin: 0 auto; padding: 3px;	border: solid 1px #3FF; background-color: #000;}
+*.camp_solid_comm {display: table; width: 100%;	font-size: small;}
+*.camp_solid_table {display: table;	width: 100%;}
+
+/* フォント・サイズ・カラー */
+*.font_b_fff000 {font-weight: bold;	color: #FF0; margin-top: 3px;}
+*.font_r_price {font-size: small; text-align: right;}
+*.font_r_price_left {width: 98%; margin: 0 auto; font-size: small;}
+*.font_r_price_red {color: #F00; font-weight: bold;}
+
+/* SP時文字タイトル変更 */
+*.n_camp_pc {width: 730px; margin: 0 auto;}
+*.n_camp_sp {width: 100%; margin: 0 auto; color: #0FF; font-weight: bold; background-color: #000;}
+
+*.camp_moticomi_foot {width: 100%; margin: 0 auto; text-align: center;}
+*.camp_moticomi_foot_700 {width: 100%; margin: 0 auto; text-align: center;}
+
+*.camp_info_title {/* font-size: small; */ color: #0FF; font-weight: bold;}
+
+*.camp_info {font-size: small; padding: 2px 5px;}
+
+*.camp_shitadori {font-size: small;}
+*.camp_shitadori_cell_1 {font-weight: bold; color: #0F0;}
+*.camp_shitadori_at {font-size: small; display: table;}
+.camp_shitadori_at_cell_1 {display: table-cell; width: 50px; text-align: right; color: #F00; vertical-align: top;}
+.camp_shitadori_at_cell_2 {display: table-cell; color: #FF0; vertical-align: top;}
+
+/* 文頭中点ありコメント用 */
+*.camp_text {display: table; font-size: small; padding: 1px;}
+*.camp_text_ff0 {display: table; font-size: small; padding: 1px; color: #FF0;}
+*.camp_text_cell_1 {display: table-cell; width: 10px; text-align: right; vertical-align: top;}
+*.camp_text_cell_2 {display: table-cell; vertical-align: top;}
+
+.pr_pc_text {display: none;}
+.pr_table_cell {font-size: small; text-align: center; margin-bottom: 2px;}
+
+/* 臨時3枠用 */
+*.camp_33_title {color: #FF0; font-weight: bold; font-size: xx-large;}
+*.camp_33_text {font-size: large; margin-left: 10px; margin-right: 5px;}
+*.camp_exa {color: #FF0; font-size: medium; font-weight: bold; margin-top: 3px; margin-left: 5px;}
+*.camp_exa_f_n {color: #FFF; font-size: small; font-weight: normal;}
+*.camp_exa_title {color: #0FF; font-size: medium; font-weight: bold; margin-top: 3px; margin-left: 10px;}
+*.camp_exa_text {color: #FFF; font-size: small; margin-left: 15px; margin-right: 5px;}
+*.camp_exa_text_f00 {color: #F00; font-weight: bold; font-size: medium;}
+
+/* 持込み工賃 */
+*.mochikomi_field {margin: 5px auto; background-color: #000; padding-top: 5px; padding-bottom: 5px;}
+*.mochikomi_miss {margin-left: 15px; margin-top: 5px; margin-bottom: 5px; background-color: #000; padding: 3px; font-size: small; color: #FF0;}
+
+/* メーカー・商品特別価格用 */
+*.camp_item_sale_c a {color: #0FF; text-decoration: underline;}
+*.camp_item_sale_c a:hover {color: #FF0;}
+
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	/* タイトル部分 */
+	*.camp_title {display: none;}
+	*.camp_other_title {display: none;}
+	*.camp_title_sp {width: 100%;}
+	*.camp_title_sp img {
+		width: 100%;
+		height: auto;
+	}
+	*.camp_solid {width: 98%;}
+	*.camp_solid_cell {display: table; width: 100%;}
+	*.camp_solid_cell_33 {display: table; width: 100%;}
+	*.camp_solid_comm {text-align: left;}
+	/* SP時非表示 */
+	*.n_camp_pc {display: none;}
+	*.camp_solid_cell_dummy {display: none;}
+	*.camp_solid_cell_dummy_33 {display: none;}
+	*.camp_moticomi_foot img {
+		width: 100%;
+		height: auto;
+	}
+	*.camp_back {
+		width: 100%;
+		background-color: #000;
+		padding: 0 0 10px;
+	}
+	*.small_right {font-size: small;}
+	*.camp_shitadori {padding: 2px 5px;}
+	*.camp_shitadori_yajirushi {text-align: center;}
+	*.camp_shitadori_yajirushi img {width: 60px; height: 22px;}
+	*.camp_f_text {font-size: small; margin: 7px 1px;}
+	/* アライメント予約リンク用 */
+	*.alignment_camp_b {margin: 0 auto; width: 100%; table-layout: fixed;}
+	*.alignment_camp_b img {width: 100%; height: auto;}
+	/* TOPページ用 */
+	*.camp_top_back {margin: 7px auto; padding: 2px; background-color: #000;}
+	*.camp_top_img {width: 100%; height: auto;}
+	*.camp_top_text {font-weight: bold; color: #0FF;}
+	*.camp_top_text_s {font-size: small;}
+	*.camp_top_photo_m {margin: 0 auto 7px;}
+	*.camp_top_photo {margin: 0 auto 7px;}
+	/* メーカー・商品特別価格用 */
+	*.camp_item_sale_c_d {display: none;}
+	*.camp_item_sale_title {padding-top: 5px; padding-left: 10px; font-size: large; font-weight: bold;}
+	*.camp_item_sale {background-color: #000;}
+	*.camp_item_sale_c {padding: 3px 15px; font-weight: bold; color: #0FF;}
+	/* 持込み工賃 */
+	*.mochikomi_cell img {width: 100%; height: auto;}
+	*.mochikomi_title img {width: 100%; height: auto;}
+}
+
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	*.camp_title_sp {display: none;}
+	/* タイトルのオンマウス処理
+		*.camp_title {background: url(img/20190716_2.gif); width: 730px; height: 486px;}
+		*.camp_title a {display: block;}
+		*.camp_title img {border: none;}
+		*.camp_title a:hover img {visibility: hidden;} */
+	/* ここまで */
+	*.camp_solid {width: 730px;}
+	*.camp_solid_comm {text-align: center;}
+	*.camp_solid_cell {display: table-cell; width: 50%; vertical-align: top;}
+	*.camp_solid_cell_33 {display: table-cell; width: 33%; vertical-align: top;}
+	*.camp_solid_cell_dummy {display: table-cell; width: 50%; vertical-align: top; font-size:}
+	*.camp_solid_cell_dummy_33 {display: table-cell; width: 33%; vertical-align: top;}
+	*.font_r_price_b {font-weight: bold;}
+	*.font_r_price_red {font-size: medium;}
+	*.n_camp_sp {display: none;}
+	*.camp_moticomi_foot img {width: 500px; height: 35px;}
+	*.camp_moticomi_foot_700 img {width: 700px; height: auto;}
+	.camp_back {width: 730px; background-color: #000; margin: 0 auto; padding: 0 0 10px; }
+	.camp_info {margin: 0 5px;}
+	.camp_info_title {margin: 0 5px;}
+	.small_right {font-size: small; text-align: right;}
+	.camp_text {margin: 0 5px;}
+	.camp_text_ff0 {margin: 0 5px;}
+	.camp_shitadori {display: table; margin: 2px 10px;}
+	.camp_shitadori_cell_1 {display: table-cell; vertical-align: top; width: 145px;}
+	.camp_shitadori_cell_2 {display: table-cell; vertical-align: top;}
+	.camp_shitadori_at {width: 500px; margin-left: 210px;}
+	*.camp_f_text {text-align: center; margin: 10px 0;}
+	/* アライメント予約リンク用 */
+	*.alignment_camp_b {width: 730px; margin: 0 auto; background-color: #00DDFF; text-align: center;}
+	/* TOPページ用 */
+	*.camp_top_back {width: 740px; margin: 5px auto; padding: 3px 0; background-color: #000;}
+	*.camp_top_text {width: 730px; margin: 0 auto; padding: 1px; font-weight: bold;}
+	*.camp_top_text_s {width: 730px; margin: 0 auto; padding: 1px; font-weight: bold; font-size: small;}
+	*.camp_top_photo_m {margin: 0 auto 5px; width: 730px;}
+/*
+	*.camp_top_photo_m {margin: 0 auto 5px; background: url(img/20190716_2.gif); width: 730px; height: 486px;}
+	*.camp_top_photo_m a {display: block;}
+	*.camp_top_photo_m img {border: none;}
+	*.camp_top_photo_m a:hover img {visibility: hidden;}
+*/
+	*.camp_top_photo {margin: 0 auto 5px; width: 730px; text-align: center;}
+	/* 持込み工賃 */
+	*.mochikomi_field {width: 750px;}
+	*.mochikomi_table {display: table; width: 100%;}
+	*.mochikomi_cell {display: table-cell; width: 50%; vertical-align: top; text-align: center;}
+	*.mochikomi_cell img {width: 365px; height: auto;}
+	/* メーカー・商品特別価格用 */
+	*.camp_item_sale {width: 730px; margin: 0 auto; background-color: #000;}
+	*.camp_item_sale_title {padding-top: 5px; padding-left: 10px; font-size: x-large; font-weight: bold;}
+	*.camp_item_sale_t {display: table; width: 700px; margin: 0 auto;}
+	*.camp_item_sale_c {display: table-cell; width: 350px; padding: 3px; font-size: large; font-weight: bold; color: #0FF;}
+	*.camp_item_sale_c_d {display: table-cell; width: 350px; padding: 3px; font-weight: bold;}
+}
