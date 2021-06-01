@@ -1,0 +1,53 @@
+
+.search-results {
+    width: 100%;
+    overflow: scroll;
+    margin-top: 50px;
+}
+/* 適合検索 */
+.matching_search{table-layout: auto;}
+
+/* 適合表 */
+    .matching_table_all{
+        display: table;
+        word-break: break-all;
+        word-wrap: break-all;
+        color: black;
+        border-collapse: collapse;
+        border:1px solid black;
+        background:white;
+}
+    .matching_table_all tr:nth-child(even) {
+        background: #eee;
+}
+    table.matching_table_all th{
+        background-color: #333333;
+        color: white;
+        border-collapse: collapse;
+        border:1px solid black;
+        white-space: nowrap;
+        padding-left:3px;
+        padding-right:3px;
+        font-size: 2vmin;
+}
+    table.matching_table_all td{
+        border-collapse: collapse;
+        border:1px solid black;
+        white-space: nowrap;padding-left:5px;
+        padding-right:5px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+}
+    .matching_table{
+        
+        width: 100%;
+        padding:2px;
+        color: black;
+        font-size: 1.7vmin;
+}
+    td.matching_table_cell{
+        border-collapse: collapse;
+        border:1px solid black;padding:2px; 
+        white-space: nowrap; 
+        font-size: 1.5vmin;
+}

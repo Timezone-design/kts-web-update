@@ -1,0 +1,354 @@
+/* 
+** The Header Media Queries **
+** Tweak as per your needs **
+*/
+
+body {
+  background-color: white;
+  width: 100%;
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+div.container {
+  width: 100%;
+  padding: 0px;
+}
+
+.row {
+  width: 100%;
+  margin: 0px;
+}
+
+header {
+  width: 100%;
+  margin: 0px;
+}
+
+.clearfix {
+  display: block;
+  background-color: transparent;
+  color: transparent;
+  height: 3vw;
+}
+
+@media all and (max-width: 750px) {
+  .clearfix {
+    height: 24px;
+  }
+}
+
+header .clearfix {
+  background-color: white;
+}
+
+.ja {
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+}
+
+/* Header Carousel css */
+
+.arrowed-title {
+  display: inline-block;
+  position: absolute;
+  left: 6.25vw;
+  margin-bottom: 30px;
+}
+
+.arrowed-title h1 {
+  color: black;
+  font-size: 2vw;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+}
+
+.arrowed-link,
+.arrowed-link:link,
+.arrowed-link:visited,
+.arrowed-link:hover,
+.arrowed-link:active {
+  color: black;
+  text-decoration: none;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+  font-size: 1vw;
+}
+
+.arrowed-title:not(#header-carousel-name) img {
+  width: 120%;
+  position: absolute;
+  top: 2.6vw;
+  left: 34%;
+}
+
+.arrowed-title#header-carousel-name img {
+  width: 10vw;
+  position: absolute;
+  top: 1.6vw;
+  left: 2%;
+  object-fit: fill;
+  z-index: 10000;
+}
+
+@media all and (max-width: 1920px) and (min-width: 992px) {
+  .arrowed-title h1 {
+    color: black;
+    font-size: 2vw;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+  }
+
+  .arrowed-link,
+  .arrowed-link:link,
+  .arrowed-link:visited,
+  .arrowed-link:hover,
+  .arrowed-link:active {
+    color: black;
+    text-decoration: none;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+    font-size: 1vw;
+  }
+
+  .arrowed-title:not(#header-carousel-name) img {
+    width: 120%;
+    height: 20px;
+    position: absolute;
+    top: 1.6vw;
+    left: 31%;
+    object-fit: fill;
+  }
+}
+
+@media all and (max-width: 991px) {
+  .arrowed-title h1 {
+    color: black;
+    font-size: 18px;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+  }
+
+  .arrowed-link,
+  .arrowed-link:link,
+  .arrowed-link:visited,
+  .arrowed-link:hover,
+  .arrowed-link:active {
+    color: black;
+    text-decoration: none;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+    font-size: 12px;
+  }
+
+  .arrowed-title:not(#header-carousel-name) img {
+    width: 120%;
+    height: 20px;
+    position: absolute;
+    top: 12px;
+    left: 31%;
+    object-fit: fill;
+  }
+
+  #header-carousel-name {
+    font-size: 18px;
+    top: 0px !important;
+    z-index: 10000;
+  }
+
+  .arrowed-title#header-carousel-name img {
+    width: 99px;
+    position: absolute;
+    top: 12px;
+    left: 2%;
+    object-fit: fill;
+    z-index: 10000;
+  }
+
+}
+
+#header-link {
+  background-color: white;
+  text-align: center;
+}
+
+.arrowed-link img {
+  transform: translateY(-7px);
+  zoom: 48%;
+  width: auto;
+}
+
+.arrowed-link.black {
+  color: black;
+}
+
+.arrowed-link.white {
+  color: white;
+  font-size: 12px;
+}
+
+.arrowed-link.blue {
+  color: #1832dc;
+}
+
+#header-carousel-name {
+  position: absolute;
+  top: 0px;
+  left: 6.25vw;
+  width: 100%;
+  z-index: 10000;
+}
+
+#top-carousel {
+  background-color: white;
+  position: relative;
+}
+
+@media all and (min-width: 768px) {
+
+  #top-carousel .clearfix.toggle {
+    display: none;
+  }
+  
+}
+
+@media all and (max-width: 767px) {
+
+  #top-carousel .clearfix.toggle {
+    display: block;
+  }
+
+}
+
+#header-link {
+  justify-content: space-around;
+}
+
+/* navbar */
+.navbar.navbar-expand-lg {
+  background-color: black;
+  color: white;
+}
+
+.ml-auto,
+.mx-auto {
+  margin-right: 9%;
+}
+
+@media all and (max-width: 991px) {
+
+  .ml-auto,
+  .mx-auto {
+    margin-right: 0%;
+  }
+}
+
+.nav-item {
+  text-align: center;
+  color: white;
+}
+
+.nav-item div {
+  color: white !important;
+  font-size: 0.6rem;
+}
+
+.nav-item:hover {
+  background-color: grey;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  display: block;
+  margin-left: 32px;
+}
+
+#header-logo {
+  width: 75%;
+  padding-left: 40px;
+}
+
+.navbar {
+  padding: 0 0 0 0;
+}
+
+@media all and (min-width: 992px) {
+  .navbar-dark .navbar-nav .nav-link {
+    display: block;
+    margin: 5px;
+  }
+}
+
+.slick img {
+  width: 100%;
+  display: block;
+  position: relative;
+  transform: translate(0, 0) scale(.3);
+  transition: all .4s ease;
+  opacity: .5;
+}
+
+.slick-slide.lt2 img {
+  transform: translate(-10%, 0) scale(.3);
+
+}
+
+.slick-slide.lt1 img {
+  opacity: .7;
+  transform: translate(-5%, 0) scale(.3);
+}
+
+.slick-slide.gt1 img {
+  opacity: .7;
+  transform: translate(5%, 0) scale(.3);
+}
+
+.slick-slide.gt2 img {
+  transform: translate(-10%, 0) scale(.3);
+}
+
+.slick-slide.slick-center img {
+  z-index: 1;
+  transform: scale(1);
+  opacity: 1;
+}
+
+.slick-prev,
+.slick-next {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 50%;
+  /* appearance: none; */
+  margin-top: -10px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  color: transparent;
+  outline: none;
+  z-index: 100;
+  background-image: url('/assets/img/Daco_4829759.png');
+  background-size: contain;
+}
+
+.slick-prev {
+  left: 25vw;
+}
+
+.slick-next {
+  transform: rotate(180deg);
+  right: 25vw;
+}
+
+.slick-prev:focus,
+.slick-next:focus {
+  outline: none;
+}
+
+@media all and (max-width: 750px) {
+  .slick-prev {
+    left: 1vw;
+  }
+
+  .slick-next {
+    transform: rotate(180deg);
+    right: 1vw;
+  }
+}
