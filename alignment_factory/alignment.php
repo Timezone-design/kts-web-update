@@ -102,13 +102,73 @@
 		<meta http-equiv="cache-control" content="no-cache">
 		<meta http-equiv="expires" content="0">
 		<link rel="stylesheet" href="https://www.kts-web.com/web.css" type="text/css">
-	</head>
-	<body bgcolor="#FFFFFF" text="#000000">
-		<table width="700" border="0">
+	
+<?php include('../_partials/header.html'); ?>
+	
+	<div class="alignment row white-wrapper">
+		<div class="clearfix"></div>
+		<div class="row two_banners">
+			<div class="two_banners_wrapper col-md-6 col-sm-6 col-xs-12">
+				<div class="grey-wrapper">
+					<div class="bq_lineup_title">オンライン決済用の空メール送信について</div>
+					<div class="mail_text_n">KTS FACTORY店でのお支払いにオンライン決済をご希望するお客様専用のページとなります。</div>
+					<div class="mail_text_f00">
+						<div class="mail_text_cell_1">・</div>
+						<div class="mail_text_cell_2">下記リンクボタンをクリックするとメールが起動しますので空メール送信をお願い致します。</div>
+					</div>
+					<div class="mail_text_f00">
+						<div class="mail_text_cell_1">・</div>
+						<div class="mail_text_cell_2">送信頂いたメールアドレス宛に案内メールを改めてお送り致しますので、<span class="font_ff0">「@messaging.squareup.com」</span>ドメインのメールが受信できるように指定の解除など、メールアドレスの設定確認をお願い致します。</div>
+					</div>
+					<div class="mail_text_f00">
+						<div class="mail_text_cell_1">・</div>
+						<div class="mail_text_cell_2">メールを送信される際、お客様確認の為、<span class="font_ff0">「お名前」「お電話番号」</span>をメールタイトル・件名にご入力下さい。</div>
+					</div>
+					<div class="mail_text_f00">
+						<div class="mail_text_cell_1">・</div>
+						<div class="mail_text_cell_2">本決済サービスはSquareのオンライン決済システムを使用しております。</div>
+					</div>
+					<div class="mail_img"><a href="mailto:factory@kts-web.com"><img src="mail.gif"></a></div>
+					<!-- <div class="lineup_close"><a href="#" onclick="window.close(); return false;">閉じる</a></div> -->
+				</div>
+			</div>
+			<div class="two_banners_wrapper col-md-6 col-sm-6 col-xs-12">
+				<div class="grey-wrapper">
+					<!-- <div class="clearfix"></div> -->
+					<div class="shop_menu_title"><img src="kawaguchi_gift_2020.gif" alt="当店では「元気！川口商品券」の共通券・専用券をご利用頂けます"></div>
+					<!-- <div class="clearfix"></div> -->
+					<div class="shop_menu_back">
+						<div class="shop_menu_info_title">【元気！川口商品券のご利用について】</div>
+						<div class="shop_menu_table">
+							<div class="shop_menu_cell_1">・</div>
+							<div class="shop_menu_cell_2">「元気！川口商品券」はKTS FACTORY店のみご利用が可能となります。</div>
+						</div>
+						<div class="shop_menu_table">
+							<div class="shop_menu_cell_1">・</div>
+							<div class="shop_menu_cell_2">KTS FACTORY店では共通券・専用券の両方をご利用頂けます。</div>
+						</div>
+						<div class="shop_menu_table">
+							<div class="shop_menu_cell_1">・</div>
+							<div class="shop_menu_cell_2">ご利用対象は商品のご購入、取付・施工時の工賃にご利用頂けます。</div>
+						</div>
+						<div class="shop_menu_table">
+							<div class="shop_menu_cell_1">・</div>
+							<div class="shop_menu_cell_2">ご利用金額を超えてご使用頂いた場合のお釣りは出ませんので予めご了承下さい。</div>
+						</div>
+						<div class="shop_menu_table">
+							<div class="shop_menu_cell_1">・</div>
+							<div class="shop_menu_cell_2">商品券のお求め、その他については<a class="link_n" href="https://www.kawaguchicci.or.jp/genki/index.html" target="_blank">川口商工会議所HP</a><span class="sp_none">（<a class="link_n" href="https://www.kawaguchicci.or.jp/genki/index.html" target="_blank">https://www.kawaguchicci.or.jp/genki/index.html</a>）</span>をご参照下さい。</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div>
+		<table class="nostyle" width="700" border="0">
 			<tr><td><b><font size="4">アライメント測定・調整　予約空き状況</font></b></td></tr>
 			<tr><td><b><font size="3"><a href="http://www.kts-web.com/shop_menu/tenpo/factory.html" target="_blank">KTS FACTORY</a> TEL: 048-285-8906</font></b></td></tr>
 		</table>
-		<table widht="870">
+		<table class="nostyle" width="870">
 			<tr>
 				<td width="30"></td>
 				<td><b>下記一覧表で「空き」ボタンをクリックすると該当日時のアライメント予約申し込みが可能です。</b></td>
@@ -386,5 +446,6 @@
 				<td><font color="#FF0000">こちらの空き状況はアライメントリフトの空き状況となります。「予約済み」になっていても別リフトが空いていれば他の作業は可能です。作業可能かどうかについてはお電話にてお問い合わせ下さい。</font></td>
 			<tr>
 		</table>
-	</body>
-</html>
+		</div>
+	</div>
+<?php include('../_partials/footer.html'); ?>

@@ -911,7 +911,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     margin: auto;
 }
 
-.shop_menu_table .shop_menu_cell_1 {
+.shop_menu_table .shop_menu_cell_1,
+.mail_text_cell_1 {
     float: left;
 }
 
@@ -1032,10 +1033,10 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 }
 
 
-.main_c .slick img {
+/*.main_c .slick img {
   width: 100%;
   display: block;
-  position: relative;
+  position: relative;*/
 /*  transform: translate(0, 0) scale(.3);
   transition: all .4s ease;*/
   /*opacity: .5;*/
@@ -1116,6 +1117,118 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     font-size: 1.5vw;
 }
 
+.alignment.row > div {
+    width: 65%;
+    margin: auto;
+}
+
+.main_c table.nostyle,
+.main_c table.nostyle tr,
+.main_c table.nostyle td,
+.main_c table.nostyle th {
+    border: none;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+/*.bq_lineup.alignment div {
+    margin: 0px;
+    margin-bottom: 10px;
+}*/
+
+.two_banners_wrapper .grey-wrapper {
+    padding: 10px;
+}
+
+.two_banners_wrapper .shop_menu_info_title {
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+
+.wheel .bottom_images .th_table_cell_c:first-child {
+    width: 44.77611940%;
+    padding: 0 10px;
+}
+
+.wheel .bottom_images .th_table_cell_c:last-child {
+    width: 55.22388059%;
+    padding: 0 10px;
+}
+
+.wheel .th_footer_730_text {
+    font-size: 1.2vw;
+    color: deepskyblue;
+}
+
+.wheel .footer_tenpo_table {
+    display: flex;
+    justify-content: center;
+}
+
+.wheel .footer_tenpo_sp {
+    text-align: center;
+}
+
+.tab_wrap .tab-content {
+    padding: 10px;
+    background-color: white;
+}
+
+.tab_wrap .nav-tabs li {
+    padding: 10px;
+}
+
+.tab_wrap .nav-tabs li.active {
+    background-color: white;
+}
+
+.set_menu_n .swiper-button-prev,
+.set_menu_n .swiper-button-next {
+    /*transform: translateY(-80px);*/
+    top: 12vw !important;
+}
+
+.set_menu_n .swiper-container {
+    height: 24vw;
+}
+
+.set_menu_n .item_info_text_middle {
+    font-size: 1.5vw;
+}
+
+.set_menu_n .item_info_text_middle_b,
+.set_menu_n .set_menu_n_cell,
+.set_menu_n .item_caution {
+    font-size: 1.2vw;
+}
+
+.search_category .change_button img {
+    width: auto;
+}
+
+.set_sale_back .search_category {
+    text-align: center;
+}
+
+.set_sale_back > table,
+.set_sale_back > table td {
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+}
+
+.set_sale_back .select_button {
+    display: none;
+}
+
+.set_sale_back .item_info_text_small {
+    text-align: right;
+}
+
+.set_sale_back .scroll .noselect_car {
+    text-align: center;
+}
+
 @media all and (max-width: 750px) {
   .main_c .slick-prev {
     left: 1vw;
@@ -1135,21 +1248,27 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 
     .shop_menu_table,
     .tenpo_shop_table,
-    .pr_table_cell {
+    .pr_table_cell,
+    .mail_text_f00,
+    .set_menu_n .item_info_text_middle_b,
+    .set_menu_n .set_menu_n_cell,
+    .set_menu_n .item_caution {
         font-size: 1.7vw
     }
 
     .tenpo_title .font_ff0,
     .bq_lineup_title,
     .pr_title_2,
-    .pr_info_title_730 {
+    .pr_info_title_730,
+    .set_menu_n .item_info_text_middle {
         font-size: 1.9vw;
     }
 
     #content-wrapper > div > div.shop_menu_back > div:nth-child(9) .tenpo_text_2nd,
     .tenpo_title,
     .tenpo_title_text,
-    .mail_text_n {
+    .mail_text_n,
+    .wheel .th_footer_730_text {
         margin-left: 10px;
         margin-bottom: 2px;
         font-size: 1.7vw;
@@ -1164,14 +1283,20 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 
     .shop_menu_table,
     .tenpo_shop_table,
-    .pr_table_cell {
+    .pr_table_cell,
+    .mail_text_f00,
+    .wheel .th_footer_730_text,
+    .set_menu_n .item_info_text_middle_b,
+    .set_menu_n .set_menu_n_cell,
+    .set_menu_n .item_caution {
         font-size: 2.3vw
     }
 
     .tenpo_title .font_ff0,
     .bq_lineup_title,
     .pr_title_2,
-    .pr_info_title_730 {
+    .pr_info_title_730,
+    .set_menu_n .item_info_text_middle {
         font-size: 2.5vw;
     }
 
@@ -1193,7 +1318,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .tenpo_hr_sp,
     .tenpo_access_title_sp,
     .tenpo_staff_hr_sp,
-    .pr_title_sp {
+    .pr_title_sp,
+    .wheel .footer_tenpo_sp {
         display: none;
     }
 
@@ -1205,7 +1331,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     }*/
     .tenpo_staff_hr,
     .img_pc,
-    .pr_title_pc {
+    .pr_title_pc,
+    .wheel .footer_tenpo_table {
         display: none;
     }
     .pr_title_sp img {
