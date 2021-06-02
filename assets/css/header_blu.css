@@ -275,7 +275,7 @@ header .clearfix {
   }
 }
 
-.slick img {
+.slick-wrapper .slick img {
   width: 100%;
   display: block;
   position: relative;
@@ -284,33 +284,33 @@ header .clearfix {
   opacity: .5;
 }
 
-.slick-slide.lt2 img {
+.slick-wrapper .slick-slide.lt2 img {
   transform: translate(-10%, 0) scale(.3);
 
 }
 
-.slick-slide.lt1 img {
+.slick-wrapper .slick-slide.lt1 img {
   opacity: .7;
   transform: translate(-5%, 0) scale(.3);
 }
 
-.slick-slide.gt1 img {
+.slick-wrapper .slick-slide.gt1 img {
   opacity: .7;
   transform: translate(5%, 0) scale(.3);
 }
 
-.slick-slide.gt2 img {
+.slick-wrapper .slick-slide.gt2 img {
   transform: translate(-10%, 0) scale(.3);
 }
 
-.slick-slide.slick-center img {
+.slick-wrapper .slick-slide.slick-center img {
   z-index: 1;
   transform: scale(1);
   opacity: 1;
 }
 
-.slick-prev,
-.slick-next {
+.slick-wrapper .slick-prev,
+.slick-wrapper .slick-next {
   width: 30px;
   height: 30px;
   position: absolute;
@@ -328,26 +328,26 @@ header .clearfix {
   background-size: contain;
 }
 
-.slick-prev {
+.slick-wrapper .slick-prev {
   left: 25vw;
 }
 
-.slick-next {
+.slick-wrapper .slick-next {
   transform: rotate(180deg);
   right: 25vw;
 }
 
-.slick-prev:focus,
-.slick-next:focus {
+.slick-wrapper .slick-prev:focus,
+.slick-wrapper .slick-next:focus {
   outline: none;
 }
 
 @media all and (max-width: 750px) {
-  .slick-prev {
+  .slick-wrapper .slick-prev {
     left: 1vw;
   }
 
-  .slick-next {
+  .slick-wrapper .slick-next {
     transform: rotate(180deg);
     right: 1vw;
   }

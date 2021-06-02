@@ -1,3 +1,7 @@
+* {
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+}
+
 img {
     width: 100%;
 }
@@ -203,6 +207,7 @@ img {
 
 .black-wrapper {
     background-color: black;
+    color: white;
 }
 
 .three-tiles {
@@ -330,20 +335,22 @@ a.notype:link {
 .large-category .row,
 .small-category .row,
 .tire .row {
-    width: 78%;
+    width: 65%;
     margin: auto;
 }
 
 .large-category .row.banner-wrapper,
 .small-category .row.banner-wrapper,
-.tire .row.banner-wrapper {
+.tire .row.banner-wrapper,
+.banner-wrapper {
     /* width: 60%; */
     margin: auto;
 }
 
 .large-category .banner-wrapper,
 .small-category .banner-wrapper,
-.tire .banner-wrapper {
+.tire .banner-wrapper,
+.banner-wrapper {
     box-shadow: 0 1px 8px 0 rgb(0 0 0 / 20%), 0 1px 8px 0 rgb(0 0 0 / 19%);
     background-color: #ececec;
     padding: 15px;
@@ -439,7 +446,8 @@ a.notype:link {
 
 .store-introduction .workcost-table table,
 .daisya_table_cell table,
-.search-results table {
+.search-results table,
+.main_c table {
     width: 100%;
     border-collapse: collapse;
     border: solid 1px rgba(128, 128, 128, 0.8);
@@ -454,7 +462,8 @@ a.notype:link {
 .store-introduction .daisya_table_cell th,
 .store-introduction .daisya_table_cell td,
 .search-results table th,
-.search-results table td {
+.search-results table td,
+.main_c table td {
     padding: 15px;
     background-color: rgba(255, 255, 255, 0.2);
     border: solid 1px rgba(128, 128, 128, 0.8);
@@ -463,20 +472,23 @@ a.notype:link {
 
 .store-introduction .workcost-table th,
 .store-introduction .daisya_table_cell th,
-.search-results table th {
+.search-results table th,
+.main_c table th {
     text-align: left;
 }
 
 .store-introduction .workcost-table tr.koutin_price_box_title,
 .store-introduction .daisya_table_cell tr.daisya_list_table_title,
-.search-results table thead th {
+.search-results table thead th,
+.main_c table tr.pr_app_box_title {
     background-color: #383838;
     color: white !important;
 }
 
 .store-introduction .workcost-table tbody td,
 .store-introduction .daisya_table_cell tbody td,
-.search-results table tbody td {
+.search-results table tbody td,
+.main_c table tbody td {
     position: relative;
 }
 
@@ -499,10 +511,10 @@ a.notype:link {
     margin: auto;
 }
 
-.store-introduction .carry-in-part .picture-container img {
+/*.store-introduction .carry-in-part .picture-container img {
     opacity: 0.7;
 }
-
+*/
 div.black-seperator {
     width: 100%;
     margin: auto;
@@ -603,7 +615,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 }
 
 @media all and (max-width: 767px) {
-    .store-introduction table {
+    .store-introduction table,
+    .main_c table {
         font-size: 1.6vw;
     }
 }
@@ -891,4 +904,311 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 
 .campaign .three-tiles-one:hover .button {
     opacity: 1;
+}
+
+.main_c.row > div {
+    width: 65%;
+    margin: auto;
+}
+
+.shop_menu_table .shop_menu_cell_1 {
+    float: left;
+}
+
+.shop_menu_back > div {
+    margin-bottom: 10px !important;
+}
+
+.shop_menu_info_title {
+    color: deepskyblue;
+    font-size: 1.7vw;
+}
+
+.shop_menu_table, .tenpo_shop_table, .tenpo_shop_table .tenpo_table_cell2 {
+    font-size: 1.1vw;
+}
+
+.tenpo_shop_cell .tenpo_table_cell1 {
+    font-size: 1.2vw;
+    font-weight: bold;
+    text-align: right;
+    padding: 5px;
+}
+
+.tenpo_shop_table a {
+    text-decoration: underline;
+    color: black;
+}
+
+.tenpo_text_1st {
+    font-weight: bold;
+}
+
+.tenpo_staff_cell_p .font_small{
+    font-size: 1vw;
+    text-align: center;
+}
+
+.tenpo_staff_cell_t1{ 
+    font-weight: bold;
+}
+
+.tenpo_staff_hr, .tenpo_hr_sp, .tenpo_staff_hr_sp {
+    width: 98%;
+}
+
+#content-wrapper > div > div.shop_menu_back > div:nth-child(9) .tenpo_text_2nd,
+.tenpo_title,
+.tenpo_title_text,
+.mail_text_n {
+    margin-left: 10px;
+    margin-bottom: 2px;
+    font-size: 1.2vw;
+}
+
+.bq_lineup_title a,
+.lineup_close a {
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+.lineup_close {
+    text-align: center;
+}
+
+.tenpo_title .font_ff0,
+.bq_lineup_title {
+    font-weight: bold;
+    font-size: 1.5vw;
+    color: deepskyblue;
+}
+
+.bq_lineup {
+    display: none;
+}
+
+.bq_lineup div {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.bq_lineup .mail_img {
+    width: 50%;
+    margin: auto;
+}
+
+.only_img_pr_back img {
+    width: auto;
+    max-width: 100%;
+}
+
+.only_img_pr_back a:hover {
+    filter: brightness(120%);
+}
+
+.pr_title_1 {
+    font-weight: bold;
+    font-size: 1.7vw;
+}
+
+.pr_title_2 {
+    font-size: 1.5vw;
+    margin-left: 10px;
+    margin-top: 20px
+}
+
+.black-wrapper div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.large-category-top-text.pr_text {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.main_c table tr div {
+    margin-bottom: 10px;
+}
+
+
+.main_c .slick img {
+  width: 100%;
+  display: block;
+  position: relative;
+/*  transform: translate(0, 0) scale(.3);
+  transition: all .4s ease;*/
+  /*opacity: .5;*/
+}
+
+/*.main_c .slick-slide.lt2 img {
+  transform: translate(-10%, 0) scale(.3);
+
+}
+
+.main_c .slick-slide.lt1 img {
+  opacity: .7;
+  transform: translate(-5%, 0) scale(.3);
+}
+
+.main_c .slick-slide.gt1 img {
+  opacity: .7;
+  transform: translate(5%, 0) scale(.3);
+}
+
+.main_c .slick-slide.gt2 img {
+  transform: translate(-10%, 0) scale(.3);
+}*/
+
+/*.main_c .slick-slide.slick-center img {
+  z-index: 1;
+  transform: scale(1);
+  opacity: 1;
+}*/
+/*
+.main_c .slick-prev,
+.main_c .slick-next {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 50%;
+  appearance: none; 
+  margin-top: -10px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  color: transparent;
+  outline: none;
+  z-index: 100;
+  background-image: url('/assets/img/Daco_4829759.png');
+  background-size: contain;
+}
+*/
+/*
+.main_c .slick-prev {
+  left: 25vw;
+  display: none !important;
+}
+
+.main_c .slick-next {
+  transform: rotate(180deg);
+  display: none !important;
+  right: 25vw;
+}
+
+.main_c .slick-prev:focus,
+.main_c .slick-next:focus {
+  outline: none;
+}*/
+
+.pr_table_cell {
+    text-align: center;
+    font-size: 1.2vw;
+}
+
+.banner-wrapper .pr_r_text_ff0 {
+    color: deepskyblue;
+}
+
+.pr_info_title_730 {
+    font-weight: bold;
+    font-size: 1.5vw;
+}
+
+@media all and (max-width: 750px) {
+  .main_c .slick-prev {
+    left: 1vw;
+  }
+
+  .main_c .slick-next {
+    transform: rotate(180deg);
+    right: 1vw;
+  }
+}
+
+@media all and (max-width: 991px) {
+    .shop_menu_info_title,
+    .pr_title_1 {
+        font-size: 2.3vw
+    }
+
+    .shop_menu_table,
+    .tenpo_shop_table,
+    .pr_table_cell {
+        font-size: 1.7vw
+    }
+
+    .tenpo_title .font_ff0,
+    .bq_lineup_title,
+    .pr_title_2,
+    .pr_info_title_730 {
+        font-size: 1.9vw;
+    }
+
+    #content-wrapper > div > div.shop_menu_back > div:nth-child(9) .tenpo_text_2nd,
+    .tenpo_title,
+    .tenpo_title_text,
+    .mail_text_n {
+        margin-left: 10px;
+        margin-bottom: 2px;
+        font-size: 1.7vw;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .shop_menu_info_title,
+    .pr_title_1 {
+        font-size: 2.6vw
+    }
+
+    .shop_menu_table,
+    .tenpo_shop_table,
+    .pr_table_cell {
+        font-size: 2.3vw
+    }
+
+    .tenpo_title .font_ff0,
+    .bq_lineup_title,
+    .pr_title_2,
+    .pr_info_title_730 {
+        font-size: 2.5vw;
+    }
+
+    #content-wrapper > div > div.shop_menu_back > div:nth-child(9) .tenpo_text_2nd,
+    .tenpo_title,
+    .tenpo_title_text,
+    .mail_text_n {
+        margin-left: 10px;
+        margin-bottom: 2px;
+        font-size: 2.3vw;
+    }
+}
+
+@media all and (min-width: 576px) {
+/*    .img_pc {
+        display: contents;
+    }*/
+    .img_sp,
+    .tenpo_hr_sp,
+    .tenpo_access_title_sp,
+    .tenpo_staff_hr_sp,
+    .pr_title_sp {
+        display: none;
+    }
+
+}
+
+@media all and (max-width: 575px) {
+/*    .img_sp {
+        display: contents;
+    }*/
+    .tenpo_staff_hr,
+    .img_pc,
+    .pr_title_pc {
+        display: none;
+    }
+    .pr_title_sp img {
+        width: 100%;
+    }
 }
