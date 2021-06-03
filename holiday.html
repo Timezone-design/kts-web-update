@@ -12,10 +12,10 @@
 	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css" />
 	<link rel="stylesheet" href="/assets/css/header_blu.css" type="text/css" />
 	<link rel="stylesheet" href="/assets/css/mainbody_blu.css" type="text/css" />
-	<link rel="stylesheet" href="/assets/css/footer_blu.css" type="text/css" />
 	<link rel="stylesheet" href="/assets/css/slick.css" type="text/css" />
 	<link rel="stylesheet" href="/assets/css/custom.css" type="text/css" />
 	<link rel="stylesheet" href="/assets/css/calendar.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/footer_blu.css" type="text/css" />
 	<script src="/assets/js/jquery-3.6.0.min.js"></script>
 	<script src="/assets/js/popper.min.js"></script>
 	<script src="/assets/js/bootstrap.min.js"></script>
@@ -116,16 +116,16 @@
 						<div>
 							<div class="holiday_main">
 								<div class="clearfix"></div>
-								<div class="holiday_title">2021年3月・4月　定休日のご案内</div>
-								<div class="holiday_text">3月・4月は下記の通り営業致します。</div>
+								<div class="holiday_title"><span class="calendar_year"></span>年<span class="calendar_month"></span>月・<span class="calendar_next_month"></span>月　定休日のご案内</div>
+								<div class="holiday_text"><span class="calendar_month"></span>月・<span class="calendar_next_month"></span>月は下記の通り営業致します。</div>
 								<div class="clearfix"></div>
 								<section class="ftco-section">
 									<div class="container">
 										<div class="row">
-											<div class="col-md-12">
+											<div class="col-md-12 col-sm-12">
 												<div class="calendar-section">
 													<div class="row no-gutters">
-														<div class="col-md-6">
+														<div class="col-md-6 col-sm-6 col-xs-6">
 															<div class="calendar calendar-first" id="calendar_first">
 																<div class="calendar_header">
 																	<button class="switch-month switch-left">
@@ -140,7 +140,7 @@
 																<div class="calendar_content"></div>
 															</div>
 														</div>
-														<div class="col-md-6">
+														<div class="col-md-6 col-sm-6 col-xs-6">
 															<div class="calendar calendar-second" id="calendar_second">
 																<div class="calendar_header">
 																	<button class="switch-month switch-left">
@@ -164,6 +164,43 @@
 										</div>
 									</div>
 								</section>
+								<script>
+									var dt = new Date();
+									$('.calendar_year').text(dt.getFullYear());
+									$('.calendar_month').text(dt.getMonth() + 1);
+									$('.calendar_next_month').text(dt.getMonth() + 2);
+									function setExtraHoliday() {
+										if ($('.calendar-first .calendar_content div:nth-child(4)').hasClass('blank')) {
+											console.log('has blank');
+											$('.calendar-first .calendar_content div:nth-child(25)').css({"color": "white", "background-color": "mediumvioletred"});
+										} else {
+											console.log('has no blank');
+											$('.calendar-first .calendar_content div:nth-child(18)').css({"color": "white", "background-color": "mediumvioletred"});
+										}
+										if ($('.calendar-second .calendar_content div:nth-child(4)').hasClass('blank')) {
+											console.log('has blank');
+											$('.calendar-second .calendar_content div:nth-child(25)').css({"color": "white", "background-color": "mediumvioletred"});
+										} else {
+											console.log('has no blank');
+											$('.calendar-second .calendar_content div:nth-child(18)').css({"color": "white", "background-color": "mediumvioletred"});
+										}
+									}
+									setTimeout(function() {
+										setExtraHoliday();
+									}, 300);
+									$('.switch-month.switch-left').click(function() {
+										console.log("button clicked");
+										setTimeout(function() {
+											setExtraHoliday();
+										});
+									});
+									$('.switch-month.switch-right').click(function() {
+										console.log("button clicked");
+										setTimeout(function() {
+											setExtraHoliday();
+										});
+									});
+								</script>
 								<div class="holiday_300">
 									<div class="holiday_300_l_f00"></div>
 									<div class="holiday_300_r">店舗休業日（通販は営業）</div>
@@ -188,6 +225,7 @@
 								</div>
 							</div>
 						</div>
+						<div class="clearfix"></div>
 					</div>
 
 					<!-- Footer Start -->
@@ -202,10 +240,11 @@
 						<div class="clearfix"></div>
 						<br>
 						<div class="footer-places row">
-							<div class="footer-showbox col-md-4">
-								<div class="footer-showbox-img">
+							<div class="footer-showbox row col-md-4 col-sm-4">
+								<div class="footer-showbox-img col-xs-5">
 									<img src="/assets/img/factory.webp" alt="factory" srcset="">
 								</div>
+								<div class="col-xs-7">
 								<div class="footer-showbox-title">
 									<span class="showbox-title">FACTORY</span>
 								</div>
@@ -230,15 +269,17 @@
 										<td class="showbox-right">048-285-8939</td>
 									</tr>
 								</table>
-								<div class="showbox-bottom">
+								</div>
+<div class="showbox-bottom col-xs-12">
 									<a class="arrowed-link" href="/shop_menu/tenpo/factory.html"><span>詳しく見る</span><img
 											src="/assets/img/black_arrow.svg" alt="Header Link"></a>
 								</div>
 							</div>
-							<div class="footer-showbox col-md-4">
-								<div class="footer-showbox-img">
+							<div class="footer-showbox row col-md-4 col-sm-4">
+								<div class="footer-showbox-img col-xs-5">
 									<img src="/assets/img/heiwajima.webp" alt="factory" srcset="">
 								</div>
+								<div class="col-xs-7">
 								<div class="footer-showbox-title">
 									<span class="showbox-title">HEIWAJIMA</span>
 								</div>
@@ -263,15 +304,17 @@
 										<td class="showbox-right">03-5767-5808</td>
 									</tr>
 								</table>
-								<div class="showbox-bottom">
+								</div>
+<div class="showbox-bottom col-xs-12">
 									<a class="arrowed-link" href="/shop_menu/tenpo/heiwajima.html"><span>詳しく見る</span><img
 											src="/assets/img/black_arrow.svg" alt="Header Link"></a>
 								</div>
 							</div>
-							<div class="footer-showbox col-md-4">
-								<div class="footer-showbox-img">
+							<div class="footer-showbox row col-md-4 col-sm-4">
+								<div class="footer-showbox-img col-xs-5">
 									<img src="/assets/img/ichinoe.webp" alt="factory" srcset="">
 								</div>
+								<div class="col-xs-7">
 								<div class="footer-showbox-title">
 									<span class="showbox-title">ICHINOE</span>
 								</div>
@@ -296,7 +339,8 @@
 										<td class="showbox-right">03-3674-2008</td>
 									</tr>
 								</table>
-								<div class="showbox-bottom">
+								</div>
+<div class="showbox-bottom col-xs-12">
 									<a class="arrowed-link" href="/shop_menu/tenpo/ichinoe.html"><span class="ja">詳しく見る</span><img
 											src="/assets/img/black_arrow.svg" alt="Header Link"></a>
 								</div>

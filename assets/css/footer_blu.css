@@ -73,12 +73,17 @@
     .footer-showbox-title {
         font-size: 18px;
         text-align: center;
-        padding-bottom: 40px;
+        padding-bottom: 8px;
+        margin-top: 40px;
     }
 
     .showbox-content td {
-        padding-bottom: 40px;
+        padding-bottom: 15px;
         font-size: 12px;
+    }
+
+    .showbox-content {
+        margin: 0px;
     }
 
     .additional-info {
@@ -93,6 +98,10 @@
     .copyright {
         text-align: center;
         font-size: 12px;
+    }
+
+    .footer-showbox-img {
+        padding-bottom: 25px;
     }
 }
 
@@ -121,57 +130,98 @@
     }
 }
 
+.col-xs-1,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
 @media all and (max-width: 575px) {
     #footer-logo-wrap img {
         width: 96%;
     }
 
     .col-xs-1 {
-        width: 8.33333333%;
+        -ms-flex: 0 0 8.333333%;
+        flex: 0 0 8.333333%;
+        max-width: 8.333333%;
     }
 
     .col-xs-2 {
-        width: 16.6666667%;
+        -ms-flex: 0 0 16.666667%;
+        flex: 0 0 16.666667%;
+        max-width: 16.666667%;
     }
 
     .col-xs-3 {
-        width: 25%;
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
     }
-    
+
     .col-xs-4 {
-        width: 33.3333333%;
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
     }
 
     .col-xs-5 {
-        width: 41.6666667%;
+        -ms-flex: 0 0 41.666667%;
+        flex: 0 0 41.666667%;
+        max-width: 41.666667%;
     }
-    
+
     .col-xs-6 {
-        width: 50%;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
     }
 
     .col-xs-7 {
-        width: 58.3333333%;
+        -ms-flex: 0 0 58.333333%;
+        flex: 0 0 58.333333%;
+        max-width: 58.333333%;
     }
-    
+
     .col-xs-8 {
-        width: 66.6666667%;
+        -ms-flex: 0 0 66.666667%;
+        flex: 0 0 66.666667%;
+        max-width: 66.666667%;
     }
 
     .col-xs-9 {
-        width: 75%;
+        -ms-flex: 0 0 75%;
+        flex: 0 0 75%;
+        max-width: 75%;
     }
 
     .col-xs-10 {
-        width: 83.3333333%;
+        -ms-flex: 0 0 83.333333%;
+        flex: 0 0 83.333333%;
+        max-width: 83.333333%;
     }
 
     .col-xs-11 {
-        width: 91.6666667%;
+        -ms-flex: 0 0 91.666667%;
+        flex: 0 0 91.666667%;
+        max-width: 91.666667%;
     }
 
     .col-xs-12 {
-        width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
     }
 }
-

@@ -11,7 +11,7 @@ img {
 }
 
 .four-of-a-kind-one {
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     padding: 0px;
     text-align: center;
@@ -27,13 +27,38 @@ img {
     transform: translateX(-50%);
 }
 
+.four-of-a-kind-one a.arrowed-link {
+    font-size: 12px;
+    padding-top: 51%;
+}
+
+@media all and (max-width: 991px) {
+    .four-of-a-kind-one a.arrowed-link {
+        font-size: 12px;
+        padding-top: 47%;
+    }
+}
+
 @media all and (max-width: 575px) {
     .four-of-a-kind-one .title {
-        font-size: 3.5vw;
+        font-size: 2.5vw;
+        top: 20%;
     }
 
-    .four-of-a-kind-one .arrowed-link a {
-        font-size: 3.5vw;
+    .four-of-a-kind-one a.arrowed-link {
+        font-size: 2vw;
+        padding-top: 47%;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .four-of-a-kind-one .title {
+        font-size: 2.5vw;
+        top: 37%;
+    }
+
+    .four-of-a-kind-one a.arrowed-link {
+        font-size: 2vw;
         padding-top: 47%;
     }
 }
@@ -1311,8 +1336,101 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     text-align: center;
 }
 
+.holiday_300_r,
+.holiday_500 {
+    font-size: 1.5vw;
+}
+
+.holiday_500 {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.holiday_main > div{
+    text-align: center;
+}
+
+.holiday_main .holiday_300_l_f00,
+.holiday_main .holiday_300_l_00f,
+.holiday_main .holiday_300_l_0f0 {
+    height: 25px;
+    width: 70px;
+    margin-right: 20px;
+    margin-left: 32%;
+}
+.holiday_main .holiday_300_l_f00 {
+    background-color: mediumvioletred;  
+}   
+
+.holiday_main .holiday_300_l_00f {
+    background-color: cornflowerblue;
+}
+
+.holiday_main .holiday_300_l_0f0 {
+    background-color: green;
+}
+
+.holiday_main .holiday_300 {
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
 .ftco-section {
     padding: 0 !important;
+}
+
+.calendar_weekdays {
+    font-weight: bold;
+    background-color: bisque;
+}
+
+.calendar_weekdays > div:first-child {
+    color: mediumvioletred;
+}
+
+.calendar_weekdays > div:last-child {
+    color: cornflowerblue;
+}
+
+.calendar_content div {
+    font-weight: bold;
+}
+
+.calendar_content div:nth-child(1),
+.calendar_content div:nth-child(8),
+.calendar_content div:nth-child(15),
+.calendar_content div:nth-child(22),
+.calendar_content div:nth-child(29),
+.calendar_content div:nth-child(36) {
+    background-color: cornflowerblue;
+    color: mediumvioletred;
+}
+
+.calendar_content div:nth-child(7),
+.calendar_content div:nth-child(14),
+.calendar_content div:nth-child(21),
+.calendar_content div:nth-child(28),
+.calendar_content div:nth-child(35), 
+.calendar_content div:nth-child(42) {
+    color: white;
+    background-color: cornflowerblue;
+}
+
+.calendar_content div:nth-child(5),
+.calendar_content div:nth-child(12),
+.calendar_content div:nth-child(19),
+.calendar_content div:nth-child(26),
+.calendar_content div:nth-child(33),
+.calendar_content div:nth-child(40) {
+    color: white;
+    background-color: mediumvioletred;
+}
+
+.calendar_content div.blank {
+    background-color: transparent;
 }
 
 @media all and (max-width: 750px) {
@@ -1350,7 +1468,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .pr_title_2,
     .pr_info_title_730,
     .set_menu_n .item_info_text_middle,
-    .holiday_text {
+    .holiday_text,
+    .holiday_300_r {
         font-size: 1.9vw;
     }
 
@@ -1383,7 +1502,7 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     }
 }
 
-@media all and (max-width: 767px) {
+@media only screen and (max-width: 767px) {
     .shop_menu_info_title,
     .pr_title_1,
     .holiday_title {
@@ -1400,7 +1519,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .set_menu_n .item_caution,
     .tenpo_table_cell1,
     .tenpo_table_cell2,
-    .holiday_text {
+    .holiday_text,
+    .holiday_300_r {
         font-size: 2.3vw;
     }
 
@@ -1419,6 +1539,17 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
         margin-left: 10px;
         margin-bottom: 2px;
         font-size: 2.3vw;
+    }
+
+    .calendar_weekdays div,
+    .calendar_content div,
+    .calendar_content .today {
+        font-size: 2vw !important;
+    }
+
+    .calendar_weekdays,
+    .calendar_content {
+        font-size: 2vw;
     }
 
     .tire-wheel > div {
@@ -1472,5 +1603,20 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .tenpo_table_cell2 {
         font-size: 2.3vw !important;
         padding: 10px !important;
+    }
+    
+    .calendar_weekdays div,
+    .calendar_content div,
+    .calendar_content .today {
+        font-size: 2.5vw !important;
+    }
+
+    .calendar_content div {
+        line-height: 3vw !important;
+    }
+
+    .calendar_header h2 {
+        margin: 0;
+        font-size: 17px;
     }
 }

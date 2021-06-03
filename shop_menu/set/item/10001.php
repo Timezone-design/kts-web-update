@@ -509,10 +509,11 @@
 						<div class="clearfix"></div>
 						<br>
 						<div class="footer-places row">
-							<div class="footer-showbox col-md-4">
-								<div class="footer-showbox-img">
+							<div class="footer-showbox row col-md-4 col-sm-4">
+								<div class="footer-showbox-img col-xs-5">
 									<img src="/assets/img/factory.webp" alt="factory" srcset="">
 								</div>
+								<div class="col-xs-7">
 								<div class="footer-showbox-title">
 									<span class="showbox-title">FACTORY</span>
 								</div>
@@ -537,15 +538,17 @@
 										<td class="showbox-right">048-285-8939</td>
 									</tr>
 								</table>
-								<div class="showbox-bottom">
+								</div>
+<div class="showbox-bottom col-xs-12">
 									<a class="arrowed-link" href="/shop_menu/tenpo/factory.html"><span>詳しく見る</span><img
 											src="/assets/img/black_arrow.svg" alt="Header Link"></a>
 								</div>
 							</div>
-							<div class="footer-showbox col-md-4">
-								<div class="footer-showbox-img">
+							<div class="footer-showbox row col-md-4 col-sm-4">
+								<div class="footer-showbox-img col-xs-5">
 									<img src="/assets/img/heiwajima.webp" alt="factory" srcset="">
 								</div>
+								<div class="col-xs-7">
 								<div class="footer-showbox-title">
 									<span class="showbox-title">HEIWAJIMA</span>
 								</div>
@@ -570,16 +573,18 @@
 										<td class="showbox-right">03-5767-5808</td>
 									</tr>
 								</table>
-								<div class="showbox-bottom">
+								</div>
+<div class="showbox-bottom col-xs-12">
 									<a class="arrowed-link"
 										href="/shop_menu/tenpo/heiwajima.html"><span>詳しく見る</span><img
 											src="/assets/img/black_arrow.svg" alt="Header Link"></a>
 								</div>
 							</div>
-							<div class="footer-showbox col-md-4">
-								<div class="footer-showbox-img">
+							<div class="footer-showbox row col-md-4 col-sm-4">
+								<div class="footer-showbox-img col-xs-5">
 									<img src="/assets/img/ichinoe.webp" alt="factory" srcset="">
 								</div>
+								<div class="col-xs-7">
 								<div class="footer-showbox-title">
 									<span class="showbox-title">ICHINOE</span>
 								</div>
@@ -604,7 +609,8 @@
 										<td class="showbox-right">03-3674-2008</td>
 									</tr>
 								</table>
-								<div class="showbox-bottom">
+								</div>
+<div class="showbox-bottom col-xs-12">
 									<a class="arrowed-link" href="/shop_menu/tenpo/ichinoe.html"><span
 											class="ja">詳しく見る</span><img src="/assets/img/black_arrow.svg"
 											alt="Header Link"></a>
