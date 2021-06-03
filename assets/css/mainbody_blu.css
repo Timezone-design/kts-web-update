@@ -431,15 +431,25 @@ a.notype:link {
 @media all and (max-width: 767px) {
 
     .large-category-top-text div,
-    .small-category-top-text div {
+    .small-category-top-text {
         font-size: 1.8vw;
+    }
+    .large-category .row,
+    .small-category .row,
+    .tire .row {
+        width: 90%;
+        margin: auto;
+    }
+
+    .four-tiles-title {
+        font-size: 2.3vw;
     }
 }
 
 @media all and (max-width: 575px) {
 
     .large-category-top-text div,
-    .small-category-top-text div {
+    .small-category-top-text {
         font-size: 2.5vw;
     }
 }
