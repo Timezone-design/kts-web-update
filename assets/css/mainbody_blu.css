@@ -1032,77 +1032,6 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     margin-bottom: 10px;
 }
 
-
-/*.main_c .slick img {
-  width: 100%;
-  display: block;
-  position: relative;*/
-/*  transform: translate(0, 0) scale(.3);
-  transition: all .4s ease;*/
-  /*opacity: .5;*/
-}
-
-/*.main_c .slick-slide.lt2 img {
-  transform: translate(-10%, 0) scale(.3);
-
-}
-
-.main_c .slick-slide.lt1 img {
-  opacity: .7;
-  transform: translate(-5%, 0) scale(.3);
-}
-
-.main_c .slick-slide.gt1 img {
-  opacity: .7;
-  transform: translate(5%, 0) scale(.3);
-}
-
-.main_c .slick-slide.gt2 img {
-  transform: translate(-10%, 0) scale(.3);
-}*/
-
-/*.main_c .slick-slide.slick-center img {
-  z-index: 1;
-  transform: scale(1);
-  opacity: 1;
-}*/
-/*
-.main_c .slick-prev,
-.main_c .slick-next {
-  width: 30px;
-  height: 30px;
-  position: absolute;
-  top: 50%;
-  appearance: none; 
-  margin-top: -10px;
-  padding: 0;
-  border: 0;
-  background: none;
-  cursor: pointer;
-  color: transparent;
-  outline: none;
-  z-index: 100;
-  background-image: url('/assets/img/Daco_4829759.png');
-  background-size: contain;
-}
-*/
-/*
-.main_c .slick-prev {
-  left: 25vw;
-  display: none !important;
-}
-
-.main_c .slick-next {
-  transform: rotate(180deg);
-  display: none !important;
-  right: 25vw;
-}
-
-.main_c .slick-prev:focus,
-.main_c .slick-next:focus {
-  outline: none;
-}*/
-
 .pr_table_cell {
     text-align: center;
     font-size: 1.2vw;
@@ -1192,7 +1121,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     height: 24vw;
 }
 
-.set_menu_n .item_info_text_middle {
+.set_menu_n .item_info_text_middle,
+.houjin_text {
     font-size: 1.5vw;
 }
 
@@ -1206,12 +1136,62 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     width: auto;
 }
 
-.set_sale_back .search_category {
+.set_sale_back .search_category,
+.houjin_table {
     text-align: center;
 }
 
+
+.houjin_text,
+.houjin_title {
+    font-weight: bold;
+}
+
+.houjin_title {
+    font-size: 2vw;
+}
+
+.houjin_tel_pc,
+.houjin_fax {
+    display: inline-block;
+    font-size: 3vw;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.houjin_text_cell_r {
+    color: deepskyblue;
+}
+
+.houjin_text_cell_r,
+.houjin_text_cell_l {
+    font-size: 1vw;
+    display: inline-block;
+    margin: 10px;
+}
+
+.houjin_text .font_ff0 {
+    color: deepskyblue;
+}
+
+.houjin_hp_link img,
+.houjin_cell_pdf img {
+    width: auto;
+}
+
+.houjin_cell_pdf {
+    float: left;
+}
+
+.houjin_cell_text {
+    float: left;
+    margin-left: 20px;
+}
+
 .set_sale_back > table,
-.set_sale_back > table td {
+.set_sale_back > table td,
+.tenpo_shop_cell table,
+.tenpo_shop_cell table td {
     border: none;
     box-shadow: none;
     background-color: transparent;
@@ -1227,6 +1207,64 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 
 .set_sale_back .scroll .noselect_car {
     text-align: center;
+}
+
+.tire-wheel > div {
+    width: 75%;
+    margin: auto;
+}
+
+.tire-wheel .slideshow img {
+    width: auto;
+    height: auto;
+}
+
+.tire-wheel .slideshow ul img {
+    width: 50px;
+    height: 50px;
+}
+
+.tire-wheel .slideshow li {
+    padding: 10px;
+}
+
+.tire-wheel .slideshow .tab-content img {
+    width: 100%;
+    height: auto;
+}
+
+.black-wrapper.tire-wheel div {
+    margin-left: 0;
+    margin-right: 0;
+    margin: auto;
+}
+
+.black-wrapper.tire-wheel table {
+    color: white;
+}
+
+.tire-wheel div > table,
+.tire-wheel div > table table {
+    width: 100%;
+}
+
+.tire-wheel div > table:last-child table.tsuhan tr:not(.tsuhan_title) {
+    background-color: white;
+    color: black;
+}
+
+.tire-wheel div > table:last-child .tsuhan_title {
+    background-color: grey;
+    color: white;
+}
+
+.th_back .th_title_730 {
+    text-align: center;
+    width: 100%;
+}
+
+.th_footer_730_text {
+    color: deepskyblue;
 }
 
 @media all and (max-width: 750px) {
@@ -1252,7 +1290,9 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .mail_text_f00,
     .set_menu_n .item_info_text_middle_b,
     .set_menu_n .set_menu_n_cell,
-    .set_menu_n .item_caution {
+    .set_menu_n .item_caution,
+    .tenpo_table_cell1,
+    .tenpo_table_cell2 {
         font-size: 1.7vw
     }
 
@@ -1273,12 +1313,30 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
         margin-bottom: 2px;
         font-size: 1.7vw;
     }
+
+    .houjin_title {
+        font-size: 2.5vw;
+    }
+
+    .houjin_text {
+        font-size: 2vw;
+    }
+
+    .houjin_tel_pc,
+    .houjin_fax {
+        font-size: 6vw;
+    }
+
+    .houjin_text_cell_l,
+    .houjin_text_cell_r {
+        font-size: 2vw;
+    }
 }
 
 @media all and (max-width: 767px) {
     .shop_menu_info_title,
     .pr_title_1 {
-        font-size: 2.6vw
+        font-size: 2.6vw;
     }
 
     .shop_menu_table,
@@ -1288,8 +1346,10 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .wheel .th_footer_730_text,
     .set_menu_n .item_info_text_middle_b,
     .set_menu_n .set_menu_n_cell,
-    .set_menu_n .item_caution {
-        font-size: 2.3vw
+    .set_menu_n .item_caution,
+    .tenpo_table_cell1,
+    .tenpo_table_cell2 {
+        font-size: 2.3vw;
     }
 
     .tenpo_title .font_ff0,
@@ -1308,6 +1368,14 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
         margin-bottom: 2px;
         font-size: 2.3vw;
     }
+
+    .tire-wheel > div {
+        width: 90%;
+    }
+    
+    .main_c.row > div {
+        width: 90%;
+    }
 }
 
 @media all and (min-width: 576px) {
@@ -1319,7 +1387,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .tenpo_access_title_sp,
     .tenpo_staff_hr_sp,
     .pr_title_sp,
-    .wheel .footer_tenpo_sp {
+    .wheel .footer_tenpo_sp,
+    .footer_tenpo_sp {
         display: none;
     }
 
@@ -1332,10 +1401,24 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .tenpo_staff_hr,
     .img_pc,
     .pr_title_pc,
-    .wheel .footer_tenpo_table {
+    .footer_tenpo_table {
         display: none;
     }
     .pr_title_sp img {
-        width: 100%;
+        width: 95%;
+    }
+
+    .tire-wheel > div {
+        width: 95%;
+    }
+
+    .main_c.row > div {
+        width: 95%;
+    }
+
+    .tenpo_table_cell1,
+    .tenpo_table_cell2 {
+        font-size: 2.3vw !important;
+        padding: 10px !important;
     }
 }
