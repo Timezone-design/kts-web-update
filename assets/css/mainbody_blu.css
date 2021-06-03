@@ -496,6 +496,10 @@ a.notype:link {
     font-size: 1.5vw;
 }
 
+.store-introduction .payment-note .text {
+    font-size: 1.2vw;
+}
+
 .store-introduction .section-title {
     width: 100%;
     text-align: center;
@@ -744,6 +748,11 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     margin-bottom: 15px;
 }
 
+.store-introduction .small-category-top-text .table-name,
+.store-introduction .small-category-top-text table td {
+    font-size: 1.5vw;
+}
+
 @media all and (max-width: 767px) {
     .store-introduction .daisya_back {
         font-size: 2vw !important;
@@ -788,6 +797,10 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
         font-size: 2.5vw !important;
     }
 
+    .store-introduction .small-category-top-text .table-name,
+    .store-introduction .small-category-top-text table td {
+        font-size: 2.5vw;
+    }
 }
 
 .original-product .three-tiles-one a:hover span::after {
@@ -1501,9 +1514,25 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 }
 
 @media all and (max-width: 991px) {
+
+    .workcost-table table {
+        width: 80%;
+        font-size: 1.5vw;
+    }
+
+    .store-introduction .daisya_table_cell .daisya_list_table td {
+        padding: 8px;
+        font-size: 1.5vw;
+    }
+
+    .workcost-table table td {
+        font-size: 1.5vw !important;
+    }
+
     .shop_menu_info_title,
     .pr_title_1,
-    .holiday_title {
+    .holiday_title,
+    .store-introduction .payment-note .title {
         font-size: 2.3vw
     }
 
@@ -1516,7 +1545,7 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .set_menu_n .item_caution,
     .tenpo_table_cell1,
     .tenpo_table_cell2 {
-        font-size: 1.7vw
+        font-size: 1.7vw !important;
     }
 
     .tenpo_title .font_ff0,
@@ -1525,8 +1554,11 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .pr_info_title_730,
     .set_menu_n .item_info_text_middle,
     .holiday_text,
-    .holiday_300_r {
-        font-size: 1.9vw;
+    .holiday_300_r,
+    .store-introduction .payment-note .text,
+    div.grey-wrapper.row.change-tire>div.table-bottom-info.ja,
+    .store-introduction .tire-replace-note {
+        font-size: 1.9vw !important;
     }
 
     #content-wrapper > div > div.shop_menu_back > div:nth-child(9) .tenpo_text_2nd,
@@ -1556,12 +1588,41 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .houjin_text_cell_r {
         font-size: 2vw;
     }
+
+    .store-introduction .koutin_price_box .tire_text_f00 {
+        font-size: 1.2vw;
+    }
 }
 
-@media only screen and (max-width: 767px) {
+@media all and (max-width: 767px) {
+    
+    .workcost-table table {
+        width: 80%;
+    }
+    
+    .store-introduction .daisya_table_cell .daisya_list_table td {
+        padding: 8px;
+    }
+
+    .workcost-table table td {
+        padding: 8px !important;
+        font-size: 2vw !important;
+    }
+
+    .set_menu_n .swiper-container {
+        height: 65vw;
+    }
+
+    .set_menu_n .swiper-button-prev,
+    .set_menu_n .swiper-button-next {
+        /*transform: translateY(-80px);*/
+        top: 32vw !important;
+    }
+
     .shop_menu_info_title,
     .pr_title_1,
-    .holiday_title {
+    .holiday_title,
+    .store-introduction .payment-note .title {
         font-size: 2.6vw;
     }
 
@@ -1576,7 +1637,9 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .tenpo_table_cell1,
     .tenpo_table_cell2,
     .holiday_text,
-    .holiday_300_r {
+    .holiday_300_r,
+    .store-introduction .daisya_title,
+    .store-introduction .daisya_text_title {
         font-size: 2.3vw;
     }
 
@@ -1592,19 +1655,23 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .tenpo_title,
     .tenpo_title_text,
     .mail_text_n {
-        margin-left: 10px;
-        margin-bottom: 2px;
-        font-size: 2.3vw;
+        margin-left: 10px !important;
+        margin-bottom: 2px !important;
+        font-size: 2.3vw !important;
     }
 
     .calendar_weekdays div,
     .calendar_content div,
-    .calendar_content .today {
+    .calendar_content .today,
+    .store-introduction .payment-note .text {
         font-size: 2vw !important;
     }
 
     .calendar_weekdays,
-    .calendar_content {
+    .calendar_content,
+    div.grey-wrapper.row.change-tire>div.table-bottom-info.ja,
+    .store-introduction .tire-replace-note,
+    .store-introduction .daisya_text {
         font-size: 2vw;
     }
 
@@ -1614,6 +1681,10 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     
     .main_c.row > div {
         width: 90%;
+    }
+
+    .store-introduction .other-info {
+        width: 95% !important;
     }
 }
 
@@ -1637,6 +1708,19 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 /*    .img_sp {
         display: contents;
     }*/
+    .store-introduction .other-info {
+        width: 95% !important;
+    }
+
+    .workcost-table {
+        width: 95% !important;
+    }
+
+    .workcost-table table td {
+        padding: 2px !important;
+        font-size: 2.5vw !important;
+    }
+
     .tenpo_staff_hr,
     .img_pc,
     .pr_title_pc,
