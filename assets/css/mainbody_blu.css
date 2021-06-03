@@ -247,9 +247,11 @@ img {
     color: white;
 }
 
-.three-tiles {
-    width: 87%;
-    margin: auto;
+@media all and (max-width: 575px) {
+    .three-tiles {
+        width: 87% !important;
+        margin: auto;
+    }
 }
 
 .three-tiles-one {
@@ -364,6 +366,10 @@ a.notype:link {
     .three-tiles .image-inside-wrapper p {
         margin-bottom: 0rem;
     }
+
+    .banner-wrapper {
+        width: 90% !important;
+    }
 }
 
 .four-tiles-one {
@@ -427,6 +433,14 @@ a.notype:link {
     .large-category-top-text div,
     .small-category-top-text div {
         font-size: 1.8vw;
+    }
+}
+
+@media all and (max-width: 575px) {
+
+    .large-category-top-text div,
+    .small-category-top-text div {
+        font-size: 2.5vw;
     }
 }
 
