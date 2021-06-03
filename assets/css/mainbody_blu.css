@@ -1295,6 +1295,26 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     text-align: center;
 }
 
+.calendar {
+    margin: 0 10px !important;
+}
+
+.holiday_title {
+    font-size: 2vw;
+    text-align: center;
+    color: black;
+}
+
+.holiday_text {
+    font-size: 1.7vw;
+    color: black;
+    text-align: center;
+}
+
+.ftco-section {
+    padding: 0 !important;
+}
+
 @media all and (max-width: 750px) {
   .main_c .slick-prev {
     left: 1vw;
@@ -1308,7 +1328,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 
 @media all and (max-width: 991px) {
     .shop_menu_info_title,
-    .pr_title_1 {
+    .pr_title_1,
+    .holiday_title {
         font-size: 2.3vw
     }
 
@@ -1328,7 +1349,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .bq_lineup_title,
     .pr_title_2,
     .pr_info_title_730,
-    .set_menu_n .item_info_text_middle {
+    .set_menu_n .item_info_text_middle,
+    .holiday_text {
         font-size: 1.9vw;
     }
 
@@ -1363,7 +1385,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 
 @media all and (max-width: 767px) {
     .shop_menu_info_title,
-    .pr_title_1 {
+    .pr_title_1,
+    .holiday_title {
         font-size: 2.6vw;
     }
 
@@ -1376,7 +1399,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .set_menu_n .set_menu_n_cell,
     .set_menu_n .item_caution,
     .tenpo_table_cell1,
-    .tenpo_table_cell2 {
+    .tenpo_table_cell2,
+    .holiday_text {
         font-size: 2.3vw;
     }
 
