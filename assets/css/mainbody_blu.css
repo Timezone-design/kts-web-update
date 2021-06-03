@@ -179,6 +179,7 @@ img {
     border-radius: 0px 0px 10px 10px;
     box-shadow: 0 1px 8px 0 rgb(0 0 0 / 20%), 0 1px 8px 0 rgb(0 0 0 / 19%);
     min-height: 17.7vw;
+    position: relative;
     /* float:left; */
 }
 
@@ -200,6 +201,13 @@ img {
     bottom: 10px;
 }
 
+@media all and (max-width: 575px) {
+    .four-square {
+        width: 90%;
+        margin: auto;
+    }
+}
+
 @media all and (max-width: 991px) {
     .four-square-one .description div.arrowed-link {
         font-size: 7.8px !important;
@@ -208,6 +216,10 @@ img {
     .four-square-one .description {
         padding: 12px 25px;
         font-size: 7.8px;
+    }
+
+    .four-square-one .description .ja {
+        margin-bottom: 20px;
     }
 }
 
@@ -313,6 +325,26 @@ a.notype:link {
 
 .three-tiles .image-inside-wrapper p {
     margin-bottom: 0.5rem;
+}
+
+@media all and (max-width: 991px) {
+
+    .three-tiles-one .three-tiles-blue-border {
+        font-size: 3.86vw;
+    }
+
+    .three-tiles-one .three-tiles-title {
+        font-size: 1.5vw;
+        padding: 0px;
+    }
+
+    .three-tiles .three-tiles-text {
+        font-size: 1.2vw;
+    }
+
+    .three-tiles .image-inside-wrapper p {
+        margin-bottom: 0rem;
+    }
 }
 
 @media all and (max-width: 767px) {
