@@ -221,7 +221,7 @@
 								<div class="clearfix"></div>
 								<h2 class="ja">車種別に商品の適合を検索できます。</h2>
 								<div class="clearfix"></div>
-								<form action="/<?=$uri?>" method="post" class="row ja">
+								<form action="<?=$uri?>" method="post" class="row ja">
 									<div class="search-select col-md-4 col-sm-4">
 										<select class="custom-select-lg" name="inch"
 											onchange="this.form.tire_width=''; this.form.flatness = ''; submit(this.form)">
