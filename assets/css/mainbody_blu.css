@@ -793,6 +793,10 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     margin: 15px 0;
 }
 
+.search-block {
+    width: 100%;
+}
+
 .search-block h1,
 .search-block h2 {
     text-align: center;
@@ -1265,6 +1269,30 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 
 .th_footer_730_text {
     color: deepskyblue;
+}
+
+.pr_table .container .nav li {
+    width: 10%;
+    /* margin: auto; */
+    padding: 1px;
+}
+
+.pr_table .container .nav li:first-child {
+    margin-left: auto;
+}
+
+.pr_table .container .nav li:last-child {
+    margin-right: auto;
+}
+
+.pr_table .nav-tabs {
+    border-bottom: 0;
+}
+
+.pr_table .container .tab-content .tab-pane div {
+    width: 50%;
+    margin: auto;
+    text-align: center;
 }
 
 @media all and (max-width: 750px) {

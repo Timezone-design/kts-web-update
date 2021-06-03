@@ -74,6 +74,7 @@ fclose($handle);
 			</select>
 		</div>
 	  	<br>
+			<div class="clearfix"></div>
 	  	<button class="btn-search" type="submit"><img src="/assets/img/search_button.png" alt="Search"><div class="ja">検索</div></button>
 	</form>
 	<?php if(count($filtered_products) > 0){ ?>

@@ -9,73 +9,178 @@
 	<link rel="stylesheet" href="../../script/swiper/css/swiper.css">
 
 	<title>KTS-web 商品ラインナップ Swift 直巻きレーシングサスペンションスプリング</title>
-<?php include('../../../_partials/header.html'); ?>
+	<link rel="stylesheet" href="/assets/css/search.css" type="text/css" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+		type="text/css" />
+	<link rel="stylesheet" href="/assets/css/header_blu.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/mainbody_blu.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/footer_blu.css" type="text/css" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" type="text/css" />
+	<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/custom.css" type="text/css" />
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	<script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+</head>
 
-	<div class="main_c row grey-wrapper">
-		<div class="clearfix"></div>
-		<div class="set_sale_back">
-			<div class="space3px"></div>
-			<div class="set_menu_n row">
-				<div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
-					<div><img src="../../brand/img/1088.gif" alt="直巻きレーシングサスペンションスプリング"></div>
-				</div>
-				<div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
-					<div class="item_info_text_middle">
-						<p>Swift[スイフト]</p>
-					</div>
-					<div class="item_info_text_middle_b">
-						<p>直巻きレーシングサスペンションスプリング</p>
-					</div>
-				</div>
-			</div>
+<body>
+	<main>
+		<section id="wrapper">
+			<div class="section-container">
+				<div id="content-wrapper">
+					<!-- Header Start -->
 
-			<div class="set_menu_n row">
-				<div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
-					<div>
-					<div class="swiper-container">
-						<div class="swiper-wrapper">
-							<div class="swiper-slide"><img src="../../item_img/10001_1.jpg"
-									alt="直巻きレーシングサスペンションスプリング"></div>
-							<div class="swiper-slide"><img src="../../item_img/10001_2.jpg"
-									alt="直巻きレーシングサスペンションスプリング"></div>
-							<div class="swiper-slide"><img src="../../item_img/10001_3.jpg"
-									alt="直巻きレーシングサスペンションスプリング"></div>
+					<header class="site-header">
+						<nav class="navbar navbar-expand-lg navbar-dark">
+							<a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.webp"
+									alt="Company Logo" srcset=""></a>
+							<button class="navbar-toggler" type="button" data-toggle="collapse"
+								data-target="#navbarText" aria-controls="navbarText" aria-expanded="false"
+								aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarText">
+								<ul class="navbar-nav ml-auto">
+									<li class="nav-item">
+										<a class="nav-link" href="/">
+											<div class="ja">トップ</div>
+											<div class="en">TOP</div>
+										</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="/shop_menu/set/index.html">
+											<div class="ja">ショップメニュー</div>
+											<div class="en">SHOP MENU</div>
+										</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="/product/index.html">
+											<div class="ja">オリジナル商品</div>
+											<div class="en">ORIGINAL PRODUCT</div>
+										</a>
+									</li>
+									<li class="nav-item"><a class="nav-link" href="/tire_wheel/index.html">
+											<div class="ja">タイヤ・ホイール</div>
+											<div class="en">TIRE / WHEEL</div>
+										</a>
+									</li>
+									<li class="nav-item"><a class="nav-link" href="/campaign/index.html">
+											<div class="ja">キャンペーン</div>
+											<div class="en">CAMPAIGN</div>
+										</a>
+									</li>
+									<li class="nav-item"><a class="nav-link" href="/wholesale/index.html">
+											<div class="ja">業販</div>
+											<div class="en">WHOLESALE</div>
+										</a>
+									</li>
+									<li class="nav-item"><a class="nav-link" href="/blog/">
+											<div class="ja">ブログ</div>
+											<div class="en">BLOG</div>
+										</a></li>
+									<li class="nav-item"><a class="nav-link" href="/company.html">
+											<div class="ja">会社概要</div>
+											<div class="en">COMPANY</div>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</nav>
+						<div class="clearfix"></div>
+						<div id="top-carousel">
+							<div id="header-carousel-name" class="arrowed-title">
+								<h1>PICK UP</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow" srcset="">
+							</div>
+							<div class="clearfix toggle"></div>
+							<div class="clearfix toggle"></div>
+							<div class="slick-wrapper">
+								<div class="slick">
+									<div><a href="/product/index.html"><img
+												src="/assets/img/home/hks_202103_05_camp_480.webp"></a></div>
+									<div><a href="/shop_menu/set/ch_ma/liqui_moly_dpf.html"><img
+												src="/assets/img/home/liqui_moly_dpf_480.webp"></a></div>
+									<div><a href="/shop_menu/set/ch_ma/10674.html"><img
+												src="/assets/img/home/mahle_ozone_pro_480.webp"></a></div>
+									<div><a href="/tire_wheel/tire/index.html"><img
+												src="/assets/img/home/tire_wheel_480.webp"></a></div>
+								</div>
+							</div>
 						</div>
-						<div class="swiper-button-prev"></div>
-						<div class="swiper-button-next"></div>
-					</div>
-					</div>
-					<div class="item_caution">
-						<p>※写真はイメージ・代表画像です。 </p>
-						<p>※実際の商品とカラーやイメージが異なる場合がございます。</p>
-					</div>
-				</div>
+						<div class="clearfix"></div>
+						<div id="header-link" class="row">
+							<a class="arrowed-link" href="javascript:void()" id="header-link"><span>詳しく見る</span><img
+									src="/assets/img/black_arrow.svg" alt="Header Link"></a>
+						</div>
+						<div class="clearfix"></div>
+					</header>
+					<!-- Header End -->
 
-				<div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
-					<div class="tab_wrap">
-						<ul class="nav nav-tabs">
-					    <li class="active"><a data-toggle="tab" href="#home">【商品説明】</a></li>
-					    <li><a data-toggle="tab" href="#menu2">【主な仕様】</a></li>
-					  </ul>
-					  
-					  <div class="tab-content">
-					    <div id="home" class="tab-pane fade in active show">
-					      <p>専用材高強度鋼線の採用により、耐疲労・耐へたり性に優れているほか、大幅な軽量化を実現しています。独自の加工により、高応力域での使用を実現。柔軟かつ強剛な特性が得られます。また、スプリングの軽量化により復帰速度（回復性）を従来に比べ約10％向上。路面に対する追従性、コーナリング時のより早い車体の安定性、スムーズな操舵性を実現します。<br>取付詳細は<a
-										href="../damper/hyperco_swift.html">コチラ</a></p>
-					    </div>
-					    <div id="menu2" class="tab-pane fade">
-					      <p>・材質:専用材高強度鋼線H5S・TW<br>・運動性能:復帰速度(回復性)を従来比約10％向上<br>・ID:60/65/70/75(LONG)mm
-								</p>
-					    </div>
-					  </div>
-					  <script>
-					  	$('.nav-tabs a').click(function () {
-					  		$('.nav-tabs li.active').removeClass('active');
-					  		$(this).parent().css("background-color", "white");
-					  		$(this).parent().siblings().css("background-color", "transparent");
-					  	});
-					  </script>
-						<!-- <input id="tab1" type="radio" name="tab_btn" checked>
+					<div class="main_c row grey-wrapper">
+						<div class="clearfix"></div>
+						<div class="set_sale_back">
+							<div class="space3px"></div>
+							<div class="set_menu_n row">
+								<div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
+									<div><img src="../../brand/img/1088.gif" alt="直巻きレーシングサスペンションスプリング"></div>
+								</div>
+								<div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
+									<div class="item_info_text_middle">
+										<p>Swift[スイフト]</p>
+									</div>
+									<div class="item_info_text_middle_b">
+										<p>直巻きレーシングサスペンションスプリング</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="set_menu_n row">
+								<div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
+									<div>
+										<div class="swiper-container">
+											<div class="swiper-wrapper">
+												<div class="swiper-slide"><img src="../../item_img/10001_1.jpg"
+														alt="直巻きレーシングサスペンションスプリング"></div>
+												<div class="swiper-slide"><img src="../../item_img/10001_2.jpg"
+														alt="直巻きレーシングサスペンションスプリング"></div>
+												<div class="swiper-slide"><img src="../../item_img/10001_3.jpg"
+														alt="直巻きレーシングサスペンションスプリング"></div>
+											</div>
+											<div class="swiper-button-prev"></div>
+											<div class="swiper-button-next"></div>
+										</div>
+									</div>
+									<div class="item_caution">
+										<p>※写真はイメージ・代表画像です。 </p>
+										<p>※実際の商品とカラーやイメージが異なる場合がございます。</p>
+									</div>
+								</div>
+
+								<div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
+									<div class="tab_wrap">
+										<ul class="nav nav-tabs">
+											<li class="active"><a data-toggle="tab" href="#home">【商品説明】</a></li>
+											<li><a data-toggle="tab" href="#menu2">【主な仕様】</a></li>
+										</ul>
+
+										<div class="tab-content">
+											<div id="home" class="tab-pane fade in active show">
+												<p>専用材高強度鋼線の採用により、耐疲労・耐へたり性に優れているほか、大幅な軽量化を実現しています。独自の加工により、高応力域での使用を実現。柔軟かつ強剛な特性が得られます。また、スプリングの軽量化により復帰速度（回復性）を従来に比べ約10％向上。路面に対する追従性、コーナリング時のより早い車体の安定性、スムーズな操舵性を実現します。<br>取付詳細は<a
+														href="../damper/hyperco_swift.html">コチラ</a></p>
+											</div>
+											<div id="menu2" class="tab-pane fade">
+												<p>・材質:専用材高強度鋼線H5S・TW<br>・運動性能:復帰速度(回復性)を従来比約10％向上<br>・ID:60/65/70/75(LONG)mm
+												</p>
+											</div>
+										</div>
+										<script>
+											$('.nav-tabs a').click(function () {
+												$('.nav-tabs li.active').removeClass('active');
+												$(this).parent().css("background-color", "white");
+												$(this).parent().siblings().css("background-color", "transparent");
+											});
+										</script>
+										<!-- <input id="tab1" type="radio" name="tab_btn" checked>
 						<input id="tab2" type="radio" name="tab_btn">
 						<div class="tab_area">
 							<label class="tab1_label" for="tab1">【商品説明】</label>
@@ -91,158 +196,419 @@
 								</p>
 							</div>
 						</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="clearfix"></div>
+
+							<table style="table-layout:fixed;" width="100%">
+
+								<!--ココまでSP-->
+								<tr>
+									<p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a
+											class="change_button" href="../../set/item/10001.php"><img
+												src="../../img/set_button.jpg" alt="工賃セットの価格表はコチラ"></a></p>
+								</tr>
+							</table>
+							<?php
+							$root_dir = __DIR__.'/../../..';
+							$uri = '#search-block';
+							$car_manu = isset($_POST['car_manu'])?$_POST['car_manu']:'';
+							$car_model_cat = isset($_POST['car_model_cat'])?$_POST['car_model_cat']:'';
+							$product_name = isset($_POST['product_name'])?$_POST['product_name']:'';
+							$file = $root_dir.'/db/car_manus.csv';
+							$handle = fopen($file, "r");
+							$car_manus = []; $car_model_cats = []; $product_names = []; $filtered_products = [];
+
+							while (($row = fgetcsv($handle, 0, ",")) !== false) 
+							{
+								if($row[0] != '') $car_manus[$row[0]] = $row[0];
+							}
+
+							fclose($handle);
+
+							if($car_manu != ''){
+								$file = $root_dir.'/db/item.gz';
+								$handle = gzopen($file, "rb");
+								
+								$products = json_decode(gzread($handle, 150000000));
+								
+								foreach ($products as $key => $product) {
+									if($product->car_manu == $car_manu){
+										if($product->car_model_cat != ''){
+											$car_model_cats[$product->car_model_cat] = $product->car_model_cat;
+											if($car_model_cat == $product->car_model_cat && $car_model_cat != ''){
+												$product_names [$product->product_name]= $product->product_name;
+												if($product_name != '' && $product_name == $product->product_name)
+													$filtered_products []= $product;
+											}	
+										}
+										
+									}
+								}
+
+								gzclose($handle);
+							}
+
+							?>
+							<div class="search-block grey-wrapper" id="search-block">
+								<div class="clearfix"></div>
+								<h1 class="search">SEARCH</h1>
+								<div class="clearfix"></div>
+								<h2 class="ja">車種別に商品の適合を検索できます。</h2>
+								<div class="clearfix"></div>
+								<form action="/<?=$uri?>" method="post" class="row ja">
+									<div class="search-select col-md-4 col-sm-4">
+										<select class="custom-select-lg" name="car_manu"
+											onchange="this.form.car_model_cat=''; this.form.product_name = ''; submit(this.form)">
+											<option value='' <?php if($car_manu == '') echo 'selected'; ?>>メーカーを選ぶ
+											</option>
+											<?php foreach ($car_manus as $key => $value) { ?>
+											<option value="<?=$value?>"
+												<?php if($car_manu == $value) echo 'selected'; ?>><?=$value?></option>
+											<?php } ?>
+										</select>
+									</div>
+									<div class="search-select col-md-4 col-sm-4">
+										<select class="custom-select-lg" name="car_model_cat"
+											onchange="this.form.product_name = ''; submit(this.form)">
+											<option value='' <?php if($car_model_cat == '') echo 'selected'; ?>>車種を選ぶ
+											</option>
+											<?php foreach ($car_model_cats as $key => $value) { ?>
+											<option value="<?=$value?>"
+												<?php if($car_model_cat == $value) echo 'selected'; ?>><?=$value?>
+											</option>
+											<?php } ?>
+										</select>
+									</div>
+									<div class="search-select col-md-4 col-sm-4">
+										<select class="custom-select-lg" name="product_name">
+											<option value='' <?php if($product_name == '') echo 'selected'; ?>>製品を選ぶ
+											</option>
+											<?php foreach ($product_names as $key => $value) { ?>
+											<option value="<?=$value?>"
+												<?php if($product_name == $value) echo 'selected'; ?>><?=$value?>
+											</option>
+											<?php } ?>
+										</select>
+									</div>
+									<br>
+									<div class="clearfix"></div>
+									<button type="submit" class="btn-search"><img src="/assets/img/search_button.png"
+											alt="Search">
+										<div class="ja">検索</div>
+									</button>
+								</form>
+								<?php if(count($filtered_products) > 0){ ?>
+								<div class="search-results">
+									<table class="matching_table_all">
+										<thead>
+											<tr>
+												<th>メーカー名</th>
+												<th>商品名</th>
+												<th>価格</th>
+												<th>車種</th>
+												<th>型式</th>
+												<th>年式</th>
+												<th>駆動</th>
+												<th>適合詳細</th>
+												<th>仕様</th>
+												<th>メーカー品番</th>
+											</tr>
+										</thead>
+										<tbody>
+											<?php foreach ($filtered_products as $key => $value) { ?>
+											<tr>
+												<td><?=$value->manufacturer_name?></td>
+												<td><?=$value->product_name?></td>
+												<td><?=$value->price?></td>
+												<td><?=$value->car_type?></td>
+												<td><?=$value->model?></td>
+												<td><?=$value->model_year?></td>
+												<td><?=$value->driving?></td>
+												<td><?=$value->compliance_details?></td>
+												<td><?=$value->specification?></td>
+												<td><?=$value->manu_part_number?></td>
+											</tr>
+											<?php } ?>
+										</tbody>
+									</table>
+								</div>
+								<?php } ?>
+								<div class="clearfix"></div>
+							</div>
+
+							<div class="item_info_text_small">▼ご希望の商品をタップすると詳細・購入ページに遷移します。<br>※表示価格は税抜です。</div>
+							<div class="clearfix"></div>
+							<div class="scroll">
+								<table class="matching_table_all">
+									<tr>
+										<?php
+
+									if(isset($manufacture_select) == FALSE || $manufacture_select == ""){print_r('<div class="noselect_car"><br>ID(内径)を選択してください<br>&nbsp;</div>');}
+
+									else if(isset($make_select) == FALSE || $make_select == ""){
+									print_r('<tr><th>ID(内径)</th>');
+									print_r('<th>販売価格</th>');
+									print_r('<th>自由長</th>');
+									print_r('<th>バネレート</th>');
+									print_r('<th>メーカー品番</th>');
+									print_r('<th>タイプ</th>');
+									print_r('<th>入数</th>');
+									print_r('<th>仕様</th>');
+									print_r('<th>備考</th></tr>');
+
+									foreach($csv as $line) {
+									if(isset($manufacture_select) == FALSE){}
+									else if($line[0] == $manufacture_select){
+
+									print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
+									<td>' . $line[0] . '
+									</td>');
+									if( empty($line[12]) ){
+									echo('<td>お問い合わせ下さい</td>');}
+									else{$price = number_format((float)$line[12]);
+									echo('<td class="matching_table_price">￥' . $price . '</td>');
+									}
+									print_r('<td>' . $line[1] . '</td>');
+									print_r('<td>' . $line[2] . '</td>');
+									print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
+									print_r('<td>' . $line[6] . '</td>');
+									print_r('<td>' . $line[7] . '</td>');
+									print_r('<td>' . $line[9] . '</td>');
+									print_r('<td>' . $line[10] . '</td></tr>');
+									}
+									}
+									}
+
+									else if(isset($model_select) == FALSE || $model_select == ""){
+									print_r('<tr><th>ID(内径)</th>');
+									print_r('<th>販売価格</th>');
+									print_r('<th>自由長</th>');
+									print_r('<th>バネレート</th>');
+									print_r('<th>メーカー品番</th>');
+									print_r('<th>タイプ</th>');
+									print_r('<th>入数</th>');
+									print_r('<th>仕様</th>');
+									print_r('<th>備考</th></tr>');
+
+									foreach($csv as $line) {
+
+									if($line[0] == $manufacture_select && $line[1] == $make_select){
+
+									print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
+									<td>' . $line[0] . '
+									</td>');
+									if( empty($line[12]) ){
+									echo('<td>お問い合わせ下さい</td>');}
+									else{$price = number_format((float)$line[12]);
+									echo('<td class="matching_table_price">￥' . $price . '</td>');
+									}
+									print_r('<td>' . $line[1] . '</td>');
+									print_r('<td>' . $line[2] . '</td>');
+									print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
+									print_r('<td>' . $line[6] . '</td>');
+									print_r('<td>' . $line[7] . '</td>');
+									print_r('<td>' . $line[9] . '</td>');
+									print_r('<td>' . $line[10] . '</td></tr>');
+									}
+									}
+									}
+
+									else if(isset($model_select) == TRUE){
+									print_r('<tr><th>ID(内径)</th>');
+									print_r('<th>販売価格</th>');
+									print_r('<th>自由長</th>');
+									print_r('<th>バネレート</th>');
+									print_r('<th>メーカー品番</th>');
+									print_r('<th>タイプ</th>');
+									print_r('<th>入数</th>');
+									print_r('<th>仕様</th>');
+									print_r('<th>備考</th></tr>');
+
+									foreach($csv as $line) {
+
+									if($line[0] == $manufacture_select && $line[1] == $make_select && $line[2] == $model_select){
+									print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
+									<td>' . $line[0] . '
+									</td>');
+									if( empty($line[12]) ){
+									echo('<td>お問い合わせ下さい</td>');}
+									else{$price = number_format((float)$line[12]);
+									echo('<td class="matching_table_price">￥' . $price . '</td>');
+									}
+									print_r('<td>' . $line[1] . '</td>');
+									print_r('<td>' . $line[2] . '</td>');
+									print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
+									print_r('<td>' . $line[6] . '</td>');
+									print_r('<td>' . $line[7] . '</td>');
+									print_r('<td>' . $line[9] . '</td>');
+									print_r('<td>' . $line[10] . '</td></tr>');
+									}
+									}
+									}
+
+									?>
+									</tr>
+
+								</table>
+							</div>
+							<br>&nbsp;
+						</div>
 					</div>
+
+					<script src="../../script/swiper/js/swiper.js"></script>
+					<script>
+						var swiper = new Swiper('.swiper-container', {
+							navigation: {
+								nextEl: '.swiper-button-next',
+								prevEl: '.swiper-button-prev',
+							},
+							loop: true,
+							pagination: {
+								el: '.swiper-pagination',
+								type: 'bullets',
+								clickable: true,
+							},
+						});
+					</script>
+
+					<footer>
+						<div class="clearfix"></div>
+
+						<div class="footer-title">
+							<div id="footer-title" class="arrowed-title">
+								<h1 class="ja">店舗情報</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow"
+									srcset="">
+							</div>
+						</div>
+						<div class="clearfix"></div>
+						<br>
+						<div class="footer-places row">
+							<div class="footer-showbox col-md-4">
+								<div class="footer-showbox-img">
+									<img src="/assets/img/factory.webp" alt="factory" srcset="">
+								</div>
+								<div class="footer-showbox-title">
+									<span class="showbox-title">FACTORY</span>
+								</div>
+								<table class="showbox-content">
+									<tr id="footer-showbox-address" class="footer-showbox-text">
+										<td colspan="2">〒334-0013 埼玉県川口市南鳩ヶ谷1-25-3</td>
+									</tr>
+									<tr id="footer-showbox-opentime" class="footer-showbox-text">
+										<td class="showbox-left">営業時間</td>
+										<td class="showbox-right">10:00 - 19:00</td>
+									</tr>
+									<tr id="footer-showbox-holiday" class="footer-showbox-text">
+										<td class="showbox-left">定休日</td>
+										<td class="showbox-right">第3水曜日・毎週木曜日</td>
+									</tr>
+									<tr class="tel">
+										<td class="showbox-left">TEL</td>
+										<td class="showbox-right">048-285-8906</td>
+									</tr>
+									<tr class="fax">
+										<td class="showbox-left">FAX</td>
+										<td class="showbox-right">048-285-8939</td>
+									</tr>
+								</table>
+								<div class="showbox-bottom">
+									<a class="arrowed-link" href="/shop_menu/tenpo/factory.html"><span>詳しく見る</span><img
+											src="/assets/img/black_arrow.svg" alt="Header Link"></a>
+								</div>
+							</div>
+							<div class="footer-showbox col-md-4">
+								<div class="footer-showbox-img">
+									<img src="/assets/img/heiwajima.webp" alt="factory" srcset="">
+								</div>
+								<div class="footer-showbox-title">
+									<span class="showbox-title">HEIWAJIMA</span>
+								</div>
+								<table class="showbox-content">
+									<tr id="footer-showbox-address" class="footer-showbox-text">
+										<td colspan="2">〒143-0016 東京都大田区大森北5ー10ー13</td>
+									</tr>
+									<tr id="footer-showbox-opentime" class="footer-showbox-text">
+										<td class="showbox-left">営業時間</td>
+										<td class="showbox-right">10:00 - 19:00</td>
+									</tr>
+									<tr id="footer-showbox-holiday" class="footer-showbox-text">
+										<td class="showbox-left">定休日</td>
+										<td class="showbox-right">第3水曜日・毎週木曜日</td>
+									</tr>
+									<tr class="tel">
+										<td class="showbox-left">TEL</td>
+										<td class="showbox-right">03-5767-5832</td>
+									</tr>
+									<tr class="fax">
+										<td class="showbox-left">FAX</td>
+										<td class="showbox-right">03-5767-5808</td>
+									</tr>
+								</table>
+								<div class="showbox-bottom">
+									<a class="arrowed-link"
+										href="/shop_menu/tenpo/heiwajima.html"><span>詳しく見る</span><img
+											src="/assets/img/black_arrow.svg" alt="Header Link"></a>
+								</div>
+							</div>
+							<div class="footer-showbox col-md-4">
+								<div class="footer-showbox-img">
+									<img src="/assets/img/ichinoe.webp" alt="factory" srcset="">
+								</div>
+								<div class="footer-showbox-title">
+									<span class="showbox-title">ICHINOE</span>
+								</div>
+								<table class="showbox-content">
+									<tr id="footer-showbox-address" class="footer-showbox-text">
+										<td colspan="2">〒143-0016 東京都大田区大森北5-10-13</td>
+									</tr>
+									<tr id="footer-showbox-opentime" class="footer-showbox-text">
+										<td class="showbox-left">営業時間</td>
+										<td class="showbox-right">10:00 - 19:00</td>
+									</tr>
+									<tr id="footer-showbox-holiday" class="footer-showbox-text">
+										<td class="showbox-left">定休日</td>
+										<td class="showbox-right">第3水曜日・毎週木曜日</td>
+									</tr>
+									<tr class="tel">
+										<td class="showbox-left">TEL</td>
+										<td class="showbox-right">03-3674-2006</td>
+									</tr>
+									<tr class="fax">
+										<td class="showbox-left">FAX</td>
+										<td class="showbox-right">03-3674-2008</td>
+									</tr>
+								</table>
+								<div class="showbox-bottom">
+									<a class="arrowed-link" href="/shop_menu/tenpo/ichinoe.html"><span
+											class="ja">詳しく見る</span><img src="/assets/img/black_arrow.svg"
+											alt="Header Link"></a>
+								</div>
+							</div>
+						</div>
+						<div class="footer-bottom row">
+							<div class="col-md-4 col-sm-4 col-xs-4">
+								<div class="col-md-6 col-sm-1 col-xs-1"></div>
+								<div id="footer-logo-wrap" class="col-md-6 col-sm-11 col-xs-11">
+									<img id="footer-logo" class="logo" src="/assets/img/opg.webp" alt="Company Logo"
+										srcset="">
+								</div>
+							</div>
+							<div class="footer-text col-md-8 col-sm-8 col-xs-8">
+								<div class="company-title">K T S — — —</div>
+								<div class="additional-info">フッターです</div>
+								<div class="additional-info">フッターです</div>
+								<div class="additional-info">フッターです</div>
+							</div>
+							<div class="copyright row"><span>&copy; — — — — — —</span></div>
+						</div>
+					</footer>
 				</div>
 			</div>
+		</section>
+	</main>
+	<script src="/assets/js/header_blu.js"></script>
 
-			<div class="clearfix"></div>
-
-			<table style="table-layout:fixed;" width="100%">
-
-				
-				<!--ココまでSP-->
-				<tr>
-					<p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button"
-							href="../../set/item/10001.php"><img src="../../img/set_button.jpg" alt="工賃セットの価格表はコチラ"></a></p>
-				</tr>
-			</table>
-			<?php include(__DIR__."/../../../_partials/product_search.php"); ?>
-			<div class="item_info_text_small">▼ご希望の商品をタップすると詳細・購入ページに遷移します。<br>※表示価格は税抜です。</div>
-			<div class="clearfix"></div>
-			<div class="scroll">
-				<table class="matching_table_all">
-					<tr>
-						<?php
-
-
-						if(isset($manufacture_select) == FALSE || $manufacture_select == ""){print_r('<div class="noselect_car"><br>ID(内径)を選択してください<br>&nbsp;</div>');}
-
-						else if(isset($make_select) == FALSE || $make_select == ""){
-						print_r('<tr><th>ID(内径)</th>');
-						print_r('<th>販売価格</th>');
-						print_r('<th>自由長</th>');
-						print_r('<th>バネレート</th>');
-						print_r('<th>メーカー品番</th>');
-						print_r('<th>タイプ</th>');
-						print_r('<th>入数</th>');
-						print_r('<th>仕様</th>');
-						print_r('<th>備考</th></tr>');
-
-						foreach($csv as $line) {
-						if(isset($manufacture_select) == FALSE){}
-						else if($line[0] == $manufacture_select){
-
-						print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
-						<td>' . $line[0] . '
-						</td>');
-						if( empty($line[12]) ){
-						echo('<td>お問い合わせ下さい</td>');}
-						else{$price = number_format((float)$line[12]);
-						echo('<td class="matching_table_price">￥' . $price . '</td>');
-						}
-						print_r('<td>' . $line[1] . '</td>');
-						print_r('<td>' . $line[2] . '</td>');
-						print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
-						print_r('<td>' . $line[6] . '</td>');
-						print_r('<td>' . $line[7] . '</td>');
-						print_r('<td>' . $line[9] . '</td>');
-						print_r('<td>' . $line[10] . '</td></tr>');
-						}
-						}
-						}
-
-						else if(isset($model_select) == FALSE || $model_select == ""){
-						print_r('<tr><th>ID(内径)</th>');
-						print_r('<th>販売価格</th>');
-						print_r('<th>自由長</th>');
-						print_r('<th>バネレート</th>');
-						print_r('<th>メーカー品番</th>');
-						print_r('<th>タイプ</th>');
-						print_r('<th>入数</th>');
-						print_r('<th>仕様</th>');
-						print_r('<th>備考</th></tr>');
-
-						foreach($csv as $line) {
-
-						if($line[0] == $manufacture_select && $line[1] == $make_select){
-
-						print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
-						<td>' . $line[0] . '
-						</td>');
-						if( empty($line[12]) ){
-						echo('<td>お問い合わせ下さい</td>');}
-						else{$price = number_format((float)$line[12]);
-						echo('<td class="matching_table_price">￥' . $price . '</td>');
-						}
-						print_r('<td>' . $line[1] . '</td>');
-						print_r('<td>' . $line[2] . '</td>');
-						print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
-						print_r('<td>' . $line[6] . '</td>');
-						print_r('<td>' . $line[7] . '</td>');
-						print_r('<td>' . $line[9] . '</td>');
-						print_r('<td>' . $line[10] . '</td></tr>');
-						}
-						}
-						}
-
-						else if(isset($model_select) == TRUE){
-						print_r('<tr><th>ID(内径)</th>');
-						print_r('<th>販売価格</th>');
-						print_r('<th>自由長</th>');
-						print_r('<th>バネレート</th>');
-						print_r('<th>メーカー品番</th>');
-						print_r('<th>タイプ</th>');
-						print_r('<th>入数</th>');
-						print_r('<th>仕様</th>');
-						print_r('<th>備考</th></tr>');
-
-						foreach($csv as $line) {
-
-						if($line[0] == $manufacture_select && $line[1] == $make_select && $line[2] == $model_select){
-						print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
-						<td>' . $line[0] . '
-						</td>');
-						if( empty($line[12]) ){
-						echo('<td>お問い合わせ下さい</td>');}
-						else{$price = number_format((float)$line[12]);
-						echo('<td class="matching_table_price">￥' . $price . '</td>');
-						}
-						print_r('<td>' . $line[1] . '</td>');
-						print_r('<td>' . $line[2] . '</td>');
-						print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
-						print_r('<td>' . $line[6] . '</td>');
-						print_r('<td>' . $line[7] . '</td>');
-						print_r('<td>' . $line[9] . '</td>');
-						print_r('<td>' . $line[10] . '</td></tr>');
-						}
-						}
-						}
-
-
-
-						?>
-					</tr>
-
-				</table>
-			</div>
-			<br>&nbsp;
-		</div>
-	</div>
-	
-	<script src="../../script/swiper/js/swiper.js"></script>
-	<script>
-		var swiper = new Swiper('.swiper-container', {
-			navigation: {
-				nextEl: '.swiper-button-next',
-				prevEl: '.swiper-button-prev',
-			},
-			loop: true,
-			pagination: {
-				el: '.swiper-pagination',
-				type: 'bullets',
-				clickable: true,
-			},
-		});
-	</script>
-
-<?php include('../../../_partials/footer.html'); ?>
+</html>
