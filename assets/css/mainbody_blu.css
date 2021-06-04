@@ -1319,13 +1319,21 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
         font-size: 12px !important;
     }
 
+    .four-square-one .description div.ja {
+        margin-bottom: 17px;
+    }
+
     .three-tiles.row {
         width: 100%;
         margin: auto;
     }
 
+    .four-square-one {
+        margin-bottom: 4px;
+    }
+    
     .three-tiles-one .three-tiles-blue-border {
-        font-size: 40px;
+        font-size: 29px;
     }
 
     .three-tiles-one .three-tiles-title {
