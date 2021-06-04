@@ -144,7 +144,8 @@ header .clearfix {
   background-color: grey;
 }
 
-.navbar-toggler:focus, .navbar-toggler:hover {
+.navbar-toggler:focus,
+.navbar-toggler:hover {
   outline: none;
 }
 
@@ -229,10 +230,18 @@ header .clearfix {
   outline: none;
 }
 
+.clearfix-s {
+  width: 100%;
+  height: 10px;
+}
 
 @media only screen and (max-width: 767px) {
   .arrowed-title h1 {
     font-size: 25px;
+  }
+
+  .clearfix.toggle {
+    height: 36px;
   }
 
   .arrowed-title:not(#header-carousel-name) img {
@@ -245,7 +254,7 @@ header .clearfix {
   }
 
   .clearfix {
-    height: 20px;
+    height: 10px;
   }
 
   #header-link {

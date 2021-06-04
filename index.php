@@ -84,12 +84,11 @@
                 </ul>
               </div>
             </nav>
-            <div class="clearfix"></div>
+            <div class="clearfix-s"></div>
             <div id="top-carousel">
               <div id="header-carousel-name" class="arrowed-title">
                 <h1>PICK UP</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow" srcset="">
               </div>
-              <div class="clearfix toggle"></div>
               <div class="clearfix toggle"></div>
               <div class="slick-wrapper">
                 <div class="slick">
@@ -102,20 +101,20 @@
                 </div>
               </div>
             </div>
-            <div class="clearfix"></div>
+            <div class="clearfix-s"></div>
             <div id="header-link" class="row">
               <a class="arrowed-link" href="javascript:void()" id="header-link"><span>詳しく見る</span><img
                   src="/assets/img/black_arrow.svg" alt="Header Link"></a>
             </div>
-            <div class="clearfix"></div>
           </header>
           <!-- Header End -->
 
-          <div class="clearfix"></div>
           <div id="menu-title" class="arrowed-title">
             <h1>MENU</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow" srcset="">
           </div>
           <div class="clearfix"></div>
+          <div class="clearfix sp"></div>
+
           <br>
           <div class="four-of-a-kind row">
             <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6"
@@ -272,9 +271,11 @@
             <div id="notice-title" class="arrowed-title">
               <h1 class="ja">お知らせ</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow" srcset="">
             </div>
-            <div class="clearfix"></div>
-            <div class="clearfix"></div>
-            <div class="clearfix"></div>
+            <div class="clearfix sp"></div>
+            <div class="clearfix sp"></div>
+            <div class="clearfix sp"></div>
+            <div class="clearfix sp"></div>
+            <div class="clearfix sp"></div>
 
             <table id="notice-table">
               <tr>
@@ -307,20 +308,19 @@
               <a class="arrowed-link" href="/"><span class="ja">もっと見る</span><img src="/assets/img/black_arrow.svg"
                   alt="Menu Link"></a>
             </div>
-            <div class="clearfix"></div>
           </div>
 
           <footer>
-            <div class="clearfix"></div>
+            <!-- <div class="clearfix"></div> -->
             <!-- Footer Start -->
             <footer>
-              <div class="clearfix"></div>
 
               <div class="footer-title">
                 <div id="footer-title" class="arrowed-title">
                   <h1 class="ja">店舗情報</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow" srcset="">
                 </div>
               </div>
+              <div class="clearfix sp"></div>
               <div class="clearfix"></div>
               <br>
               <div class="footer-places row">

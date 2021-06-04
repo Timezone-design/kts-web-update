@@ -147,7 +147,7 @@ img {
 }
 
 .three-tiles-one {
-    padding: 18px;
+    padding: 2px;
     position: relative;
 }
 
@@ -170,7 +170,7 @@ a.notype:link {
  */
 
 .three-tiles-one .three-tiles-blue-border {
-    font-size: 3.48vw;
+    font-size: 33px;
     color: transparent;
     -webkit-text-stroke: 2px #2036c2;
     text-align: left;
@@ -179,7 +179,7 @@ a.notype:link {
 
 .three-tiles-one .three-tiles-title {
     text-align: center;
-    font-size: 1.145vw;
+    font-size: 14px;
     font-weight: bold;
     /* padding: 13px 0px; */
 }
@@ -574,6 +574,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 }
 
 .three-tiles.row {
+    display: flex;
+    justify-content: space-evenly;
     width: 67%;
     margin: auto;
 }
@@ -1239,6 +1241,14 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     background-color: transparent;
 }
 
+.clearfix.sp {
+    display: none;
+}
+
+.search-block .clearfix {
+    height: 12px;
+}
+
 @media only screen and (max-width: 767px) {
     .four-of-a-kind-one a.arrowed-link {
         padding-top: 46%;
@@ -1377,7 +1387,9 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
         font-size: 15px;
     }
 
-
+    .clearfix.sp {
+        display: block;
+    }
 
 
 
