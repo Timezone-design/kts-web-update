@@ -146,11 +146,6 @@ img {
     color: white;
 }
 
-.three-tiles-one {
-    padding: 2px;
-    position: relative;
-}
-
 .three-tiles-one img {
     width: 100%;
 }
@@ -193,6 +188,7 @@ a.notype:link {
 .three-tiles-one {
     background-origin: content-box;
     background-repeat: no-repeat;
+    padding: 4px 55px;
 }
 
 .three-tiles .three-tiles-text {
@@ -203,8 +199,8 @@ a.notype:link {
 
 .three-tiles .image-inside-wrapper {
     position: relative;
-    width: 100%;
-
+    width: 80%;
+    margin: auto;
 }
 
 .three-tiles .image-inside-wrapper p {
@@ -237,7 +233,7 @@ a.notype:link {
 .large-category .row,
 .small-category .row,
 .tire .row {
-    width: 65%;
+    width: 50%;
     margin: auto;
 }
 
@@ -262,7 +258,7 @@ a.notype:link {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .large-category .three-tiles-one img,
@@ -575,7 +571,7 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 
 .three-tiles.row {
     display: flex;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
     width: 67%;
     margin: auto;
 }
