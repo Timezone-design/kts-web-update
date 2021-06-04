@@ -106,6 +106,10 @@ img {
     position: relative;
 }
 
+.search-results .matching_table_all th{
+    font-size: 18px;
+}
+
 .four-square-one .inner-wrapper>a>img {
     width: 100%;
 }
@@ -1331,7 +1335,13 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
     .four-square-one {
         margin-bottom: 4px;
     }
-    
+
+    .search-results .matching_table_all th,
+    .search-results .matching_table_all td {
+        font-size: 10px;
+        padding: 2px;
+    }
+
     .three-tiles-one .three-tiles-blue-border {
         font-size: 29px;
     }
