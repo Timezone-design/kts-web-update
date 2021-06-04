@@ -36,18 +36,8 @@ header {
   height: 3vw;
 }
 
-@media all and (max-width: 750px) {
-  .clearfix {
-    height: 24px;
-  }
-}
-
 header .clearfix {
   background-color: white;
-}
-
-.ja {
-  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
 }
 
 /* Header Carousel css */
@@ -61,8 +51,8 @@ header .clearfix {
 
 .arrowed-title h1 {
   color: black;
+  font-weight: bold;
   font-size: 2vw;
-  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
 }
 
 .arrowed-link,
@@ -72,7 +62,6 @@ header .clearfix {
 .arrowed-link:active {
   color: black;
   text-decoration: none;
-  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
   font-size: 1vw;
 }
 
@@ -90,6 +79,215 @@ header .clearfix {
   left: 2%;
   object-fit: fill;
   z-index: 10000;
+}
+
+.arrowed-link img {
+  transform: translateY(-7px);
+  zoom: 48%;
+  width: auto;
+}
+
+.arrowed-link.black {
+  color: black;
+}
+
+.arrowed-link.white {
+  color: white;
+  font-size: 12px;
+}
+
+.arrowed-link.blue {
+  color: #1832dc;
+}
+
+#header-carousel-name {
+  position: absolute;
+  top: 0px;
+  left: 6.25vw;
+  width: 100%;
+  z-index: 10000;
+}
+
+#top-carousel {
+  background-color: white;
+  position: relative;
+}
+
+#header-link {
+  justify-content: space-around;
+  background-color: white;
+  text-align: center;
+}
+
+/* navbar */
+.navbar.navbar-expand-lg {
+  background-color: black;
+  color: white;
+}
+
+.ml-auto,
+.mx-auto {
+  margin-right: 9%;
+}
+
+.nav-item {
+  text-align: center;
+  color: white;
+}
+
+.nav-item div {
+  color: white !important;
+  font-size: 14px;
+}
+
+.nav-item:hover {
+  background-color: grey;
+}
+
+.navbar-toggler:focus, .navbar-toggler:hover {
+  outline: none;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  display: block;
+  margin: 0 4px;
+}
+
+#header-logo {
+  width: 75%;
+  padding-left: 40px;
+}
+
+.navbar {
+  padding: 0 0 0 0;
+}
+
+.slick-wrapper .slick img {
+  width: 100%;
+  display: block;
+  position: relative;
+  transform: translate(0, 0) scale(.3);
+  transition: all .4s ease;
+  opacity: .5;
+}
+
+.slick-wrapper .slick-slide.lt2 img {
+  transform: translate(-10%, 0) scale(.3);
+
+}
+
+.slick-wrapper .slick-slide.lt1 img {
+  opacity: .7;
+  transform: translate(-5%, 0) scale(.3);
+}
+
+.slick-wrapper .slick-slide.gt1 img {
+  opacity: .7;
+  transform: translate(5%, 0) scale(.3);
+}
+
+.slick-wrapper .slick-slide.gt2 img {
+  transform: translate(-10%, 0) scale(.3);
+}
+
+.slick-wrapper .slick-slide.slick-center img {
+  z-index: 1;
+  transform: scale(1);
+  opacity: 1;
+}
+
+.slick-wrapper .slick-prev,
+.slick-wrapper .slick-next {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 50%;
+  /* appearance: none; */
+  margin-top: -10px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  color: transparent;
+  outline: none;
+  z-index: 100;
+  background-image: url('/assets/img/Daco_4829759.png');
+  background-size: contain;
+}
+
+.slick-wrapper .slick-prev {
+  left: 25vw;
+}
+
+.slick-wrapper .slick-next {
+  transform: rotate(180deg);
+  right: 25vw;
+}
+
+.slick-wrapper .slick-prev:focus,
+.slick-wrapper .slick-next:focus {
+  outline: none;
+}
+
+
+@media only screen and (max-width: 767px) {
+  .arrowed-title h1 {
+    font-size: 25px;
+  }
+
+  .arrowed-title:not(#header-carousel-name) img {
+    width: 120%;
+    height: 20px;
+    position: absolute;
+    top: 21px;
+    left: 50%;
+    object-fit: fill;
+  }
+
+  .clearfix {
+    height: 20px;
+  }
+
+  #header-link {
+    font-size: 17px;
+  }
+
+  ul.navbar-nav.ml-auto {
+    margin-right: 0px;
+  }
+
+  .arrowed-title#header-carousel-name img {
+    width: 107px;
+    position: absolute;
+    top: 22px;
+    left: 6%;
+  }
+
+  .slick-wrapper .slick-prev {
+    left: 1vw;
+  }
+
+  .slick-wrapper .slick-next {
+    right: 1vw;
+  }
+}
+
+/*
+@media all and (max-width: 750px) {
+  .slick-wrapper .slick-prev {
+    left: 1vw;
+  }
+
+  .slick-wrapper .slick-next {
+    transform: rotate(180deg);
+    right: 1vw;
+  }
+}
+
+@media all and (max-width: 750px) {
+  .clearfix {
+    height: 24px;
+  }
 }
 
 @media all and (max-width: 1920px) and (min-width: 992px) {
@@ -164,43 +362,6 @@ header .clearfix {
 
 }
 
-#header-link {
-  background-color: white;
-  text-align: center;
-}
-
-.arrowed-link img {
-  transform: translateY(-7px);
-  zoom: 48%;
-  width: auto;
-}
-
-.arrowed-link.black {
-  color: black;
-}
-
-.arrowed-link.white {
-  color: white;
-  font-size: 12px;
-}
-
-.arrowed-link.blue {
-  color: #1832dc;
-}
-
-#header-carousel-name {
-  position: absolute;
-  top: 0px;
-  left: 6.25vw;
-  width: 100%;
-  z-index: 10000;
-}
-
-#top-carousel {
-  background-color: white;
-  position: relative;
-}
-
 @media all and (min-width: 768px) {
 
   #top-carousel .clearfix.toggle {
@@ -209,27 +370,11 @@ header .clearfix {
   
 }
 
-@media all and (max-width: 767px) {
-
-  #top-carousel .clearfix.toggle {
+@media all and (min-width: 992px) {
+  .navbar-dark .navbar-nav .nav-link {
     display: block;
+    margin: 5px;
   }
-
-}
-
-#header-link {
-  justify-content: space-around;
-}
-
-/* navbar */
-.navbar.navbar-expand-lg {
-  background-color: black;
-  color: white;
-}
-
-.ml-auto,
-.mx-auto {
-  margin-right: 9%;
 }
 
 @media all and (max-width: 991px) {
@@ -240,115 +385,11 @@ header .clearfix {
   }
 }
 
-.nav-item {
-  text-align: center;
-  color: white;
-}
+@media all and (max-width: 767px) {
 
-.nav-item div {
-  color: white !important;
-  font-size: 0.6rem;
-}
-
-.nav-item:hover {
-  background-color: grey;
-}
-
-.navbar-dark .navbar-nav .nav-link {
-  display: block;
-  margin-left: 32px;
-}
-
-#header-logo {
-  width: 75%;
-  padding-left: 40px;
-}
-
-.navbar {
-  padding: 0 0 0 0;
-}
-
-@media all and (min-width: 992px) {
-  .navbar-dark .navbar-nav .nav-link {
+  #top-carousel .clearfix.toggle {
     display: block;
-    margin: 5px;
-  }
-}
-
-.slick-wrapper .slick img {
-  width: 100%;
-  display: block;
-  position: relative;
-  transform: translate(0, 0) scale(.3);
-  transition: all .4s ease;
-  opacity: .5;
-}
-
-.slick-wrapper .slick-slide.lt2 img {
-  transform: translate(-10%, 0) scale(.3);
-
-}
-
-.slick-wrapper .slick-slide.lt1 img {
-  opacity: .7;
-  transform: translate(-5%, 0) scale(.3);
-}
-
-.slick-wrapper .slick-slide.gt1 img {
-  opacity: .7;
-  transform: translate(5%, 0) scale(.3);
-}
-
-.slick-wrapper .slick-slide.gt2 img {
-  transform: translate(-10%, 0) scale(.3);
-}
-
-.slick-wrapper .slick-slide.slick-center img {
-  z-index: 1;
-  transform: scale(1);
-  opacity: 1;
-}
-
-.slick-wrapper .slick-prev,
-.slick-wrapper .slick-next {
-  width: 30px;
-  height: 30px;
-  position: absolute;
-  top: 50%;
-  /* appearance: none; */
-  margin-top: -10px;
-  padding: 0;
-  border: 0;
-  background: none;
-  cursor: pointer;
-  color: transparent;
-  outline: none;
-  z-index: 100;
-  background-image: url('/assets/img/Daco_4829759.png');
-  background-size: contain;
-}
-
-.slick-wrapper .slick-prev {
-  left: 25vw;
-}
-
-.slick-wrapper .slick-next {
-  transform: rotate(180deg);
-  right: 25vw;
-}
-
-.slick-wrapper .slick-prev:focus,
-.slick-wrapper .slick-next:focus {
-  outline: none;
-}
-
-@media all and (max-width: 750px) {
-  .slick-wrapper .slick-prev {
-    left: 1vw;
   }
 
-  .slick-wrapper .slick-next {
-    transform: rotate(180deg);
-    right: 1vw;
-  }
 }
+*/

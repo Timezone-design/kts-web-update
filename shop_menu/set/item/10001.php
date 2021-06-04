@@ -509,7 +509,7 @@
 						<div class="clearfix"></div>
 						<br>
 						<div class="footer-places row">
-							<div class="footer-showbox row col-md-4 col-sm-4">
+							<div class="footer-showbox row col-md-4 col-sm-12">
 								<div class="footer-showbox-img col-xs-5">
 									<img src="/assets/img/factory.webp" alt="factory" srcset="">
 								</div>
@@ -544,7 +544,7 @@
 											src="/assets/img/black_arrow.svg" alt="Header Link"></a>
 								</div>
 							</div>
-							<div class="footer-showbox row col-md-4 col-sm-4">
+							<div class="footer-showbox row col-md-4 col-sm-12">
 								<div class="footer-showbox-img col-xs-5">
 									<img src="/assets/img/heiwajima.webp" alt="factory" srcset="">
 								</div>
@@ -580,7 +580,7 @@
 											src="/assets/img/black_arrow.svg" alt="Header Link"></a>
 								</div>
 							</div>
-							<div class="footer-showbox row col-md-4 col-sm-4">
+							<div class="footer-showbox row col-md-4 col-sm-12">
 								<div class="footer-showbox-img col-xs-5">
 									<img src="/assets/img/ichinoe.webp" alt="factory" srcset="">
 								</div>

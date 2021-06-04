@@ -9,14 +9,29 @@
     padding-bottom: 50px;
 }
 
+.footer-showbox-title {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.footer-showbox > div {
+    width: 100%;
+}
+
 .showbox-content {
     margin: 0px 50px;
-    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+}
+
+.showbox-content td {
+    padding: 10px;
 }
 
 .showbox-bottom {
     text-align: center;
     margin-bottom: 50px;
+    margin-top: 10px;
+    width: 100%;
 }
 
 .footer-places>div.footer-showbox:nth-of-type(odd) {
@@ -30,7 +45,6 @@
 .footer-bottom {
     background-color: black;
     padding-top: 45px;
-    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
     color: white;
 }
 
@@ -40,69 +54,6 @@
 
 .footer-bottom .footer-text div {
     padding-bottom: 10px;
-}
-
-@media all and (min-width: 992px) {
-    .footer-showbox-title {
-        font-size: 2vw;
-        text-align: center;
-        padding-bottom: 40px;
-    }
-
-    .showbox-content td {
-        padding-bottom: 40px;
-        font-size: 1vw;
-    }
-
-    .additional-info {
-        font-size: 1vw;
-    }
-
-    .footer-text .company-title {
-        color: white;
-        font-size: 2vw;
-    }
-
-    .copyright {
-        text-align: center;
-        font-size: 1vw;
-    }
-}
-
-@media all and (max-width: 991px) {
-    .footer-showbox-title {
-        font-size: 18px;
-        text-align: center;
-        padding-bottom: 8px;
-        margin-top: 40px;
-    }
-
-    .showbox-content td {
-        padding-bottom: 15px;
-        font-size: 12px;
-    }
-
-    .showbox-content {
-        margin: 0px;
-    }
-
-    .additional-info {
-        font-size: 12px;
-    }
-
-    .footer-text .company-title {
-        color: white;
-        font-size: 18px;
-    }
-
-    .copyright {
-        text-align: center;
-        font-size: 12px;
-    }
-
-    .footer-showbox-img {
-        padding-bottom: 25px;
-    }
 }
 
 .footer-text {
@@ -124,10 +75,136 @@
     margin-left: -18px;
 }
 
-@media all and (min-width: 576px) and (max-width: 991px) {
-    #footer-logo-wrap img {
-        width: 96%;
+@media only screen and (max-width: 767px) {
+    .footer-showbox-img {
+        padding: 0;
+        flex: 0 0 30%;
     }
+    
+    [class*=col-] {
+        padding: 0;
+    }
+
+    .footer-factory-info {
+        flex: 0 0 70%;
+    }
+
+    .showbox-content {
+        width: 90%;
+        margin: auto;
+        font-size: 12px;
+        letter-spacing: 1;
+    }
+
+    .showbox-content td {
+        padding: 5px;
+    }
+
+    .footer-showbox-title {
+        text-align: center;
+        padding-bottom: 5px;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .showbox-bottom {
+        margin: 0;
+    }
+
+    .footer-showbox-img img {
+        display: block;
+        margin: auto;
+        width: 100%;
+        margin-top: 12px;
+    }
+
+    .footer-bottom {
+        background-color: black;
+        padding-top: 0px;
+        color: white;
+    }
+
+    .footer-bottom .footer-text div {
+        padding-bottom: 0px;
+        font-size: 12px;
+    }
+
+
+
+
+
+    .col-xs-1 {
+        -ms-flex: 0 0 8.333333%;
+        flex: 0 0 8.333333%;
+        max-width: 8.333333%;
+    }
+
+    .col-xs-2 {
+        -ms-flex: 0 0 16.666667%;
+        flex: 0 0 16.666667%;
+        max-width: 16.666667%;
+    }
+
+    .col-xs-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+
+    .col-xs-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
+
+    .col-xs-5 {
+        -ms-flex: 0 0 41.666667%;
+        flex: 0 0 41.666667%;
+        max-width: 41.666667%;
+    }
+
+    .col-xs-6 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .col-xs-7 {
+        -ms-flex: 0 0 58.333333%;
+        flex: 0 0 58.333333%;
+        max-width: 58.333333%;
+    }
+
+    .col-xs-8 {
+        -ms-flex: 0 0 66.666667%;
+        flex: 0 0 66.666667%;
+        max-width: 66.666667%;
+    }
+
+    .col-xs-9 {
+        -ms-flex: 0 0 75%;
+        flex: 0 0 75%;
+        max-width: 75%;
+    }
+
+    .col-xs-10 {
+        -ms-flex: 0 0 83.333333%;
+        flex: 0 0 83.333333%;
+        max-width: 83.333333%;
+    }
+
+    .col-xs-11 {
+        -ms-flex: 0 0 91.666667%;
+        flex: 0 0 91.666667%;
+        max-width: 91.666667%;
+    }
+
+    .col-xs-12 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
 }
 
 .col-xs-1,
@@ -144,14 +221,14 @@
 .col-xs-12 {
     position: relative;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
+    /* padding-right: 15px;
+    padding-left: 15px; */
 }
 
-@media all and (max-width: 575px) {
-    #footer-logo-wrap img {
+@media all and (max-width: 767px) {
+    /* #footer-logo-wrap img {
         width: 96%;
-    }
+    } */
 
     .col-xs-1 {
         -ms-flex: 0 0 8.333333%;
@@ -225,3 +302,79 @@
         max-width: 100%;
     }
 }
+
+
+/*
+
+@media all and (min-width: 992px) {
+    .footer-showbox-title {
+        font-size: 2vw;
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    .showbox-content td {
+        padding-bottom: 40px;
+        font-size: 1vw;
+    }
+
+    .additional-info {
+        font-size: 1vw;
+    }
+
+    .footer-text .company-title {
+        color: white;
+        font-size: 2vw;
+    }
+
+    .copyright {
+        text-align: center;
+        font-size: 1vw;
+    }
+}
+
+@media all and (max-width: 991px) {
+    .footer-showbox-title {
+        font-size: 18px;
+        text-align: center;
+        padding-bottom: 8px;
+        margin-top: 40px;
+    }
+
+    .showbox-content td {
+        padding-bottom: 15px;
+        font-size: 12px;
+    }
+
+    .showbox-content {
+        margin: 0px;
+    }
+
+    .additional-info {
+        font-size: 12px;
+    }
+
+    .footer-text .company-title {
+        color: white;
+        font-size: 18px;
+    }
+
+    .copyright {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .footer-showbox-img {
+        padding-bottom: 25px;
+    }
+}
+
+@media all and (min-width: 576px) and (max-width: 991px) {
+    #footer-logo-wrap img {
+        width: 96%;
+    }
+}
+
+
+
+*/
