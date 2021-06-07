@@ -98,12 +98,76 @@ img {
 }
 
 .four-square-one .inner-wrapper {
-
   background-color: white;
   border-radius: 0px 0px 10px 10px;
   box-shadow: 0 1px 8px 0 rgb(0 0 0 / 20%), 0 1px 8px 0 rgb(0 0 0 / 19%);
   min-height: 17.7vw;
   position: relative;
+}
+
+.font_b_fff000 {
+  color: orangered;
+  font-weight: bold;
+}
+
+.font_r_price_left {
+  font-size: 15px;
+}
+
+.font_r_price {
+  text-align: right;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.font_r_price_red {
+  font-size: 17px;
+  font-weight: bold;
+  color: crimson;
+}
+
+.camp_solid {
+  border: 1px solid black;
+  box-shadow: 0 1px 8px 0 rgb(0 0 0 / 20%), 0 1px 8px 0 rgb(0 0 0 / 19%);
+}
+
+.n_camp_sp {
+  font-size: 23px;
+  font-weight: bold;
+  color: deepskyblue;
+}
+
+.camp_info a {
+  color: black;
+  text-decoration: underline;
+}
+
+.camp_shitadori_yajirushi img {
+  width: auto;
+  filter: invert(0.93);
+}
+
+.camp_shitadori_yajirushi {
+  padding-left: 20px;
+}
+
+.camp_shitadori_at {
+  width: 80%;
+  margin-left: auto;
+}
+
+.camp_shitadori_at_cell_1 {
+  text-align: right;
+  color: crimson;
+}
+
+.camp_shitadori_at_cell_2 {
+  color: orange;
+}
+
+.camp_solid_comm {
+  text-align: center;
+  margin-bottom: 10px;
 }
 
 .search-results .matching_table_all th {
@@ -192,7 +256,7 @@ a.notype:link {
 .three-tiles-one {
   background-origin: content-box;
   background-repeat: no-repeat;
-  padding: 4px 55px;
+  padding: 4px 5px;
 }
 
 .three-tiles .three-tiles-text {
@@ -423,8 +487,16 @@ div.black-seperator {
   width: 100%;
 }
 
-.store-introduction .koutin_price_box .font_b {
+/*.store-introduction .koutin_price_box .font_b {
   font-weight: bold;
+}
+*/
+.font_b {
+  font-weight: bold;
+}
+
+.camp_text_ff0 {
+  color: orange;
 }
 
 .store-introduction .koutin_price_box .tire_text_f00 {
@@ -719,16 +791,11 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 }
 
 .campaign .grey-wrapper .row {
-  width: 78%;
-}
-
-.campaign .three-tiles-one {
-  margin-bottom: calc(5.7vw - 18px);
-  position: relative;
+  width: 67%;
 }
 
 .campaign .white-wrapper .row {
-  width: 90%;
+  width: 67%;
 }
 
 .campaign .three-tiles-one a {
@@ -740,7 +807,7 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   position: absolute;
   width: auto;
   left: 50%;
-  top: 4vw;
+  top: 270%;
   opacity: 0;
   transition: opacity .35s ease;
   transform: translateX(-50%);
@@ -827,11 +894,11 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   font-weight: bold;
 }
 
-.bq_back_000{
+.bq_back_000 {
   margin-bottom: 10px !important;
 }
 
-.bq_back_000 > div {
+.bq_back_000>div {
   margin-bottom: 5px;
 }
 
@@ -1064,8 +1131,13 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   display: none;
 }
 
-.set_sale_back .item_info_text_small {
+.set_sale_back .item_info_text_small,
+.right_small_730 {
   text-align: right;
+}
+
+.right_small_730 {
+  font-size: 15px;
 }
 
 .set_sale_back .scroll .noselect_car {
@@ -1339,9 +1411,116 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   color: orangered;
 }
 
-.symbol_info1,
-.camp_text_cell_1 {
+.com_title,
+.faq_form_title {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.form_cell_1 {
+  text-align: right;
+}
+
+.faq_form_ff0_b {
+  color: orange;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.faq_n_text_s {
+  color: black;
+  font-weight: normal;
+}
+
+.com_cell_title {
   float: left;
+  width: 12vw;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.em_back {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.em_back_comm1 {
+  font-size: 35px;
+}
+
+.faq_back {
+  margin-bottom: 20px !important;
+}
+
+.faq_back div {
+  margin-bottom: 10px;
+}
+
+.faq_title {
+  font-weight: bold;
+}
+
+.faq_text_p10 a {
+  text-decoration: underline;
+  color: black;
+}
+
+/*#content-wrapper > div > div:nth-child(2) > div:nth-child(4) > div.com_cell_name*/
+#content-wrapper>div>div:nth-child(2)>div:nth-child(4)>div.com_cell_name,
+.com_cell_tb,
+.com_cell_fax2,
+.com_cell_tb_bottom {
+  margin-left: 12vw;
+}
+
+.faq_text_q {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.com_cell_hr {
+  margin-left: 12vw;
+}
+
+.com_cell_title_an {
+  float: left;
+  margin-left: 25px;
+  width: 12vw;
+}
+
+.symbol_info1,
+.camp_text_cell_1,
+.faq_text_a_cell_1,
+.faq_cell_1 {
+  float: left;
+}
+
+.faq_thanks_title {
+  font-size: 30px;
+  color: crimson;
+  text-align: center;
+}
+
+.faq_thanks_text {
+  text-align: center;
+}
+
+.faq_text_a_cell_1 {
+  margin-left: 10px;
+}
+
+.faq_text_a_cell_2 {
+  margin-left: 30px;
+}
+
+.faq_text_a {
+  color: orange;
+}
+
+.faq_cell_text a,
+#content-wrapper > div > div:nth-child(6) > div:nth-child(19) > div.faq_text_a_cell_2 > div:nth-child(3) {
+  color: black;
+  text-decoration: none;
 }
 
 .set_menu_title_sp {
@@ -1349,12 +1528,12 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   font-size: 25px;
 }
 
-.main_c > hr {
+.main_c>hr {
   width: 65%;
 }
 
-.main_c.magazine > div > a,
-.main_c.magazine > div {
+.main_c.magazine>div>a,
+.main_c.magazine>div {
   font-size: 20px !important;
 }
 
@@ -1385,6 +1564,24 @@ span.font_ff0_b {
 .garagara_hr_sp {
   width: 100%;
 }
+
+.mochikomi_table {
+  background-color: black;
+}
+
+.com_tb {
+  margin: 10px 0;
+}
+
+.com_cell_com a,
+.com_cell_shop a {
+  text-decoration: underline;
+  color: black;
+}
+
+
+
+
 
 
 
@@ -1506,7 +1703,7 @@ span.font_ff0_b {
   .large-category .row,
   .small-category .row,
   .tire .row {
-    width: 100%;
+    width: 100% !important;
     margin: auto;
   }
 
@@ -1561,6 +1758,82 @@ span.font_ff0_b {
     display: block;
   }
 
+  .set_menu_n_cell .set_menu_n_text {
+    font-size: 15px;
+  }
+
+
+  .set_menu_n_info_text {
+    padding-left: 10px !important;
+  }
+
+  .tire .row .col-md-3 div {
+    margin: 0px 0;
+  }
+
+  .main_c>hr {
+    width: 65%;
+  }
+
+  .main_c.magazine>div>a,
+  .main_c.magazine>div {
+    font-size: 17px !important;
+  }
+
+  .garagara_tousen_cell {
+    width: 70%;
+    margin: auto;
+  }
+
+  .campaign .three-tiles-one .button {
+    top: 200%;
+  }
+
+  .camp_shitadori_yajirushi {
+    padding: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .camp_shitadori_at {
+    width: 100%;
+  }
+
+  .com_cell_title {
+    color: deepskyblue;
+    float: none;
+    width: auto;
+    text-align: left;
+  }
+
+  .com_cell_com_sp,
+  .com_cell_name {
+    margin-left: 20px;
+  }
+
+  #content-wrapper>div>div:nth-child(2)>div:nth-child(4)>div.com_cell_name,
+  .com_cell_tb,
+  .com_cell_fax2,
+  .com_cell_tb_bottom {
+    margin-left: 20px;
+  }
+
+  .com_cell_title_an {
+    float: none;
+    margin-left: 0px;
+    width: auto;
+  }
+
+  .com_cell_tel_sp a,
+  .com_cell_tel_sp2 a {
+    color: black;
+    text-decoration: underline;
+  }
+
+  .form_cell_1 {
+    text-align: left;
+  }
+
   .tenpo_staff_hr,
   .img_pc,
   .pr_title_pc,
@@ -1569,36 +1842,17 @@ span.font_ff0_b {
   .set_menu_title,
   .garagara_heiwajima_title_pc,
   .garagara_hr_pc,
-  .garagara_ichinoe_title_pc {
+  .garagara_ichinoe_title_pc,
+  .camp_other_title,
+  .n_camp_pc,
+  .com_cell_com,
+  .com_cell_tel,
+  .com_cell_tel2 {
     display: none;
   }
 
- .set_menu_n_cell .set_menu_n_text {
-    font-size: 15px;
- }
 
 
-  .set_menu_n_info_text {
-    padding-left: 10px !important;
-  }
-
-  .tire .row .col-md-3 div {
-      margin: 0px 0;
-  }
-
-  .main_c > hr {
-    width: 65%;
-  }
-
-  .main_c.magazine > div > a,
-  .main_c.magazine > div {
-    font-size: 17px !important;
-  }
-
-  .garagara_tousen_cell {
-    width: 70%;
-    margin: auto;
-  }
 
 
 
@@ -1622,7 +1876,12 @@ span.font_ff0_b {
   .set_youtube_sp,
   .garagara_heiwajima_title_sp,
   .garagara_hr_sp,
-  .garagara_ichinoe_title_sp {
+  .garagara_ichinoe_title_sp,
+  .camp_title_sp,
+  .n_camp_sp,
+  .com_cell_com_sp,
+  .com_cell_tel_sp,
+  .com_cell_tel_sp2 {
     display: none;
   }
 

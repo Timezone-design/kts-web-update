@@ -100,8 +100,9 @@ header .clearfix {
 
 .arrowed-title:not(#header-carousel-name) img {
   width: 120%;
+  height: 15px;
   position: absolute;
-  top: 2.6vw;
+  top: 25px;
   left: 34%;
 }
 
@@ -278,11 +279,11 @@ header .clearfix {
   }
 
   .arrowed-title:not(#header-carousel-name) img {
-    width: 120%;
-    height: 20px;
+    height: 13px;
+    width: 200px;
     position: absolute;
     top: 21px;
-    left: 50%;
+    left: 55%;
     object-fit: fill;
   }
 

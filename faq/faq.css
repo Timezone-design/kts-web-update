@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+*.faq_title {font-size: small; font-weight: bold;}
+*.faq_form_title {font-weight: bold;}
+*.faq_text, *.faq_text_p10, *.faq_text_a {font-size: small;}
+*.faq_text_a {display: table;}
+*.faq_text_a_cell_1 {display: table-cell; width: 15px;}
+*.faq_text_a_cell_2 {display: table-cell;}
+*.hr_form {margin-top: 3px; margin-bottom: 5px; border-width: 1px 0 0 0; border-style: solid; border-color: #FFF; height: 1px;}
+/* Form用 */
+*.form_tb {display: table; font-size: small;}
+*.faq_n_text_s {font-size: small; font-weight: normal; color: #FFF;}
+*.form_width {width: 100%;}
+
+*.faq_tb {display: table; font-size: small; padding: 2px;}
+*.faq_cell_1 {display: table-cell; width: 20px; text-align: right; vertical-align: top;}
+*.faq_cell_2 {display: table-cell; vertical-align: top;}
+
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	*.faq_back {width: 100%; margin: 5px 0; padding-top: 5px; padding-bottom: 5px; background-color: #000;}
+	*.faq_title, *.faq_text, *.faq_text_p10, *.faq_text_a, *.faq_text_a, *.faq_text_q {padding: 2px;}
+	*.faq_text_q {font-size: small;}
+	*.faq_hr {width: 100%; margin: 2px; size: 1px; color: #CCC;}
+	*.faq_text_a {color: #FF0;}
+	*.faq_form_ff0_b {margin-top: 4px; margin-bottom: 4px; padding-left: 20px; color: #FF0; font-weight: bold; font-size: small;}
+	*.faq_thanks_title {margin-top: 5px; margin-bottom: 5px; font-size: large; font-weight: bold; color: #F00; text-align: center;}
+	*.faq_thanks_text {padding: 2px; font-size: small;}
+	*.form_radio {padding-left: 10px;}
+}
+
+
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	*.faq_back {width: 750px; margin: 8px auto; padding-top: 7px; padding-bottom: 5px; background-color: #000;}
+	*.faq_title {width: 730px; margin: 2px auto;}
+	*.faq_form_title {width: 730px; margin: 2px auto;}
+	*.faq_form_ff0_b {width: 730px; margin: 4px auto; padding-left: 30px; color: #FF0; font-weight: bold;}
+	*.faq_text {width: 730px; margin: 2px auto;}
+	*.faq_text_p10 {width: 730px; margin: 2px auto; padding-left: 10px;}
+	*.faq_text_q {width: 730px; padding-left: 10px; margin: 4px auto; font-size: small; font-weight: bold; text-decoration: underline;}
+	*.faq_text_a {color: #FF0; width: 730px; margin: 2px auto; padding-left: 20px;}
+	*.faq_cell_text {padding-bottom: 2px;}
+	*.faq_tb {width: 730px; margin: 0 auto;}
+	/* Form用 */
+	*.form_tb {width: 600px; margin: 10px auto;}
+	*.form_cell_1 {display: table-cell; width: 150px; text-align: right; vertical-align: top;}
+	*.form_cell_2 {display: table-cell; padding-left: 10px;}
+	*.hr_form_600 {width: 600px; margin-top: 3px; margin-bottom: 3px; border-width: 1px 0 0 0; border-style: solid; border-color: #CCC; height: 1px;}
+	/* thanksページ */
+	*.faq_thanks_title {margin-top: 5px; margin-bottom: 5px; font-size: large; font-weight: bold; color: #F00; text-align: center;}
+	*.faq_thanks_text {font-size: small; text-align: center;}
+}
