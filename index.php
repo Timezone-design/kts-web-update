@@ -84,29 +84,19 @@
                 </ul>
               </div>
             </nav>
-            <div class="clearfix-s"></div>
             <div id="top-carousel">
-              <div id="header-carousel-name" class="arrowed-title">
-                <h1>PICK UP</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow" srcset="">
-              </div>
-              <div class="clearfix toggle"></div>
-              <div class="slick-wrapper">
-                <div class="slick">
-                  <div><a href="/product/index.html"><img src="/assets/img/home/hks_202103_05_camp_480.webp"></a></div>
-                  <div><a href="/shop_menu/set/ch_ma/liqui_moly_dpf.html"><img
+              <div class="header-banner-wrapper">
+                <div class="row">
+                  <div class="col-md-3 col-sm-3 col-xs-3"><a href="/product/index.html"><span>詳しく見る</span><img src="/assets/img/home/hks_202103_05_camp_480.webp"></a></div>
+                  <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/liqui_moly_dpf.html"><span>詳しく見る</span><img
                         src="/assets/img/home/liqui_moly_dpf_480.webp"></a></div>
-                  <div><a href="/shop_menu/set/ch_ma/10674.html"><img
+                  <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/10674.html"><span>詳しく見る</span><img
                         src="/assets/img/home/mahle_ozone_pro_480.webp"></a></div>
-                  <div><a href="/tire_wheel/tire/index.html"><img src="/assets/img/home/tire_wheel_480.webp"></a></div>
+                  <div class="col-md-3 col-sm-3 col-xs-3"><a href="/tire_wheel/tire/index.html"><span>詳しく見る</span><img src="/assets/img/home/tire_wheel_480.webp"></a></div>
                 </div>
               </div>
             </div>
-            <div class="clearfix-s"></div>
-            <div id="header-link" class="row">
-              <a class="arrowed-link" href="javascript:void()" id="header-link"><span>詳しく見る</span><img
-                  src="/assets/img/black_arrow.svg" alt="Header Link"></a>
-            </div>
-          </header>
+                      </header>
           <!-- Header End -->
 
           <div id="menu-title" class="arrowed-title">

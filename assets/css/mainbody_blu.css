@@ -756,7 +756,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 }
 
 .shop_menu_table .shop_menu_cell_1,
-.mail_text_cell_1 {
+.mail_text_cell_1,
+.garagara_cell1 {
   float: left;
 }
 
@@ -820,6 +821,26 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 .lineup_close a {
   text-decoration: none;
   color: deepskyblue;
+}
+
+.bq_info_text_b {
+  font-weight: bold;
+}
+
+.bq_back_000{
+  margin-bottom: 10px !important;
+}
+
+.bq_back_000 > div {
+  margin-bottom: 5px;
+}
+
+.font_f00 {
+  color: crimson;
+}
+
+.set_maker_cell input {
+  width: 100%;
 }
 
 .lineup_close {
@@ -1258,10 +1279,32 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   margin-bottom: 10px;
 }
 
-.set_menu_n_text_0f0 {
+.set_menu_n_text_0f0,
+.bq_text_title,
+.camp_info_title,
+.garagara_title {
   color: deepskyblue;
   font-weight: bold;
   font-size: 20px;
+}
+
+.garagara_title {
+  text-align: center;
+  background-color: white;
+}
+
+.garagara_table_730 {
+  color: crimson;
+  padding: 5px;
+}
+
+.garagara_table {
+  color: orangered;
+  padding: 5px;
+}
+
+.small_right {
+  text-align: right;
 }
 
 .set_menu_n_text {
@@ -1296,7 +1339,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   color: orangered;
 }
 
-.symbol_info1 {
+.symbol_info1,
+.camp_text_cell_1 {
   float: left;
 }
 
@@ -1304,6 +1348,48 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   font-weight: bold;
   font-size: 25px;
 }
+
+.main_c > hr {
+  width: 65%;
+}
+
+.main_c.magazine > div > a,
+.main_c.magazine > div {
+  font-size: 20px !important;
+}
+
+.camp_f_text {
+  text-align: center;
+}
+
+span.font_ff0_b {
+  color: fuchsia;
+  font-weight: bold;
+}
+
+.space3px {
+  width: 100%;
+  height: 3px;
+}
+
+.garagara_tousen_1 {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.garagara_tousen_3 {
+  text-align: center;
+}
+
+.garagara_hr_sp {
+  width: 100%;
+}
+
+
+
+
+
 
 
 
@@ -1480,7 +1566,10 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   .pr_title_pc,
   .footer_tenpo_table,
   .set_youtube,
-  .set_menu_title {
+  .set_menu_title,
+  .garagara_heiwajima_title_pc,
+  .garagara_hr_pc,
+  .garagara_ichinoe_title_pc {
     display: none;
   }
 
@@ -1497,12 +1586,19 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
       margin: 0px 0;
   }
 
+  .main_c > hr {
+    width: 65%;
+  }
 
+  .main_c.magazine > div > a,
+  .main_c.magazine > div {
+    font-size: 17px !important;
+  }
 
-
-
-
-
+  .garagara_tousen_cell {
+    width: 70%;
+    margin: auto;
+  }
 
 
 
@@ -1523,7 +1619,10 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   .wheel .footer_tenpo_sp,
   .footer_tenpo_sp,
   .set_menu_title_sp,
-  .set_youtube_sp {
+  .set_youtube_sp,
+  .garagara_heiwajima_title_sp,
+  .garagara_hr_sp,
+  .garagara_ichinoe_title_sp {
     display: none;
   }
 

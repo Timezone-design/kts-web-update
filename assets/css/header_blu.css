@@ -40,6 +40,39 @@ header .clearfix {
   background-color: white;
 }
 
+.header-banner-wrapper .row > div {
+  padding: 0 !important;
+}
+
+.header-banner-wrapper .row > div a span {
+  text-decoration: none;
+  color: white;
+  position: absolute;
+  transform: translateY(-50%);
+  transform: translateX(-50%);
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  opacity: 0;
+  font-weight: bold;
+  transition: opacity 300ms ease-in-out;
+}
+
+
+.header-banner-wrapper .row > div a:hover span {
+  opacity: 1;
+
+}
+
+.header-banner-wrapper .row > div a img {
+  transition: filter 300ms ease-in-out;
+}
+
+.header-banner-wrapper .row > div a:hover img {
+  filter: brightness(0.5);
+}
+
+
 /* Header Carousel css */
 
 .arrowed-title {
