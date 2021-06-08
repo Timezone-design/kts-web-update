@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* コンテンツ背景 */
+*.recruit_back {background-color: #000;}
+
+
+/* 見出し用フォント */
+*.rc_title {font-weight: bold; padding: 3px;}
+*.rc_m_title {font-weight: bold; color: #0FF;}
+*.rc_m_title_com {font-size: small;}
+
+/* 見出し部罫線 */
+*.hr_rc {color: #FFF;}
+
+/* テーブル */
+*.rc_tb, *.rc_tb_an, *.rc_tb_an_bottom {display: table; font-size: small;}
+*.rc_cell_title {font-weight: bold;}
+
+/* 3BOX仕様 */
+*.rc_3box_table {background-color: #FFF; border-spacing: 0; color: #000;}
+*.rc_3box_tr1 {background-color: #FFC; font-size: small; font-weight: bold;}
+*.rc_3box_tr1_c {background-color: #CFF; font-size: small; font-weight: bold;}
+*.rc_3box_tr1_f {background-color: #FCF; font-size: small; font-weight: bold;}
+*.rc_3box_tr2 {font-size: small;}
+*.rc_3box_pad {padding: 3px;}
+*.rc_3box_comm {margin-left: 6px;}
+*.rc_3box_comm_r {margin-left: 2px; text-align: right;}
+a.rc_link {color: #FFF;}
+a.rc_link:hover {color: #00F;}
+
+/* SP用CSS */
+@media screen and (max-width: 479px) {
+	*.recruit_back {padding: 2px;}
+	*.rc_tb {margin: 3px 0; padding: 2px; width: 100%;}
+	*.rc_cell_title {color: #0FF;}
+	*.rc_cell_com_sp, *.com_cell_name {padding-left: 10px;}
+	*.rc_cell_name2 {color: #FF0;}
+	*.rc_cell_shop {font-weight: bold; padding-left: 5px;}
+	*.rc_cell_tel_sp {display: table-cell; padding-left: 15px; font-weight: bold;}
+	*.rc_cell_tel_sp a:hover {color: #F00;}
+	*.rc_cell_fax {display: table-cell; padding-left: 15px;}
+	*.rc_cell_add {padding-left: 15px;}
+	*.rc_cell_hr {color: #CCC;}
+	/* 3BOX仕様 */
+	*.rc_3box_table {width: 100%; margin: 2px auto 2px;}
+	*.rc_3box_a {display: table; width: 100%; margin: 2px auto 2px; font-size: small; font-weight: bold;}
+	*.rc_3box_cell_a {display: table-cell; width: 33%; text-align: center;}
+}
+
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	/* コンテンツ背景 */
+	*.recruit_back {width: 750px; margin: 5px auto;}
+	/* 見出し */
+	*.rc_m_title {width: 730px; margin: 3px auto 3px;}
+	/* 見出し直下コメント */
+	*.rc_m_title_com {width: 730px; margin: 2px auto 2px;}
+	/* 見出し部罫線 */
+	*.hr_rc {width: 740px; margin: 0 auto 5px;}
+	*.rc_tb {width: 700px; margin: 15px auto;}
+	*.rc_cell_title {display: table-cell; width: 95px; text-align: right; padding-right: 10px;}
+	*.rc_cell_name, *.com_cell_com {display: table-cell;}
+	*.rc_cell_com_bottom {margin-bottom: 2px;}
+	*.rc_cell_tb {display: table; font-size: 12px;}
+	*.rc_cell_hr {size: 1px; width: 100%; color: #CCC;}
+	*.rc_cell_tb_bottom {display: table; font-size: 12px; padding-bottom: 10px;}
+	/* 3BOX仕様 */
+	*.rc_3box {display: table; width: 730px; margin: 5px auto 5px;}
+	*.rc_3box_cell {display: table-cell; vertical-align: top;}
+	*.rc_3box_table {width: 240px;}
+	*.rc_3box_a {display: table; width: 730px; margin: 3px auto 3px; font-weight: bold;}
+	*.rc_3box_cell_a {display: table-cell; width: 33%; text-align: center;}
+}

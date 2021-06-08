@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+/* 共通 */
+*.neotune_back {background-color: #000; margin: 5px auto; padding-bottom: 10px;}
+*.neotune_text {font-size: small;}
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	*.neotune_none_sp {display: none;}
+	*.neotune_title img {width: 100%; height: auto;}
+	*.neotune_text_title {margin-top: 10px; margin-bottom: 7px;}
+	*.neotune_text_title img {width: 100%; height: auto;}
+	*.neotune_text {width: 99%; margin: 2px auto;}
+	*.neotune_img_720 {width: 99%; margin: 5px auto;}
+	*.neotune_img_720 img {width: 100%; height: auto;}
+	*.neotune_set_c {width: 99%; margin: 3px auto; text-align: center;}
+	*.neotune_set_c img {width: 75%; height: auto;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	*.neotune_none_pc {display: none;}
+	*.neotune_back {width: 750px;}
+	*.neotune_text_title {width: 730px; margin: 10px auto;}
+	*.neotune_text {width: 720px; margin: 2px auto;}
+	*.neotune_img_720 {width: 720px; margin: 5px auto;}
+	*.neotune_img_table {display: table; width: 720px; margin: 2px auto;}
+	*.neotune_set_t {display: table; width: 730px; margin: 5px auto;}
+	*.neotune_set_c {display: table-cell; width: 50%; text-align: center;}
+}
