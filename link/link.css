@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+/* コンテンツ背景 */
+*.link_back {background-color: #000;}
+
+*.link_hr {height: 1px;}
+
+*.gojuon_link_c {display: table-cell; margin: 3px;}
+*.gojuon_link_c a{color: #FFF;}
+
+*.link_f00 {font-weight: bold; color: #F00;}
+*.m_name {font-size: small; margin: 5px auto;}
+*.m_name a{color: #FFF; text-decoration: none;}
+
+/* スマートフォン用CSS */
+@media screen and (max-width: 479px) {
+	*.gojuon_link, *.link_hr_pc {display: none;}
+	*.link_m_hr_sp {height: 1px; width: 100%; margin: 5px auto; color: #FFF;}
+	*.gojuon_link_sp {display: table; margin: 10px auto; text-align: center; font-size: small; width: 100%;}
+	*.link_m_2 {display: table; width: 98%; margin: 2px auto;}
+	*.link_m_2_c {display: table-cell; width: 50%; text-align: center;}
+	*.link_m_2_c img{width: 100%; height: auto;}
+	*.link_text {width: 98%; font-size: small; margin: 10px auto; padding-top: 10px;}
+}
+
+/* PC用CSS */
+@media screen and (min-width: 480px) {
+	*.gojuon_link_sp, *.link_m_hr_sp {display: none;}
+	*.gojuon_link {display: table; margin: 10px auto; text-align: center; font-size: small; width: 600px;}
+	*.link_hr {width: 730px; margin: 5px auto;}
+	*.link_hr_pc {width: 730px; margin: 5px auto; height: 1px;}
+	*.link_m_4 {display: table; width: 730px; margin: 2px auto 2px;}
+	*.link_m_4_c {display: table-cell; width: 50%; margin: 2px auto 2px;}
+	*.link_m_2 {display: table; width: 100%;}
+	*.link_m_2_c {display: table-cell; width: 50%; text-align: center;}
+	*.link_text {width: 730px; font-size: small; margin: 10px auto; padding-top: 10px;}
+}

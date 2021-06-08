@@ -1432,11 +1432,26 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   font-weight: normal;
 }
 
-.com_cell_title {
+.com_cell_title,
+.form_cell_1 {
   float: left;
-  width: 12vw;
+  width: 13vw;
   text-align: right;
   padding-right: 20px;
+}
+
+hr.hr_form_600 {
+    margin: 5px;
+}
+
+
+
+.form_cell_2 {
+    margin-left: 13vw;
+}
+
+.form_t_c {
+  font-size: 10px;
 }
 
 .em_back {
@@ -1579,7 +1594,57 @@ span.font_ff0_b {
   color: black;
 }
 
+.mag_text_f00 {
+  text-align: center;
+}
 
+.gojuon_link_c {
+    height: 25px;
+}
+
+.m_name {
+  text-align: center;
+}
+
+.m_name a {
+  text-decoration: none;
+  color: black;
+}
+
+.gojuon_link_c .link_f00 {
+  color: crimson;
+  font-weight: bold;
+}
+
+.gojuon_link_c a {
+  color: black;
+  text-decoration: underline;
+}
+
+.mag_title {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.mag_table {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.mag_table_c a {
+  text-decoration: underline;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+
+.hr.hr_mag {
+    margin: 5px 0;
+}
+
+hr.hr_form {
+    margin: 0px 0;
+}
 
 
 
@@ -1834,6 +1899,50 @@ span.font_ff0_b {
     text-align: left;
   }
 
+  .houjin_tel_pc, .houjin_fax {
+    display: inline-block;
+    font-size: 25px;
+    margin: -1px;
+    font-weight: bold;
+  }
+
+  .set_menu_n .item_info_text_middle, .houjin_text {
+    font-size: 15px;
+  }
+
+  .houjin_text_cell_r, .houjin_text_cell_l {
+    font-size: 15px;
+    display: inline-block;
+    margin: 2px;
+  }
+
+  .houjin_title {
+    font-size: 20px;
+  }
+
+  .gojuon_link_sp {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .com_cell_title, .form_cell_1 {
+     float: none; 
+     width: auto; 
+     text-align: left; 
+     padding-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
   .tenpo_staff_hr,
   .img_pc,
   .pr_title_pc,
@@ -1847,14 +1956,11 @@ span.font_ff0_b {
   .n_camp_pc,
   .com_cell_com,
   .com_cell_tel,
-  .com_cell_tel2 {
+  .com_cell_tel2,
+  .gojuon_link,
+  .link_hr_pc {
     display: none;
   }
-
-
-
-
-
 
 
 
@@ -1881,7 +1987,9 @@ span.font_ff0_b {
   .n_camp_sp,
   .com_cell_com_sp,
   .com_cell_tel_sp,
-  .com_cell_tel_sp2 {
+  .com_cell_tel_sp2,
+  .gojuon_link_sp,
+  .link_m_hr_sp {
     display: none;
   }
 
