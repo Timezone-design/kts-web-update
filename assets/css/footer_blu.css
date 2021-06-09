@@ -82,7 +82,7 @@
     }
     
     [class*=col-] {
-        padding: 0;
+        padding: 0 0 !important;
     }
 
     .footer-factory-info {

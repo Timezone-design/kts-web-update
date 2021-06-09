@@ -268,7 +268,7 @@ a.notype:link {
 
 .three-tiles .image-inside-wrapper {
   position: relative;
-  width: 80%;
+  width: 60%;
   margin: auto;
 }
 
@@ -731,7 +731,7 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   margin: auto;
 }
 
-.large-category-top-img > img {
+.large-category-top-img>img {
   width: 100% !important;
 }
 
@@ -778,6 +778,10 @@ hr.set_c_top_hr {
 .search-block form .search-select {
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.three-tiles-one .image-inside-wrapper img {
+  width: 100%;
 }
 
 .search-block button.btn-search,
@@ -1205,9 +1209,18 @@ hr.set_c_top_hr {
   color: deepskyblue;
 }
 
+.houjin_hp_link {
+  text-align: center;
+}
+
 .houjin_hp_link img,
 .houjin_cell_pdf img {
   width: auto;
+}
+
+.gojuon_link {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .houjin_cell_pdf {
@@ -1327,8 +1340,8 @@ hr.set_c_top_hr {
 }
 
 .pr_maker_title {
-    background: black;
-/*    color: white;*/
+  background: black;
+  /*    color: white;*/
 }
 
 .pr_maker_title img {
@@ -1849,7 +1862,7 @@ hr.hr_form {
 }
 
 .al_menu_1:hover img {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 
 .al_menu_2:hover {
@@ -1859,7 +1872,7 @@ hr.hr_form {
 }
 
 .al_menu_2:hover img {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 
 .al_menu_3:hover {
@@ -1869,7 +1882,7 @@ hr.hr_form {
 }
 
 .al_menu_3:hover img {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 
 .al_menu_4:hover {
@@ -1879,7 +1892,7 @@ hr.hr_form {
 }
 
 .al_menu_4:hover img {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 
 .al_menu_5:hover {
@@ -1889,7 +1902,7 @@ hr.hr_form {
 }
 
 .al_menu_5:hover img {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 
 .al_yoyaku_cell_f:hover {
@@ -1899,7 +1912,7 @@ hr.hr_form {
 }
 
 .al_yoyaku_cell_f:hover img {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 
 .al_yoyaku_cell_i:hover {
@@ -1909,7 +1922,7 @@ hr.hr_form {
 }
 
 .al_yoyaku_cell_i:hover img {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 
 .al_yoyaku_cell_h:hover {
@@ -1919,7 +1932,7 @@ hr.hr_form {
 }
 
 .al_yoyaku_cell_h:hover img {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 
 .al_yoyaku {
@@ -2131,7 +2144,7 @@ hr.hr_form {
     /* border: 1px dotted #999; */
     width: 14.28571%;
     height: 5.5vw !important;
-    line-height: 5vw !important;
+    /*line-height: 5vw !important;*/
     overflow: hidden;
     font-size: 12px !important;
   }
@@ -2159,7 +2172,7 @@ hr.hr_form {
   }
 
   .main_c>hr {
-    width: 65%;
+    width: 90%;
   }
 
   .main_c.magazine>div>a,
@@ -2170,6 +2183,11 @@ hr.hr_form {
   .garagara_tousen_cell {
     width: 70%;
     margin: auto;
+  }
+
+  .houjin_hp_link img,
+  .houjin_cell_pdf img {
+    width: 100%;
   }
 
   .campaign .three-tiles-one .button {
@@ -2304,6 +2322,11 @@ hr.hr_form {
 
   .shop_menu_table_top_text {
     padding-left: 10px !important;
+  }
+
+  .calendar {
+    padding: 0 !important;
+    margin: 0 4px !important;
   }
 
   .al_menu_sp_cell_100p {
@@ -2567,10 +2590,15 @@ hr.hr_form {
   .tire-wheel .top {
     width: 100%;
     margin: auto;
+  }
+
+  .three-tiles .image-inside-wrapper {
+    width: 100%;
+  }
+
+.large-category-top-text > div {
+  margin-left: 10px;
 }
-
-
-
 
 
 
@@ -2649,7 +2677,7 @@ hr.hr_form {
   .sm_button_table_sp,
   .sm_sp_hr_b,
   .sm_sp,
-  .top_mc_b,
+  /*.top_mc_b,*/
   .alignment_top_b,
   .shop_menu_top_photo_sp,
   .shop_menu_table_top_comm_sp,
