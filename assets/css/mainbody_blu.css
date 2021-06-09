@@ -731,8 +731,8 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
   margin: auto;
 }
 
-.tire .row .col-md-3 div {
-  margin: 15px 0;
+.large-category-top-img > img {
+  width: 100% !important;
 }
 
 .rc_title {
@@ -1326,12 +1326,12 @@ hr.set_c_top_hr {
   text-align: center;
 }
 
-.pr_back {
+.pr_maker_title {
     background: black;
-    color: white;
+/*    color: white;*/
 }
 
-.pr_back img {
+.pr_maker_title img {
   width: auto;
 }
 
@@ -2564,7 +2564,10 @@ hr.hr_form {
     margin-top: 2px
   }
 
-
+  .tire-wheel .top {
+    width: 100%;
+    margin: auto;
+}
 
 
 
