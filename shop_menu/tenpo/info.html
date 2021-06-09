@@ -5,336 +5,844 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-wideth, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
-<link rel="stylesheet" href="../../web_r.css" type="text/css" />
-<link rel="stylesheet" href="../../header_r.css" type="text/css" />
-<link rel="stylesheet" href="../../pc_left_menu.css" type="text/css" />
-<link rel="stylesheet" href="../../sp_menu.css" type="text/css" />
-<link rel="stylesheet" href="../shop_menu.css" type="text/css" />
-<link rel="stylesheet" href="tenpo.css" type="text/css" />
 <title>KTS-web 店舗情報</title>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://www.kts-web.com/ajax/jquery.min.js"></script>
-<script type="text/javascript">
-	$(function(){
-		$("#toggle").click(function(){
-			$("#menu").slideToggle();
-			return false;
-		});
-		$(window).resize(function(){
-			var win = $(window).width();
-			var p = 480 ;
-			if(win > p){
-				$("#menu").show();
-			}
-			else {
-				$("#menu").hide();
-			}
-		});
-	});
-</script>
-<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
-		Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-73570160-3', 'auto');
-	ga('send', 'pageview');
-</script>
-</head>
-<body>
-<div class="sp_logo"><a href="https://www.kts-web.com/index.html"><img src="../../img/header_r/hearder_logo.gif" alt="KTS"></a></div>
-<table border="0" cellspacing="0" cellpadding="0" class="pc_d">
-  <tr>
-    <td><a class="h_logo_h" href="https://www.kts-web.com/index.html"></a></td>
-    <td><img src="https://www.kts-web.com/img/header/header_15_top.gif" alt=""></td>
-    <td><a class="h_twitter" href="https://twitter.com/KTScoltd" target="_blank"></a></td>
-    <td><img src="https://www.kts-web.com/img/header/header_10_top.gif" alt=""></td>
-    <td><a class="h_facebook" href="https://www.facebook.com/pages/KTS/333027856712283" target="_blank"></a></td>
-    <td><img src="https://www.kts-web.com/img/header/header_10_top.gif" alt=""></td>
-    <td><a class="h_link" href="https://www.kts-web.com/header_link.html"></a></td>
-  </tr>
-</table>
-<table border="0" cellspacing="0" cellpadding="0" class="pc_d">
-  <tr>
-    <td><a class="h_logo_u" href="https://www.kts-web.com/index.html"></a></td>
-    <td><a class="h_shopmenu" href="https://www.kts-web.com/shop_menu/index.html"></a></td>
-    <td><a class="h_webshop" href="https://www.kts-web.com/shop/" target="_blank"></a></td>
-    <td><a class="h_tire_wheel" href="https://www.kts-web.com/tire_wheel/index.html"></a></td>
-    <td><a class="h_blog" href="https://www.kts-web.com/blog/" target="_blank"></a>
-    <td><img src="https://www.kts-web.com/img/header/header_117_u.gif" alt=""></td>
-  </tr>
-</table>
-<div class="logo_u">
-	<div class="h_shop_menu"><a href="../../shop_menu/index.html"><img src="../../img/header_r/shop_menu.gif" alt="SHOP MENU"></a></div>
-    <div class="h_webshop"><a href="https://www.kts-web.com/e-shop/" target="_blank"><img src="../../img/header_r/web_shop.gif" alt=""></a></div>
-</div>
-<div id="menu-box" class="sp_d">
-	<div id="toggle"><a href="#">MENU</a></div>
-    <ul id="menu">
-    	<li><a href="../../product/index.html">製品情報</a></li>
-        <li class="right"><a href="../../company/index.html">会社概要</a></li>
-    	<li><a href="../../blog/" target="_blank">ＢＬＯＧ</a></li>
-        <li class="right"><a href="../../tire_wheel/index.html">タイヤ・ホイール館</a></li>
-        <li><a href="../../camp/index.html">キャンペーン</a></li>
-        <li class="right"><a href="../../link/index.php">リンク</a></li>
-        <li><a href="../../faq/index.html">お問合せ</a></li>
-        <li class="right"><a href="../../recruit/index.html">求人情報</a></li>
-        <li class="banner"><a href="../../holiday.html">定休日のご案内</a></li>
-        <li class="banner"><a href="../../magazine/index.html">メールマガジン登録・解除フォーム</a></li>
-        <div class="sns_t">
-            <div class="sns_c"><a href="https://www.facebook.com/pages/KTS/333027856712283" target="_blank"><img src="../../img/header_r/sp_facebook.gif" alt="facebook"></a></div>
-            <div class="sns_c"><a href="https://twitter.com/KTScoltd" target="_blank"><img src="../../img/header_r/sp_twitter.gif" alt="twitter"></a></div>
+<link rel="stylesheet" href="/assets/css/search.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/header_blu.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/mainbody_blu.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/footer_blu.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/slick.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/custom.css" type="text/css" />
+    <script src="/assets/js/jquery-3.6.0.min.js"></script>
+    <script src="/assets/js/popper.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/slick.min.js"></script>
+  </head>
+
+  <body>
+    <main>
+      <section id="wrapper">
+        <div class="section-container">
+          <div id="content-wrapper">
+            <!-- Header Start -->
+            <header class="site-header">
+              <nav class="navbar navbar-expand-lg navbar-dark">
+                <a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.webp" alt="Company Logo" srcset=""></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarText">
+                  <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                      <a class="nav-link" href="/">
+                        <div class="ja">トップ</div>
+                        <div class="en">TOP</div>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="/shop_menu/set/index.html">
+                        <div class="ja">ショップメニュー</div>
+                        <div class="en">SHOP MENU</div>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="/product/index.html">
+                        <div class="ja">オリジナル商品</div>
+                        <div class="en">ORIGINAL PRODUCT</div>
+                      </a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="/tire_wheel/index.html">
+                        <div class="ja">タイヤ・ホイール</div>
+                        <div class="en">TIRE / WHEEL</div>
+                      </a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="/campaign/index.html">
+                        <div class="ja">キャンペーン</div>
+                        <div class="en">CAMPAIGN</div>
+                      </a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="/wholesale/index.html">
+                        <div class="ja">業販</div>
+                        <div class="en">WHOLESALE</div>
+                      </a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="/blog/">
+                        <div class="ja">ブログ</div>
+                        <div class="en">BLOG</div>
+                      </a></li>
+                    <li class="nav-item"><a class="nav-link" href="/company.html">
+                        <div class="ja">会社概要</div>
+                        <div class="en">COMPANY</div>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </nav>
+              <div id="top-carousel">
+                <div class="header-banner-wrapper">
+                  <div class="row">
+                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/product/index.html"><span>詳しく見る</span><img src="/assets/img/home/hks_202103_05_camp_480.webp"></a></div>
+                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/liqui_moly_dpf.html"><span>詳しく見る</span><img src="/assets/img/home/liqui_moly_dpf_480.webp"></a></div>
+                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/10674.html"><span>詳しく見る</span><img src="/assets/img/home/mahle_ozone_pro_480.webp"></a></div>
+                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/tire_wheel/tire/index.html"><span>詳しく見る</span><img src="/assets/img/home/tire_wheel_480.webp"></a></div>
+                  </div>
+                </div>
+              </div>
+            </header>
+            <!-- Header End -->
+            <div class="store-introduction">
+              <div class="clearfix-s"></div>
+              <div class="white-wrapper small-category">
+                <div class="banner-wrapper row">
+                  <div class="small-category-top-img col-md-3 col-sm-3 col-xs-12">
+                    <a href="/shop_menu/tenpo/factory.html"><img src="../../../img/factory.jpg" alt="KTS FACTORY" srcset=""></a>
+                  </div>
+                  <div class="small-category-top-text col-md-9 col-sm-9 col-xs-12">
+                    <div class="text">
+                      <a href="/shop_menu/tenpo/factory.html">
+                        <div class="en table-name">【KTS FACTORY】</div>
+                      </a>
+                      <table class="ja">
+                        <tbody>
+                          <tr>
+                            <td>所在地：</td>
+                            <td>〒334-0013 埼玉県川口市南鳩ケ谷1-25-3<br>
+                              <div class="highlighted-yellow">※2011年10月11日より合併のため住所が変更となりました<br>（旧住所： 埼玉県鳩ヶ谷市南1-25-3）
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>TEL：</td>
+                            <td>048-285-8906</td>
+                          </tr>
+                          <tr>
+                            <td>FAX：</td>
+                            <td>048-285-8939</td>
+                          </tr>
+                          <tr>
+                            <td>【振込先口座】</td>
+                            <td>PayPay銀行すずめ支店（店番号：002）<br>※旧ジャパンネット銀行<br>預金種目：普通 5064584<br>表記名：カ）カインドテクノストラクチャーファクトリーテン
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td colspan="2"><a href="/shop_menu/tenpo/mail_factory.html"><img src="../../../img/online_480.gif" alt=""></a></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+                <div class="clearfix-s"></div>
+                <div class="banner-wrapper row">
+                  <div class="small-category-top-img col-md-3 col-sm-3 col-xs-12">
+                    <a href="/shop_menu/tenpo/ichinoe.html"><img src="../../../img/ichinoe.jpg" alt="KTS Ichinoe Store" srcset=""></a>
+                  </div>
+                  <div class="small-category-top-text col-md-9 col-sm-9 col-xs-12">
+                    <div class="text">
+                      <a href="/shop_menu/tenpo/ichinoe.html">
+                        <div class="ja table-name">【KTS一之江店】</div>
+                      </a>
+                      <table class="ja">
+                        <tbody>
+                          <tr>
+                            <td>所在地：</td>
+                            <td>〒132-0023 東京都江戸川区西一之江2-28-13</td>
+                          </tr>
+                          <tr>
+                            <td>TEL：</td>
+                            <td>03-3674-2006</td>
+                          </tr>
+                          <tr>
+                            <td>FAX：</td>
+                            <td>03-3674-2008</td>
+                          </tr>
+                          <tr>
+                            <td>【振込先口座】</td>
+                            <td>PayPay銀行すずめ支店（店番号：002）<br>※旧ジャパンネット銀行<br>預金種目：普通 5065203<br>表記名：カ）カインドテクノストラクチャーイチノエテン
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+                <div class="clearfix-s"></div>
+                <div class="banner-wrapper row">
+                  <div class="small-category-top-img col-md-3 col-sm-3 col-xs-12">
+                    <a href="/shop_menu/tenpo/heiwajima.html"><img src="../../../img/heiwajima.jpg" alt="KTS Heiwajima Store" srcset=""></a>
+                  </div>
+                  <div class="small-category-top-text col-md-9 col-sm-9 col-xs-12">
+                    <div class="text">
+                      <a href="/shop_menu/tenpo/heiwajima.html">
+                        <div class="ja table-name">【KTS平和島店】</div>
+                      </a>
+                      <table class="ja">
+                        <tbody>
+                          <tr>
+                            <td>所在地：</td>
+                            <td>〒143-0016 東京都大田区大森北5-10-13</td>
+                          </tr>
+                          <tr>
+                            <td>TEL：</td>
+                            <td>03-5767-5832</td>
+                          </tr>
+                          <tr>
+                            <td>FAX：</td>
+                            <td>03-5767-5808</td>
+                          </tr>
+                          <tr>
+                            <td>【振込先口座】</td>
+                            <td>PayPay銀行すずめ支店（店番号：002）<br>※旧ジャパンネット銀行<br>預金種目：普通 5065378<br>表記名：カ）カインドテクノストラクチャーヘイワジマテン
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+                <div class="clearfix-s"></div>
+                <div class="row payment-note">
+                  <div class="title ja">◆銀行振込時の領収書発行について◆</div>
+                  <div class="text ja">弊社では、お振込時に発行される振込明細書・入金確認書をもって領収書の発行に代えさせて頂いております。<br>
+                    紛失等があった場合でも、別途発行は行っておりませんので予めご了承下さい。</div>
+                </div>
+              </div>
+              <div class="clearfix-s"></div>
+              <div class="grey-wrapper row">
+                <div class="clearfix-s"></div>
+                <!-- <div class="two-button-wrapper ja">
+            <a href="/shop_menu/koutin/change_tire.html" class="btn btn-info">タイヤ組替え</a>
+            <a href="/shop_menu/koutin/mochikomi.html" class="btn btn-info">持ち込みパーツ</a>
+          </div> -->
+                <h1 class="section-title ja">基 本 取 付 工 賃</h1>
+                <div class="clearfix-s"></div>
+                <div class="works-and-prices">
+                  <h5 class="ja">【作業内容・工賃について】</h5>
+                  <ul>
+                    <li class="ja">◆ 表示されている作業工賃はあくまで目安となります。</li>
+                    <li class="ja">◆ 作業する車種、車輌状態により工賃は異なりますので、詳しくは店頭までお問合せ下さい。</li>
+                    <li class="ja">◆ 本ページ掲載価格は弊社にて商品をお買い上げ頂いた場合の工賃となります。</li>
+                    <li class="ja">◆ 商品をお持ち込み頂いての作業工賃については店頭までお問合せ下さい。</li>
+                    <li class="ja">◆ 掲載されている作業内容・工賃は一部の代表例です。掲載以外の作業・車種についてはお気軽にご相談下さい。</li>
+                  </ul>
+                  <div><a href="/shop_menu/set/index.html" class="ja">（取付工賃込みのお得なSETメニューもございます。）</a></div>
+                </div>
+                <div class="clearfix-s"></div>
+                <div class="workcost-table">
+                  <h5 class="ja">【作業工賃例】</h5>
+                  <table class="koutin_price_box ja">
+                    <tbody>
+                      <tr class="koutin_price_box_title">
+                        <td>作業項目</td>
+                        <td>車種（例）</td>
+                        <td>作業時間</td>
+                        <td>
+                          <div>作業工賃</div>
+                          <div>（税込）</div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>LSD交換（FR）</td>
+                        <td>PS13</td>
+                        <td>1時間～1時間30分</td>
+                        <td>￥24,200</td>
+                      </tr>
+                      <tr>
+                        <td>LSD交換（FF）</td>
+                        <td>EK9</td>
+                        <td>1日預り</td>
+                        <td>￥60,500</td>
+                      </tr>
+                      <tr>
+                        <td>LSD交換（4WD・MR）</td>
+                        <td>ランエボ・MR2</td>
+                        <td>要確認</td>
+                        <td>￥66,000</td>
+                      </tr>
+                      <tr>
+                        <td>クラッチ交換（FR）</td>
+                        <td>JZX90</td>
+                        <td>1時間30分～2時間</td>
+                        <td>￥24,200</td>
+                      </tr>
+                      <tr>
+                        <td>クラッチ交換（FF）</td>
+                        <td>EG6</td>
+                        <td>4時間～6時間</td>
+                        <td>￥38,500</td>
+                      </tr>
+                      <tr>
+                        <td>クラッチ交換（MR）</td>
+                        <td>MR2</td>
+                        <td>要確認</td>
+                        <td>￥44,000</td>
+                      </tr>
+                      <tr>
+                        <td>クラッチ交換（4WD）</td>
+                        <td>BNR32</td>
+                        <td>要確認</td>
+                        <td>￥27,500</td>
+                      </tr>
+                      <tr>
+                        <td>Rrメンバースペーサー</td>
+                        <td>BNR32</td>
+                        <td>30分～50分</td>
+                        <td>￥5,500</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="2">車高調・ダウンサス交換</td>
+                        <td>JZX90</td>
+                        <td>1時間</td>
+                        <td>￥16,500</td>
+                      </tr>
+                      <tr>
+                        <td>エスティマ</td>
+                        <td>1時間～2時間</td>
+                        <td>￥27,500</td>
+                      </tr>
+                      <tr>
+                        <td>アッパーアーム交換</td>
+                        <td>PS13</td>
+                        <td>30分</td>
+                        <td>￥5,500</td>
+                      </tr>
+                      <tr>
+                        <td>テンションロッド交換</td>
+                        <td>ECR33</td>
+                        <td>30分</td>
+                        <td>￥3,300</td>
+                      </tr>
+                      <tr>
+                        <td>ハイキャスロッド交換</td>
+                        <td>A31</td>
+                        <td>1時間～1時間30分</td>
+                        <td>￥8,800</td>
+                      </tr>
+                      <tr>
+                        <td>マフラー交換</td>
+                        <td>FC3S</td>
+                        <td>30分～1時間</td>
+                        <td>￥5,500</td>
+                      </tr>
+                      <tr>
+                        <td>フロントパイプ交換</td>
+                        <td>S14</td>
+                        <td>30分～1時間</td>
+                        <td>￥3,300</td>
+                      </tr>
+                      <tr>
+                        <td>EXマニ交換</td>
+                        <td>FR NA車</td>
+                        <td>1時間～1時間30分</td>
+                        <td>￥16,500</td>
+                      </tr>
+                      <tr>
+                        <td>タービン交換/EXマニ交換</td>
+                        <td>FR ターボ車</td>
+                        <td>5時間～6時間</td>
+                        <td>￥33,000～</td>
+                      </tr>
+                      <tr>
+                        <td>ブーストコントローラー</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>￥11,000</td>
+                      </tr>
+                      <tr>
+                        <td>プラグ交換</td>
+                        <td>4気筒</td>
+                        <td>30分</td>
+                        <td>￥3,300</td>
+                      </tr>
+                      <tr>
+                        <td>前置インタークーラー交換</td>
+                        <td>HCR32</td>
+                        <td>4時間～5時間</td>
+                        <td>￥27,500</td>
+                      </tr>
+                      <tr>
+                        <td>燃料ポンプ交換</td>
+                        <td>RPS13</td>
+                        <td>1時間</td>
+                        <td>￥5,500</td>
+                      </tr>
+                      <tr>
+                        <td>ブレーキパッド交換</td>
+                        <td>1台分</td>
+                        <td>30分～40分</td>
+                        <td>￥6,600</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="2">ロングハブボルト交換</td>
+                        <td>8本</td>
+                        <td>&nbsp;</td>
+                        <td>￥8,800</td>
+                      </tr>
+                      <tr>
+                        <td>10本</td>
+                        <td>&nbsp;</td>
+                        <td>￥11,000</td>
+                      </tr>
+                      <tr>
+                        <td>メーター取付</td>
+                        <td>1個</td>
+                        <td>40分～50分</td>
+                        <td>￥5,500</td>
+                      </tr>
+                      <tr>
+                        <td>その他作業</td>
+                        <td colspan="3">応相談！！</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="clearfix-s"></div>
+              </div>
+              <div class="black-wrapper row carry-in-part">
+                <div class="clearfix-s"></div>
+                <!-- <div class="two-button-wrapper ja">
+            <a href="/shop_menu/koutin/change_tire.html" class="btn btn-info">タイヤ組替え</a>
+            <a href="/shop_menu/koutin/mochikomi.html" class="btn btn-info">持ち込みパーツ</a>
+          </div> -->
+                <h1 class="section-title ja">持 ち 込 み パ ー ツ 取 付 工 賃</h1>
+                <div class="clearfix-s"></div>
+                <div class="list-wrapper">
+                  <ul>
+                    <li class="ja">※ 掲載金額は基本工賃となります。お持込頂いた商品・車輌状態によっては追加工賃が発生する場合がございます。</li>
+                    <li class="ja">※ 掲載金額は税込み価格となります。</li>
+                  </ul>
+                </div>
+                <div class="picture-container row">
+                  <div class="col-md-6 col-sm-6">
+                    <img src="../koutin/img/mochikomi_damper.gif" alt="mochikomi_damper">
+                    <img src="../koutin/img/mochikomi_brakepad.gif" alt="mochikomi_brakepad">
+                    <img src="../koutin/img/mochikomi_muffler_rear.gif" alt="mochikomi_muffler_rear">
+                    <img src="../koutin/img/mochikomi_lsd_fr.gif" alt="mochikomi_lsd_fr">
+                  </div>
+                  <div class="col-md-6 col-sm-6">
+                    <a href="/shop_menu/alignment/index.html"><img src="../koutin/img/mochikomi_alignment.gif" alt="mochikomi_alignment"></a>
+                    <a href="/shop_menu/set/damper/index.html"><img src="../koutin/img/mochikomi_set.gif" alt="mochikomi_set"></a>
+                    <img src="../koutin/img/mochikomi_muffler.gif" alt="mochikomi_muffler">
+                    <img src="../koutin/img/mochikomi_other.gif" alt="mochikomi_other">
+                  </div>
+                  <div class="col-md-12 col-sm-12">
+                    <a href="/camp/month.html#heijitsu"><img src="../koutin/img/camp_link.gif" alt="camp_link"></a>
+                  </div>
+                </div>
+                <div class="clearfix-s"></div>
+              </div>
+              <div class="grey-wrapper row change-tire">
+                <div class="clearfix-s"></div>
+                <div class="banner-wrapper">
+                  <img src="../koutin/img/change_tire.gif" alt="change_tire">
+                </div>
+                <div class="workcost-table ja">
+                  <table class="koutin_price_box">
+                    <tbody>
+                      <tr class="koutin_price_box_title">
+                        <td></td>
+                        <td>17インチ以下</td>
+                        <td>18～20インチ</td>
+                        <td>21～22インチ</td>
+                      </tr>
+                      <tr>
+                        <td><span class="font_b">タイヤ組替え</span>（ラジアル）</td>
+                        <td>￥880/1本</td>
+                        <td>￥1,650/1本</td>
+                        <td>￥2,750/1本<span class="tire_text_f00"> ※1</span></td>
+                      </tr>
+                      <tr>
+                        <td><span class="font_b">タイヤ組替え</span>（ランフラット）</td>
+                        <td>￥3,850/1本<span class="tire_text_f00"> ※1</span></td>
+                        <td>￥3,850/1本<span class="tire_text_f00"> ※1</span></td>
+                        <td>￥4,400/1本<span class="tire_text_f00"> ※1</span></td>
+                      </tr>
+                      <tr>
+                        <td><span class="font_b">バランス調整</span></td>
+                        <td colspan="3">￥550/1本</td>
+                      </tr>
+                      <tr>
+                        <td><span class="font_b">車輌からのホイール・タイヤ脱着</span></td>
+                        <td colspan="3">￥550/1本</td>
+                      </tr>
+                      <tr>
+                        <td><span class="font_b">ローテーション</span></td>
+                        <td colspan="3">￥2,200/4本</td>
+                      </tr>
+                      <tr>
+                        <td><span class="font_b">エアーゴムバルブ・ムシ交換</span></td>
+                        <td colspan="3">
+                          <div>バルブ：￥330/1個（ゴム製）</div>
+                          <div>ムシ：￥165（耐熱シリコン製）</div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><span class="font_b">窒素ガス充填</span></td>
+                        <td colspan="3">￥330/1本<span class="tire_text_f00"> ※1</span></td>
+                      </tr>
+                      <tr>
+                        <td><span class="font_b">セラミックエアー充填</span></td>
+                        <td colspan="3">￥550/1本<span class="tire_text_f00"> ※1</span></td>
+                      </tr>
+                      <tr>
+                        <td><span class="font_b">廃タイヤ処分代</span></td>
+                        <td colspan="3">￥275/1本</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="table-bottom-info ja">
+                  <div class="red">※1： KTS FACTORY店でのみ作業可能となります。</div>
+                  <div class="cyan">23インチ以上のサイズについてはお問合せ下さい</div>
+                </div>
+                <div class="tire-replace-note ja">
+                  <div class="black-seperator"></div>
+                  <div class="ja">
+                    【タイヤ組替え作業についての注意事項】
+                  </div>
+                  <ul>
+                    <li>◆ 社外アルミホイールの金属バルブパッキンは専用品の為、店頭在庫しておりません。ご希望の場合はご注文・ご来店前に必ずお問い合わせ下さい。</li>
+                    <li>◆ エアーゴムバルブ・ムシ交換はタイヤ組換え時のオプションメニューとなります。単品では承っておりませんのでご注意下さい。</li>
+                    <li>◆ タイヤ推奨リム幅よりも大きなホイールへの組換えについては1本につきプラス￥500となります。</li>
+                    <li>◆ 弊社でのタイヤ・ホイールのお預かり・保管はできませんので、作業当日にお持込み下さい。</li>
+                    <li>◆ 廃タイヤの処分はタイヤ組換えにて外したタイヤのみ承っております。持ち込みでの処分はご遠慮下さい。</li>
+                    <li>◆
+                      ホイールを機械に設置する際に裏リムにキズ・跡が付く場合がございます。作業には細心の注意を払っておりますが、万が一、ホイールにキズ・跡が付いた場合でも弊社では一切責任を負いかねますので予めご了承下さい。
+                    </li>
+                    <li>◆ 中古タイヤの持ち込みについて、経年劣化による作業時のヒビ・切れ等については一切ノークレームとさせて頂きます。</li>
+                    <li>◆ タイヤ、ホイールの状態や種類によっては作業をお断りさせて頂く場合がございます。</li>
+                    <li>◆ タイヤ組替えはKTS FACTORY店/平和島店のみ作業可能です。KTS一之江店ではサービスを行っておりませんのでご注意下さい。</li>
+                  </ul>
+                  <div>
+                    ※表示金額は税込み価格となります
+                  </div>
+                </div>
+                <div class="clearfix-s"></div>
+              </div>
+              <div class="row white-wrapper ja">
+                <div class="clearfix-s"></div>
+                <div class="other-info">
+                  <div class="other-info-section">
+                    <div class="tenpo_title">◆ 作業のご予約について</div>
+                    <div class="tenpo_title_text">KTS店舗ではアライメント測定・調整から車高調など様々なパーツの取付、チューニングを行っております。</div>
+                    <div class="tenpo_title_text">ご予約が無くても作業は可能ですが、当日の予約状況によってはご来店頂いても作業が行えない場合も多々ございます。</div>
+                    <div class="tenpo_title_text">お客様のお手間を減らす為にもご来店の前にご予約を頂けますようお願い致します。</div>
+                    <div class="tenpo_title_text">特に週末やGW、お盆などは混み合いますのでお早めのご予約をお薦め致します。</div>
+                  </div>
+                  <div class="black-seperator"></div>
+                  <div class="other-info-section">
+                    <div class="tenpo_title">◆ お支払い方法について</div>
+                    <div class="tenpo_title_text">KTS店舗でご購入された商品、作業工賃のお支払いには現金の他に下記お支払い方法がご利用頂けます。</div>
+                    <div class="tenpo_title_text">
+                      <div class="tenpo_text_1st">・ショッピングローン</div>
+                      <div class="tenpo_text_2nd">1回～60回払いが可能。ご希望の方は免許証・通帳・銀行印をお持ち下さい。</div>
+                      <div class="tenpo_text_2nd"><span class="font_ff0">1回～10回払い、ボーナス一括払いは金利手数料無料。</span>（※一部商品を除く）</div>
+                    </div>
+                    <div class="tenpo_title_text">
+                      <div class="tenpo_text_1st">・デビッドカード</div>
+                      <div class="tenpo_text_2nd">銀行のカードにてその場でお支払い可能です。</div>
+                    </div>
+                    <div class="tenpo_title_text">
+                      <div class="tenpo_text_1st">・クレジットカード</div>
+                      <div class="tenpo_text_2nd">分割・リボ払い・ボーナス一括・一括払いがご利用頂けます。</div>
+                      <div class="tenpo_text_2nd">（※お支払い回数・手数料についてはご契約されているカード会社様にご確認下さい）</div>
+                      <div class="tenpo_text_2nd">下記カード会社のカードがご利用頂けます。</div>
+                      <div class="tenpo_text_2nd"><img class="tenpo_card" src="../tenpo/img/visa.gif"> <img class="tenpo_card" src="../tenpo/img/master.gif"> <img class="tenpo_card" src="../tenpo/img/diners.gif"></div>
+                    </div>
+                    <div class="tenpo_title_text">
+                      <div class="tenpo_text_1st">・QRコード決済</div>
+                      <div class="tenpo_text_2nd">下記のQRコード決済がご利用頂けます。</div>
+                      <div class="tenpo_text_2nd"><img class="tenpo_card" src="../tenpo/img/paypay_149.gif"></div>
+                    </div>
+                  </div>
+                  <div class="black-seperator"></div>
+                  <div class="other-info-section">
+                    <div class="tenpo_title ja">◆ 代車サービスについて</div>
+                    <div class="tenpo_title_text ja">KTSでは代車の貸出しサービスを実施しております。代車サービスのご利用条件、及び、ご利用時の注意事項については下記の通りです。</div>
+                    <div class="table-field ja">
+                      <div class="daisya_back">
+                        <br>
+                        <div class="daisya_title">『代車サービスご利用規約』</div>
+                        <div class="daisya_text_title">■代車サービスご利用条件</div>
+                        <div class="daisya_text">ご利用は平日（土・日・祝祭日を除く）に対象となる作業をご依頼頂いたお客様に限ります。</div>
+                        <div class="daisya_text">事前予約での手配となりますのでお問合せ・作業依頼時にご確認下さい。代車サービスが適用される作業内容は下記の通りです。</div>
+                        <div class="daisya_text_title">【代車サービス適用作業内容】</div>
+                        <div class="daisya_table row">
+                          <div class="daisya_table_cell col-md-6 col-sm-6">
+                            <table class="daisya_list_table">
+                              <tbody>
+                                <tr class="daisya_list_table_title">
+                                  <td>作業内容</td>
+                                  <td>貸出し日数</td>
+                                </tr>
+                                <tr>
+                                  <td>ロールバー取付作業</td>
+                                  <td>2日間</td>
+                                </tr>
+                                <tr>
+                                  <td>インタークーラー取付作業</td>
+                                  <td>2日間</td>
+                                </tr>
+                                <tr>
+                                  <td>オイルクーラー取付作業</td>
+                                  <td>2日間</td>
+                                </tr>
+                                <tr>
+                                  <td>クラッチ交換（FF）</td>
+                                  <td>2日間</td>
+                                </tr>
+                                <tr>
+                                  <td>クラッチ交換（4WD・MR）</td>
+                                  <td>3日間</td>
+                                </tr>
+                                <tr>
+                                  <td>L.S.D.組付け（FF・4WD）</td>
+                                  <td>3日間</td>
+                                </tr>
+                                <tr>
+                                  <td>メンバーブッシュ圧入プラン</td>
+                                  <td>2日間</td>
+                                </tr>
+                                <tr>
+                                  <td>SRエンジンカム交換</td>
+                                  <td>2日間</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <div class="clearfix"></div>
+                          </div>
+                          <div class="daisya_table_cell col-md-6 col-sm-6">
+                            <table class="daisya_list_table">
+                              <tbody>
+                                <tr class="daisya_list_table_title">
+                                  <td>作業内容</td>
+                                  <td>貸出し日数</td>
+                                </tr>
+                                <tr>
+                                  <td>L.S.D.オーバーホール（FF）</td>
+                                  <td>2日間</td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                    <div>ワゴン・ミニバン足廻り交換</div>
+                                    <div>（ショック・スプリング・車高調）</div>
+                                  </td>
+                                  <td>2日間</td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                    <div>車高調交換の際の</div>
+                                    <div>EDFC・E-CON・TEAS取付 ※1</div>
+                                  </td>
+                                  <td>2日間</td>
+                                </tr>
+                                <tr>
+                                  <td>工賃合計￥11,000（税込）以上</td>
+                                  <td>1日間</td>
+                                </tr>
+                                <tr>
+                                  <td>工賃合計￥33,000（税込）以上</td>
+                                  <td>2日間</td>
+                                </tr>
+                                <tr>
+                                  <td>工賃合計￥55,000（税込）以上</td>
+                                  <td>3日間</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <div class="daisya_list_text">※1：ワゴン・ミニバンに限らず普通車も可</div>
+                          </div>
+                        </div>
+                        <div class="daisya_text">この他にも、</div>
+                        <div class="daisya_text">
+                          <div class="tenpo_text_2nd">・誌面広告にて代車マークが付いているメニュー</div>
+                          <div class="tenpo_text_2nd">・当サイト内の<a href="../set/index.html">工賃SETメニュー</a>に「代車OK」マークが記載されているメニュー。</div>
+                        </div>
+                        <div class="daisya_text">上記内容が含まれます。</div>
+                        <div class="space5px"></div>
+                        <div class="daisya_text_title">■代車サービスご利用規約</div>
+                        <div class="daisya_text">
+                          <div class="symbol_info">
+                            <div class="symbol_info1"></div>
+                            <div class="symbol_info2">
+                              <div>・ガソリン代（手数料含む）は原則として、走行5km未満110円、10km未満220円となり、5km毎に110円加算の請求（税込）となります。</div>
+                              <div><span class="font_00f">返却時の補充は不要</span>です。遠距離走行にて給油が必要になった場合は、ガソリンの請求伝票（領収書）を頂ければ、その分をお支払い致しますので、料金は原則通り距離計算にてご請求させて頂きます。
+                              </div>
+                              <div>請求伝票が無い場合にはお支払いが出来なくなってしまいますのでご注意下さい。</div>
+                              <div class="font_f00">※車輌の燃料タンク容量を超える数量や異常燃費と見られるご請求はお受けできません。</div>
+                            </div>
+                          </div>
+                          <div class="symbol_info">
+                            <div class="symbol_info2">・事故を起こした場合の免責はお客様負担となります。（免責：金五万円）</div>
+                          </div>
+                          <div class="symbol_info">
+                            <div class="symbol_info2">
+                              <div>・過剰な危険走行による消耗品の劣化・摩耗・破損等が返却時にみられた場合、お客様に負担して頂く場合がございます。</div>
+                              <div>その他、破損・キズ・パンク等の修理代は別途請求させて頂きます。</div>
+                            </div>
+                          </div>
+                          <div class="symbol_info">
+                            <div class="symbol_info2">・事故を起こした場合は速やかに警察に連絡をして事故証明書を取得して下さい。</div>
+                          </div>
+                          <div class="symbol_info">
+                            <div class="symbol_info2">
+                              <div>・貸出期間を超えるご使用は出来ません。予めご了承下さい。</div>
+                              <div class="font_f00">（貸出期間を超えての使用は、￥5,500/1日の代車貸出料金を別途ご請求させて頂きます）</div>
+                            </div>
+                          </div>
+                          <div class="symbol_info">
+                            <div class="symbol_info2">
+                              <div>・お預かりの車輌の作業工程上においてトラブル等が生じた場合でも貸出期間の延長はできません。如何なる理由があっても貸出期間内での代車返却となりますので予めご了承下さい。
+                              </div>
+                              <div class="font_f00">（同作業にて再度の代車貸出は出来ません）</div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="daisya_text_right">※お客様へのサービスとして貸し出しておりますので、ご理解頂いた上でご利用下さい。</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Footer Start -->
+            <footer>
+              <div class="footer-title">
+                <div id="footer-title" class="arrowed-title">
+                  <h1 class="ja">店舗情報</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow" srcset="">
+                </div>
+              </div>
+              <div class="clearfix sp"></div>
+              <div class="clearfix"></div>
+              <br>
+              <div class="footer-places row">
+                <div class="footer-showbox row col-md-4 col-sm-12">
+                  <div class="footer-showbox-img">
+                    <img src="/assets/img/factory.webp" alt="factory" srcset="">
+                  </div>
+                  <div class="footer-factory-info">
+                    <div class="footer-showbox-title">
+                      <span class="showbox-title">FACTORY</span>
+                    </div>
+                    <table class="showbox-content">
+                      <tr id="footer-showbox-address" class="footer-showbox-text">
+                        <td colspan="2">〒334-0013 埼玉県川口市南鳩ヶ谷1-25-3</td>
+                      </tr>
+                      <tr id="footer-showbox-opentime" class="footer-showbox-text">
+                        <td class="showbox-left">営業時間</td>
+                        <td class="showbox-right">10:00 - 19:00</td>
+                      </tr>
+                      <tr id="footer-showbox-holiday" class="footer-showbox-text">
+                        <td class="showbox-left">定休日</td>
+                        <td class="showbox-right">第3水曜日・毎週木曜日</td>
+                      </tr>
+                      <tr class="tel">
+                        <td class="showbox-left">TEL</td>
+                        <td class="showbox-right">048-285-8906</td>
+                      </tr>
+                      <tr class="fax">
+                        <td class="showbox-left">FAX</td>
+                        <td class="showbox-right">048-285-8939</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="showbox-bottom">
+                    <a class="arrowed-link" href="/shop_menu/tenpo/factory.html"><span>詳しく見る</span><img src="/assets/img/black_arrow.svg" alt="Header Link"></a>
+                  </div>
+                </div>
+                <div class="footer-showbox row col-md-4 col-sm-12">
+                  <div class="footer-showbox-img">
+                    <img src="/assets/img/heiwajima.webp" alt="factory" srcset="">
+                  </div>
+                  <div class="footer-factory-info">
+                    <div class="footer-showbox-title">
+                      <span class="showbox-title">HEIWAJIMA</span>
+                    </div>
+                    <table class="showbox-content">
+                      <tr id="footer-showbox-address" class="footer-showbox-text">
+                        <td colspan="2">〒143-0016 東京都大田区大森北5ー10ー13</td>
+                      </tr>
+                      <tr id="footer-showbox-opentime" class="footer-showbox-text">
+                        <td class="showbox-left">営業時間</td>
+                        <td class="showbox-right">10:00 - 19:00</td>
+                      </tr>
+                      <tr id="footer-showbox-holiday" class="footer-showbox-text">
+                        <td class="showbox-left">定休日</td>
+                        <td class="showbox-right">第3水曜日・毎週木曜日</td>
+                      </tr>
+                      <tr class="tel">
+                        <td class="showbox-left">TEL</td>
+                        <td class="showbox-right">03-5767-5832</td>
+                      </tr>
+                      <tr class="fax">
+                        <td class="showbox-left">FAX</td>
+                        <td class="showbox-right">03-5767-5808</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="showbox-bottom">
+                    <a class="arrowed-link" href="/shop_menu/tenpo/heiwajima.html"><span>詳しく見る</span><img src="/assets/img/black_arrow.svg" alt="Header Link"></a>
+                  </div>
+                </div>
+                <div class="footer-showbox row col-md-4 col-sm-12">
+                  <div class="footer-showbox-img">
+                    <img src="/assets/img/ichinoe.webp" alt="factory" srcset="">
+                  </div>
+                  <div class="footer-factory-info">
+                    <div class="footer-showbox-title">
+                      <span class="showbox-title">ICHINOE</span>
+                    </div>
+                    <table class="showbox-content">
+                      <tr id="footer-showbox-address" class="footer-showbox-text">
+                        <td colspan="2">〒143-0016 東京都大田区大森北5-10-13</td>
+                      </tr>
+                      <tr id="footer-showbox-opentime" class="footer-showbox-text">
+                        <td class="showbox-left">営業時間</td>
+                        <td class="showbox-right">10:00 - 19:00</td>
+                      </tr>
+                      <tr id="footer-showbox-holiday" class="footer-showbox-text">
+                        <td class="showbox-left">定休日</td>
+                        <td class="showbox-right">第3水曜日・毎週木曜日</td>
+                      </tr>
+                      <tr class="tel">
+                        <td class="showbox-left">TEL</td>
+                        <td class="showbox-right">03-3674-2006</td>
+                      </tr>
+                      <tr class="fax">
+                        <td class="showbox-left">FAX</td>
+                        <td class="showbox-right">03-3674-2008</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="showbox-bottom">
+                    <a class="arrowed-link" href="/shop_menu/tenpo/ichinoe.html"><span class="ja">詳しく見る</span><img src="/assets/img/black_arrow.svg" alt="Header Link"></a>
+                  </div>
+                </div>
+              </div>
+              <div class="footer-bottom row">
+                <div class="col-md-4 col-sm-4 col-xs-4">
+                  <div class="col-md-6 col-sm-1 col-xs-1"></div>
+                  <div id="footer-logo-wrap" class="col-md-6 col-sm-11 col-xs-11">
+                    <img id="footer-logo" class="logo" src="/assets/img/opg.webp" alt="Company Logo" srcset="">
+                  </div>
+                </div>
+                <div class="footer-text col-md-8 col-sm-8 col-xs-8">
+                  <div class="company-title">K T S — — —</div>
+                  <div class="additional-info">フッターです</div>
+                  <div class="additional-info">フッターです</div>
+                  <div class="additional-info">フッターです</div>
+                </div>
+                <div class="copyright row"><span>&copy; — — — — — —</span></div>
+              </div>
+            </footer>
+          </div>
         </div>
-	</ul>
-</div>
-<div class="bar_cell"><img src="../../img/bar.gif"></div>
-<div class="n_bc">
-<table class="main_table">
-<tr>
-<td class="pc_menu">
-<div class="pc_shop_menu"><a href="../../shop_menu/index.html"><img src="../../img/menu_icon/shop_menu_1.gif" width="180" height="28" alt="SHOP MENU"></a></div>
-<div class="left_menu">
-	<div class="left_menu_1">∟<a href="../alignment/alignment.html">アライメント測定・調整</a></div>
-	<div class="left_menu_1">∟<a href="../set/index.html">工賃SETメニュー</a></div>
-	<div class="left_menu_2">・<a href="../set/damper/index.html">車高調 ダウンサス</a></div>
-	<div class="left_menu_2">・<a href="../set/suspension/index.html">サスペンションパーツ</a></div>
-	<div class="left_menu_2">・<a href="../set/drive/index.html">駆動系</a></div>
-	<div class="left_menu_2">・<a href="../set/cooling/index.html">クーリング</a></div>
-	<div class="left_menu_2">・<a href="../set/brake/index.html">ブレーキ</a></div>
-	<div class="left_menu_2">・<a href="../set/arm/index.html">アーム・ロッド</a></div>
-	<div class="left_menu_2">・<a href="../set/body/index.html">ボディ補強</a></div>
-	<div class="left_menu_2">・<a href="../set/ex/index.html">エキゾースト</a></div>
-	<div class="left_menu_2">・<a href="../set/intake/index.html">インテーク</a></div>
-	<div class="left_menu_2">・<a href="../set/engine/index.html">エンジン</a></div>
-	<div class="left_menu_2">・<a href="../set/interior/index.html">インテリア</a></div>
-	<div class="left_menu_2">・<a href="../set/tire_wheel/index.html">タイヤ・ホイール</a></div>
-	<div class="left_menu_2">・<a href="../set/ch_ma/index.html">ケミカル・メンテナンス</a></div>
-	<div class="left_menu_2">・<a href="../set/other/index.html">その他</a></div>
-	<div class="left_menu_1">∟<a href="../koutin/index.html">工賃一覧</a></div>
-	<div class="left_menu_1">∟<a href="../tenpo/index.html">店舗情報</a></div>
-</div>
-<div class="space3px"></div>
-<div class="pc_web_shop"><a href="https://www.kts-web.com/e-shop/" target="_blank"><img src="../../img/menu_icon/tsuhan_1.gif" width="180" height="28" alt="WEB SHOP"></a></div>
-<div class="space3px"></div>
-<table class="menu_table">
-<tr>
-<td width="50%"><div class="pc_product"><a href="../../product/index.html"><img src="../../img/menu_icon/ma_product_1.gif" width="87" height="21" alt="製品情報"></a></div></td>
-<td width="50%"><div class="pc_company"><a href="../../company/index.html"><img src="../../img/menu_icon/ma_company_1.gif" width="87" height="21" alt="会社概要"></a></div></td>
-</tr>
-<tr>
-  <td><div class="pc_faq"><a href="../../faq/index.html"><img src="../../img/menu_icon/ma_faq_1.gif" width="87" height="21" alt="お問合せ"></a></div></td>
-  <td><div class="pc_link"><a href="../../link/index.php"><img src="../../img/menu_icon/ma_link_1.gif" width="87" height="21" alt="リンク"></a></div></td>
-</tr>
-<tr>
-  <td><div class="pc_event"><a href="../../event/index.html"><img src="../../img/menu_icon/ma_event_1.gif" alt="イベント" width="87" height="21"></a></div></td>
-  <td><div class="pc_camp"><a href="../../camp/index.html"><img src="../../img/menu_icon/ma_camp_1.gif" width="87" height="21" alt="キャンペーン"></a></div></td>
-</tr>
-<tr>
-  <td><div class="pc_recruit"><a href="../../recruit/index.html"><img src="../../img/menu_icon/ma_recruit_1.gif" alt="求人情報" width="87" height="21"></a></div></td>
-  <td><div class="pc_car"><a href="../../car/index.html"><img src="../../img/menu_icon/ma_car_1.gif" width="87" height="21" alt="車輌販売"></a></div></td>
-</tr>
-</table>
-<div class="space3px"></div>
-<div class="pc_holiday"><a href="../../holiday.html"><img src="../../img/menu_icon/holiday_1.gif" width="180" height="28" alt="定休日のご案内"></a></div>
-<div class="space3px"></div>
-<div class="pc_mail"><a href="../../magazine/index.html"><img src="../../img/menu_icon/mail_magazine_1.gif" alt="KTSメールマガジン 登録・解除フォーム" width="180" height="76"></a></div>
-<div class="space3px"></div>
-<div class="pc_houjin"><a href="../../houjin/index.html"><img src="../../img/menu_icon/houjin_1.gif" alt="KTS法人営業部" width="180" height="50"></a></div>
-<div class="space3px"></div>
-<div class="pc_used"><a href="../../company/index.html"><img src="../../img/menu_icon/used_sale_1.gif" alt="古物営業法の規定に基づく表示" width="180" height="20"></a></div>
-<div class="space3px"></div>
-<div class="pc_month"><a href="../../camp/month.html"><img src="../../img/menu_icon/camp_menu_b_1.gif" alt="今月のキャンペーン" width="180"></a></div>
-<div class="space3px"></div>
-<div class="pc_en"><a href="../../overseas/index.html"><img src="../../img/menu_icon/english_1.gif" alt="English" width="180" height="30"></a></div>
-<div class="space3px"></div>
-<div class="pc_ru"><a href="../../overseas_ru/index.html"><img src="../../img/menu_icon/lang_ru_1.gif" width="180" height="30"></a></div>
-<div class="space3px"></div>
-<div class="pc_cn"><a href="../../overseas_cn/index.html"><img src="../../img/menu_icon/lang_cn_1.gif" width="180" height="30"></a></div>
-<div class="space3px"></div>
-<div class="20131030"><a href="../../20131030/index.html" target="_blank"><img src="../../20131030/top_menu_b_1.gif" alt="弊社を装った偽サイトについて" width="180" height="26"></a></div>
-</td>
-<td class="main_c">
-<div class="space1px"></div>
-<div class="mc_nav"><a class="link" href="../../index.html">HOME</a> &gt; <a class="link" href="../index.html">SHOP MENU</a> &gt; <a href="index.html">店舗情報</a> &gt; KTS店舗ご来店のお客様へ</div>
-<div class="space3px"></div>
-<div class="shop_menu_back">
-	<div class="tenpo_title">◆作業のご予約について</div>
-	<div class="tenpo_title_text">KTS店舗ではアライメント測定・調整から車高調など様々なパーツの取付、チューニングを行っております。</div>
-	<div class="tenpo_title_text">ご予約が無くても作業は可能ですが、当日の予約状況によってはご来店頂いても作業が行えない場合も多々ございます。</div>
-	<div class="tenpo_title_text">お客様のお手間を減らす為にもご来店の前にご予約を頂けますようお願い致します。</div>
-	<div class="tenpo_title_text">特に週末やGW、お盆などは混み合いますのでお早めのご予約をお薦め致します。</div>
-	<hr class="tenpo_hr" noshade>
-	<div class="tenpo_title">◆お支払い方法について</div>
-	<div class="tenpo_title_text">KTS店舗でご購入された商品、作業工賃のお支払いには現金の他に下記お支払い方法がご利用頂けます。</div>
-	<div class="tenpo_title_text">
-		<div class="tenpo_text_1st">・ショッピングローン</div>
-		<div class="tenpo_text_2nd">1回～60回払いが可能。ご希望の方は免許証・通帳・銀行印をお持ち下さい。</div>
-		<div class="tenpo_text_2nd"><span class="font_ff0">1回～10回払い、ボーナス一括払いは金利手数料無料。</span>（※一部商品を除く）</div>
-	</div>
-	<div class="tenpo_title_text">
-		<div class="tenpo_text_1st">・デビッドカード</div>
-		<div class="tenpo_text_2nd">銀行のカードにてその場でお支払い可能です。</div>
-	</div>
-	<div class="tenpo_title_text">
-		<div class="tenpo_text_1st">・クレジットカード</div>
-		<div class="tenpo_text_2nd">分割・リボ払い・ボーナス一括・一括払いがご利用頂けます。</div>
-		<div class="tenpo_text_2nd">（※お支払い回数・手数料についてはご契約されているカード会社様にご確認下さい）</div>
-		<div class="tenpo_text_2nd">下記カード会社のカードがご利用頂けます。</div>
-		<div class="tenpo_text_2nd"><img class="tenpo_card" src="img/visa.gif"> <img class="tenpo_card" src="img/master.gif"> <img class="tenpo_card" src="img/diners.gif"></div>
-	</div>
-	<div class="tenpo_title_text">
-		<div class="tenpo_text_1st">・QRコード決済</div>
-		<div class="tenpo_text_2nd">下記のQRコード決済がご利用頂けます。</div>
-		<div class="tenpo_text_2nd"><img class="tenpo_card" src="img/paypay_149.gif"></div>
-	</div>
-	<hr class="tenpo_hr" noshade>
-	<div class="tenpo_title">◆代車サービスについて</div>
-	<div class="tenpo_title_text">KTSでは代車の貸出しサービスを実施しております。代車サービスのご利用条件、及び、ご利用時の注意事項については下記の通りです。</div>
-	<div class="daisya_back">
-		<div class="daisya_title">『代車サービスご利用規約』</div>
-		<div class="daisya_text_title">■代車サービスご利用条件</div>
-		<div class="daisya_text">ご利用は平日（土・日・祝祭日を除く）に対象となる作業をご依頼頂いたお客様に限ります。</div>
-		<div class="daisya_text">事前予約での手配となりますのでお問合せ・作業依頼時にご確認下さい。代車サービスが適用される作業内容は下記の通りです。</div>
-		<div class="daisya_text_title">【代車サービス適用作業内容】</div>
-		<div class="daisya_table">
-			<div class="daisya_table_cell">
-				<table class="daisya_list_table">
-					<tr class="daisya_list_table_title">
-						<td>作業内容</td>
-						<td>貸出し日数</td>
-					</tr>
-					<tr>
-						<td>ロールバー取付作業</td>
-						<td>2日間</td>
-					</tr>
-					<tr>
-						<td>インタークーラー取付作業</td>
-						<td>2日間</td>
-					</tr>
-					<tr>
-						<td>オイルクーラー取付作業</td>
-						<td>2日間</td>
-					</tr>
-					<tr>
-						<td>クラッチ交換（FF）</td>
-						<td>2日間</td>
-					</tr>
-					<tr>
-						<td>クラッチ交換（4WD・MR）</td>
-						<td>3日間</td>
-					</tr>
-					<tr>
-						<td>L.S.D.組付け（FF・4WD）</td>
-						<td>3日間</td>
-					</tr>
-					<tr>
-						<td>メンバーブッシュ圧入プラン</td>
-						<td>2日間</td>
-					</tr>
-					<tr>
-						<td>SRエンジンカム交換</td>
-						<td>2日間</td>
-					</tr>
-				</table>
-			</div>
-			<div class="daisya_table_cell">
-				<table class="daisya_list_table">
-					<tr class="daisya_list_table_title">
-						<td>作業内容</td>
-						<td>貸出し日数</td>
-					</tr>
-					<tr>
-						<td>L.S.D.オーバーホール（FF）</td>
-						<td>2日間</td>
-					</tr>
-					<tr>
-						<td>
-							<div>ワゴン・ミニバン足廻り交換</div>
-							<div>（ショック・スプリング・車高調）</div>
-						</td>
-						<td>2日間</td>
-					</tr>
-					<tr>
-						<td>
-							<div>車高調交換の際の</div>
-							<div>EDFC・E-CON・TEAS取付 ※1</div>
-						</td>
-						<td>2日間</td>
-					</tr>
-					<tr>
-						<td>工賃合計￥10,000（税抜）以上</td>
-						<td>1日間</td>
-					</tr>
-					<tr>
-						<td>工賃合計￥30,000（税抜）以上</td>
-						<td>2日間</td>
-					</tr>
-					<tr>
-						<td>工賃合計￥50,000（税抜）以上</td>
-						<td>3日間</td>
-					</tr>
-				</table>
-				<div class="daisya_list_text">※1：ワゴン・ミニバンに限らず普通車も可</div>
-			</div>
-		</div>
-		<div class="daisya_text">この他にも、</div>
-		<div class="daisya_text">
-			<div class="tenpo_text_2nd">・誌面広告にて代車マークが付いているメニュー</div>
-			<div class="tenpo_text_2nd">・当サイト内の<a href="../set/index.html">工賃SETメニュー</a>に「代車OK」マークが記載されているメニュー。</div>
-		</div>
-		<div class="daisya_text">上記内容が含まれます。</div>
-		<div class="space5px"></div>
-		<div class="daisya_text_title">■代車サービスご利用規約</div>
-		<div class="daisya_text">
-			<div class="symbol_info">
-				<div class="symbol_info1">・</div>
-				<div class="symbol_info2">
-					<div>ガソリン代（手数料含む）は原則として、走行5km未満100円、10km未満200円となり、5km毎に100円加算の請求（税別）となります。</div>
-					<div><span class="font_00f">返却時の補充は不要</span>です。遠距離走行にて給油が必要になった場合は、ガソリンの請求伝票（領収書）を頂ければ、その分をお支払い致しますので、料金は原則通り距離計算にてご請求させて頂きます。</div>
-					<div>請求伝票が無い場合にはお支払いが出来なくなってしまいますのでご注意下さい。</div>
-					<div class="font_f00">※車輌の燃料タンク容量を超える数量や異常燃費と見られるご請求はお受けできません。</div>
-				</div>
-			</div>
-			<div class="symbol_info">
-				<div class="symbol_info1">・</div>
-				<div class="symbol_info2">事故を起こした場合の免責はお客様負担となります。（免責：金五万円）</div>
-			</div>
-			<div class="symbol_info">
-				<div class="symbol_info1">・</div>
-				<div class="symbol_info2">
-					<div>過剰な危険走行による消耗品の劣化・摩耗・破損等が返却時にみられた場合、お客様に負担して頂く場合がございます。</div>
-					<div>その他、破損・キズ・パンク等の修理代は別途請求させて頂きます。</div>
-				</div>
-			</div>
-			<div class="symbol_info">
-				<div class="symbol_info1">・</div>
-				<div class="symbol_info2">事故を起こした場合は速やかに警察に連絡をして事故証明書を取得して下さい。</div>
-			</div>
-			<div class="symbol_info">
-				<div class="symbol_info1">・</div>
-				<div class="symbol_info2">
-					<div>貸出期間を超えるご使用は出来ません。予めご了承下さい。</div>
-					<div class="font_f00">（貸出期間を超えての使用は、￥5,000/1日の代車貸出料金を別途ご請求させて頂きます）</div>
-				</div>
-			</div>
-			<div class="symbol_info">
-				<div class="symbol_info1">・</div>
-				<div class="symbol_info2">
-					<div>お預かりの車輌の作業工程上においてトラブル等が生じた場合でも貸出期間の延長はできません。如何なる理由があっても貸出期間内での代車返却となりますので予めご了承下さい。</div>
-					<div class="font_f00">（同作業にて再度の代車貸出は出来ません）</div>
-				</div>
-			</div>
-		</div>
-		<div class="daisya_text_right">※お客様へのサービスとして貸し出しておりますので、ご理解頂いた上でご利用下さい。</div>
-	</div>
-</div>
-<div class="space1px"></div>
-</td>
-</tr>
-</table>
-</div>
-<div class="bar_cell"><img src="../../img/bar.gif"></div>
-<div class="footer">Copyright (C) Kind Techno Structure Corporation. All Rights Reserved.</div>
-</body>
+      </section>
+    </main>
+    <script src="/assets/js/header_blu.js"></script>
+
 </html>
+<!-- Footer End -->
