@@ -786,10 +786,15 @@ hr.set_c_top_hr {
 
 .search-block button.btn-search,
 .search-block button.btn-search:focus-visible {
-  font-size: 1.5vw;
+  font-size: 15px;
   color: black;
   border: none;
   position: relative;
+  height: 40px;
+  /* border: 1px solid; */
+  width: 200px;
+  background-color: lightblue;
+  border-radius: 20px;
 }
 
 .search-block button.btn-search img {
@@ -1088,6 +1093,25 @@ hr.set_c_top_hr {
   font-size: 1.5vw;
 }
 
+.pr_info {
+  display: flex;
+}
+
+.pr_info .pr_photo {
+  width: 30%;
+}
+
+.pr_info .pr_text {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.pr_r_text_ff0 {
+  color: orange;
+}
+
 .alignment.row>div {
   width: 65%;
   margin: auto;
@@ -1219,8 +1243,8 @@ hr.set_c_top_hr {
 }
 
 .gojuon_link {
-    display: flex;
-    justify-content: space-evenly;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .houjin_cell_pdf {
@@ -2596,9 +2620,9 @@ hr.hr_form {
     width: 100%;
   }
 
-.large-category-top-text > div {
-  margin-left: 10px;
-}
+  .large-category-top-text>div {
+    margin-left: 10px;
+  }
 
 
 
