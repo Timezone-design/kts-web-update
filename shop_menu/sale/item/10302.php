@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="近年高性能ストリートブレーキパッドの条件として、低ダストは必須条件でした。そして新たなるユーザービリティに応えるため、”Super Street S-sports”は音鳴きを極限まで抑え、初期制動を高めることに成功し、低温走行時に踏み始めからダイレクトに減速を感じることが出来ます。初期制動重視のストリートユーザーにお勧めです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

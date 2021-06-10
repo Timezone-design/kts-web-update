@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="サーキットと公道、その異なるドライビングスタイルとステージにおける最適な特性とフィーリングを実現するためにパーツ1点1点に至るまで妥協無く設計が行われた、A'PEXi究極のフットワークがN1エボリューションダンパーです。リニアなコントロール性、静粛性、しなやかな乗り心地。時に相反するこれらの要素を高度な次元で成立させています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

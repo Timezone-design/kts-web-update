@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="低価格はそのままに乗り心地と耐久性を追求！LIMITEDⅡは従来のLIMITED同様の機能を持ちさらにリニューアル。オイルシールやショックオイルなど消耗品を中心にステルス車高調と同等の部品を使用する事で性能、耐久性などさらに品質向上させました。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

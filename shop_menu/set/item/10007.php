@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="軽快なスポーツフィールと乗り心地を融合したコンパクトスポーツならではの軽快なハンドリングに磨きを掛ける一方、車両キャラクターに応じて上質感のある乗り心地も反映。いずれも秀逸な旋回性能、信頼のトラクション性能を発揮します。コンパクトカーの特性にフォーカスした専用モデル">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

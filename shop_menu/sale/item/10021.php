@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="SPORT Rの設計思想・スペックをそのままに、より多くのユーザーを対象とするストリート向けに減衰力・バネレート・ストロークをセッティング。スポーツラジアルタイヤでのスポーツ走行をターゲットとしたセットアップ。さらに伸側24段、圧側24段の減衰力完全独立制御により、コーナー進入時、旋回時、立ち上がり時のアンダーステア、オーバーステアの修正や、スプリングレート変更時の細かなセットアップを可能としています。ストリートでの使用を考慮し(音、乗り心地など)リヤアッパーマウントには強化ゴムアッパーマウントを採用(ウイッシュボーン車は前後共に採用)。大きな入力にもしっかり対応する為、大口径ピストンを使用し安定した減衰力を発生。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

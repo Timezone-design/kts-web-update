@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ディスク面のホールが高い摩擦力を生み出しプレーンローターと比べて初期制動から大きな制動力を発揮します。<br>また、ドリルドローターのネガティブなイメージであるクラック対策を実施。耐クラック性を上げるため、全て貫通穴にせずディンプルホールを配置、スリット摩擦力とドリルドの冷却性能を併せ持つブレーキアイテムです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="フル乗車でも全席快適!ストリートユース車高調。ハイドロ・バンプ・ストッパー（H.B.S.）を使用しているFLEX Aでは、この衝撃をショックアブソーバ内部で熱エネルギーに変換し吸収することで、ギャップを通過する際の不快な衝撃を低減し、全席において快適な乗り心地を保つことができます！">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

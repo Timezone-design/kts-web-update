@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="最もダウン量を少なくしたローダウンスプリング。DOWNSUS Plusは、各種ダウン量の中で、最も落ち幅をおさえた製品です。 極端に車高を落したくない、インチアップした時にフェンダーに当たる、インチダウンした時に地上高が保てない、エアロパーツに当たる等の気になる症状の緩和を考慮しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

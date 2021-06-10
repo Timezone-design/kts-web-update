@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="高いレベルの乗り心地と美しいローダウンフォルムを実現。高性能はそのままに、高いレベルの乗り心地と美しいローダウンフォルムを実現。ストリートで求められる乗り心地と走行性能を両立したワゴン用ベーシックモデルです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

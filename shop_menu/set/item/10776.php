@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="量産マフラーのテールエンド部にボルトオン装着。厚みのある美しい曲線で構成されたオーバルシェイプは、汎用マフラーカッターのイメージを一新。マツダ車専用設計ならではのジャストフィット感を実現している。量産マフラーをそのままに、ファッション性のみプラスしたいユーザーに最適">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

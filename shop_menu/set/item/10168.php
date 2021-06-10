@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="特殊な立体形状のアッパーマウント構造によりステージⅡ以上のハイキャンバーを実現。リアブラケットのオフセット貫通構造により、ショックアブソーバーの調整幅が格段に増え、ダウン量の増加や細かいプリロードの設定ができるので、セッティングの幅が広がります。サーキットのハードな走行に耐えられるようにフロント10kg、リア8kgの高いバネレートを設定。もちろんバネレートが高いだけでなく、不要な沈み込みを抑えつつもしっかりと動く、サーキット専用のハイパフォーマンスサスペンションキットです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

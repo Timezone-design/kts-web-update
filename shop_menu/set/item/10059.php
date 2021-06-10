@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="レースシーンで築かれた確固たる実績と自信の「Swift スプリング」、そしてハイクオリティサスペンション「Finalkonnexion STEALTH」のコラボレーションで、さらなる高品質・高性能へ。追求したのはコントロール性と快適な乗り心地。街乗りからサーキット走行まで適応しつつ、ストリートでの快適性を犠牲にしない。反応はリニアでコントロール性を追及したベーシックモデルとしてコストパフォーマンスにも優れ、かつハイオリティを実現した商品です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

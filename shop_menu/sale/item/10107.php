@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="SUPER SPECIAL FOR STREETは、前後ともノーマルから若干高められた減衰力設定からハード方向へ4段階調整が可能。ワインディングから高速走行まで、ノーマルに近い走りから、スポーティな走りまで、ストリートにおけるあらゆる条件でのお好みのセッティングが可能。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

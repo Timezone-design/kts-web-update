@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="快適性を削ぎ落しそのマージンを運動性能へ転化したFRスポーツカー専用モデル。ワインディングやサーキットをフルスロットルで駆け抜けるといったハードな状況下においても正確な操作性を保つべく鍛え上げた。基準車高は-30mm、ダンパーは高負荷時の熱変換能力に秀で、減衰特性の変化が少ないモノチューブ式。スプリングは、バネ定数がリニアに立ち上がる直巻きタイプを採用。可能な限り高ロール剛性なスペック。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

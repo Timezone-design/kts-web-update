@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="このRDもRの名が示すとおり他のRシリーズ同様にコンペティション用として開発されました。サイドブレーキやフットブレーキでのリヤロックを容易にし、スピンターンやドリフトのきっかけつくりには最適なリヤ専用コンペティションパッドです。 ジムカーナ、ダートトライアル、ラリー、ドリフトなどの競技に参戦しようと考えている方に是非、選んで頂きたいアイテムです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

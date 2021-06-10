@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="装着したまま調整可能。強化ウレタン製で耐久性はバツグン！リアサスを安定させて、ストリートでもサーキットでもタイムUP！<br>アライメントを正確に調整することができるので直進性や回頭性が重要なスポーツ走行にも効果を発揮します。 また、車高を変化させることで左右に偏ってしまったアクスルを補正できるため、シビアなホイールセッティングを必要とされるドレスアップにおいても必需品となっています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

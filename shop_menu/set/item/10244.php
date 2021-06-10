@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ダイナミクスと素晴らしいルックスの完璧なコンビネーションが貴方をサーキットで輝かせる。ロードテストを重ね、完璧なハーモニーを奏でるスプリングとショックアブソーバー。ビルシュタインならではのドイツ製モノチューブ倒立式サスを採用し、TV（ドイツの技術検査機関）が認める性能を実現しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

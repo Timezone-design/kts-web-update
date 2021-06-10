@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="乗り心地感を損なわずにロール量を抑制。SUV/ミニバンにも効果大。<br>左右のサスペンションアームを結合し、そのバネ効果でロール量を抑制するのがスタビライザー。無論、多くの量産車に標準装備されているが、そのバネ定数は標準装着されるタイヤのグリップを基準に設計されているため、ハイグリップタイヤ装着時やインチアップ時の為のパイプ径を適度に太めた仕様。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

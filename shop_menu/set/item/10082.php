@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="プリロードバルブシステムとM4Pが究極の弾力性を発揮！ローダウンユーザーの為の理想な走りを実現！！「タイヤをインチアップしたらフェンダーとの隙間が気になり、乗り心地が悪くなった」「ローダウンはしたいけど乗り心地はそんなに悪くしたくないし、できればより上質なものにしたい」「自分の好みの乗り味にしたい…」そんな様々なリクエストやあらゆるフィールドでの使用に対して高いレベルで対応するサスペンションキットです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="高性能車からフォードバックされ、新たに幅広い車種に対応すべく研究し生まれた補修用ブレーキディスクです。自社工場での生産、これまでのノウハウを活かした部品設計、それらを最先端技術の活用で開発・生産されることで、コストパフォーマンスを追求しています。<br>純正の感覚に非常に近く、高性能を実現させたブレーキディスクとなります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

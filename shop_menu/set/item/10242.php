@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="BMW Mスポーツ及びBMWミニを操る喜びと「大人の選択」を満足させるスペシャルチューニングダンパーです。BMWの優れたハンドリングはそのままに上質な乗り味を完成させています。ジャズが似合いそうな心地の良い移動空間は操る喜びとスタイルだけにとらわれない「大人の選択」を満足させるに違いがありません。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

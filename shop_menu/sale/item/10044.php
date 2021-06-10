@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="大幅な車高ダウンを避けたい方への控えめなローダウンスプリング。インチアップしたホイール装着車で車高を下げ過ぎるとインナーフェンダーなどに当たってしまうことがあり、大幅に車高を落とせないケースがあります。同様に、エアロパーツが地面に当たってしまったり、ダウンサスを装着したいが仕事上荷物を載せるのであまり低く出来ない場合など、控えめなダウン量をお望みの方におすすめ致します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

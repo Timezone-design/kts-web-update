@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="1000分の1秒単位まで減衰力の可変速度にこだわり、内部パーツ全てを独自設計。刻々と変化する路面状況や車両姿勢にも純正では成し得ないアクティブ制御を実現します。純正の電子制御式ショック機能に対応しているため、プラグイン接続のみの手軽さでコクピットのショックコントロールスイッチもそのまま使用可能。各モードで最適化したアラゴスタフィールが体感可能です。R35 GT-R専用PnPモデルでは純正の[コンフォート]、[ノーマル]、[R]スイッチに対応。手軽に純正を凌ぐアクティブ制御が体感出来ます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="調整式でないアッパーマウントの車高調には、キャンバー角の調整機能はありません。また、ローダウンに伴ってネガティブキャンバー気味になり、アッパーマウントの調整をしてもポジティブ側に出来ない車種もあります。そういった場合にボルト交換のみでキャンバー調整を行う、または調整の補助を行えるのがこのキャンバーボルトです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

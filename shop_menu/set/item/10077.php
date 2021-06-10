@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="スポーツ走行における操作性とストリートでの乗り心地をブラッシュアップした新世代スポーツサスペンション。ストリートでの快適性やスタイリッシュ性を追求した商品になりますが、走りの性能も充分備えています。普段の足がメインで、疲れない様出来るだけ快適に、同乗者への気遣いはしたくない、ギャップに気遣いはしたくない方やローダウンを追及される方にお薦めのサスペンションキットです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

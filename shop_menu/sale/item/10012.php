@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ストロークが確保しやすく反発力が少ないので、荒れた路面では凹凸をしっかり捉えて低速ではしなやかに、高速では安定感のある走りを実現。高性能ダンパーオイルにより低温から高温まで安定した減衰力を発生しスムーズなストロークで全てにおいて快適な乗り心地です。また、全長調整式フルタップショックなので車高を上下しても乗り心地に影響がありません。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

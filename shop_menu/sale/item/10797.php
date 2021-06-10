@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="リアフロア（ラゲッジスペース上面）の左右を高剛性スチールパイプで結合し補強するパーツ。ラゲッジルームのユーティリティを殆ど犠牲にすることなく、リアストラットタワーバーに肉薄した効果が得られる。特にリアシートとラゲッジスペース間に仕切り板を持たないオープン構造のハッチバックやミニバンにとってはその効果は大きい。バランス面からすればフロントストラットタワーバーとの同時装着を推奨。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

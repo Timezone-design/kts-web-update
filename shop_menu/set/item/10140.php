@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="Super☆iやBest☆iの開発で得られたノウハウを用いて、ハイエース、バモス等のトランスポート車両用に開発された車高調。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

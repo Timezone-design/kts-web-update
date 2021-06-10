@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="耐フェード性、耐クラック性など強度を向上させた2ピース構造により剛性感ある制動力を実現。<br>放熱に優れたベンチレーションフィンやパッド表面を整えるクリーニングスリット、ローターの錆を防止するブラックメッキ処理など機能を追求。レッドアルマイトを施した軽量ジュラルミン製ベルハウジングはバネ下重量低減によるハンドリング改善効果も期待できる。消耗時は、ディスクローター部のみの交換が可能。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

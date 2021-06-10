@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="サーキットでのスポーツ走行がメインのモデル。STREET-Rシリーズより上を求めるユーザーに送る別タンク式のサスペンションです。減衰力伸び側独立調整式を採用。<br>別タンク方式により十分なオイル量を確保しながらもセッティング幅が無限に広がるバネレート設定。アメリカフォーミュラＤからのフィードバックを直接継承したMEGAN RACING車高調シリーズのフラッグシップモデルです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

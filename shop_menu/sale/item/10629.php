@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="排気量1200cc以上の普通乗用車用パワーチャンバーシリーズです。パワーチャンバータイプ2は吸気脈動を利用しレスポンス・フィーリング向上を追求したインテークシステムです。パワーチャンバーの最大の特徴であるチャンバー部にはリアルカーボンを採用し、アルミパイピング部は鏡面仕上げを施しエンジンルームをレーシーに演出します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

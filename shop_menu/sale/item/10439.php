@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="クラッチプレートに表面を強化し、摩擦を低減させる特殊な表面処理であるWPC処理した仕様です。WPC処理によって、金属表面の構造を強化し、より硬く耐久性のある製品に仕上がっています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

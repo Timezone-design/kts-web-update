@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="従来BTSキットとして販売されていたB12。純正形状ローダウンサスペンションキットながらビルシュタインならではの技術で素晴らしいドライビングパフォーマンスを実現しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

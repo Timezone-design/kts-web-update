@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ダイナミクスと素晴らしいルックスの完璧なコンビネーションが貴方をサーキットで輝かせる。ダイレクトな反応、優れたドライビング・パフォーマンス、スポーティなルックスのすべてを実現しています。ロードテストを重ね、完璧なハーモニーを奏でるスプリングとショックアブソーバーです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

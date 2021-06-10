@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="レイアウトを最適化し内壁部を極力鏡面化したアルミ製エルボーパイプと変形抑制効果の高い4層ポリスターシリコンを組み合わせることで、加圧によるホースの膨張とエア流路の抵抗を抑制。結果、過給圧の上昇を早め、ターボラグを低減。アクセル踏み始めからのレスポンスを向上させる。製品には取付けに必要なガスケットを付属。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

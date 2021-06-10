@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ラリー・ダートラ・ジムカーナ等の競技専用完全受注生産モデル。ターマック競技用とグラベル競技用(ラリーはミックスやスノーも対応)の2種類を設定。各カテゴリーやレギュレーションに対応できるよう、ベースキットはアッパーマウント及びスプリングレス仕様。CUSCO製ピロアッパーマウントはもちろん、純正形状アッパーマウントやグラベル用ピロアッパーマウント等の選択が可能。各種競技や路面状況に合わせ、減衰力・ストローク等仕様変更可能なセミオーダーモデル。(変更内容により有料)<br>※この製品は競技専用品の為保証対象外となります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

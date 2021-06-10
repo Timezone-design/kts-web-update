@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="アップフォルムをサスペンションのアッセンブリー交換で実現するデバイドUP40。減衰力調整によるきめ細かな乗り心地と、フルタップ式車高調ならではのmm単位のアップフォルムを構築できます。アップフォルムでも自分好みのヴィジュアルとライドフィールに仕上げたい。そんなこだわりを持ったユーザーでも妥協のないセッティングが可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

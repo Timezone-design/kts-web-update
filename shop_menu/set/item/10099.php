@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="4WD車、SUVのために専用設計された「HEAVY TRACK」の耐久性を重視したタイプです。ピストンロッド径はなんと18ｍｍ。ボディー径も太く相対容量が大きいため、悪路での連続使用にも抜群の耐久性を発揮します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

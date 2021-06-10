@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="量産フィルターボックスを活用。吸入効率とサウンドをアップ。量産状態では開口部が限られ吸入抵抗となる消音レゾネーターとクリーナー吸入側ボックス部のみを開放し、フレッシュエアをダイレクトにエアフィルターに導くことで吸入効率を改善。吸気サウンドもスポーティに変化させる。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

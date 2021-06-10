@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ただ軽いだけでなく、低速域でも回転ムラを起こさない限界設計。<br>超軽量化によって、吹け上がりも吹け落ちも抜群のレスポンスを発揮。急減速時のエンジンブレーキの効きが抜群。回転のアップ＆ダウンがシャープになって素早いシフト操作が可能。ゼロヨンなどゼロ発進加速はもちろん、中間加速でも確実にタイムアップ。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

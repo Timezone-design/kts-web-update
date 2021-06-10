@@ -3,7 +3,7 @@
 <head>
   <meta name="keywords" content="アライメント,車高調,KTS,走行会,クラッチ,LSD,取付,工賃">
   <meta name="description" content="KTSは車好きの為のチューニングショップです。オイル交換からエンジンの載せ換えまで、チューニングの事ならお任せを！">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
   <meta name="viewport" content="width=device-width">
   <title>KTS-web</title>
@@ -98,7 +98,7 @@
             </div>
                       </header>
           <!-- Header End -->
-
+          <div class="clearfix-s"></div>
           <div id="menu-title" class="arrowed-title">
             <h1>MENU</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow" srcset="">
           </div>
@@ -213,9 +213,7 @@
               </div>
               <br>
               <div class="clearfix"></div>
-              <button type="submit" class="btn-search"><img src="/assets/img/search_button.png" alt="Search">
-                <div class="ja">検索</div>
-              </button>
+              <button type="submit" class="btn-search">検索</button>
             </form>
             <?php if(count($filtered_products) > 0){ ?>
             <div class="search-results">

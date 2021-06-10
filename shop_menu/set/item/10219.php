@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="乗り心地、回頭性、機能性、はたらく車もパフォーマンス向上！ フロント車高調はキャンバー固定式ピロアッパーマウント車内への雨水、泥などの浸水を防ぐよう、敢えてピロ固定 マウントを使用！そして純正リアリーフ特有の不快な反発力を抑えしなやかで低振動な乗り心地に仕上げました！ また、リアリーフスプリングは強度検討書付きにより車検にも対応します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

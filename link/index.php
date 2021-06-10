@@ -9,7 +9,7 @@
 <html>
 <head>
 	<meta name="keywords" content="KTS,メーカー,リンク">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-wideth, user-scalable=yes, initial-scale=1, maximum-scale=1">
 	<title>KTS-web 各メーカーリンク</title>
 	<script type="text/javascript">

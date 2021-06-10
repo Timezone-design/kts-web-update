@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="シリンダーには単筒式を採用。ストリート走行の乗り心地を確保しながらレスポンスの良いハンドリングを実現。アッパーマウント付属モデル。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

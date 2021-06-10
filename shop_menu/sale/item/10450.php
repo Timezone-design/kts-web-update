@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="オフロードもオンロードも効果抜群！！ LSDをつけると走破性が変わる ランクル・プラド・サーフのビッグパワーを効率よくタイヤに伝えきるCUSCO LSD。<br>低イニシャル＆高レスポンスで扱いやすくオールマイティに性能を発揮。さらに、セッティング範囲も広いため、モーグルやマッド等の各種競技に対応した仕様や、オンロード、林道、雪道を主体としたセッティングなどステージに合わせた仕様変更も可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

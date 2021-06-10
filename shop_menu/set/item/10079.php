@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="MAX IV GTをベースに最新理論でリセッティングした究極のストリートサスペンション。「アフターマーケットにおけるスポーツサスペンションはこういうもの」。そういった概念をリセットし、現時点でストリートスポーツサスペンションとして最もふさわしいものは何かを考え、形としたのがこの「MAX IV GT Spec-A」です。走り出した瞬間から感じられるマイルドな当たりと奥深い乗り味を是非体感してください。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

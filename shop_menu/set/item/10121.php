@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="レースカーを見るまでもなく、運動性能を高めようとすると、クルマの重心は低い方が有利。しかし、公道を走るクルマがやみくもに車高を下げるわけにはいきません。オーリンズのショートモデルは、十分なストロークを確保しながら、精悍な姿勢と実用に足りるロードクリアランスを絶妙なバランスで実現しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

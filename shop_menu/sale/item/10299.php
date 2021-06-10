@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="MX72Kは、セラミックカーボンメタル材のブレーキパッドで定評のあるMX72の軽自動車専用パッドになります。ブレーキ負荷の高いステージでお使いの軽自動車ユーザーに最適なパッドとなっています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="複筒式を採用。ストリート走行の乗り心地に特化。街乗りの運転が今よりも楽しくなる！">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

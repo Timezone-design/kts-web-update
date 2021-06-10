@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="機能性を追及したブレーキダスト低減タイプ<br>米国などの巡航速度120キロメートル以内での使用環境に適した制動力。<br>ペダル踏力は踏み始めから中間あたりで効くイメージです。NAO材によりダストの発生を抑えています。<br>北米市場にあわせて製品化されたブレーキパッドは、鳴きとダストを抑えた仕様となっています。※欧州車の純正基準">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

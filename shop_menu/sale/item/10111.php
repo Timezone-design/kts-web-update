@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="スーパーローダウンを実現しながら実走行可能な調整範囲を確保。ショート化されたロアブラケットとショックアブソーバー、ハイレートなショートスプリングなどの専用部品を用いて、従来の車高調では不可能なダウン量を確保しています。全下げ状態にすることで迫力のローダウンを実現し、全長を調整する事で自走する事も可能。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

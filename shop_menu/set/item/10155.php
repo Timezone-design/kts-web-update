@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="「猫脚」のように路面の突き上げをソフトに吸収しつつ、レーンチェンジでの不安感を取り除くことを目指しました。1つのサスペンションで、すべてのドライバーを満足させるサスペンションを造ることは困難ですが、ノーマルに対し「もっとソフトに、もっとしなやかに」と思っている人も多いはず。快適で、しかも応答性のいい、キビキビした走りを両立しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

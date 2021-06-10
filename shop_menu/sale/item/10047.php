@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="SuperDOWNSUS Type-2はSuperDOWNSUSよりさらにローダウンしたタイプで極限のローフォルムを実現します。ストローク幅がさらに少なくなるので別売の「スーパーダウンサスラバー」を同時装着するこ事でストローク量が増し乗り心地が大幅に改善します。<br>※灯火類の高さ及び最低地上高に余裕がある車両に設定していますが、一部例外の車両もあります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

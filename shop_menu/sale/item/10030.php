@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="純正形状 減衰力調整式ショックアブソーバー。乗車人数や状況に合わせ快適な乗り心地と乗り味のセッティングを可能になりますので、車高はそのままでシチュエーションに応じた乗り心地や乗り味を楽しみたい、純正ショックアブソーバーに物足りなさを感じる方にオススメです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

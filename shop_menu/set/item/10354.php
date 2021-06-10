@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="特徴的な低熱伝導性がブレーキコンポーネンツへの熱害を抑制<br>ドライバーが踏力により自在にコントロールが出来るフラットなミュー特性<br>レース材にもかかわらず、非常にマイルドなローター攻撃性<br>焼結合金に近い製法により、高密度に摩擦材を成型（高い耐熱性と高強度を実現）">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="レーシングギアは「街乗り」と「サーキット」両方の走行を楽しむためのダンパーを開発。街乗りとサーキットを両立することが出来るハイブリッドダンパー『HSダンパー』。単筒式・複筒式の二つのショック構造から車両特性に合わせ最適なショック構造を選び採用。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

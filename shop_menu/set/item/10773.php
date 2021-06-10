@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="量産車のエアクリーナーボックスを取り外すことで、吸気抵抗を低減する｢エアフィルタースポーツ｣。専用形状のファンネル式エアフィルターにより効率よくエアを吸入し整流する。車種別に内径や長さをチューニングしたインテークパイプや、エンジンの熱を抑える遮熱板(一部車種)を装備。<br>また、専用クリーナーによるメンテナンスも可能。消音レゾネーターを排除した吸気音もスポーツ派にはうれしいポイント。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

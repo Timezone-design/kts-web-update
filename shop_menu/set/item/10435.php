@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="SAE9254材を冷間成形したヘタリづらい高品質なスプリング。車の状態や好みに合わせてスプリングを変更したいというユーザーの声に応え、ID62φの直巻スプリングをラインナップ。抜き取りで10万回のヘタリ試験を行っている為、ロットごとのヘタリに対する耐久性のバラつきもなく、安心して使用することが出来ます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

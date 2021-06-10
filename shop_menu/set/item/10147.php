@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="保安基準を満たすレベルでの大幅なローダウンと30～50％のバネレートアップにより走行性能を向上させる、ＲＳ☆Ｒの主力製品です。 優れた直進安定性・コーナリング性能だけでなく、レーシーなフォルムがクルマの存在感をさらに高めます。 また、ミニバン・ワゴンのフォルムを最大限に生かすローダウン量を設定。 コーナリング時のロールも抑え、シャープな走りを実現します。Ti2000スプリングはチタン配合の新素材が耐ヘタリ性をはじめ、あらゆる面でダントツの性能を発揮。 最高峰だからこそできる「ヘタリ永久保証」付きです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

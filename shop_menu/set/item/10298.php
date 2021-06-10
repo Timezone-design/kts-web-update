@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="MX72は、セミメタリック材ながらダストや鳴きを極力抑え低温での制動力をアップさせました。また、高温時の制動安定性を向上させるとともに、ローター攻撃性の低減を実現。さらにはセミメタリック材の長所であるペダルタッチの良さに磨きを掛けました。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

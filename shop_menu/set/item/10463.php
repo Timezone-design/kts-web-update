@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="【ツインメタル】<br>高μ・低摩耗・高耐熱性能を向上。ハイパワー、連続使用対応 鋭いレスポンスとダイレクトな伝達能力<br>競技用クラッチの主流、ラグ式ツイン方式でも操作性は抜群。踏力も軽く軽快なペダルワークを実現(現行スポーツクラッチレベル)。<br><br>【カッパーツイン】<br>扱いやすさとハイパワー対応を両立した、サーキットからストリートまで対応する最強ツインシステム<br>対応トルク700Nm以上と高く、クラッチをつないだ時の駆動ロスを抑え、優れた伝達性能を発揮。<br>低温時から高温時まで安定した摩擦係数と優れた摩耗性能を発揮。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

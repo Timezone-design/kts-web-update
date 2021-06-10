@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="セッティングテーマは「妥協なき、しなやかさ」。運動性能を高めつつも、スポーツタイプのダンパーに見られがちな「不快な硬さ」を徹底して抑え込んでいます。そのフィーリングは、アスファルトをランニングシューズで駆けるような感触。さらに、ハンドリングやライド感は、搭載する多彩なアジャスト機能によって、自由にコントロール可能。走りの性能を高めつつ大切な人とのドライブも、気持ちよく楽しく＝FUN TOにこなせます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="至上の乗り心地を追求したスーパーコンフォートモデル。スタイリッシュなローダウンフォルムと、ドライビングやライド感をスポイルしないフレキシブルなサスペンション機能を追求したCR40。減衰力調整機能を活用することで、走りのフィーリングはさらにあなた好みに。もう何一つ妥協する必要はありません。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="高級車にふさわしい乗り心地を徹底追及した特別なサスペンション。「純正の乗り心地を改善したい。」との多くの要望により開発。従来品パーフェクトダンパーに比べ、ローダウン量を抑え、さらに上質な乗り心地を実現しました。車はグレードや色を選ぶのに、なぜ乗り心地は選ばないのでしょうか？「パーフェクトダンパー プレミアム」は乗り心地15段調整式で好みに調整可能。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

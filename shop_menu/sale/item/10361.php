@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="全国各地のサーキットで開催される"軽自動車レース"。高まるニーズに合わせて開発。<br>車重の軽い軽自動車用に初期制動をマイルドに抑え、ロングライフ(従来のZタイプの1.5～2倍)かつコントロール性を重視。<br>コントロール性に優れるので、ドライビングに集中出来る<br>ミニサーキットや国際サーキットでの5時間前後の耐久レースにも有効なアイテム!<br>従来のZタイプのユーザーにもお薦め">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

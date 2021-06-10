@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="スーパー耐久やオーナーズカップで実績を残した仕様をそのままに商品化。サーキットでの開発走行テストを行い、専用品としてチューニングされた商品。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

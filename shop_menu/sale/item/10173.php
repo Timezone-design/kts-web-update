@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="至上の乗り心地性能を身近にする減衰力プリセットモデル。実走テストは様々な路面状況を再現した専用のテストコースで実施。乗り心地検証は実際にローダウンセッティングして、フル乗車でのライド感もしっかりチェック。満足いただける性能を確認できたものだけをお届け。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

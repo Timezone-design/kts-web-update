@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="誰もが普通に使えるスポーツクラッチ<br>カッパーミックスとはメタルとノンアスという異なるフェーシングを特殊製法により高次元で結合させた全く新しいフェーシングで、純正クラッチ並みの操作性とスポーツ走行時の高い伝達性能を併せ持つクラッチです。<br>カッパーミックスツインは扱いやすさと許容出力600ps以上を両立した最強のツインプレートクラッチです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ローダウン＆クルージング性能に優れたラグジュアリー専用モデル。TYPE-Pの『P』はプレミアムコンセプトの『P』です。最上のスペックを活用しウエイト、ボディサイズ、ホイールベース等に適したコンフォート性、ハイスピードクルージング特性を実現しています。ローダウンスタイルでの高トラクション性能、フラットライドが堪能できます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

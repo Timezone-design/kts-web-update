@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="傾斜のきついスロープや駐車場の出入口など、ローダウン時に懸念されるボディと路面との干渉を未然に回避可能にする画期的なシステムです。アッパー部のCUP機能によりスイッチ1つで短時間に車高をUP。走行中はCUP機能に依存しないため、回避後に車高を戻すことで本来のスタイルおよびアラゴスタの性能を維持します。<br>●スイッチはコンパクト設計で設置場所を選ばず、コンソール内など目立たない場所に取り付けることも可能。<br>●コンプレッサーおよびエアタンクはアラゴスタカップ専用の最小サイズ設計とし、トランクやスペアタイヤスペース等へスマートに設置可能。ラゲッジ容量を大幅に削る心配もありません。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

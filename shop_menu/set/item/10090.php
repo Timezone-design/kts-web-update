@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="車高調シリーズのハイエンドモデルとして位置づけられるハイパーフット。 36段階の減衰力調整機能に加えて、クイックなハンドリングを楽しめるピロアッパーマウントを全車に標準装備。 またスライド調整機構も採用しているため、ショートナックルを装着した際に発生しがちなスプリングとの干渉を防げます。 ショックの全長を短くし、スプリングも低車高での走行を想定したハイレート＆超ショートタイプ。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

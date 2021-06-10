@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="トゥルーヴァの機能を継承しつつ、ショックとスプリングをショート設計に仕上げたトゥルーヴァ極。 車種専用設計のスプリングはキビキビとした走りを楽しめるハイレートタイプ。 もちろん車高調自体の底つきも防ぎます。 アルミアッパーマウントは一部車種ではスライド調整式を採用しており、キャンバーを効かせることも可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

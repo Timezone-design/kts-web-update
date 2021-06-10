@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="オートレベライザー機構とは、車の前後の傾きに応じて自動的に光軸を適正位置に調整してくれる便利な機能です。ローダウンした場合、オートレベライザーがリアが下がったと誤認して自動的に光軸を下げてしまいますが、調整式にすることでそれを適正な値に調整することが可能になります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

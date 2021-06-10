@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="流行のリフトアップフォルムを手軽に、コンフォータブルに。<br>ルックスはもちろん降雪路等での走破性も向上するリフトアップ。UP210は、注目のこのカスタムをスプリング交換だけで実践できるサステックの最新プロダクト。NF210ゆずりの快適な乗り心地。ロールセンターと車体重心点が近づくことから、ロールが減少し、コーナリングがスムーズになる効果もあります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

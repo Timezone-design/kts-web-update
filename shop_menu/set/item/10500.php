@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="デフブッシュ部をセミリジッド化する事で、メンバー、ブッシュの負担を軽減させ、安定かつ確実にトラクションを掛ける事が可能になります。車両の持つ本来のパワーを確実に路面に伝える事で、より安定した挙動になり、コーナリング性能が向上します。また、デフとメンバーをセミリジッドにする事で、よりダイレクトになりアクスルレスポンスが良くなります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

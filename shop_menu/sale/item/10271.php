@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="スタビライザーとは、左右のサスペンションを結ぶ棒状のパーツの事を指し、その特性からアンチロールバーと言われる事もあります。上記図のように、荷重に対してまずサスペンションが沈み、繋がれたスタビライザーが捻れます。その時に、スタビライザーが元に戻ろうとする反発力で、反対側のサスペンションを同じようにストロークさせることによってロールを抑え、コーナリング性能を上げる事が出来るパーツです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

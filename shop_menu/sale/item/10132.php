@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="Activeシリーズは、純正採用されている電子制御ダンパーに対応しています。これまでの車高調整式サスペンションは、ショックアブソーバーごと取り替えるため電子制御機能を失っていました。Activeシリーズは純正電子制御機能をそのまま採用し、モード切り替えスイッチ等の電子制御機能を生かせる待望の車高調です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

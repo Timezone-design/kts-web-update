@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="通常の強化クラッチでは物足りないという方にベストマッチング<br>ボルトオン装着可能、純正クラッチなみのフィーリングを実現。パワー伝達性能と操作性の良さを高次元でバランス。クラッチカバー、クラッチディスク、フライホイールのすべてをセット交換専用設計。そのため、他の純正形状強化クラッチより高い性能を発揮。材質や寸法の相性も抜群。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

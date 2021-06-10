@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="左右のストラットタワーを繋ぎ剛性を高めることで、アライメントの変化、ボディの捻じれ歪みを抑制します。<br>通常2点留めより更に剛性を高くする3点、4点留めのタワーバーもラインナップしています。取り付け部分とバーを一体型の1ピースにすることにより、より高い剛性となっています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

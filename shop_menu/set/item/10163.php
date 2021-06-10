@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="複筒式を採用し、純正アッパーマウントを流用することで街乗りでの更なる乗り心地の向上と、お好みのセットアップを自由にお楽しみ頂けるオールラウンドモデル。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="手軽にスタイリッシュ 軽カー専用ローダウンスプリング<br>軽カーを精悍なイメージに変身させるローダウンフォルムを実現。スプリング同士が密着した際に発生する不快な密着音、スプリング取付部から発生する音排除するため、サイレンサーラバーを標準装着(一部車種を除く)。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

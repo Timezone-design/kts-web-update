@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="全長調整式や減衰力など、車高調としての基本的な性能をおさえたベーシックモデル。 軽量かつ高強度のアルミ製アッパーマウントや車種専用に設計されたスプリングなど、 素材へのこだわりはエントリークラス随一。ロースタイルを実現しつつ、快適な乗り心地も確保。 減衰力は36段階調節が可能。しなやか乗り心地から、踏ん張りの効いたスポーティな走りまでシーンに合わせた走りを楽しめます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

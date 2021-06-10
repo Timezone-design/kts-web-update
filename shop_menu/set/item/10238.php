@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="貴方が今のクルマにさらなるダンピング能力を期待するなら、スポーツモデルに乗り換える前に、ビルシュタイン B6を試してみてください。車内に多くの荷物を積んだりトレーラーを牽引する時でも不満のない余力と耐久性。 日々のドライブでも極限の状態でも味わえる最適なグリップ力とレーンチェンジスタビリティを実現しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

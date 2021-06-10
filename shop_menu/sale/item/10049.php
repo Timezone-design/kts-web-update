@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="モータースポーツテクノロジーを活かしたアップサスです。車高が高くなることで視界が変わり行動範囲が変わります。耐久性、耐へたり性は従来からのエスペリアイズムを踏襲し、純正アブソーバーのまま手軽に車高アップが出来ます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

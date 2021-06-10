@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="リアルレーシングパッドの定番!<br>踏み始めから突出した高い効力を発揮。ハイパワー車両のタイムアタックに最適!<br>温度や速度の変化にも影響を受けにくい抜群の安定感<br>リリース性に優れ、ブレーキング後半のコントロール性も抜群!">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

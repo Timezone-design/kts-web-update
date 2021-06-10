@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="車高を下げずに意のままのハンドリングへ。量産形状品。内部のピストンにダンパーが動き始める瞬間から精密な減衰力を発生させる｢高精度微低速バルブ｣を採用。0.05m/sec以下の微低速域から減衰力を急カーブで立ち上げることで、ステアリング操作に対して、素早く反応する特性を狙っている。反面、突き上げの原因となる0.1m/sec以降の減衰力をなだらかに、また縮み側の減衰力を低めに抑えることで乗り心地に配慮。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

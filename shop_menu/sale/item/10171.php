@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="超微低速域にまでこわだったシリーズ最高峰モデル。発進や停止時といった極微低速域で見られる、実際のダンパーの動きとドライバーが受ける作動感のズレを同調させる『TVS』を搭載。 レクサスの足を手がけるKYB 社の高度なテクノロジーがフルに活かされた究極のサスペンション性能を手中にしてください。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

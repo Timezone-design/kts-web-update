@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="路面追従性とステアリングレスポンスを重視した、スポーツタイプのショックアブソーバーです。KONI SPORTは、スポーティーでありながら、市街地での突き上げも適度に抑えたマイルドな乗りあじが特徴。また、ミニバンなどの車高の高い車両では、減衰力特性を活かし、車線変更時のフラつきやロールを緩和、走行に安定感をもたらします。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="DRAG専用のサスペンション登場。HIPERMAX II DRAGサスペンションをベースに現代の技術を投入した最新のDRAG専用サスペンション。車種ごとに300mmのロングスプリングやヘルパースプリングを採用するなどパーツを厳選し、十分なストローク量とトラクションを確保しました。また、全長調整式を採用し、ストローク配分や車高調整のセッティング幅を確保しました。DRAG専用サスペンションとして新たに設定しましたので、是非その走りをご堪能ください。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

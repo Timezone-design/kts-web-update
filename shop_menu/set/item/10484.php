@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="KTSは独自にBrake Quip製部材を輸入し、国内の指定工場にて車種専用に組み立て出荷いたします。クラッチラインは全て組付後、3,000psiにて耐圧テストを行い合格後の出荷となりますので安心して御使用頂けます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

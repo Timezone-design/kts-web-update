@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="妥協なきダイナミクス<br>比類なきエクスクルーシブカー、ポルシェや日産GT-Rのオーナーの足まわりの好みをさらに細かく設定させることができます。通勤や気ままなカントリードライブからクラブレーサーのレーシング・セッティングに至るまで、素早く最適なモードに切り替えことが可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

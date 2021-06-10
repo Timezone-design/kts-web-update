@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="Sタイヤやハイグリップスポーツラジアルで本気でタイムを削る為のセッティング。一般のスポーツサスキットよりも更にスポーツ性の高い車高調を求めるハードユーザー向けです。本格的なレース・タイムアタック・競技への使用に対応。各種サーキットやワインディングなどの走行ステージやマシンの仕様に合わせ仕様変更が可能(変更内容により有料)。ハイレートスプリングにも対応する減衰力セットアップを実現。※乗り心地や快適性を求めるユーザーは SPORT S / SPORT TN_S やストリートシリーズをおすすめします。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ミニバンやハッチバック、ワゴンタイプの車は、リアの開口部が大きい分、剛性が低い傾向があります。車体の歪みや軋みは、サスペンションの正確な動作を妨げ、直進安定性やコーナリング性能の低下を招きます。<br>ピラーバーでCピラー（Dピラー）間を繋ぐことによって、ボディの歪みや軋みを抑制してサスペンションがより正確に動作するようになり、走行性能を向上させることができます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

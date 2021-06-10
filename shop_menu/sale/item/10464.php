@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="クスコ・クラッチカバーとメタルディスクのセット。<br>純正サイズでノーマルエンジン車にも安心。耐熱性、耐久性に優れた強化メタルディスク<br>耐摩耗性に優れたメタルフェーシングによって、過酷な使用条件下での滑りを解消。強化品にもかかわらず、半クラッチでも純正品に近いコントロール性能を発揮。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

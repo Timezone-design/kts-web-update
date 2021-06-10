@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="鋭い切れ味とレスポンスを生む、極限まで薄くしたクラッチディスク。クラッチディスクとクラッチカバーのセット開発によって、極限までの薄さ、軽さを追求。イナーシャ（回転方向に働く力）を抑えてシンクロ同期時間を短縮。素早いシフトチェンジを可能にします。過酷なクラッチワークにも耐える高強度設計。超薄型で耐熱性、耐久性に優れたクラッチディスクとクラッチカバーのプレッシャープレートを強度アップ。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

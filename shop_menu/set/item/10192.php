@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="車種ごとのニーズに応える、こだわりのセッティング！MONO SPORTは、すべての人に「走るよろこび」を提供することをコンセプトに開発。サーキットでのスポーツ走行を楽しむような車種には、スポーツ走行を考慮したセッティングとし、ドライバーのスポーツマインドを高める正確なステアリングフィールに加え、しなやかさも兼ね揃えています。サーキット走行やワインディング走行を愉しんで頂けることは勿論のこと、減衰力の調整により、普段使いの街乗りも問題無く使用可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

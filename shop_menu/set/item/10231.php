@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="規格汎用スプリングは、引張り強度200kgf/mm2以上の素材を採用し、高張力かつ耐ヘタリ性に優れています(一部線径を除く)。<br>冷間成形により抜群の品質安定性と耐久性、高性能を実現。ストレートタイプスプリングは、すべて内径を基準にしてありますので、内径指定のスプリングシートをご用意ください。外径は、線径により変化します">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

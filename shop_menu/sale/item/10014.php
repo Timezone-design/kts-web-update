@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="リーズナブルな価格ながら、全調整式/32段減衰力調整。アルミ製パーツを採用したサスペンションキットフロントストラット車にはキャンバー調整式ピロボールアッパーマウントを採用しダイレクトな操舵感とコントロールを実現しています。フロントストラット式以外の車種とリアには全社強化ゴムアッパーマウントを採用することで走行時の不快な異音を低減します(一部車種を除く)。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

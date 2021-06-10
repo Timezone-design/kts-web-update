@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="のスプリング形状がテーパー状（円錐形状）になっており、下部内径はφ70に、上部内径はφ90、φ100の2種類設定してあります。これらは、純正サスペンション形式のダブルウィッシュボーン、マル チリンク化によって、一体化された純正アッパーマウントに対応するように開発された、汎用スプリングです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

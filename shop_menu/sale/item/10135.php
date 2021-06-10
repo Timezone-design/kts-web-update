@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="「進化から生まれた『らしさ』へのこだわり」を開発コンセプトに、コンパクト&Kカー向けに専用設計された軽量でコンパクトなNewモデルです。 Best☆iで長年蓄積したノウハウをもとに、各構成パーツの改良や適正化を図り、新形状パーツを採用することにより、コンパクト&Kカーらしいハンドリング特性とスマートな乗り心地を実現。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

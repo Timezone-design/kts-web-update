@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="湿式専用に開発されたカーボンファイバークロス素材を採用。LSD内部のフリクションディスク面にLSDオイルとの併用を前提に開発されたカーボンファイバークロス素材を採用。μ-V特性に優れたカーボンフェーシングにより、スティックスリップを抑制し、駆動特性と操安性の向上を図りました。GT LSD Pro同様イニシャルトルク切り替え機能付きです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

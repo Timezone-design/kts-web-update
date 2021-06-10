@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="KAAZ LSDには、クラッチプレートとプレッシャーリングが内蔵されており、プレッシャーリングがクラッチプレートを加圧する事によって作動し、非常に強力なロック性能と、優れたドライビング・レスポンスを提供します。プレッシャーリングに2種類の異なるカム溝を設定し、加速時と減速時で異なる効きを選択する事が可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="タイヤチェーンの装着やロードクリアランスへの配慮など、不特定多数を対象に設計された量産車の腰高感は致し方ない。できれば乗り心地感はそのままに、タイヤとフェンダーの隙間を詰めて低く魅せたい・・・そんなオーナーに向けて、スタイルと乗り味を両立させたのがオートエグゼのローダウンスプリング。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

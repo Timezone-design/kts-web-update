@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="走行会専用に限定し、車高を下げた時のバンブストロークを確保、ドリフト時のコントロール性を極限まで高めています。多様な機能を使ってセッティングすることで、グリップ走行においても性能を十分に発揮することが可能。ユーザーの使用頻度が高いインチアップサイズでの設定。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="クルマとの一体感を保ちながら地を這うような安定感に満ちたコーナリング。オーリンズ専用のハイテンション直巻スプリングと高精度ショックアブソーバーの組み合わせが、あらゆる走行ステージに異次元の走りをもたらします。車高を微調整できることで、伝統の20段調整はさらに能力を高めます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ロールセンターの下がり過ぎを修正。<br>コーナリング中に車体が傾斜するロールの中心点、ロールセンターは操縦性に大きな影響を与えます。ロールセンターアジャスターはサスペンションの変更、車高調による車高の変更などによりズレたロールセンターを適正化します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

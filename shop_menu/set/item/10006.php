@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="TYPE-E[コンフォートコンセプト]はストリート性能を優先した信頼の乗り味のベーシックモデルです。街乗りからワインディングをターゲットに乗り心地とスポーツ性を高次元両立。専用パーツが初期減衰特性を向上させ路面の轍、舗装の繋ぎ目も包み込むようなフラット性能を実現しました。ローダウン派にも最適です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

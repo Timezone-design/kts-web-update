@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="インチアップ&ローダウンを前提にストリートでの乗り心地を追求し、 複筒式構造のショックアブソーバを採用しました。荒れた路面も存在するストリートにおいて乗り心地を確保するには、十分なストロークと、ローフリクションでスムーズに動くショックアブソーバが必要です。その点、複筒式はオイル室とガス室が直列配置ではないためストロークを確保しやすく、封入ガス圧が低いため、ローフリクション。スムーズにストロークすることで荒れた路面や凹凸をしっかりと捉え、低速ではしなやかに、高速ではフラットで安定感ある走りをもたらします。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

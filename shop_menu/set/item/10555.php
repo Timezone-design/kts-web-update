@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="凹凸のある道路においてセンター部分のシャーシは前後の荷重移動により、あらゆる面でボディの歪みが発生します。<br>ウルトラレーシングのサイドロアバーを取り付けることにより、フロント、リア間の荷重移動によるボディの歪みを抑えることが可能です。<br>走行中タイヤと路面の接地が4輪均一になり、トラクションの向上が期待できます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

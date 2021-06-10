@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="スーパースポーツダンパーは、ストリート・ワインディング・サーキットまで幅広く対応したモデルです。低価格でありながら、ストレスの無い、しなやかな乗り心地、高速域での走行性能も十分に備えたオールマイティグレード。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

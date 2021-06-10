@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ボタンひと押しで貴方をクルマをスポーツカーに<br>ビルシュタインのエンジニアたちはこの新製品を開発するため、彼らのもつモータースポーツでの経験のすべてを注ぎ込みました。貴方のクルマのセッティングにきっと役立ちます。ドライビング・ダイナミクスを向上させる「スポーツモード」を採用しつつあらゆるシチュエーションを想定し、「コンフォートモード」は不整路でのスムーズな乗り心地を実現。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

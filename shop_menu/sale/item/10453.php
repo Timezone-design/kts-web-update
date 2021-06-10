@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="type-RSは低イニシャルで作動。パワーロスを防ぎ、特にパワーのない車両でもタイムアップが可能です。<br>異音（チャタリングと呼ばれるバキバキ音）の発生を低減します。<br><br>type-MZはLSD効果を引き出すイニシャルトルクの発生がtype-RSと異なり、外側からコーンプレートで行うタイプです。<br>チューンドカーのハイパワーにも対応する耐久性を備えています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

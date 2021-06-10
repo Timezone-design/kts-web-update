@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ハンドリング性能やストリートでの乗り心地のバランスに優れたMAX IV GTを最新技術でリセッティング。MAX IV GTをベースに最新のセッティング技術を投入。安定性と快適性をさらに向上させ走りの質感を進化させました。ストリートでの走る楽しさやスポーツ性と乗り心地の高次元での両立を追求される方にお薦めのサスペンションキットです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

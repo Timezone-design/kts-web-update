@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ベストセラー「S-style」の最高傑作登場！硬くもなく、柔らかくもない、快適な走りを実現！！家族や仲間たちで快適なドライブを楽しみつつ、カッコよくカスタマイズもしたい。長距離ドライブでも疲れない乗り味にしたい。そんな普段使いでのリクエストを考慮し、ローダウンしていることすら忘れさせる乗り味を実現しました。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

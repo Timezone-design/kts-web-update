@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ローダウン時のタイロッド角を補正し、ステア特性を復活。<br>「スポーツタイロッドエンド」は、ボールジョイント部の長さを変更することで、ローダウン時のタイロッド角を適正値に補正し本来のステア特性を復活させる。きめ細やかな“乗り味”を求めるユーザーにお勧めしたいアイテム。素材に高強度な鍛造炭素鋼（S45C）を採用。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="エンドレスの独自技術「ミニマムスチール製法」の採用により、ブレーキダストの大幅なカットに成功した「プレミアム コンパウンド」。わずかに排出されるダストも色が目立たず、欧州車の純正パッドのようにホイールを汚しません。また、低ダストパッドにおける摩擦係数の引き上げに注力し、十分な制動力も確保されています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

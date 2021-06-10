@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="イエガー車高調キットはオーダー後に部品１つ１つを組み立てするハンドメイド車高調です！機能、性能、走行パフォーマンス！『ビシっと』した足回りを体感せよ！！The Sports Mind K-car Suspension Kit 単筒倒立式ショックアブソーバ仕様！">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="本格スポーツユーザーに贈るタイムアタック重視のフラッグシップ車高調。『TYPE N1』の血統を受け継いだストリートバージョン！無限大のセッティングを実現。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

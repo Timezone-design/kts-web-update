@@ -2,7 +2,7 @@
 <head>
 <meta name="keywords" content="KTS,SC DAMPER SYSTEM β,車高調,アライメント測定・調整,取付,工賃">
 <meta name="description" content="高性能・多機能・低価格を実現したKTSオリジナル車高調の商品ラインナップです。アライメント測定・調整込み！！">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

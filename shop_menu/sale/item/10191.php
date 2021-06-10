@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="純正AVS(アダプティブ・バリアブル・サスペンション・システム)機能に対応したフルスペック車高調。トヨタやレクサスの一部車種に採用されているAVSはサスペンションをアフターパーツに交換すると、機能が失われていましたがFLEX AVSは純正のAVS機能は活かしたままローダウンが可能。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

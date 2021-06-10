@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="純正で電子制御サスペンションシステム搭載されている車両に対応したモデルです。純正電子制御サスペンションの完璧なアップグレードとして、純正以上に満足できる優れたパフォーマンスを発揮します。また、車高を簡単に最大70mm下げることができます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

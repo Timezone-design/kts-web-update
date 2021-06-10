@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="REAL SPORTS×TANABEのコラボレーションNEWブランド。SUPER GT、SUPER FORMULAに参戦中のREAL SPORTSとコラボレーションモデル。REAL SPORTSの経験と知識とTANABEの製造技術力、商品へのこだわりを注ぎ込んだ「真」を楽しんでください。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

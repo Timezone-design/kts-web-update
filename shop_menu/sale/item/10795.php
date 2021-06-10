@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="コーナリング時など高負荷が掛かるリアサスペンション左右のトーションビーム取付け部に装着する高剛性スチール製ガセット（補強プレート）。同部分に標準装備される量産プレートと交換装着。無用な歪みを抑制し、正確なハンドリングを支援。フロント用ロアアームバーとの併用を推奨。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="デモカー、ショーモデル用に設定した超ローダウンサスタイプ(最低地上高を確保していませんので、一般道での走行は出来ません)。Ti2000スプリングはチタン配合の新素材が耐ヘタリ性をはじめ、あらゆる面でダントツの性能を発揮。 最高峰だからこそできる「ヘタリ永久保証」付きです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

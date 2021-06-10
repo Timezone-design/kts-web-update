@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="強化クラッチのイメージをひっくり返す、走ることが楽しくなる新感覚クラッチ!!<br>ライトクラッチシリーズはエンジンが軽やかに回りスポーティーなフィーリングにもかかわらず、シフトチェンジが楽しく、半クラッチのフィーリングや良い、そんなクラッチです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ピロボール部にメタルと樹脂を組み合わせた、新開発のブッシュ「ハイブリッドピロ」を採用し、メタルピロブッシュのダイレクト感はそのままに、動作音を低減します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

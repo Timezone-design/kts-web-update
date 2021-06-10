@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ワインディングやサーキットでしっかりとした乗り味が得られることをコンセプトに開発されたスポーツ走行向け車高調。スポーツ走行にふさわしいシャープなハンドリング特性と優れたコーナリング特性が得られ、ステージに合わせた幅広いセッティング範囲と 基本性能を持ち合わせています。また、オプション設定にてピロボールアッパーマウント仕様も用意(一部車種除く)。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="特殊ラバースプリングシートが振動を吸収し快適性を追求。ストリートからワインディング、走行会まで幅広く対応するマルチプレイヤーサスペンション「ファンクション-X プラス」の性能をベースに、よりストリートの快適性を追求したサスペンションです。プラス7は7mm、プラス10には10mmの特殊ラバースプリングシートを採用することで不快な振動や異音を解消しています。また、専用のバルブを採用することで剛性感と上質な乗り心地を両立しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

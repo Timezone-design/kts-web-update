@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="純正アッパーマウントを使用するので、静粛性や乗り心地をそこなわずに車高の上下が可能です。ロアブラケットで若干のキャンバー角をつけることも可能で、高速安定性が増しワインディングでも快適なドライブが楽しめます。静粛性と乗り心地を両立し、スポーツ走行を楽しみたい方や初めて車高調をご使用される方におすすめ。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="単筒式ショックアブソーバー<br>減衰力24段調整☓3Way調整<br>伸び側：減衰力24段調整<br>圧側：低速減衰力24段調整・高速減衰力24段調整<br>新開発CUSCO SPORT「Blue spring」採用<br>全長調整式車高調整<br>別タンク搭載<br>ピロボールアッパーマウント標準装備※一部車種除く<br>ラム式（倒立式）ショックアブソーバー※フロントストラット式のみ<br>Sタイヤに対応">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

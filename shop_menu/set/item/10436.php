@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="車高調のスプリング変更を行う際は通常は必然的に標準と同じIDのスプリングを選択せざるを得ません。しかし更に選択肢を広げる為に、ID65のスプリングを使用可能にする変換スプリングシートを開発。アルマイト塗装により防錆加工が施さた高品質なスプリングシートです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

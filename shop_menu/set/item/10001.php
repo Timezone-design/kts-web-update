@@ -3,7 +3,7 @@
 <head>
 	<meta name="description"
 		content="専用材高強度鋼線の採用により、耐疲労・耐へたり性に優れているほか、大幅な軽量化を実現しています。独自の加工により、高応力域での使用を実現。柔軟かつ強剛な特性が得られます。また、スプリングの軽量化により復帰速度（回復性）を従来に比べ約10％向上。路面に対する追従性、コーナリング時のより早い車体の安定性、スムーズな操舵性を実現します。">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 	<meta name="viewport" content="width=device-width">
 

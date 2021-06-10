@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="全日本ＧＴ選手権・スーパー耐久シリーズで活躍しているドライバー・エンジニアと共同開発。３種類のばね定数設定がありますが、セッティングを容易にするために、自由長及び密着長を同じ高さに設定されています。密着荷重はそれぞれ異なり、その密着荷重点の違いによりばね特性変化を持たせることによりセッティングの幅が広がります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

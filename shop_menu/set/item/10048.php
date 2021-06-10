@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="1台1台テストを重ね、ベストセッティングを追求するという基本概念を踏襲し、スーパーダウンサスよりもバネレートを高く設定しストローク幅を30%アップさせたスプリングです。ストリートはもちろん、峠やサーキットまで見据えたハードサスペンションです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

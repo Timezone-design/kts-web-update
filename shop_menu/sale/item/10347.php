@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ノーマルパッド並みの価格とロングライフながら、制動力、ダスト性能に 　優れたスポーツパッド<br>パッドだけでなく、同時にローターもディクセル製品に交換することにより更に高いパフォーマンスを発揮！<br>ノーマルパッドと違い、日本人の趣向、日本市場を徹底的にリサーチし、開発">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

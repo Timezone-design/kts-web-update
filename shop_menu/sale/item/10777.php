@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="個々のエンジンの回転数やオーバーラップ特性を考慮し、集合部分までの距離を量産より長くすると共に等長化。さらには合流部の角度を狭めて高回転時に発生するブローダウン現象（排気逆流）を防止。また、１本部への結合部は放射形状とするなど排気流速を高め、エンジンの素性を伸ばす出力特性を獲得。総削り出しフランジ、バックシールド製法TIG溶接など職人技を駆使したステンレスの機能美も魅力。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

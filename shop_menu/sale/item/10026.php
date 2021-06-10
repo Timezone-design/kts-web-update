@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="手軽にローダウンしながらも車種別専用設計のため十分なバンプストロークを確保乗り心地も自由自在。走行シーンにあわせて違いがハッキリわかる減衰力(乗り心地)40段調整式であなた好みの乗り味に調整可能です。出荷時にしっかりストロークを確保した「ベストローダウン設計」。1年、または10,000kmの安心保証つき。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

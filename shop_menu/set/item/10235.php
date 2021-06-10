@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="セダンやミニバン、軽自動車それぞれにハンドリング性能を高めつつ、乗り心地を最重視するセッティングを施しています。また、バネレートはノーマルに比べ15％アップまでに抑え、乗り心地に反映させています。スポーツ系はハンドリングのシャープさを、フォーマル系では乗り心地を重視しました。フロント、リア共に荷重に応じた最適なバネレートセッティングを施しています。 ">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="これまでの強化クラッチの概念をくつがえす!!より繊細に、よりスムーズな操作が可能になる新感覚強化クラッチ。<br>これまでのメタルクラッチの特性を活かしつつ、半クラッチ量を増やし、扱いやすい強化クラッチとなりました。ストリートからドリフトユーザーまで幅広いユーザー層に対応します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

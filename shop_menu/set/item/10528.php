@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="より軽く、よりダイレクトに。勝つためだけに存在するピュアレーシングクラッチ。<br>スーパー耐久など、タイトなレースシーンにおいて勝つ為に生まれたレーシングコンセプト。限界までに軽量化されたフライホイールが今までに体感したことのない吹け上がりを実現。超攻撃的な走りを可能とするサーキットスペック超軽量クラッチです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="リアタイヤの横方向の動き、アライメント変化を抑制<br>スポーツ走行時のコーナリング安定性の向上&タイヤの接地性アップ。<br>高性能ハイグリップタイヤ、競技用タイヤ装着車に効果抜群。トーイン・トーアウト調整など精密セッティングが可能。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

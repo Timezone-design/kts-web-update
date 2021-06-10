@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="NEW TYPE-RはTYPE-Rを摩擦材や生産方法を見直して性能はそのままに、価格を抑えることに成功しました。高温域でのフィーリング変化が少なく、安定した制動を得られます。踏力に応じたダイレクトな制動感を得ることが可能です。ブレーキで車両を意のままに操るペダルコントロール性を重視したスポーツはユーザーに大変おススメです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

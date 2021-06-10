@@ -8,7 +8,7 @@ exit;
 <head>
     <meta name="description"
         content="走る、曲がる、止まる。車の基本となる3大要素を大きく左右するダンパーシステム。常に一定ではない路面状況に対応すべく、開発・販売実績に基づくデータを分析し、より優れたダンパーシステムの開発に成功しました。高性能・多機能・低価格を実現した車高調です。ストリートからサーキットまで幅広くセッティングが可能！！">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

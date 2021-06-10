@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="カーボンの含有量を従来より20％増量。網目のように絡まりあった炭素粒子が分子間の結合を強化しています。<br>熱処理加工により安定した強度を実現し、耐ひずみ性能、耐クラック性能を大幅に向上させたプロスペックモデルです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

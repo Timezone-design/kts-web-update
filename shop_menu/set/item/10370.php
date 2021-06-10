@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="あらゆる場面（ストリートからサーキットまで）で最高のパフォーマンスを発揮します。<br>熱処理ローターとスリットローターのメリットを融合することで、スリットの効果で低温時から高い摩擦係数を、サーキットでは比類なき安定性と高温時においても高い摩擦係数を維持します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

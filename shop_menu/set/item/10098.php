@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="4WD車、SUVのために専用設計されたショックアブソーバー。市街地から悪路、未舗装路までオールコンディションで優れた快適性と安定性をもたらします。悪路での使用時には優れたグリップ力と抜群の耐久性を発揮。そして、市街地を走行する際には、路面追従性が高く、乗りあじと安定感を大幅に改善。快適性、安全性などトータルに性能が向上します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="EnduraPro SP KIT/ EnduraPro PLUS SP KITは純正形状の高性能ショックアブソーバです。純正ショックアブソーバと同形状のロアスプリングシートを備え、純正スプリングと純正アッパーマウントの使用を前提とした設計となっています。SP KITに付属されている専用のローダウンスプリングを組み合わせることでローダウンも可能。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

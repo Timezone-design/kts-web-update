@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="狙いは｢意のままの減速｣。単に止まるための性能ではなく、連続したブレーキング時の安定した効きと、コーナリングでの繊細な荷重移動や車速の自在なコントロールを重視した設計。踏力や速度、温度などの諸条件により常に変化する摩擦係数（μ）の変化量や変化のさせ方に着目。スポーツ志向のドライバーが求める｢μの過渡特性｣により、感性にシンクロした効き味を実現する。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

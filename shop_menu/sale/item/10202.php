@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ローダウンスプリングの決定版!!スタイリッシュ&コンフォータブル<br>後部座席評価を含めた実走行テストにて納得のいくまでセッティング。Gセンサー、ストロークセンサーといった計測器を使用し、あらゆる角度から快適性を追求。<br>※突き上げ感を低減するため、車種により純正バンプラバーの加工が必要な場合があります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

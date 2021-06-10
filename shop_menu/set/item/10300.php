@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="発売当初より、セミメタルブレーキパッドの定番であるMX72から正統進化を遂げた「MX72 PLUS」はMX72に比べ集会を重ねた際に起こる熱ダレを遅らせることで、更なるサーキット向けセミメタルブレーキパッドへと進化しました。<br>さらにはコントロール性を重視し、圧倒的な初期制動ではないコントローラブルな効きは、小排気量から大排気量を中心とした車種に置いて最適なブレーキパッドとなります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

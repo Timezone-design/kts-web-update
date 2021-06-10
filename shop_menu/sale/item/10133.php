@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="減衰力固定でありながら快適性を追求したセッティング。Best☆ⅰを基準として、シンプルな機構(機能)でリーズナブルな仕様となっています。きっちり車高を落としてもしっかりストロークを確保して乗り心地を損なわない、全長調整式・単筒式を採用。 また異音に対しても徹底的に対策し、あらゆる面で快適さを追求しています。乗り心地を追求したセッティングを維持し、安定した走りで疲れを感じさせない引き締まった走りをお約束します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

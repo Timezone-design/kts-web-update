@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="量産車で採用されるゴム製と比較して熱や経年による劣化や油圧による膨張が少ないステンレスメッシュPTFE（テフロン）を採用し、踏力に応じたダイレクトなブレーキフィールを維持する。量産同様のホースレイアウトを忠実に再現。飛び石からホースをガードするPVCコーティングなど、安全性に配慮した設計としている。取付けに必要なガスケットなどを付属。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

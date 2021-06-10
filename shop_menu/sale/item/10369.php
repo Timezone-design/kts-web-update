@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="独自の熱処理加工により、ディスク内部の金属結合組織を安定化させ、装着初期にありがちなひずみや熱倒れを徹底的に防止しています。表面硬度も最適化され、ペダルタッチも向上。<br>サーキット対応のＺタイプやＲシリーズなどとの併用により、より高い相乗効果を実現します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

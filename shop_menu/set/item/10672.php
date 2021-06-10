@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="車検・点検時が交換のチャンス！ 新車から5年・5万キロ以上なら交換をオススメします。また、ショックアブソーバは、1台分(4本)または、左右(2本)同時での交換をおすすめします。1本だけの交換は交換していない部分の消耗・劣化を早める原因となります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

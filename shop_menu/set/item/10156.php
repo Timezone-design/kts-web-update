@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="SPORTSシリーズのハイエンドモデル -極- の技術を活かし、ストリート〜ワインディングでのハンドリング、安定感、乗り心地を極限まで追求した、SHOWA TUNING COMFORTシリーズの史上最高モデルです。そのノーマル形状ダンパーの極限の姿を「柔（やわら）」という感じでイメージ。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

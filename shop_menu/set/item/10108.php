@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="街乗りからスポーツ走行まで対応する万能モデル。スタンダードモデルとして、それぞれの車種が持つ特性に合わせて最適なセッティングで開発。全長調整式のフルスペック車高調として、車高を下げてもストローク量が変化せず、乗り心地の心配をすることなくローダウンを楽しめる車高調です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

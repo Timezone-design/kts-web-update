@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="国内耐久レースで使用されているスペシャルコンパウンドをベースに開発<br>耐久レースでも十分に戦える特筆すべき高い耐摩耗性！<br>長時間走行でも変わらない効力，ペダルタッチにより安定したラップタイムを刻むことが可能<br>踏力コントロールしやすいフラットなμ特性">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

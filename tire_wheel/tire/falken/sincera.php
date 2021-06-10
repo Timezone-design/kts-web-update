@@ -3,7 +3,7 @@
 <head>
 	<meta name="keywords" content="FALKEN,ファルケン,SINCERA,シンセラ,販売,装着,脱着,アライメント">
 	<meta name="description" content="FALKEN製タイヤ販売中！取付・バランス取りも特価で承っております！">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 	<meta name="viewport" content="width=device-width">
 	<title>KTS-web タイヤ・ホイール館 FALKEN（ファルケン）SINCERA</title>

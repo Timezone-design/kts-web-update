@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ウルトラレーシングは2002年に設立したシャーシやチューニングパーツの専門メーカーです。ヨーロッパやアジアなど世界14ヶ国以上の国々へ拠点を置き、世界中で信頼されているブランドです。<br>ウルトラレーシングのバーは従来のバーに対して優れた性能を発揮し、剛性を高めることができます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

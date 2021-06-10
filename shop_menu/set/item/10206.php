@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="専用設計のスプリングとスプリングシートを採用して車高調整機能を付加。一部車種にはオフセットスプリングシートを採用して、フリクションを最小限に。複筒式としては最大級のφ35ピストンバルブを採用。ピストンロッドはストラットタイプφ25、ウィッシュボーン・マルチリンクタイプはφ14を使用。ハードなステージでも安定した減衰力と耐久性を発揮。専用スプリングを新設計。高張力鋼SWOSC-KVを使用しヘタリを完全排除。一部車種にはテーパーコイルスプリングを採用し最大限のストロークを確保。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

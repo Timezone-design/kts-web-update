@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="高すぎず、低くなりすぎないダウン量を徹底的に追求し、各車種毎に設定。Ti2000スプリングはチタン配合の新素材が耐ヘタリ性をはじめ、あらゆる面でダントツの性能を発揮。 最高峰だからこそできる「ヘタリ永久保証」付きです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

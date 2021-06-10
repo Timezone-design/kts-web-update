@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="理想の組合せにより、美しいローダウンフォルムでありなら、路面追従性に優れたスポーティーな乗り味をもたらします。また、伸び側と縮み側の減衰力を完全に独立して制御し、伸び側は減衰力調整式を採用することで精密かつ特異なシステムが車体のロールを抑えて低姿勢を保ち、しなやかで安定したハイスピードコーナリングを実現。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

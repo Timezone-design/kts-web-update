@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="「美しいローフォルムと快適な乗り心地を両立させ、誰もがノーマルとは一味違った乗り味と軽快なハンドリング特性でドライビングが楽しくなる。｣ そんなショックアブソーバーを理想として開発されています。スタイリングにこだわり、インチアップ・ローダウンを施されても、快適で上質な走りを求められる。"既存の製品では物足りない、 もうワンランク上のサスペンションを"と望まれていたユーザー様にも必ず満足いただける仕上がり。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

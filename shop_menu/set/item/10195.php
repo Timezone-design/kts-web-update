@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="サーキットアタックに効果的な機能を厳選搭載。フラッグシップのDNAを持つ車高調。MONO RACINGはサーキット走行の頻度の高いユーザー向けに開発。ハイエンドモデル「SUPER RACING」のセッティングをベースに、各種モータースポーツサポートで培った豊富なデータから、スポーツ走行に適した基本スプリングレートの設定や減衰力チューニング。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

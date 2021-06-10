@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="違いがハッキリわかる減衰力（乗り心地）40段調整式で乗り心地もチューニングも走行ステージに合わせて自由自在です。「全長調整式車高調整」と「減衰力40段調整」のCUSCO streetシリーズ最上級モデル。CPRV（圧力適正化バルブ）で乗り心地の質感を向上しました。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

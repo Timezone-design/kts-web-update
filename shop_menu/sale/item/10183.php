@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="EnduraPro/ EnduraPro PLUSは純正形状の高性能ショックアブソーバです。純正ショックアブソーバと同形状のロアスプリングシートを備え、純正スプリングと純正アッパーマウントの使用を前提とした設計となっています。補修交換用としてだけでなく、スプリングは純正のままノーマル車高を維持しながら乗り心地やハンドリングを向上させたいという方にも最適なアイテムです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="サスペンションにおけるスプリングの重要性を知り尽くしたJICならではのサゲバネ！美しいスタイリングとスポーティな走り、そのふたつの要素を高度にバランス。他とは違うパフォーマンスを体感ください！！">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

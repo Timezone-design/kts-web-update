@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="乗り心地も走りも違いがハッキリわかる減衰力（乗り心地）40段調整でオールラウンド。スタイリッシュなローダウンと走行シーンに合わせて減衰力が細かく調整できるスタンダードモデル。車種別専用設計でローダウンしても十分なバンプストロークを確保し出荷時にしっかりストロークを確保した「ベストローダウン設計」です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

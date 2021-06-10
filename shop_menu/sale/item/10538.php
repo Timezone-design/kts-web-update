@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="加減速時にブレを抑えるピロボールパーツ。大きな負荷がかかるときに真価を発揮。<br>加速時、減速時にタイヤが暴れるジャダーを防止。リヤタイヤの前後の動き、アライメント変化を抑制。サスペンションの動きをスムーズにしてタイヤの接地性が向上。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

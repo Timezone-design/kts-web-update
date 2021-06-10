@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ストッピングパワーを犠牲にすることなく、ダストは大幅に低減！<br>高いコントロール性により、ワンランク上のブレーキングコントロールが可能に！<br>唐突に効くのではなく、踏力に応じて効きが上がるビルドアップ型のため、同乗者も快適<br>ローター攻撃性も驚くほど低く、ローターのロングライフ化にも大きく貢献">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

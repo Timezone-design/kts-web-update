@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="新設計のダンパー及びスプリングの採用で、さらに進化した次世代サスペンション。<br>路面に対して適切な設置圧により静寂性の向上しました。前後の揺れを最小限にすることで視界が安定し疲れづらい。道を選ばない滑らかで安定した乗り心地を実現。せっかくなら消耗品の交換もしたい方へ純正フロントアッパーマウント付もご用意。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

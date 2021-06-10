@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ネオ・ワゴンの良さはそのままに、ベアリング付きスプリングシートを標準装備し、リアの減衰力の幅を広げています。スムーズなスプリングの動きにすることで、スプリング本来の性能を引き出し、スムーズなコーナーリングに繋げます。また、バネ鳴りを低減させる効果もあります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

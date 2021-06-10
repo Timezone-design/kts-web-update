@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="スプリングレートアップと減衰力の最適化により、市街地走行での乗り心地を犠牲にすることなく、旋回性能や高速安定性を1ランク向上を実現するスポーツサスペンション。ダンパーとスプリングのアッセンブリ。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

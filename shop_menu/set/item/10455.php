@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="イニシャルトルク内圧式固定のベーシックモデル。大径プレート20枚仕様によりスリップからロックへの移行が大幅にスムーズになりました。プレートツメ面積を確保することで摺動ジャダーを完全に抑制しています。2WAYと1.5WAYの作動方式を選択可能です。また、プレッシャーリングにそれぞれのカム角を加工してあるため、ご購入後に組み換えも可能です。<br>※分解整備作業が必要">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

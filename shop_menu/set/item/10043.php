@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="「Super Function」は、グリップ力の高いタイヤの装着を前提とした、サーキットスペックモデルです。本体を20段調整とし、より細かな減衰設定ができるようになりました。アッパーマウントにはピロボールを標準採用。シェルケースには軽量で放熱性に優れるアルミ素材を採用しております。ダイレクトなドライブフィールとバネ下重量の軽減を実現する。まさにタイムアタックマシン御用達のサスペンションキットです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

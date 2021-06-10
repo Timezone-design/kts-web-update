@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="NEW SR SPECIALは純正ショックアブソーバと同等の形状を採用、耐久性など品質はそのままに減衰力特性を最適化することで、「硬くないけどシッカリ！」普段使いの軽快なカジュアルシューズを履いた感覚で安心して走れる、なんか運転がうまくなった？と思わせるショックアブソーバに仕上げられています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

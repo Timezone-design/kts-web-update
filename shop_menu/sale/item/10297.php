@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="「ブレーキパッドがドライバーを選ぶ」というアグレッシブなコンセプトから生まれるCC-Rgは、強力な踏力によってタイヤを路面に押し付けることが出来るユーザーに向け開発されました。踏力を加えた後のコントロール性は素晴らしく、ビルドアップによる機器の変化もありません。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

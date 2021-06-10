@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ワゴン・トラック系の車種用に減衰力などを乗り心地を考慮した仕様。全長調整式、可動式ピロアッパーマウント、減衰力調整機構の全てを兼ね備えています。可動式ピロアッパーの採用でダイレクトなハンドリングと2度以上のキャンバー角を実現しました。街乗りからサーキット走行まで幅広く楽しみたい方に最適です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

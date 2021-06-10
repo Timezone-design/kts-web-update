@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ノーマルパッドよりワンランク上の制動力と耐摩耗性（寿命）<br>鳴きが少なく快適！また、ローターへの負担も少ないので経済的<br>スコーチ（パッド表面焼付）により初期なじみも抜群<br>ノーマルパッドと同様に、「機械式センサー」装着済（一部品番を除く）">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

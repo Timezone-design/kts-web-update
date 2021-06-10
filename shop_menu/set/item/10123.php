@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ストロークとスプリング・プリロード量を変更することなく車高調整が可能な全長調整機構とさらなる軽量化を目指したアルミシリンダー採用モデル（※一部車種を除く）。そのシリンダーにはゴールドアルマイト処理を施し、この上なく美しいアピアランスを実現。アイバッハ社との共同開発したオーリンズ専用の新開発軽量スプリング。定評の20段調整搭載。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

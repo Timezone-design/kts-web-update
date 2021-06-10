@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="究極のサスペンションを目指し、土屋圭市氏がプロデュースするDG-5と再びタッグを組み、お互いのノウハウと拘りを注ぎ込んで完成させた最高傑作。それがG-MASTER PREMIUM サスペンション。極太60φショックとSWIFTスプリングの組み合わせは、しなやかでいながらも路面に確実にトラクションを伝え、乗り心地とスポーツ性能を両立させます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

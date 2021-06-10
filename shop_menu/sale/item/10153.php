@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="サーキットではなく、時として条件がより過酷な高速道路、峠道を気持ちよく走ることを目指し開発。減衰力の応答性を最大限に引き出す大口径ピストンの採用(一部車種を除く)。タイヤの浮き上がりを抑えるリバウンドスプリングを装備。ショックアブソーバのチューニングに合わせ、スプリングも最適値に設定。必要な時に瞬時に減衰力を発生し、ゴツゴツとした乗り心地を解消するとともにキビキビ感を両立しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

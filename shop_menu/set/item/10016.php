@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="別タンクによるオイルの大容量化と、伸側・縮側をそれぞれ32段に独立して減衰力調整を実現する2WAY減衰力調整機構を採用。従来よりもさらにハイスペックな車高調キットとなっており、減衰力をより高次元でバランスさせることで、サーキットに特化せずストリートを含めた幅広いシチュエーションに対応します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

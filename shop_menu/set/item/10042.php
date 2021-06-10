@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ストリートからスポーツ走行まで対応するマルチプレイヤー。20段階の減衰調整システムを採用し、ストリートからワインディング、サーキットまで幅広く対応するマルチプレーヤーとして開発されました。リニアな特性をもつ専用ピストンバルブを採用し、剛性感のある走りが楽しめます。スプリングレートは走行フィールドにあわせ、「SOFT」「HARD」からお選びいただけます。防錆に優れる特殊メッキを施したシェルケースを採用すると同時に、軽量化と腐食性の強化のため、アルマイト処理を施したアルミ製パーツも随所に採用しております。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

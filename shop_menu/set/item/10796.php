@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="車体前面からの走行風を直接捉えることで、吸入効率の向上をサポートするアイテム。量産車では明確な吸気経路が存在しないフロントグリルからコアサポート上部に設置されたエア吸入口までを専用エアガイドで直結することで、ラジエターなどの排熱の影響を最小限に、フレッシュエアをエアクリーナーボックスに導入し、充填効率の向上を図っている。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

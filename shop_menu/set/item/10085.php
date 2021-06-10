@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="上質を追い求める人のために。チューニングパーツの意義「性能＞コスト」と車両の素性を生かす設計「純正形状」の融合。これまでの純正形状アフター サスペンションの概念とは全く異なる「乗り心地」「スタイル」「安定感」全てにおいて「上質」を徹底追及したHKSの答えが、今ここに具現化しました。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

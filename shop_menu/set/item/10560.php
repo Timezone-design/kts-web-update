@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="タイヤが左右に常時動いている為、ボディのフロント側はより捻じれ、歪みやすい。<br>フロントの剛性を高くすることによりロールや捻じれ歪みを抑制し、アライメントも変化しにくくなります。ウルトラレーシングのフロントメンバーブレースは車種により支持点を変えることで最適な操舵性能を引き出すことが出来ます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

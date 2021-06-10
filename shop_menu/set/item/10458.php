@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="銅(銅線)とカーボンを、独自の特殊製法でモールドしたフェーシングを採用。実走行の温度変化に強く優れたコントロール性能を体感できます。従来のメタルディスク特有のジャダーを大幅に低減し、半クラの幅を増やすことで、スムーズな発進とクラッチ操作を可能。ダンパースプリングを採用し、音鳴りやディスク本体、ミッションへの負荷も低減。スポーツ走行に欠かせないギヤのつながり キレがいい強化クラッチカバー。セット荷重をバランスよく高めパワー伝達力を向上。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

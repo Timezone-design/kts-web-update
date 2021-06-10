@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="「エグゾーストチャンバーキット」は、ミドルパイプの途中にチャンバー（膨張管）を設置することで吸い出し効果を高めている。セッティングの鍵となるのは、負圧波の発生ポイントであるチャンバーのレイアウト。<br>ストリートベストを目指し常用域におけるアクセルレスポンスの向上を目的にレイアウトとしている。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

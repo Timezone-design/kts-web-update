@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="リアドラム車の方はブレーキパッドで制動力を変更することができません。エンドレスでは純正よりも効きをアップさせたサイドブレーキインナーシュー"TYPE-NA"をリリースしています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

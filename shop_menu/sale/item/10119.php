@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="高速道路やワインディングでのスポーツ性能を向上させたラジアルタイヤ用サスペンション。NISMOサスペンションのコンセプトは、「車両が有するストローク量を最大限に活かしたスポーツサスペンションであること」です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

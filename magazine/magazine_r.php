@@ -69,7 +69,7 @@
 <html>
 	<head>
 		<title>KTS-web</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="robots" content="index,follow">
 		<meta name="keywords" content="KTS">
 		<meta http-equiv="refresh" content="0; url=https://www.kts-web.com/magazine/thanks.html" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="スパークプラグに求める性能は、より早く、効率良い燃焼を生み出す確実な点火性能と、様々な環境で長期間安定したエンジン性能を発揮させる正確な着火性です。<br>これらの要素を兼ね備え、ノーマルチューニングエンジンまで本来持つ性能を100％引き出すプラグ、それがHKSスーパーファイヤーレーシングなのです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="低価格でありながら、高品質なベーシックモデル。性能も抜群でリーズナブルな価格設定。ストリートユース向けの車高調ダンパー。<br>ローアングルを実現しながらも乗り心地を考慮しロングクルージングOK。主にスタイル&街乗り重視のリーズナルなプライスが魅力的なモデルです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

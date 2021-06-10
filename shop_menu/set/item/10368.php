@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="プラス20％の制動力がもたらす安全性<br>PDタイプに比べ、摩擦係数が最大20％アップしていることで車輌の安全性が向上＆ ゆとりのあるドライビングが可能になります。スリット本数は鳴き、摩耗、ガスの除去効果など様々な事案を考慮し6本となっています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

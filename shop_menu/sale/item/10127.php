@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="減衰力15段階調整/全長調整（フルタップ）式のコストパーフォマンスに優れた車高調整キット、ストリートチューニングダンパー（S.T.D）。町乗りセッティングからハードな走りまで対応。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

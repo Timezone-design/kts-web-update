@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="D2ジャパンの車高調は走行シーンに合わせて多彩なラインナップを誇っています。また、ISO認可を受けたメーカー品質管理プログラムの厳しい検査を受け製造され、購入後1年間の保証(ストリート用のみ)が付いています。ピロボールラバートップマウントを初めてとした様々な特許パーツによりD2ジャパン独自のクオリティも特徴です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

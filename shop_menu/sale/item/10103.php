@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="Lowfer Sportsは純正形状ローダウンスプリングと組み合わせ使用できるよう専用設計されたショックアブソーバです。純正形状、減衰力固定式採用、ローダウンスプリングと専用チューニングのショックアブソーバにより快適で安定したフットワークとスタイリッシュなローダウンフォルムを演出します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

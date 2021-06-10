@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="多種多様化している車に幅広く対応し、それぞれの車をベストなフォルムになるようダウン量を設定。同時に乗り心地を決定付けるストローク量を正確に算出し、反比例しがちなローダウンと乗り心地を両立させるよう設計開発しています。またスプリングの最大荷重時の高さを車種ごとに把握し、応力計算に反映することでへたりの無い耐久性に優れた製品になっています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

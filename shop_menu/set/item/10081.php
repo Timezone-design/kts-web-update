@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="D1初代チャンプ 谷口信輝氏監修。「ハイパーマックスD' NOB SPEC」のコンセプトは、誰もがドリフトしやすい足。谷口選手を起用し、とことん煮詰めた、まさに『誰もがドリフトしやすい足!!』。硬いだけがドリフト足ではありません。ドリフトのきっかけ作りでの荷重移動・立ち上がりでのトラクションetc、サーキット走行を繰り返し、初級者から上級者までレベルの違うドリフトユーザーと共に谷口選手が最終的に誰もがドリフトしやすい足に仕上げ、納得いくまで煮詰めた仕様に仕上げています。この『HIPERMAX D' NOBspec.』で、もう一度皆様にドリフトを楽しんでいただきたいです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

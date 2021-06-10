@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="各車種の初期出荷時は、最低地上高90mm～100mmを確保する設計としながらも、ダウン量に関しては従来のi☆SHOCKシリーズを超えるダウン領域のセッティングが可能。また、Black☆i専用となる超ショートストローク&超ショートケース仕様のショックを各車種毎設計。 減衰力、スプリングレートと共にハード仕様を採用する事により、車体の無駄な動きを抑制して 迫力のダウンフォルムとシャープな走りを実現します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

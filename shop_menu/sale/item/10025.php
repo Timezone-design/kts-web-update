@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="全長調整式で乗り心地と走りのベストバランスを実現。設定車種のキャラクターに合わせ減衰力をベストセッティング。有効ストローク一定の「全長調整式」でローダウン量も思いのまま。複筒式ショックの採用で、マイルドな乗り心地と充分なストローク&車種別専用設計でローダウンしても十分なバンプストロークを確保しています。また、調整ネジ部には「ニッケルクロームメッキ処理」を採用し、サビや砂・ダストからしっかりガード。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

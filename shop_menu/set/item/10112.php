@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="伸び側・縮み側の減衰力を2wayで独立調整が可能。別体タンク式にすることでストローク量とオイル量を増やし、従来の単筒式では実現不可能だったガスの低圧化を実現。伸び側と縮み側でそれぞれ32段階の調整を行う事が出来るため、より細かなセッティングが可能。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

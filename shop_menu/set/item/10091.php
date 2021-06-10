@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="24段階の減衰力調整を可能にし、コストパフォーマンスと機能を両立させた サスペンションキット。（一部リア26段階使用にしております。） 初めて車高調に挑戦するエントリーユーザーも 「ANY ONE」で間違いなし。そこにはIDEALの培った技術と経験が宿る。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="STREETシリーズよりさらに上を求める方へ。サーキットなどのスポーツ走行をメインに使用されるユーザー向けのサスペンションです。<br>専用シリンダーや高設定のバネレートなど「熱い走り」を求める方向け。STREETシリーズをより日本のサーキット走行＆ドリフト走行などのハードなスポーツ色へ強調したモデルです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

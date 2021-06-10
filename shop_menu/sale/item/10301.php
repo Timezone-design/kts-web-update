@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ブレーキダストが少ない/音鳴きが出づらい＝あまり効かない…今までのスポーツパッドの常識を覆すべく開発。<br>効きを上げるには摩擦係数を高くすることが従来の常識でした。<br>エンドレスでは、初期制動の定義を細分化し「初期レスポンス」を高めることで”効き”の体感を強く引き出し、車を止める”扱いやすさ”として程よいバランスを手に入れました。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

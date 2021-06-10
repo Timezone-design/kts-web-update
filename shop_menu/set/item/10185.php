@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="クロスカントリー4WD用40mm(約1.5インチ)リフトアップヘビーデューティーダンパー。ロアスプリングシートを上下に移動することで車高調整が可能。シンプルな構造で扱いやすいのが特徴です。基準車高は純正から40mmアップ(約1.5inch)とすることで、ロードクリアランスを確保して市街地走行からオフロード走行まで様々な走行ステージに対応できる車高設定です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

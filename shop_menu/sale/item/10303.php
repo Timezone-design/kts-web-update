@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="Y-sportsは、初期制動・コントロール性といったストリートパッドとして重要な性能に優れ、如何なる状況下でも確実な制動力を発揮するブレーキパッドです。純正からのグレードアップ等、エントリーモデルとして最適なストリートスポーツパッドです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

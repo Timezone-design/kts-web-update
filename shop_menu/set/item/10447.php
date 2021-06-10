@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="AT車に新しい走りの魅力を引き出す！！<br>オートマチック車に専用開発したデフが気持ちいいドライビングの魅力を創り出します。<br>超低イニシャル、1Wayタイプでオートマ車との相性は抜群。また、オーバーホールなしでも長期間安定した性能を持続します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

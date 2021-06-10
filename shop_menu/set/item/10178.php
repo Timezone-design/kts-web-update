@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="フリークに応える究極のローフォルム。リーズナブルなプライスも魅力です。<br>見た目の美しさを極限まで追求したドレスアップフォルムDF210。基準ダウン量を50〜60mmとし、ギリギリまで車高を落とし込んだビジュアル仕様。バネレート10〜15％アップ（ノーマル比）させつつ絶妙なコイリング設計により、従来品に比べ乗り心地アップも実現しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="レーシングスプリングは、すべて引張り強度200kgf/mm2以上の素材を採用し、高張力かつ耐ヘタリ性に優れています。冷間成形により抜群の品質安定性と耐久性、高性能を実現。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

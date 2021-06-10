@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="純正でスタビライザーが付いていない車やスタビライザーのバネ定数が低い車はコーナリング時などで遠心力により大きく外側に傾いてしまい、一度傾いてしまうと戻る際にボディが左右にふらついてしまいます。<br>純正よりバネ定数の高い強化スタビライザーに変更することによって、スタビライザーの性能が更に向上し、ロールなどを抑え乗り心地を向上します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

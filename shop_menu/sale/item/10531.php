@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="適正なキャンバー角に矯正して、タイヤの内ベリや不安定な挙動などを改善。リアタイヤの設置性を向上させ、トラクション・ブレーキ性能がアップ。<br>※調整式リア・トーコントロールロッドと併用で、キャンバーとトー方向の調整が可能">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

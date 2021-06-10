@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ワゴン/SUVのスタイリングを極めるとともに上質なコンフォート性および操縦安定性を両立。フル乗車時の快適性能にもこだわったセッティングは、街乗りはもちろん高速走行にも優れます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

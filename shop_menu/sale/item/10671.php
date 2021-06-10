@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ローダウンスプリングを装着すると、車高が下がると同時にサスペンションストロークが無くなります。普段は目に見えない部分ゆえ想像しにくいことですが、スーパーダウンサスラバーの装着でこれらは大幅に改善され、ドライビング性能（ブレーキング、コーナリング性能等）と乗り心地が大幅に改善します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

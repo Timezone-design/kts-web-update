@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ワインディングをメインとしたストリート走行における速さと快適性を追求したチューニングサスペンション。走行性能をアップしながらも乗り心地を損なわないという事をターゲットにおいて開発。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

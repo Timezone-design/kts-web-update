@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="「ストリート～ワインディング」の枠を超え、“しなやかな乗り心地”は犠牲にすることなく、サーキット走行にも対応するスペックに仕上げたハイエンドモデル。その「EVOLUTION」を、ノーマル形状ダンパーの極限の姿…「極（きわみ）」という漢字でイメージ。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

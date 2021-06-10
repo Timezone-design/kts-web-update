@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="高品質で高い耐久性を兼ね備えた1インチリフトアップ用車高調。ネジ式車高調整機構を採用し、ロアスプリングシートを上下に移動することで車高調整が可能で、シンプルで扱いやすい構造を採用。基準車高は純正車高から１インチアップ( 約25mm) 前後とすることで、ロードクリアランスを確保。あらゆる路面での走行を想定し市街地からオフロード走行まで様々な走行ステージに対応できる車高設定です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

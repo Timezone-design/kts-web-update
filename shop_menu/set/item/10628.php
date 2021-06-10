@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ムキ出しタイプの高性能エアクリーナー『パワーチャンバー』の軽自動車用シリーズです。吸入効率・軽量化・吸入サウンドなどパワーチャンバーの機能性はそのままに軽自動車向けのコンパクトサイズになっています。昨日性能は勿論のこと、とことんこだわったレイアウトと鏡面仕上げのアルミパイピングでエンジンルームをカッコ良く演出します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

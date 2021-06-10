@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="量産同形状のスリット入り1ピースタイプ。<br>量産品と同形状の１ピース構造FC鋳鉄製ながら、カーボンやシリコンなどの含有率をコントロール。加えて、綿密な熱処理加工を施すことで金属結合組織を安定化させ、熱による歪みを抑制し強度を高めている。耐フェード性を改善し、ブレーキング時の安定感を向上させる。製品は新旧マツダ車に幅広く適合し、リフレッシュユースにも最適。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

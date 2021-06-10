@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="走行風による過給＝ラム圧で空気を押し込む発想で誕生。車速にもよるので、現実に正圧がかかることは稀だが、エンジンの放射熱の影響を受けない酸素密度の高い空気を効率よく取り入れられる効果は大きい。量産ECUのA/F(Air/Fuel空燃比)補正マージン内で、吸入空気量を増やすことにより、燃料の噴射を促して、パワーとトルクの向上を狙った仕様。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

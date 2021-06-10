@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="Lowfer Sportsのリアに14段ダイヤルを装着して「もう少し」「もうちょっと」をプラス。通勤や子供の送迎時の1〜2人乗車メインの方や、家族ドライブやスポーツ走行メインの方など、このダイヤルで、それぞれのシチュエーションに合わせたお好みの乗り心地に調整可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="単筒式(モノチューブ)構造、全長調整式、32段減衰力調整機構とDAMPER ZZ-Rのスペックを踏襲しながら、スタイルの幅広さと更なる走行性能を追求したハイスペックモデル。幅広いローダウンのニーズに応えるため、基準車高や調整範囲を新規設定。ローダウン状態でも最高のパフォーマンスを発揮。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

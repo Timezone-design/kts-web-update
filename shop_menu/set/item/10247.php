@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ドライビングの楽しみはセッティング次第<br>ビルシュタインのエンジニアたちによって開発されるハイパワークラスの製品は、究極のドライビングプレジャーを成し遂げるべく作られています。スポーティなセッティングから極上のコンフォータブルなセッテングまで調整可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

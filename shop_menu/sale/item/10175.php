@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="車がもっとキビキビ動く。走ることがこれまで以上に楽しくなる。<br>Super Formula・SUPER GTなどの1/100秒を競うレースに求められる精度は、1/100mm。そのノウハウ・高精度な技術を用いて、より乗り心地の良いスムーズなアシへ。それが「FUNTORIDE スプリング」のコンセプト。スポーツカー・チューニンググレードに向け、最適な「車高」「ストローク量」、そして「バネレート」を設計することで、さらにスポーツカーらしいハンドリングや安定感のあるコーナーリング特性に引き上げます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

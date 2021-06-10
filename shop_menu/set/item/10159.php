@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="純正相当の乗り心地を追求。フロントにプライマリースプリングを採用。乗り心地に特化した商品。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

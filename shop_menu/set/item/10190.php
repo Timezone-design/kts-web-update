@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="MADE IN JAPANの高品質!横浜自社工場で仕上げたプライス以上の価値を持つ全長調整式車高調。FLEX Zには複筒式をチョイス。長いストロークと低反発、低フリクションが特徴の複筒式。スムース動作で快適でしなやかな乗り心地を実現します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

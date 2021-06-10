@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="初期制動を重視したヨーロッパフィーリングを継承したモデル。<br>ストリートでの使用を重視し摩擦係数を高めに設定することにより初期の効きを高めています。<br>レッドシムパッドに比べ摩擦係数が高い為、ダスト量は少し多めですが水洗いで流せるレベルとなっています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

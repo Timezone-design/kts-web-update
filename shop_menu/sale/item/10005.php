@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="TYPE-SS[スーパースポーツコンセプト]は走りの可能性を拡げるサブタンク仕様です。TYPE-Sをベースに減衰力の伸び側/縮み側を個別に調整可能な2WAYサブタンクを搭載。あらゆるフィールドでよりキメの細かいセッティングを実現。用途、減衰力、スプリング等、完全フルオーダーに対応します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

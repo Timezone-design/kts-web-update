@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ハンドリング性と快適性を重視した、コンフォートタイプのショックアブソーバーです。快適性を重視しながらも路面追従性が高く、安定感のある乗りあじが特徴。突き上げ感や硬さが気になる方にはおすすめです。純正交換（リプレイスメント）用としても定評があります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="多彩な機能を備えた、進化系ローダウンブロック!“ハイトダウンブロックキット”は、ハイエースをローダウンするうえで必要となるダウンブロックとUボルトのキットです。ブロック本体を多機能化することにより、従来製品では補えなかった欠点を完全に克服しました。​">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

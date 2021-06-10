@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ウルトラレーシングのリアメンバーブレースはボディとリアメンバーを補強し、剛性を上げることでリア全体の一体感ができ、コーナリングなどにおいてボディの捻じれを抑制し走行性能を安定させます。リアサスペンションの余計なバタつきを抑制し、安定したストロークに近づくことが出来ます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

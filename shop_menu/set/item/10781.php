@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="AutoExeが考えるストリートベストな乗り味を追求した車高調整式キット。<br>マツダ(株)在籍中にサスペンションの権威として数々のスポーツカーの開発に携わった貴島孝雄氏が提唱する「動的感性工学」に基づき誕生したモデル。ダンパーとスプリングを自在に組み合わせる一体設計のアドバンテージを存分に活かし、単に絶対性能や限界の高さではない、乗り味の奥深さを具現化している。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="電子制御サスペンション装着車両の純正ショックアブソーバーを取り外した際に起きるエラー表示消去用のキャンセラーキットです。車両側の純正コネクターにカプラオン接続できます。正確な作動と高い耐久性を誇ります。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

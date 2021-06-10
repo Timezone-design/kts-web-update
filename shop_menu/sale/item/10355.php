@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="通常FF車は、ブレーキング時にリヤが浮き上がり、十分な荷重が得られず、リヤに効きの高いパッドを装着するとロックしてしまう傾向があります。そこでRNタイプは初期ミューと全体ミューをバランスフルに整えることを最大のテーマにすえて開発に着手。その結果、初期ミューはしっかりと立ち上がらせながら、かつ全体ミューを低く抑えた特性のコンペティションパッドが誕生しました。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

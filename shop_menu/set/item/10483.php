@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="スーパーレスポンス。さらに制動距離の短縮によるサーキットでのラップタイムアップを可能にするアイテムです。<br>軽量クロモリフライホイール+強化クラッチカバー&クラッチディスクのセット品ならバランス加工済。<br>レスポンスと操作性を高次元でバランスしています。<br>フライホイールのみの交換も可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

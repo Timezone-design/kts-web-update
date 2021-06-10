@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="重量車、ハイパワー車の高温、高負荷時の走行でも変わらないハイミュー安定性<br>ペダル踏力に呼応するかのように立ち上がるリニアな効き<br>抜群に高い初期制動を誇りながらも、非常にコントローラブル！<br>周回数を重ねても変化しない剛性感のあるペダルタッチ<br>Ｓタイヤをはじめとし、スリックタイヤ、ハイグリップラジアルが対象<br>VWシロッコカップチャイナシリーズの公式指定パッドに選定！">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="高μ・低摩耗・高耐熱メタル材の採用により、小口径化（ø200）と高伝達容量・超寿命という相反する要素を両立。また専用設計の小型ダンパーディスクを採用し、耐久性も向上。さらにメタルパッドの形状・厚さの最適化を図り標準品以下の低イナーシャを実現。シフトフィーリングとシンクロのダメージを改善。CADソリッドモデルによるシミュレーションで、軽量化と低回転特性を両立した理想のデザインを実現しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="高品質アルミダイカスト製ボディを採用。高精度CNC加工でクリアランスの適正化を行いレスポンスよくスムーズなピストン動作を実現。ピストンにはデフリックコーティングを施し、耐腐食性の向上はもちろん、厳しいクリアランスでも抜群の潤滑性能を発揮。腐食に強いブラック特殊コーティングとレッドアルマイトを採用。エンジンルームのドレスアップにも最適。取付部のフランジ形状、ファンネルの大きさなどを従来品と同等とすることで従来モデルからの付け替えも可能。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

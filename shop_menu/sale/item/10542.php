@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="車高変化によるリアのトー角を矯正<br>リアタイヤの走行抵抗を改善し変摩耗を防止。<br>トー角調整によるアンダー、オーバーの特性変更が加工。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

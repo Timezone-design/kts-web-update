@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ミニバン/SUV、大口径ホイール装着車輌など、重量のある車輌向けに開発<br>踏力に応じてμが高まるビルドアップ型の効きと重厚感のあるペダルタッチ<br>高い制動力ながらも非常に低いローター攻撃性<br>ノーマルキャリパーのままインチアップを楽しむドレスアップユーザーにはマストなアイテム">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ただ低いだけではない。安定した走りをも実現する熟成のスーパーローダウンモデル。究極までスタイルを追求したこのモデルは、「人と同じではつまらないしライバルにも差を付けたい」といった、カスタム上級者やドレスアップコンテストで上位を狙うような方をターゲットとして開発を行いました。もちろんただ低いだけのサスペンションキットではなく、HIPERMAXシリーズ伝統の安定した走りを実現します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="KONI Special ACTIVEは、妥協のない優れたハンドリングを提供する次世代のショックアブソーバです。 KONIの特許技術であるFrequency Selective Damping（FSD）技術を用いたツインチューブ構造は、充分なストロークと伸び側に重点を置いた独自の設計で、コーナーでのロールを最小限に抑え、高速での安定したハンドリングを実現。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

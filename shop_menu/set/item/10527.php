@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="JAF N1規定対応のレーシングクラッチ!<br>ワンメイクレースやジムカーナ、ダートトライアルなどのJAF N1車両規定に適合。レギュレーションによりフライホイールの交換が許されない中で真価を発揮します。3分割のメタル摩擦材を採用することでクラッチディスクのイナーシャを低減し、レーシング感覚あふれるシフトフィーリングを実現（対純正ディスク比78％）。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

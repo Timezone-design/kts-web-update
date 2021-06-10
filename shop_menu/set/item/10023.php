@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="純正アッパーマウントを使用することで、リーズナブルかつ静音性の高いローダウンを実現しました。新設定のリヤ減衰力14段調整を標準装備。いつも最適な乗り心地にアジャスト可能です。ラインナップする車種ごとに専用設計しているので、十分なバンプストロークを確保。 また1人乗車からフル乗車まで徹底的にテストし、ミニバンならサードシートまで快適なセッティングを施しました。車種ごとの特性にマッチするトータルバランスに徹底的にこだわったセッティングで、快適でスタイリッシュなローダウンを約束します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

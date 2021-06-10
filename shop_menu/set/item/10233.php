@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="”走ることが楽しくなる”スーパーストリートスポーツモデル<br>街乗りではゴツゴツ感・フワフワ感を抑え、スポーツ走行時には、優れたステアリングレスポンスを発揮。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

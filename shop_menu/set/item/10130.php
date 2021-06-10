@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="保安基準上、構造変更を必要としない～40mmを最大上げ幅に設定した『リフトアップブロックキット』です。車種により若干構造や付属品は違いますが基本はフロントストラットソーサー、キャンバー補正ボルト、リアスプリングソーサー、リアショック延長アダプターの4点で車高を上げますので取り付けが簡単で、純正ショック＆スプリングのストロークを活かし乗り心地変化が少ないのが特徴です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

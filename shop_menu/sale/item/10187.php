@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="高品質をよりお求めやすく。車高調のベーシックモデル。新たな生産方式による「シールド構造」を採用し、高品質とコスト低減を両立。STREET ADVANCE Zでは16段の減衰調整式を採用。より細かなセッティングが可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

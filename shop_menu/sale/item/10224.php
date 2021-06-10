@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ハイパワー化やボディー剛性の向上、高性能タイヤ装着、そしてサスペンションのチューニングと総合性能の進化が続くスペシャリティーカー。そんな新世代のクルマのためだけに開発されたプレミアムブランド「Extage」。ショックアブソーバだけの交換でも使用できますが、同時開発のExtageスプリングをセットで販売。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="幅広い用途にも対応するスタンダードタイプのディスクローター<br>全品防錆コーティングを行っている、ロングセラー商品です。平行度、厚み偏差などの精度を高レベルで設定し、鳴きや振動の抑制に成功。FC材にカーボン、シリコンなどの各種添加剤を絶妙に配合し、強度、耐熱性、耐クラック性を向上しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

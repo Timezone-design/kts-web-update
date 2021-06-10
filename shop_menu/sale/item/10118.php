@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="走行性能や乗り心地はそのままに、ベストなローダウンスタイルを実現。もちろん最低地上高等の放棄もすべてクリア。安心して使用いただけます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

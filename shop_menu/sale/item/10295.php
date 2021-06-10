@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="フローティングディスクは、特殊鋳鉄のブレーキ面とアルミ合金のハブで構成されており、この2つをフローティングピンで繋いでいます。このタイプの手法は、ディスク面が変形することなく拡熱膨張することができ、重量の大幅な削減にもなるため、パフォーマンスに重点をおく車両には非常に重要なポイントです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

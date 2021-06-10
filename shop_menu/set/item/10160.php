@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ドレスアップに求められる低車高ての走行を想定し、常にベストなストロークを確保できる設定。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

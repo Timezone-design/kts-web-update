@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="ノーマルフィーリングをリアルに再現。ほどよくナチュラルなダウン量です。<br>ローダウン=硬いという方程式を見事に覆し、乗り心地を損なうことなくスタイリッシュなローダウンを可能にした柔軟設計、それがサステックNF210。30〜40mmものローダウンを実現しているにもかかわらず、バネレートは10%未満（ノーマル比）という数値は純正とほぼ同等の乗り心地を再現してくれます。快適でスムーズなドライブフィーリングを大切にしたい方にお奨めのサスペンションです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />

@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta name="description" content="過激に落ちる低王車高調シリーズに、市販最高レベルのバネレートが新登場！<br>低車高でも当たりにくく、ドレスアップカーのスタイルにぴったり。<br>極限のツライチ、ツラウチ、あなただけの最高のスタイルを！<br>更に、ほんの少し見えるピンクのスプリングがドレスアップ効果を高めます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
