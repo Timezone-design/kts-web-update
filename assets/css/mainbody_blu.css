@@ -414,7 +414,16 @@ a.notype:link {
   overflow: hidden;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   margin: auto;
-  font-size: 1vw;
+  font-size: 15px;
+}
+
+.damper_car_order {
+  background-color: black;
+  text-align: right;
+}
+
+.damper_car_order img {
+  width: auto;
 }
 
 .store-introduction .workcost-table th,
@@ -852,7 +861,8 @@ hr.set_c_top_hr {
 .sm_text_cell_1,
 .al_text_cell_1,
 .al_text_cell_20,
-.al_text_tb_cell_1 {
+.al_text_tb_cell_1,
+.symbol_info1_50 {
   float: left;
 }
 
@@ -982,7 +992,8 @@ hr.set_c_top_hr {
 }
 
 .font_f00,
-.al_text_tb_f00 {
+.al_text_tb_f00,
+.pr_sp_text_f00 {
   color: crimson;
 }
 
@@ -1001,8 +1012,27 @@ hr.set_c_top_hr {
   color: deepskyblue;
 }
 
-.bq_lineup {
+.pr_car_title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.pr_title_w {
+  font-weight: bold;
+  color: deepskyblue;
+}
+
+.damper_car_center_text {
+  text-align: center;
+}
+
+/*.bq_lineup {
   display: none;
+}*/
+
+table.bq_lineup>tbody>tr>td,
+.bq_lineup {
+  border: 0px !important;
 }
 
 .bq_lineup div {
@@ -1101,6 +1131,7 @@ hr.set_c_top_hr {
   display: flex;
   width: 30%;
   align-items: center;
+  flex-direction: column;
 }
 
 .pr_info .pr_text {
@@ -1251,13 +1282,45 @@ hr.set_c_top_hr {
   justify-content: space-evenly;
 }
 
-.houjin_cell_pdf {
+.houjin_cell_pdf,
+.pr_bd_text_c_l_15,
+.pr_bd_info_cell1,
+.pr_bd_info_cell2,
+.pr_bd_text_c_l_80r,
+.damper_info1 {
   float: left;
+}
+
+.pr_bd_text_c_l_15 {
+  margin-left: 10px;
 }
 
 .houjin_cell_text {
   float: left;
   margin-left: 20px;
+}
+
+.damper_box0 {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.damper_box1 {
+  width: 100%;
+}
+
+.damper_box2 {
+  width: 50%;
+  padding: 5px;
+}
+
+.damper_info {
+  display: flex;
+}
+
+.damper_info_photo {
+  width: 150%;
 }
 
 .set_sale_back>table,
@@ -1424,8 +1487,13 @@ hr.set_c_top_hr {
   background-color: mediumvioletred;
 }
 
-.holiday_main .holiday_300_l_00f {
+.holiday_main .holiday_300_l_00f,
+.font_00f {
   background-color: cornflowerblue;
+}
+
+.font_0f0 {
+  color: lightgreen;
 }
 
 .holiday_main .holiday_300_l_0f0 {
@@ -1666,7 +1734,8 @@ hr.hr_form_600 {
 .camp_text_cell_1,
 .faq_text_a_cell_1,
 .faq_cell_1,
-.pr_r_text1 {
+.pr_r_text1,
+.damper_car_cell1 {
   float: left;
 }
 
@@ -2051,7 +2120,10 @@ hr {
   padding: 5px;
 }
 
-
+.pr_table_cell_33 {
+  width: 32%;
+  display: inline-block;
+}
 
 
 
@@ -2722,6 +2794,19 @@ hr {
     padding: 5px;
   }
 
+  .pr_table_cell_33 {
+    width: 100%;
+    display: inline-block;
+  }
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2758,7 +2843,9 @@ hr {
   .sp_none,
   .tenpo_mail_online_730,
   .tenpo_pc_none,
-  .pr_title {
+  .pr_title,
+  .pr_sp_none,
+  .bq_lineup_maker {
     display: none;
   }
 
@@ -2808,7 +2895,9 @@ hr {
   .tenpo_mail_online_480,
   .tenpo_hr_sp,
   .tenpo_access_title_sp,
-  .tenpo_sp_none {
+  .tenpo_sp_none,
+  .pr_sp_text_f00,
+  .bq_lineup_maker_sp {
     display: none;
   }
 
