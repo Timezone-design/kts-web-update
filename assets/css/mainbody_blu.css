@@ -1090,7 +1090,7 @@ hr.set_c_top_hr {
 
 .pr_info_title_730 {
   font-weight: bold;
-  font-size: 1.5vw;
+  font-size: 18px;
 }
 
 .pr_info {
@@ -1098,14 +1098,18 @@ hr.set_c_top_hr {
 }
 
 .pr_info .pr_photo {
+  display: flex;
   width: 30%;
+  align-items: center;
 }
 
 .pr_info .pr_text {
+  width: 100%;
   margin-left: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  justify-content: space-evenly;
 }
 
 .pr_r_text_ff0 {
@@ -1563,7 +1567,7 @@ hr.set_c_top_hr {
 }
 
 .font_ff0 {
-  color: orangered;
+  color: orange;
 }
 
 .com_title,
@@ -1661,7 +1665,8 @@ hr.hr_form_600 {
 .symbol_info1,
 .camp_text_cell_1,
 .faq_text_a_cell_1,
-.faq_cell_1 {
+.faq_cell_1,
+.pr_r_text1 {
   float: left;
 }
 
@@ -1993,16 +1998,58 @@ hr.hr_form {
   font-size: 20px;
 }
 
+.pr_rbs_fd3s {
+  display: flex;
+  flex-direction: row;
+}
 
+.pr_rbs_fd3s_c1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
 
+.pr_rbs_fd3s_c2 {
+  margin-left: 20px;
+}
 
+.pr_rbs_fd3s_250_text {
+  color: orange;
+}
 
+table.pr_app_box_100p {
+  margin: 0;
+}
 
+.pr_r_text_f00 {
+  color: crimson;
+}
 
+.pr_info_title {
+  font-weight: bold;
+}
 
+.pr_right_link img {
+  width: auto;
+}
 
+.pr_right_link {
+  text-align: right;
+}
 
+hr {
+  border: 0;
+}
 
+.pr_app3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pr_app3_cell {
+  width: 100%;
+  padding: 5px;
+}
 
 
 
@@ -2624,10 +2671,56 @@ hr.hr_form {
     margin-left: 10px;
   }
 
+  .pr_info .pr_photo {
+    width: 100%;
+  }
 
+  .pr_info {
+    flex-direction: column;
+  }
 
+  .pr_info .pr_text {
+    margin-left: 0px;
+  }
 
+  .pr_rbs_fd3s {
+    display: flex;
+    flex-direction: column;
+  }
 
+  .pr_rbs_fd3s_c1 {
+    width: 80%;
+    margin: auto;
+  }
+
+  .pr_rbs_fd3s_c2 {
+    margin-left: 0px;
+  }
+
+  .pr_table .container .tab-content .tab-pane div {
+    width: 100%;
+  }
+
+  .pr_title_sp {
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .pr_table .container .nav li {
+    width: 20%;
+    padding: 1px;
+  }
+
+  .pr_app3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .pr_app3_cell {
+    width: 100%;
+    padding: 5px;
+  }
 
 
 
@@ -2664,7 +2757,8 @@ hr.hr_form {
   .al_price_pc,
   .sp_none,
   .tenpo_mail_online_730,
-  .tenpo_pc_none {
+  .tenpo_pc_none,
+  .pr_title {
     display: none;
   }
 
@@ -2717,7 +2811,6 @@ hr.hr_form {
   .tenpo_sp_none {
     display: none;
   }
-
 
 
 

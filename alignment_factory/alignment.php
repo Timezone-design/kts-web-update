@@ -128,7 +128,7 @@
 
 					<header class="site-header">
 						<nav class="navbar navbar-expand-lg navbar-dark">
-							<a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.webp"
+							<a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.png"
 									alt="Company Logo" srcset=""></a>
 							<button class="navbar-toggler" type="button" data-toggle="collapse"
 								data-target="#navbarText" aria-controls="navbarText" aria-expanded="false"
@@ -192,13 +192,13 @@
 							<div class="slick-wrapper">
 								<div class="slick">
 									<div><a href="/product/index.html"><img
-												src="/assets/img/home/hks_202103_05_camp_480.webp"></a></div>
+												src="/assets/img/home/hks_202103_05_camp_480.png"></a></div>
 									<div><a href="/shop_menu/set/ch_ma/liqui_moly_dpf.html"><img
-												src="/assets/img/home/liqui_moly_dpf_480.webp"></a></div>
+												src="/assets/img/home/liqui_moly_dpf_480.png"></a></div>
 									<div><a href="/shop_menu/set/ch_ma/10674.html"><img
-												src="/assets/img/home/mahle_ozone_pro_480.webp"></a></div>
+												src="/assets/img/home/mahle_ozone_pro_480.png"></a></div>
 									<div><a href="/tire_wheel/tire/index.html"><img
-												src="/assets/img/home/tire_wheel_480.webp"></a></div>
+												src="/assets/img/home/tire_wheel_480.png"></a></div>
 								</div>
 							</div>
 						</div>
@@ -675,7 +675,7 @@
 						<div class="footer-places row">
 							<div class="footer-showbox row col-md-4 col-sm-12">
 								<div class="footer-showbox-img col-xs-5">
-									<img src="/assets/img/factory.webp" alt="factory" srcset="">
+									<img src="/assets/img/factory.png" alt="factory" srcset="">
 								</div>
 								<div class="col-xs-7">
 								<div class="footer-showbox-title">
@@ -710,7 +710,7 @@
 							</div>
 							<div class="footer-showbox row col-md-4 col-sm-12">
 								<div class="footer-showbox-img col-xs-5">
-									<img src="/assets/img/heiwajima.webp" alt="factory" srcset="">
+									<img src="/assets/img/heiwajima.png" alt="factory" srcset="">
 								</div>
 								<div class="col-xs-7">
 								<div class="footer-showbox-title">
@@ -746,7 +746,7 @@
 							</div>
 							<div class="footer-showbox row col-md-4 col-sm-12">
 								<div class="footer-showbox-img col-xs-5">
-									<img src="/assets/img/ichinoe.webp" alt="factory" srcset="">
+									<img src="/assets/img/ichinoe.png" alt="factory" srcset="">
 								</div>
 								<div class="col-xs-7">
 								<div class="footer-showbox-title">
@@ -785,7 +785,7 @@
 							<div class="col-md-4 col-sm-4 col-xs-4">
 								<div class="col-md-6 col-sm-1 col-xs-1"></div>
 								<div id="footer-logo-wrap" class="col-md-6 col-sm-11 col-xs-11">
-									<img id="footer-logo" class="logo" src="/assets/img/opg.webp" alt="Company Logo"
+									<img id="footer-logo" class="logo" src="/assets/img/opg.png" alt="Company Logo"
 										srcset="">
 								</div>
 							</div>

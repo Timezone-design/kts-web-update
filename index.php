@@ -31,7 +31,7 @@
 
           <header class="site-header">
             <nav class="navbar navbar-expand-lg navbar-dark">
-              <a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.webp" alt="Company Logo"
+              <a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.png" alt="Company Logo"
                   srcset=""></a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
                 aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -87,12 +87,12 @@
             <div id="top-carousel">
               <div class="header-banner-wrapper">
                 <div class="row">
-                  <div class="col-md-3 col-sm-3 col-xs-3"><a href="/product/index.html"><span>詳しく見る</span><img src="/assets/img/home/hks_202103_05_camp_480.webp"></a></div>
+                  <div class="col-md-3 col-sm-3 col-xs-3"><a href="/product/index.html"><span>詳しく見る</span><img src="/assets/img/home/hks_202103_05_camp_480.png"></a></div>
                   <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/liqui_moly_dpf.html"><span>詳しく見る</span><img
-                        src="/assets/img/home/liqui_moly_dpf_480.webp"></a></div>
+                        src="/assets/img/home/liqui_moly_dpf_480.png"></a></div>
                   <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/10674.html"><span>詳しく見る</span><img
-                        src="/assets/img/home/mahle_ozone_pro_480.webp"></a></div>
-                  <div class="col-md-3 col-sm-3 col-xs-3"><a href="/tire_wheel/tire/index.html"><span>詳しく見る</span><img src="/assets/img/home/tire_wheel_480.webp"></a></div>
+                        src="/assets/img/home/mahle_ozone_pro_480.png"></a></div>
+                  <div class="col-md-3 col-sm-3 col-xs-3"><a href="/tire_wheel/tire/index.html"><span>詳しく見る</span><img src="/assets/img/home/tire_wheel_480.png"></a></div>
                 </div>
               </div>
             </div>
@@ -108,29 +108,29 @@
           <br>
           <div class="four-of-a-kind row">
             <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6"
-              style="background-image: url('/assets/img/four-of-a-kind/1.webp');">
-              <img src="/assets/img/four-of-a-kind/1.webp" alt="" srcset=""
+              style="background-image: url('/assets/img/four-of-a-kind/1.png');">
+              <img src="/assets/img/four-of-a-kind/1.png" alt="" srcset=""
                 style="visibility: hidden; max-width: 100%; max-height: 100%;">
               <a class="arrowed-link white" href="/shop_menu/set/index.html"><span class="title ja">ショップメニュー</span><span
                   class="ja">詳しく見る</span><img src="/assets/img/white_arrow.svg" alt="Menu Link"></a>
             </div>
             <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6"
-              style="background-image: url('/assets/img/four-of-a-kind/2.webp');">
-              <img src="/assets/img/four-of-a-kind/2.webp" alt="" srcset=""
+              style="background-image: url('/assets/img/four-of-a-kind/2.png');">
+              <img src="/assets/img/four-of-a-kind/2.png" alt="" srcset=""
                 style="visibility: hidden; max-width: 100%; max-height: 100%;">
               <a class="arrowed-link white" href="/product/index.html"><span class="title ja">オリジナル商品</span><span
                   class="ja">詳しく見る</span><img src="/assets/img/white_arrow.svg" alt="Menu Link"></a>
             </div>
             <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6"
-              style="background-image: url('/assets/img/four-of-a-kind/3.webp');">
-              <img src="/assets/img/four-of-a-kind/3.webp" alt="" srcset=""
+              style="background-image: url('/assets/img/four-of-a-kind/3.png');">
+              <img src="/assets/img/four-of-a-kind/3.png" alt="" srcset=""
                 style="visibility: hidden; max-width: 100%; max-height: 100%;">
               <a class="arrowed-link white" href="/tire_wheel/index.html"><span class="title ja">タイヤ・ホイール</span><span
                   class="ja">詳しく見る</span><img src="/assets/img/white_arrow.svg" alt="Menu Link"></a>
             </div>
             <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6"
-              style="background-image: url('/assets/img/four-of-a-kind/4.webp');">
-              <img src="/assets/img/four-of-a-kind/4.webp" alt="" srcset=""
+              style="background-image: url('/assets/img/four-of-a-kind/4.png');">
+              <img src="/assets/img/four-of-a-kind/4.png" alt="" srcset=""
                 style="visibility: hidden; max-width: 100%; max-height: 100%;">
               <a class="arrowed-link white" href="/wholesale/index.html"><span class="title ja">業販</span><span
                   class="ja">詳しく見る</span><img src="/assets/img/white_arrow.svg" alt="Menu Link"></a>
@@ -179,9 +179,15 @@
           ?>
           <div class="search-block grey-wrapper" id="search-block">
             <div class="clearfix"></div>
+            <div class="clearfix"></div>
+            <div class="clearfix"></div>
             <h1 class="search">SEARCH</h1>
             <div class="clearfix"></div>
+            <div class="clearfix"></div>
+            <div class="clearfix"></div>
             <h2 class="ja">車種別に商品の適合を検索できます。</h2>
+            <div class="clearfix"></div>
+            <div class="clearfix"></div>
             <div class="clearfix"></div>
             <form action="/<?=$uri?>" method="post" class="row ja">
               <div class="search-select col-md-4 col-sm-4">
@@ -212,6 +218,8 @@
                 </select>
               </div>
               <br>
+              <div class="clearfix"></div>
+              <div class="clearfix"></div>
               <div class="clearfix"></div>
               <button type="submit" class="btn-search">検索</button>
             </form>
@@ -313,7 +321,7 @@
             <div class="footer-places row">
               <div class="footer-showbox row col-md-4 col-sm-12">
                 <div class="footer-showbox-img">
-                  <img src="/assets/img/factory.webp" alt="factory" srcset="">
+                  <img src="/assets/img/factory.png" alt="factory" srcset="">
                 </div>
                 <div class="footer-factory-info">
                   <div class="footer-showbox-title">
@@ -348,7 +356,7 @@
               </div>
               <div class="footer-showbox row col-md-4 col-sm-12">
                 <div class="footer-showbox-img">
-                  <img src="/assets/img/heiwajima.webp" alt="factory" srcset="">
+                  <img src="/assets/img/heiwajima.png" alt="factory" srcset="">
                 </div>
                 <div class="footer-factory-info">
                   <div class="footer-showbox-title">
@@ -383,7 +391,7 @@
               </div>
               <div class="footer-showbox row col-md-4 col-sm-12">
                 <div class="footer-showbox-img">
-                  <img src="/assets/img/ichinoe.webp" alt="factory" srcset="">
+                  <img src="/assets/img/ichinoe.png" alt="factory" srcset="">
                 </div>
                 <div class="footer-factory-info">
                   <div class="footer-showbox-title">
@@ -421,7 +429,7 @@
               <div class="col-md-4 col-sm-4 col-xs-4">
                 <div class="col-md-6 col-sm-1 col-xs-1"></div>
                 <div id="footer-logo-wrap" class="col-md-6 col-sm-11 col-xs-11">
-                  <img id="footer-logo" class="logo" src="/assets/img/opg.webp" alt="Company Logo" srcset="">
+                  <img id="footer-logo" class="logo" src="/assets/img/opg.png" alt="Company Logo" srcset="">
                 </div>
               </div>
               <div class="footer-text col-md-8 col-sm-8 col-xs-8">

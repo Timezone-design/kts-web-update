@@ -58,3 +58,13 @@ $('#header-link').click(function() {
     var active_link = $('.slick-slide.slick-center a').attr("href");
     window.location = active_link;
 });
+
+$( document ).ready(function(){
+  console.log("running");
+  var element = $('table.pr_app_box_100p');
+  if (element.length > 0 && element.parent().hasClass('pr_info')) {
+  console.log("picked");
+
+    element.parent().css({"flex-direction": "column"});
+  }
+});

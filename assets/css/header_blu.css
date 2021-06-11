@@ -118,7 +118,7 @@ header .clearfix {
 .arrowed-link img {
     transform: translate(3px, -4px);
     /* zoom: 48%; */
-    width: 30%;
+    width: 20%;
 }
 
 .arrowed-link.black {
