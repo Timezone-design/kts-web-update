@@ -973,6 +973,10 @@ hr.set_c_top_hr {
   font-size: 15px;
 }
 
+.main_c>.bq_lineup {
+  width: 67%;
+}
+
 .bq_lineup_title a,
 .lineup_close a {
   text-decoration: none;
@@ -1013,13 +1017,35 @@ hr.set_c_top_hr {
 }
 
 .pr_car_title {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
+}
+
+.pr_se3p_right {
+  display: flex;
 }
 
 .pr_title_w {
   font-weight: bold;
   color: deepskyblue;
+}
+
+.pr_photo_se3p_1 {
+  width: 50%;
+}
+
+.pr_photo_se3p_1+.pr_text {
+  display: flex !important;
+  width: 50% !important;
+}
+
+.pr_photo_se3p_2 {
+  width: 60%;
+}
+
+.pr_photo_se3p_2+.pr_text {
+  display: flex !important;
+  width: 40% !important;
 }
 
 .damper_car_center_text {
@@ -1224,7 +1250,7 @@ table.bq_lineup>tbody>tr>td,
 .set_menu_n .item_info_text_middle_b,
 .set_menu_n .set_menu_n_cell,
 .set_menu_n .item_caution {
-  font-size: 1.2vw;
+  font-size: 14px;
 }
 
 .search_category .change_button img {
@@ -2125,6 +2151,89 @@ hr {
   display: inline-block;
 }
 
+.pr_title_pc img {
+  width: auto;
+}
+
+.pr_title_pc>div[class*="pr_title"] {
+  background-color: black;
+}
+
+.pr_font_b_0ff {
+  font-weight: bold;
+  color: deepskyblue;
+}
+
+.damper_info .pr_info_250 {
+  width: auto;
+}
+
+.damper_info .damper_info3 {
+  margin-left: 10px;
+}
+
+.damper_info .pr_photo_info .pr_info_normal {
+  width: 300px;
+}
+
+.pr_beta_set_link {
+  text-align: right;
+  font-weight: bold;
+  color: orange;
+}
+
+.bq_table {
+  display: flex;
+}
+
+div.pr_beta_set_115 {
+  width: 30%;
+}
+
+.bq_td {
+  width: 70%;
+  padding-left: 10px;
+}
+
+.set_c_title img {
+  width: auto;
+}
+
+.set_maker_hp {
+    text-align: right;
+    font-weight: bold;
+}
+
+.set_maker_hp a {
+  text-decoration: underline;
+  color: black;
+}
+
+.set_menu_n {
+  display: flex;
+}
+
+.set_menu_n .set_menu_n_330 {
+  width: 40%;
+}
+
+.set_menu_n .set_menu_n_330+.set_menu_n_cell {
+  width: 60%;
+  padding-left: 10px;
+}
+
+.set_maker_table {
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2799,17 +2908,106 @@ hr {
     display: inline-block;
   }
 
+  .main_c>.bq_lineup {
+    width: 100%;
+  }
 
+  .damper_info_link {
+    float: right;
+    font-weight: bold;
+    color: orange;
+  }
 
+  div.pr_beta_set_115 {
+    width: 100%;
+  }
 
+  .bq_td {
+    width: 100%;
+    padding-left: 10px;
+  }
 
+  .bq_table {
+    flex-direction: column;
+  }
 
+  .damper_car_order img {
+    width: 100%;
+  }
 
+  .damper_info {
+    flex-direction: column;
+  }
 
+  .damper_info .pr_photo_info {
+    text-align: center;
+  }
 
+  .pr_photo_se3p_1 {
+    width: 100%;
+  }
 
+  .pr_photo_se3p_1+.pr_text {
+    display: flex !important;
+    width: 100% !important;
+  }
 
+  .pr_photo_se3p_2 {
+    width: 100%;
+  }
 
+  .pr_photo_se3p_2+.pr_text {
+    display: flex !important;
+    width: 100% !important;
+  }
+
+  .pr_se3p_right_200 {
+    width: 70%;
+    margin: auto;
+  }
+
+  .set_c_title_sp a {
+    font-size: 23px;
+    color: orange;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .set_c_title_sp {
+    text-align: right;
+  }
+
+  .set_c_title {
+    text-align: center;
+  }
+
+  .set_menu_n {
+      display: flex;
+      flex-direction: column;
+  }
+
+.set_menu_n .set_menu_n_330 {
+  width: 100%;
+}
+
+.set_menu_n .set_menu_n_330+.set_menu_n_cell {
+  width: 100%;
+  padding-left: 0px;
+}
+
+.set_maker_table_sp {
+  display: flex;
+}
+
+.set_maker_cell_sp {
+  width: 20%;
+  height: auto;
+}
+
+.set_form_button_sp {
+    width: 98%;
+    height: auto;
+}
 
 
 
@@ -2845,7 +3043,10 @@ hr {
   .tenpo_pc_none,
   .pr_title,
   .pr_sp_none,
-  .bq_lineup_maker {
+  .bq_lineup_maker,
+  .pr_price_title,
+  .set_menu_title,
+  .set_maker_table {
     display: none;
   }
 
@@ -2897,7 +3098,11 @@ hr {
   .tenpo_access_title_sp,
   .tenpo_sp_none,
   .pr_sp_text_f00,
-  .bq_lineup_maker_sp {
+  .bq_lineup_maker_sp,
+  .damper_info_link,
+  .pr_pc_none,
+  .set_c_title_sp,
+  .set_maker_table_sp {
     display: none;
   }
 
