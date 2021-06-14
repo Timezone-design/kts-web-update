@@ -28,7 +28,7 @@
             <!-- Header Start -->
             <header class="site-header">
               <nav class="navbar navbar-expand-lg navbar-dark">
-                <a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.webp" alt="Company Logo" srcset=""></a>
+                <a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.png" alt="Company Logo" srcset=""></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
@@ -82,10 +82,10 @@
               <div id="top-carousel">
                 <div class="header-banner-wrapper">
                   <div class="row">
-                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/product/index.html"><span>詳しく見る</span><img src="/assets/img/home/hks_202103_05_camp_480.webp"></a></div>
-                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/liqui_moly_dpf.html"><span>詳しく見る</span><img src="/assets/img/home/liqui_moly_dpf_480.webp"></a></div>
-                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/10674.html"><span>詳しく見る</span><img src="/assets/img/home/mahle_ozone_pro_480.webp"></a></div>
-                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/tire_wheel/tire/index.html"><span>詳しく見る</span><img src="/assets/img/home/tire_wheel_480.webp"></a></div>
+                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/product/index.html"><span>詳しく見る</span><img src="/assets/img/home/hks_202103_05_camp_480.png"></a></div>
+                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/liqui_moly_dpf.html"><span>詳しく見る</span><img src="/assets/img/home/liqui_moly_dpf_480.png"></a></div>
+                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/shop_menu/set/ch_ma/10674.html"><span>詳しく見る</span><img src="/assets/img/home/mahle_ozone_pro_480.png"></a></div>
+                    <div class="col-md-3 col-sm-3 col-xs-3"><a href="/tire_wheel/tire/index.html"><span>詳しく見る</span><img src="/assets/img/home/tire_wheel_480.png"></a></div>
                   </div>
                 </div>
               </div>
@@ -123,26 +123,7 @@
                   <div class="th_footer_730_text">※本ページ掲載の商品はKTS店舗での販売となります。</div>
                   <div class="th_footer_730_text">※掲載商品以外の取扱いもございます。詳しくは店頭、または下記連絡先までお気軽にお問い合わせ下さい。</div>
                   <hr class="th_hr" noshade="">
-                  <div class="footer_tenpo_table">
-                    <div class="footer_tenpo_cell_name"><a href="../../../shop_menu/tenpo/factory.html">KTS FACTORY</a>　
-                    </div>
-                    <div class="footer_tenpo_cell_tel">TEL： 048-285-8906</div>
-                    <div class="footer_tenpo_cell_tel">FAX： 048-285-8939</div>
-                  </div>
-                  <div class="footer_tenpo_table">
-                    <div class="footer_tenpo_cell_name"><a href="../../../shop_menu/tenpo/ichinoe.html">KTS一之江店</a>　</div>
-                    <div class="footer_tenpo_cell_tel">TEL： 03-3674-2006</div>
-                    <div class="footer_tenpo_cell_tel">FAX： 03-3674-2008</div>
-                  </div>
-                  <div class="footer_tenpo_table">
-                    <div class="footer_tenpo_cell_name"><a href="../../../shop_menu/tenpo/heiwajima.html">KTS平和島店</a>　
-                    </div>
-                    <div class="footer_tenpo_cell_tel">TEL： 03-5767-5832</div>
-                    <div class="footer_tenpo_cell_tel">FAX： 03-5767-5808</div>
-                  </div>
-                  <div class="footer_tenpo_sp"><a href="../../../shop_menu/tenpo/factory.html">KTS FACTORY<span class="small_right">（埼玉県川口市）</span></a></div>
-                  <div class="footer_tenpo_sp"><a href="../../../shop_menu/tenpo/ichinoe.html">KTS一之江店<span class="small_right">（東京都江戸川区）</span></a></div>
-                  <div class="footer_tenpo_sp"><a href="../../../shop_menu/tenpo/heiwajima.html">KTS平和島店<span class="small_right">（東京都大田区）</span></a></div>
+                  
                 </div>
                 <?php
 								$root_dir = __DIR__.'/../../..';
@@ -312,7 +293,7 @@
               <div class="footer-places row">
                 <div class="footer-showbox row col-md-4 col-sm-12">
                   <div class="footer-showbox-img">
-                    <img src="/assets/img/factory.webp" alt="factory" srcset="">
+                    <img src="/assets/img/factory.png" alt="factory" srcset="">
                   </div>
                   <div class="footer-factory-info">
                     <div class="footer-showbox-title">
@@ -346,7 +327,7 @@
                 </div>
                 <div class="footer-showbox row col-md-4 col-sm-12">
                   <div class="footer-showbox-img">
-                    <img src="/assets/img/heiwajima.webp" alt="factory" srcset="">
+                    <img src="/assets/img/heiwajima.png" alt="factory" srcset="">
                   </div>
                   <div class="footer-factory-info">
                     <div class="footer-showbox-title">
@@ -380,7 +361,7 @@
                 </div>
                 <div class="footer-showbox row col-md-4 col-sm-12">
                   <div class="footer-showbox-img">
-                    <img src="/assets/img/ichinoe.webp" alt="factory" srcset="">
+                    <img src="/assets/img/ichinoe.png" alt="factory" srcset="">
                   </div>
                   <div class="footer-factory-info">
                     <div class="footer-showbox-title">
@@ -417,7 +398,7 @@
                 <div class="col-md-4 col-sm-4 col-xs-4">
                   <div class="col-md-6 col-sm-1 col-xs-1"></div>
                   <div id="footer-logo-wrap" class="col-md-6 col-sm-11 col-xs-11">
-                    <img id="footer-logo" class="logo" src="/assets/img/opg.webp" alt="Company Logo" srcset="">
+                    <img id="footer-logo" class="logo" src="/assets/img/opg.png" alt="Company Logo" srcset="">
                   </div>
                 </div>
                 <div class="footer-text col-md-8 col-sm-8 col-xs-8">

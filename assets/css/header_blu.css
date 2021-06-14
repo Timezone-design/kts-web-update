@@ -280,10 +280,10 @@ header .clearfix {
 
   .arrowed-title:not(#header-carousel-name) img {
     height: 13px;
-    width: 200px;
+    width: 100%;
     position: absolute;
     top: 21px;
-    left: 0%;
+    left: 49%;
     object-fit: fill;
   }
 

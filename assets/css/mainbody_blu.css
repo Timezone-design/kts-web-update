@@ -851,6 +851,8 @@ hr.set_c_top_hr {
   margin: auto;
 }
 
+
+
 .al_text_table {
   display: flex;
 }
@@ -862,7 +864,9 @@ hr.set_c_top_hr {
 .al_text_cell_1,
 .al_text_cell_20,
 .al_text_tb_cell_1,
-.symbol_info1_50 {
+.symbol_info1_50,
+.set_menu_hw1,
+.koutin_table_cell_20 {
   float: left;
 }
 
@@ -1251,6 +1255,7 @@ table.bq_lineup>tbody>tr>td,
 .set_menu_n .set_menu_n_cell,
 .set_menu_n .item_caution {
   font-size: 14px;
+  width: 100%;
 }
 
 .search_category .change_button img {
@@ -1519,7 +1524,7 @@ table.bq_lineup>tbody>tr>td,
 }
 
 .font_0f0 {
-  color: lightgreen;
+  color: green;
 }
 
 .holiday_main .holiday_300_l_0f0 {
@@ -2276,6 +2281,199 @@ div.pr_beta_set_115 {
   min-width: 100px;
 }
 
+.set_2way {
+  display: flex;
+  flex-direction: row;
+}
+
+.set_bf_table {
+  display: flex;
+  flex-direction: row;
+}
+
+.set_bf_50 img {
+  width: auto;
+}
+
+.set_2way_cell {
+  width: 50%;
+}
+
+.set_bf_title {
+  color: white;
+  background-color: black;
+}
+
+.set_bf_cell {
+  padding: 10px;
+}
+
+.set_3way {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.set_menu_n_title_150 {
+  text-align: right;
+}
+
+.set_menu_n_title_150 a img {
+  width: auto;
+}
+
+.set_menu_n_title_cell {
+  font-size: 20px;
+  font-weight: bold;
+  color: deepskyblue;
+}
+
+.set_menu_n_225 {
+  min-width: 225px;
+}
+
+.set_menu_n_cell {
+  margin-left: 10px;
+}
+
+.set_menu_n_cell_0f0_b {
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.set_car_maker_link {
+  display: flex;
+}
+
+.set_car_maker_table {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.set_car_name {
+  font-weight: bold;
+}
+
+.set_table_title {
+  background-color: #383838;
+  border: solid 1px rgba(128, 128, 128, 0.8);
+  /*background-color: grey;*/
+  color: white;
+}
+
+.set_c_top_maker_4 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.set_c_top_maker_2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.set_c_top_maker_4 .set_c_top_maker_cell {
+  width: 50%;
+}
+
+.set_promu_table {
+  display: flex;
+  /*grid-template-columns: 1.5fr 1fr 1fr;*/
+  background-color: white;
+}
+
+.set_promu_info_text2 {
+  color: blueviolet;
+}
+
+.set_promu_info_title {
+  font-weight: bold;
+}
+
+.set_promu_1000off {
+  color: crimson;
+  font-weight: bold;
+}
+
+.set_menu_n_text .link_n {
+  text-decoration: underline;
+  color: white;
+}
+
+.set_promu_cell {
+  min-width: 250px;
+}
+
+.set_promu_cell_info {
+  min-width: 150px;
+}
+
+.special-table td {
+  color: white;
+}
+
+.special-table img {
+  width: auto;
+}
+
+.main_c .special-table table tr div,
+.main_c .special-table table tr div {
+  margin-bottom: 0px;
+}
+
+.main_c .special-table tr[bgcolor="#CCCCCC"] {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.main_c .special-table td[width="80"],
+.main_c .special-table td[width="95"],
+.main_c .special-table td[width="65"] {
+  width: 1%;
+  white-space: nowrap;
+}
+
+/*.set_table .font_f00_b {
+  letter-spacing: 0.6;
+}*/
+
+.set_menu_n_text .font_ff0 {
+  color: red;
+}
+
+.special-table > table > tbody > tr > td > table:nth-child(2) > tbody > tr:nth-child(1) > td,
+.special-table > table > tbody > tr > td > table:nth-child(2) > tbody > tr:nth-child(2) > td {
+  text-align: center;
+}
+
+.set_tire_a_table {
+  display: grid;
+    grid-template-columns: 1fr 0.1fr 1fr 0.1fr 1fr 0.1fr 1fr 0.1fr;
+}
+
+.set_menu_n_cell.col-md-8.col-sm-8.col-xs-12 {
+  margin: 0;
+}
+
+.set_order img {
+  width: auto;
+}
+
+.set_order {
+  text-align: center;
+}
+
+input.th_form_180 {
+    width: 100%;
+}
+
+.three-tiles-one .th_maker_top_list_cell2 a {
+  color: black;
+}
+
+.th_comm_bar_3px {
+    font-weight: bold;
+    color: deepskyblue;
+}
 
 
 
@@ -2304,6 +2502,20 @@ div.pr_beta_set_115 {
 
 
 @media only screen and (max-width: 767px) {
+  /*#content-wrapper>div>div.special-table {
+    width: 100%;
+    margin: auto;
+  }
+
+  .main_c.row>div {
+    width: 100%;
+    margin: auto;
+  }
+
+  .special-table {
+    width: 100%;
+  }*/
+
   .four-of-a-kind-one a.arrowed-link {
     padding-top: 46%;
   }
@@ -3070,6 +3282,67 @@ div.pr_beta_set_115 {
     height: auto;
   }
 
+  .set_3way {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  .set_2way {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .set_2way_cell {
+    width: 100%;
+  }
+
+  .set_menu_n_cell {
+    margin-left: 0px;
+  }
+
+  .set_car_maker_link_sp {
+    display: flex;
+  }
+
+  .set_c_top_maker_4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .set_promu_table {
+    flex-direction: column;
+  }
+
+  .set_c_top_maker_4 .set_c_top_maker_cell {
+    width: 100%;
+  }
+
+.set_tire_a_table {
+    display: block;
+}
+
+.set_tire_a_cell2_sp {
+  text-align: center;
+}
+
+.set_menu_n.row {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3107,7 +3380,10 @@ div.pr_beta_set_115 {
   .bq_lineup_maker,
   .pr_price_title,
   .set_menu_title,
-  .set_maker_table {
+  .set_maker_table,
+  .set_car_maker_link,
+  .neotune_none_sp,
+  .set_tire_a_cell2 {
     display: none;
   }
 
@@ -3163,7 +3439,10 @@ div.pr_beta_set_115 {
   .damper_info_link,
   .pr_pc_none,
   .set_c_title_sp,
-  .set_maker_table_sp {
+  .set_maker_table_sp,
+  .set_car_maker_link_sp,
+  .neotune_none_pc,
+  .set_tire_a_cell2_sp {
     display: none;
   }
 
