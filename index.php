@@ -154,26 +154,42 @@
           fclose($handle);
           
           if($car_manu != ''){
-            $file = $root_dir.'/db/item.gz';
-            $handle = gzopen($file, "rb");
-            
-            $products = json_decode(gzread($handle, 150000000));
-            
-            foreach ($products as $key => $product) {
-              if($product->car_manu == $car_manu){
-                if($product->car_model_cat != ''){
-                  $car_model_cats[$product->car_model_cat] = $product->car_model_cat;
-                  if($car_model_cat == $product->car_model_cat && $car_model_cat != ''){
-                    $product_names [$product->product_name]= $product->product_name;
-                    if($product_name != '' && $product_name == $product->product_name)
-                      $filtered_products []= $product;
-                  }	
-                }
+            $file = $root_dir.'/db/item.csv';
+            // $handle = fopen($file, "r");
+            $buffer=explode("\n",file_get_contents($file));
+            echo(count($buffer));
+            foreach($buffer as $row_buf){
+                $row = explode(",", $row_buf);
+                if(count($row) < 19) continue;
                 
-              }
+                $product = new stdClass();
+                $product->car_manu = $row[7];
+                
+                if($product->car_manu == $car_manu){
+                  $product->car_model_cat = $row[1];
+                  if($product->car_model_cat != ''){
+                    $car_model_cats[$product->car_model_cat] = $product->car_model_cat;
+                    if($car_model_cat == $product->car_model_cat && $car_model_cat != ''){
+                      $product->manufacturer_name = $row[3];
+                      $product->product_name = $row[4];
+                      $product->price = $row[18];
+                      $product->car_type = $row[8];
+                      $product->model = $row[9];
+                      $product->model_year = $row[10];
+                      $product->driving = $row[11];
+                      $product->compliance_details = $row[12];
+                      $product->specification = $row[13];
+                      $product->manu_part_number = $row[5];
+                      $product_names [$product->product_name]= $product->product_name;
+                      if($product_name != '' && $product_name == $product->product_name)
+                        $filtered_products []= $product;
+                    }	
+                  }
+                  
+                }
             }
           
-            gzclose($handle);
+            // fclose($handle);
           }
           
           ?>
