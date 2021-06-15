@@ -1381,27 +1381,46 @@ table.bq_lineup>tbody>tr>td,
 }
 
 .tire-wheel>div {
-  width: 75%;
+  width: 67%;
   margin: auto;
 }
 
-.tire-wheel .slideshow img {
+.slideshow img {
   width: auto;
   height: auto;
 }
 
-.tire-wheel .slideshow ul img {
+.slideshow ul img {
   width: 50px;
   height: 50px;
 }
 
-.tire-wheel .slideshow li {
+.slideshow li {
   padding: 10px;
 }
 
-.tire-wheel .slideshow .tab-content img {
+.slideshow .tab-content img {
   width: 100%;
   height: auto;
+}
+
+.slideshow .tab-content p {
+  text-align: center;
+}
+
+.th_tire_price img {
+  width: auto;
+}
+
+.special-table-tabs table:first-child img,
+.special-table-tabs table:nth-of-type(2) img {
+  width: auto;
+}
+
+.special-table-tabs>table:first-child tr:first-child,
+.special-table-tabs>table:first-child tr:first-child td {
+  background-color: black;
+  color: white;
 }
 
 .black-wrapper.tire-wheel div {
@@ -2440,14 +2459,14 @@ div.pr_beta_set_115 {
   color: red;
 }
 
-.special-table > table > tbody > tr > td > table:nth-child(2) > tbody > tr:nth-child(1) > td,
-.special-table > table > tbody > tr > td > table:nth-child(2) > tbody > tr:nth-child(2) > td {
+.special-table>table>tbody>tr>td>table:nth-child(2)>tbody>tr:nth-child(1)>td,
+.special-table>table>tbody>tr>td>table:nth-child(2)>tbody>tr:nth-child(2)>td {
   text-align: center;
 }
 
 .set_tire_a_table {
   display: grid;
-    grid-template-columns: 1fr 0.1fr 1fr 0.1fr 1fr 0.1fr 1fr 0.1fr;
+  grid-template-columns: 1fr 0.1fr 1fr 0.1fr 1fr 0.1fr 1fr 0.1fr;
 }
 
 .set_menu_n_cell.col-md-8.col-sm-8.col-xs-12 {
@@ -2463,7 +2482,7 @@ div.pr_beta_set_115 {
 }
 
 input.th_form_180 {
-    width: 100%;
+  width: 100%;
 }
 
 .three-tiles-one .th_maker_top_list_cell2 a {
@@ -2471,15 +2490,22 @@ input.th_form_180 {
 }
 
 .th_comm_bar_3px {
-    font-weight: bold;
-    color: deepskyblue;
+  font-weight: bold;
+  color: deepskyblue;
 }
 
+.special-table {
+  background-color: #333;
+}
 
+a.link {
+  color: inherit;
+}
 
-
-
-
+.special-table-tabs>table>tbody>tr>td:last-child {
+  width: 1%;
+  white-space: nowrap;
+}
 
 
 
@@ -3317,27 +3343,41 @@ input.th_form_180 {
 
   .set_c_top_maker_4 .set_c_top_maker_cell {
     width: 100%;
+
   }
 
-.set_tire_a_table {
+  .set_tire_a_table {
     display: block;
-}
+  }
 
-.set_tire_a_cell2_sp {
-  text-align: center;
-}
+  .set_tire_a_cell2_sp {
+    text-align: center;
+  }
 
-.set_menu_n.row {
+  .set_menu_n.row {
     display: flex;
     flex-direction: row;
-}
+  }
 
+  .special-table img {
+    width: 100%;
+    height: auto;
+  }
 
+  .tire-wheel>div {
+    width: 100%;
+    margin: auto;
+  }
 
+  .special-table-tabs table:first-child img,
+  .special-table-tabs table:nth-of-type(2) img {
+    width: 100%;
+  }
 
-
-
-
+  .special-table-tabs table:first-child td,
+  .special-table-tabs table:nth-of-type(2) td {
+    width: 1%;
+  }
 
 
 
