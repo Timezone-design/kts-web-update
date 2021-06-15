@@ -232,6 +232,10 @@ a.notype:link {
     three and four tiles
  */
 
+.three-tiles-one .button img {
+  width: 170px;
+}
+
 .three-tiles-one .three-tiles-blue-border {
   font-size: 30px;
   color: transparent;
@@ -836,7 +840,7 @@ hr.set_c_top_hr {
   position: absolute;
   width: auto;
   left: 50%;
-  top: 270%;
+  top: 170%;
   opacity: 0;
   transition: opacity .35s ease;
   transform: translateX(-50%);
@@ -2183,6 +2187,11 @@ hr {
   background-color: black;
 }
 
+.link_pr_shop,
+.shop_link {
+  color: red;
+}
+
 .pr_font_b_0ff {
   font-weight: bold;
   color: deepskyblue;
@@ -2507,7 +2516,9 @@ a.link {
   white-space: nowrap;
 }
 
-
+.special-table table[cellpadding="0"]:first-child {
+  display: none;
+}
 
 
 
@@ -2742,7 +2753,7 @@ a.link {
   }
 
   .campaign .three-tiles-one .button {
-    top: 200%;
+    top: 125%;
   }
 
   .camp_shitadori_yajirushi {
@@ -3379,7 +3390,9 @@ a.link {
     width: 1%;
   }
 
-
+  .special-table {
+    width: 100%;
+  }
 
 
 
