@@ -143,27 +143,27 @@
                       </div>
                       <script>
                         $('.nav-tabs a').click(function () {
-												$('.nav-tabs li.active').removeClass('active');
-												$(this).parent().css("background-color", "white");
-												$(this).parent().siblings().css("background-color", "transparent");
-											});
-										</script>
+  												$('.nav-tabs li.active').removeClass('active');
+  												$(this).parent().css("background-color", "white");
+  												$(this).parent().siblings().css("background-color", "transparent");
+  											});
+  										</script>
                       <!-- <input id="tab1" type="radio" name="tab_btn" checked>
-						<input id="tab2" type="radio" name="tab_btn">
-						<div class="tab_area">
-							<label class="tab1_label" for="tab1">【商品説明】</label>
-							<label class="tab2_label" for="tab2">【主な仕様】</label>
-						</div>
-						<div class="panel_area">
-							<div id="panel1" class="tab_panel">
-								<p>専用材高強度鋼線の採用により、耐疲労・耐へたり性に優れているほか、大幅な軽量化を実現しています。独自の加工により、高応力域での使用を実現。柔軟かつ強剛な特性が得られます。また、スプリングの軽量化により復帰速度（回復性）を従来に比べ約10％向上。路面に対する追従性、コーナリング時のより早い車体の安定性、スムーズな操舵性を実現します。<br>取付詳細は<a
-										href="../damper/hyperco_swift.html">コチラ</a></p>
-							</div>
-							<div id="panel2" class="tab_panel">
-								<p>・材質:専用材高強度鋼線H5S・TW<br>・運動性能:復帰速度(回復性)を従来比約10％向上<br>・ID:60/65/70/75(LONG)mm
-								</p>
-							</div>
-						</div> -->
+          						<input id="tab2" type="radio" name="tab_btn">
+          						<div class="tab_area">
+          							<label class="tab1_label" for="tab1">【商品説明】</label>
+          							<label class="tab2_label" for="tab2">【主な仕様】</label>
+          						</div>
+          						<div class="panel_area">
+          							<div id="panel1" class="tab_panel">
+          								<p>専用材高強度鋼線の採用により、耐疲労・耐へたり性に優れているほか、大幅な軽量化を実現しています。独自の加工により、高応力域での使用を実現。柔軟かつ強剛な特性が得られます。また、スプリングの軽量化により復帰速度（回復性）を従来に比べ約10％向上。路面に対する追従性、コーナリング時のより早い車体の安定性、スムーズな操舵性を実現します。<br>取付詳細は<a
+          										href="../damper/hyperco_swift.html">コチラ</a></p>
+          							</div>
+          							<div id="panel2" class="tab_panel">
+          								<p>・材質:専用材高強度鋼線H5S・TW<br>・運動性能:復帰速度(回復性)を従来比約10％向上<br>・ID:60/65/70/75(LONG)mm
+          								</p>
+          							</div>
+          						</div> -->
                     </div>
                   </div>
                 </div>
@@ -175,47 +175,47 @@
                     <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10001.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
                   </tr>
                 </table>
-                <?php
-							$root_dir = __DIR__.'/../../..';
-							$uri = '#search-block';
-							$car_manu = isset($_POST['car_manu'])?$_POST['car_manu']:'';
-							$car_model_cat = isset($_POST['car_model_cat'])?$_POST['car_model_cat']:'';
-							$product_name = isset($_POST['product_name'])?$_POST['product_name']:'';
-							$file = $root_dir.'/db/car_manus.csv';
-							$handle = fopen($file, "r");
-							$car_manus = []; $car_model_cats = []; $product_names = []; $filtered_products = [];
+                  <?php
+    							$root_dir = __DIR__.'/../../..';
+    							$uri = '#search-block';
+    							$car_manu = isset($_POST['car_manu'])?$_POST['car_manu']:'';
+    							$car_model_cat = isset($_POST['car_model_cat'])?$_POST['car_model_cat']:'';
+    							$product_name = isset($_POST['product_name'])?$_POST['product_name']:'';
+    							$file = $root_dir.'/db/car_manus.csv';
+    							$handle = fopen($file, "r");
+    							$car_manus = []; $car_model_cats = []; $product_names = []; $filtered_products = [];
 
-							while (($row = fgetcsv($handle, 0, ",")) !== false) 
-							{
-								if($row[0] != '') $car_manus[$row[0]] = $row[0];
-							}
+    							while (($row = fgetcsv($handle, 0, ",")) !== false) 
+    							{
+    								if($row[0] != '') $car_manus[$row[0]] = $row[0];
+    							}
 
-							fclose($handle);
+    							fclose($handle);
 
-							if($car_manu != ''){
-								$file = $root_dir.'/db/item.gz';
-								$handle = gzopen($file, "rb");
-								
-								$products = json_decode(gzread($handle, 150000000));
-								
-								foreach ($products as $key => $product) {
-									if($product->car_manu == $car_manu){
-										if($product->car_model_cat != ''){
-											$car_model_cats[$product->car_model_cat] = $product->car_model_cat;
-											if($car_model_cat == $product->car_model_cat && $car_model_cat != ''){
-												$product_names [$product->product_name]= $product->product_name;
-												if($product_name != '' && $product_name == $product->product_name)
-													$filtered_products []= $product;
-											}	
-										}
-										
-									}
-								}
+    							if($car_manu != ''){
+    								$file = $root_dir.'/db/item.gz';
+    								$handle = gzopen($file, "rb");
+    								
+    								$products = json_decode(gzread($handle, 150000000));
+    								
+    								foreach ($products as $key => $product) {
+    									if($product->car_manu == $car_manu){
+    										if($product->car_model_cat != ''){
+    											$car_model_cats[$product->car_model_cat] = $product->car_model_cat;
+    											if($car_model_cat == $product->car_model_cat && $car_model_cat != ''){
+    												$product_names [$product->product_name]= $product->product_name;
+    												if($product_name != '' && $product_name == $product->product_name)
+    													$filtered_products []= $product;
+    											}	
+    										}
+    										
+    									}
+    								}
 
-								gzclose($handle);
-							}
+    								gzclose($handle);
+    							}
 
-							?>
+    							?>
                 <div class="search-block grey-wrapper" id="search-block">
                   <div class="clearfix"></div>
                   <h1 class="search">SEARCH</h1>
@@ -325,129 +325,129 @@
                 <div class="scroll">
                   <table class="matching_table_all">
                     <tr>
-                      <?php
+                        <?php
 
 
-						if(isset($manufacture_select) == FALSE || $manufacture_select == ""){print_r('<div class="noselect_car"><br>ID(内径)を選択してください<br>&nbsp;</div>');}
+            						if(isset($manufacture_select) == FALSE || $manufacture_select == ""){print_r('<div class="noselect_car"><br>ID(内径)を選択してください<br>&nbsp;</div>');}
 
-						else if(isset($make_select) == FALSE || $make_select == ""){
-						print_r('<tr><th>ID(内径)</th>');
-						print_r('<th>工賃セット価格</th>');
-						print_r('<th>自由長</th>');
-						print_r('<th>バネレート</th>');
-						print_r('<th>メーカー品番</th>');
-						print_r('<th>タイプ</th>');
-						print_r('<th>入数</th>');
-						print_r('<th>仕様</th>');
-						print_r('<th>備考</th></tr>');
+            						else if(isset($make_select) == FALSE || $make_select == ""){
+            						print_r('<tr><th>ID(内径)</th>');
+            						print_r('<th>工賃セット価格</th>');
+            						print_r('<th>自由長</th>');
+            						print_r('<th>バネレート</th>');
+            						print_r('<th>メーカー品番</th>');
+            						print_r('<th>タイプ</th>');
+            						print_r('<th>入数</th>');
+            						print_r('<th>仕様</th>');
+            						print_r('<th>備考</th></tr>');
 
-						foreach($csv as $line) {
-						if(isset($manufacture_select) == FALSE){}
-						else if($line[0] == $manufacture_select){
+            						foreach($csv as $line) {
+            						if(isset($manufacture_select) == FALSE){}
+            						else if($line[0] == $manufacture_select){
 
-						print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
-						<td>' . $line[0] . '
-						</td>');
-						if( empty($line[13]) ){
-						echo('<td>お問い合わせ下さい</td>');}
-						else{$price = number_format((float)$line[13]);
-						if( empty($line[14]) ){
-						echo('<td class="matching_table_price">￥' . $price . '</td>');}
-						else{
-						$price_camp = number_format($line[14]);
-						echo('<td class="matching_table_price"><del><a>￥' . $price . '</a></del><br>￥' . $price_camp . '</td>');
-						}
-						}
-						print_r('<td>' . $line[1] . '</td>');
-						print_r('<td>' . $line[2] . '</td>');
-						print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
-						print_r('<td>' . $line[6] . '</td>');
-						print_r('<td>' . $line[7] . '</td>');
-						print_r('<td>' . $line[9] . '</td>');
-						print_r('<td>' . $line[10] . '</td></tr>');
-						}
-						}
-						}
+            						print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
+            						<td>' . $line[0] . '
+            						</td>');
+            						if( empty($line[13]) ){
+            						echo('<td>お問い合わせ下さい</td>');}
+            						else{$price = number_format((float)$line[13]);
+            						if( empty($line[14]) ){
+            						echo('<td class="matching_table_price">￥' . $price . '</td>');}
+            						else{
+            						$price_camp = number_format($line[14]);
+            						echo('<td class="matching_table_price"><del><a>￥' . $price . '</a></del><br>￥' . $price_camp . '</td>');
+            						}
+            						}
+            						print_r('<td>' . $line[1] . '</td>');
+            						print_r('<td>' . $line[2] . '</td>');
+            						print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
+            						print_r('<td>' . $line[6] . '</td>');
+            						print_r('<td>' . $line[7] . '</td>');
+            						print_r('<td>' . $line[9] . '</td>');
+            						print_r('<td>' . $line[10] . '</td></tr>');
+            						}
+            						}
+            						}
 
-						else if(isset($model_select) == FALSE || $model_select == ""){
-						print_r('<tr><th>ID(内径)</th>');
-						print_r('<th>工賃セット価格</th>');
-						print_r('<th>自由長</th>');
-						print_r('<th>バネレート</th>');
-						print_r('<th>メーカー品番</th>');
-						print_r('<th>タイプ</th>');
-						print_r('<th>入数</th>');
-						print_r('<th>仕様</th>');
-						print_r('<th>備考</th></tr>');
+            						else if(isset($model_select) == FALSE || $model_select == ""){
+            						print_r('<tr><th>ID(内径)</th>');
+            						print_r('<th>工賃セット価格</th>');
+            						print_r('<th>自由長</th>');
+            						print_r('<th>バネレート</th>');
+            						print_r('<th>メーカー品番</th>');
+            						print_r('<th>タイプ</th>');
+            						print_r('<th>入数</th>');
+            						print_r('<th>仕様</th>');
+            						print_r('<th>備考</th></tr>');
 
-						foreach($csv as $line) {
-						if($line[0] == $manufacture_select && $line[1] == $make_select){
+            						foreach($csv as $line) {
+            						if($line[0] == $manufacture_select && $line[1] == $make_select){
 
-						print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
-						<td>' . $line[0] . '
-						</td>');
-						if( empty($line[13]) ){
-						echo('<td>お問い合わせ下さい</td>');}
-						else{$price = number_format((float)$line[13]);
-						if( empty($line[14]) ){
-						echo('<td class="matching_table_price">￥' . $price . '</td>');}
-						else{
-						$price_camp = number_format($line[14]);
-						echo('<td class="matching_table_price"><del><a>￥' . $price . '</a></del><br>￥' . $price_camp . '</td>');
-						}
-						}
-						print_r('<td>' . $line[1] . '</td>');
-						print_r('<td>' . $line[2] . '</td>');
-						print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
-						print_r('<td>' . $line[6] . '</td>');
-						print_r('<td>' . $line[7] . '</td>');
-						print_r('<td>' . $line[9] . '</td>');
-						print_r('<td>' . $line[10] . '</td></tr>');
-						}
-						}
-						}
+            						print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
+            						<td>' . $line[0] . '
+            						</td>');
+            						if( empty($line[13]) ){
+            						echo('<td>お問い合わせ下さい</td>');}
+            						else{$price = number_format((float)$line[13]);
+            						if( empty($line[14]) ){
+            						echo('<td class="matching_table_price">￥' . $price . '</td>');}
+            						else{
+            						$price_camp = number_format($line[14]);
+            						echo('<td class="matching_table_price"><del><a>￥' . $price . '</a></del><br>￥' . $price_camp . '</td>');
+            						}
+            						}
+            						print_r('<td>' . $line[1] . '</td>');
+            						print_r('<td>' . $line[2] . '</td>');
+            						print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
+            						print_r('<td>' . $line[6] . '</td>');
+            						print_r('<td>' . $line[7] . '</td>');
+            						print_r('<td>' . $line[9] . '</td>');
+            						print_r('<td>' . $line[10] . '</td></tr>');
+            						}
+            						}
+            						}
 
-						else if(isset($model_select) == TRUE){
-						print_r('<tr><th>ID(内径)</th>');
-						print_r('<th>工賃セット価格</th>');
-						print_r('<th>自由長</th>');
-						print_r('<th>バネレート</th>');
-						print_r('<th>メーカー品番</th>');
-						print_r('<th>タイプ</th>');
-						print_r('<th>入数</th>');
-						print_r('<th>仕様</th>');
-						print_r('<th>備考</th></tr>');
+            						else if(isset($model_select) == TRUE){
+            						print_r('<tr><th>ID(内径)</th>');
+            						print_r('<th>工賃セット価格</th>');
+            						print_r('<th>自由長</th>');
+            						print_r('<th>バネレート</th>');
+            						print_r('<th>メーカー品番</th>');
+            						print_r('<th>タイプ</th>');
+            						print_r('<th>入数</th>');
+            						print_r('<th>仕様</th>');
+            						print_r('<th>備考</th></tr>');
 
-						foreach($csv as $line) {
-						if($line[0] == $manufacture_select && $line[1] == $make_select && $line[2] == $model_select){
+            						foreach($csv as $line) {
+            						if($line[0] == $manufacture_select && $line[1] == $make_select && $line[2] == $model_select){
 
-						print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
-						<td>' . $line[0] . '
-						</td>');
-						if( empty($line[13]) ){
-						echo('<td>お問い合わせ下さい</td>');}
-						else{$price = number_format((float)$line[13]);
-						if( empty($line[14]) ){
-						echo('<td class="matching_table_price">￥' . $price . '</td>');}
-						else{
-						$price_camp = number_format($line[14]);
-						echo('<td class="matching_table_price"><del><a>￥' . $price . '</a></del><br>￥' . $price_camp . '</td>');
-						}
-						}
-						print_r('<td>' . $line[1] . '</td>');
-						print_r('<td>' . $line[2] . '</td>');
-						print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
-						print_r('<td>' . $line[6] . '</td>');
-						print_r('<td>' . $line[7] . '</td>');
-						print_r('<td>' . $line[9] . '</td>');
-						print_r('<td>' . $line[10] . '</td></tr>');
-						}
-						}
-						}
+            						print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
+            						<td>' . $line[0] . '
+            						</td>');
+            						if( empty($line[13]) ){
+            						echo('<td>お問い合わせ下さい</td>');}
+            						else{$price = number_format((float)$line[13]);
+            						if( empty($line[14]) ){
+            						echo('<td class="matching_table_price">￥' . $price . '</td>');}
+            						else{
+            						$price_camp = number_format($line[14]);
+            						echo('<td class="matching_table_price"><del><a>￥' . $price . '</a></del><br>￥' . $price_camp . '</td>');
+            						}
+            						}
+            						print_r('<td>' . $line[1] . '</td>');
+            						print_r('<td>' . $line[2] . '</td>');
+            						print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
+            						print_r('<td>' . $line[6] . '</td>');
+            						print_r('<td>' . $line[7] . '</td>');
+            						print_r('<td>' . $line[9] . '</td>');
+            						print_r('<td>' . $line[10] . '</td></tr>');
+            						}
+            						}
+            						}
 
 
 
-						?>
+            						?>
                     </tr>
                   </table>
                 </div>

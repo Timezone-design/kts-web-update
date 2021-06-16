@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="インチアップ&ローダウンを前提にストリートでの乗り心地を追求し、 複筒式構造のショックアブソーバを採用。スムーズにストロークすることで荒れた路面や凹凸をしっかりと捉え、低速ではしなやかに、高速ではフラットで安定感ある走りをもたらします。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="インチアップ&ローダウンを前提にストリートでの乗り心地を追求し、 複筒式構造のショックアブソーバを採用。スムーズにストロークすることで荒れた路面や凹凸をしっかりと捉え、低速ではしなやかに、高速ではフラットで安定感ある走りをもたらします。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

@@ -3,7 +3,7 @@
 <meta name="description" content="サスペンション下側支点の変形を抑制するロアアームバー。量産車ではオープン構造のサスペンション取付け基点である左右ロアアームの付け根を剛性の高いパイプで結合することにより、無用なアライメント変化を抑制し、正確なハンドリングを支援する。取付け面にはガセットなどを配置し圧力を均一化。最高レベルの高剛性を確保。最低地上高への影響は、最大で15ｍｍ程度の低下に抑えているので実用面への影響も少ない。">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

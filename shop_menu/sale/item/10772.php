@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="純正品は蛇腹形状ゆえ吸入空気の乱流を招き抵抗を増大させてしまう傾向にあるためフレキシブルジョイントを廃し、有効流路面積を最大限確保した仕様。各エンジン別に専用デザインされたホースの素材には、吸入負圧による変形抑制効果が高い多層ポリスターシリコンやFRPを採用。結果、アクセルレスポンスの向上を実現。真紅に統一されたカラーリングはエンジンルームにアクセントを添える。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="純正品は蛇腹形状ゆえ吸入空気の乱流を招き抵抗を増大させてしまう傾向にあるためフレキシブルジョイントを廃し、有効流路面積を最大限確保した仕様。各エンジン別に専用デザインされたホースの素材には、吸入負圧による変形抑制効果が高い多層ポリスターシリコンやFRPを採用。結果、アクセルレスポンスの向上を実現。真紅に統一されたカラーリングはエンジンルームにアクセントを添える。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="「Area35 リフトアップサス」に降雪/海沿い仕様として「Area35-Black」を追加。<br>冬季に、凍結防止剤/融雪剤等を使用する雪国や沿岸地域からのご要望に、錆び・腐食対策として新しく導入。<br>一般塗装の1.5倍(当社仕様塗装比)の防腐・耐久性を持つパーカー処理塗装(腐食防止塗装)を施し、塗装剥がれ・錆び・腐食折れをより長期間防ぐことができます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="「Area35 リフトアップサス」に降雪/海沿い仕様として「Area35-Black」を追加。<br>冬季に、凍結防止剤/融雪剤等を使用する雪国や沿岸地域からのご要望に、錆び・腐食対策として新しく導入。<br>一般塗装の1.5倍(当社仕様塗装比)の防腐・耐久性を持つパーカー処理塗装(腐食防止塗装)を施し、塗装剥がれ・錆び・腐食折れをより長期間防ぐことができます。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

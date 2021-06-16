@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="上質な乗り味を徹底追及したMAX Gをベースに減衰力の選択肢をもたせた純正形状ストリートサスペンションの決定版。純正形状 + 単筒式構造という構成に加え部品レベルでの精度および強度の向上を図り、安定感としなやかさを両立した極めて質の高い乗り味を実現した「HIPERMAX G」をベースに30段階の減衰力調整機能を追加。あたりのやわらかいコンフォート重視の乗り味からスポーツ系サスペンションキットのような引き締まった乗り味までお好みに合わせてお楽しみいただけます。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="上質な乗り味を徹底追及したMAX Gをベースに減衰力の選択肢をもたせた純正形状ストリートサスペンションの決定版。純正形状 + 単筒式構造という構成に加え部品レベルでの精度および強度の向上を図り、安定感としなやかさを両立した極めて質の高い乗り味を実現した「HIPERMAX G」をベースに30段階の減衰力調整機能を追加。あたりのやわらかいコンフォート重視の乗り味からスポーツ系サスペンションキットのような引き締まった乗り味までお好みに合わせてお楽しみいただけます。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

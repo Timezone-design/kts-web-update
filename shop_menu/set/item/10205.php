@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="P-WRC、APRC、そして各国のラリー選手権などで鍛えられた即戦力競技スペックのラリー専用ショックアブソーバー。高速縮側32段/低速縮側16段/伸側16段の減衰力調整、そしてH.B.S.16段調整の3+1WAY調整を採用した最高峰ショックアブソーバーです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="P-WRC、APRC、そして各国のラリー選手権などで鍛えられた即戦力競技スペックのラリー専用ショックアブソーバー。高速縮側32段/低速縮側16段/伸側16段の減衰力調整、そしてH.B.S.16段調整の3+1WAY調整を採用した最高峰ショックアブソーバーです。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

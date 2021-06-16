@@ -2520,7 +2520,9 @@ a.link {
   display: none;
 }
 
-
+.set_menu_n_cell.col-md-6 {
+  margin-left: 0px;
+}
 
 
 

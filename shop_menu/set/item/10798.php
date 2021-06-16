@@ -3,7 +3,7 @@
 <meta name="description" content="AutoExeロゴ入りアルミ製エンドキャップを配した小径ホイールナット。装着に専用アダプターレンチを必要とする異形ヘプタゴン（7角形）デザインの採用で、ホイールの盗難を抑制する機能も兼ね備えている。素材には、高温時に緩みにくい高強度なクロームバナジウム鋼を採用。">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

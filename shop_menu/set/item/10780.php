@@ -3,7 +3,7 @@
 <meta name="description" content="高剛性を優先し、アルミよりスチール、2ピースでなく1ピース。<br>また、ボディとの接合部となるブラケットに筒状のリブを設けることで十分な強度を持たせ、全てのスタッドボルトと共締めにしてボディとの一体性を強化した。さらに、ボディとの接合面に加わる圧力の均一化を図るべく、ツインガセット（補強プレート）を配置。タワーバーとしては、最高レベルの高剛性を確保。">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

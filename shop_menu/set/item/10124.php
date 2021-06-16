@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="全長の短いショックアブソーバーに対してホースで別体タンクを連結することで余裕ある容量を実現したモデル。別体タンク部には圧縮側減衰調整、ショック本体のエンド部分には伸び側減衰調整をそれぞれ装備。シチュエーションにあわせたより細かなセッティングが可能です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="全長の短いショックアブソーバーに対してホースで別体タンクを連結することで余裕ある容量を実現したモデル。別体タンク部には圧縮側減衰調整、ショック本体のエンド部分には伸び側減衰調整をそれぞれ装備。シチュエーションにあわせたより細かなセッティングが可能です。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

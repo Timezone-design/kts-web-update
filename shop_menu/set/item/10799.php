@@ -3,7 +3,7 @@
 <meta name="description" content="ロアアームバーの発展形。ロアアームバーが左右のピボットをダイレクトに結んだ｢線｣であるのに対して、こちらは言わば｢面｣として、より広範囲な部分をカバー。前後のクロスメンバー部を中心に、オープン構造のフロア下に立体的なトラス状の高剛性スチールオーバルシャフトを張り巡らしている。負荷が大きい取付け部には強靭なガセットを配することで路面からの入力が一点に集中しないように配慮されている。">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />
