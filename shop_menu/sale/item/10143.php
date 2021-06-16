@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="「車高アップを可能にし、ワイルドな存在感をアピールできる車高調」を開発コンセプトとしてオンロード・オフロードを問わず安定した走りを実現するため専用設計。車高を上げ下げしてもしっかりストロークを確保しているので、お気に入りのフォルムで納得の走りを演出。あらゆるシチュエーションで機能性と見た目を兼ね備えた車高調です">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="「車高アップを可能にし、ワイルドな存在感をアピールできる車高調」を開発コンセプトとしてオンロード・オフロードを問わず安定した走りを実現するため専用設計。車高を上げ下げしてもしっかりストロークを確保しているので、お気に入りのフォルムで納得の走りを演出。あらゆるシチュエーションで機能性と見た目を兼ね備えた車高調です"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

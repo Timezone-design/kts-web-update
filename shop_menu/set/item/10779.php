@@ -3,7 +3,7 @@
 <meta name="description" content="ドライバーの感性にシンクロした「意のままの減速」。その方向性はストリート用ブレーキパッドと同一だが、違いは想定する走行シチュエーションにある。ワインディングやサーキットにおける連続したS字カーブや、ストレートからのフルブレーキングといった過酷な高負荷領域おいてコントロール性に秀でた特性を目指し、摩擦材（摩材)を厳選し調合。">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

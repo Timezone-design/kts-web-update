@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="純正ショックアブソーバーを使用し、車高調整機能を追加するアジャスタブルスプリングキット。近年、高性能化が顕著な純正電子制御ショックアブソーバーを使用し、車高調整も可能にしたハイブリッドサスペンションキットです。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="純正ショックアブソーバーを使用し、車高調整機能を追加するアジャスタブルスプリングキット。近年、高性能化が顕著な純正電子制御ショックアブソーバーを使用し、車高調整も可能にしたハイブリッドサスペンションキットです。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

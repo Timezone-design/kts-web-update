@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="タワーバーの進化形。ボディ前後をダブルで強化。スチール製オーバルシャフトを基本に、2方向応力分散構造や面圧分散構造など、マウントポイントに応力が集中しないよう各車種の特性を見据えた専用レイアウトを採用。ボルトオン装着によるボディ補強パーツとして最大限の効果を狙った設計。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="タワーバーの進化形。ボディ前後をダブルで強化。スチール製オーバルシャフトを基本に、2方向応力分散構造や面圧分散構造など、マウントポイントに応力が集中しないよう各車種の特性を見据えた専用レイアウトを採用。ボルトオン装着によるボディ補強パーツとして最大限の効果を狙った設計。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="ショックオイルを抜き取り、専用のチューニングオイルを注入することでパフォーマンスを向上させる『ネオチューン』。本来はオーバーホール目的で中古の純正品に施工することが多いですが、それを新品のKYB製純正互換品に施工することで、もう一つ上の性能を提供します。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="ショックオイルを抜き取り、専用のチューニングオイルを注入することでパフォーマンスを向上させる『ネオチューン』。本来はオーバーホール目的で中古の純正品に施工することが多いですが、それを新品のKYB製純正互換品に施工することで、もう一つ上の性能を提供します。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

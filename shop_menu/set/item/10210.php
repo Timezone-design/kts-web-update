@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="数々のモータースポーツ参戦から得たノウハウを全てフィードバックした競技専用モデル。JAFのレギュレーションに準拠。そのまま競技に参戦可能、国内トップドライバーによりセッティング済。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="数々のモータースポーツ参戦から得たノウハウを全てフィードバックした競技専用モデル。JAFのレギュレーションに準拠。そのまま競技に参戦可能、国内トップドライバーによりセッティング済。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

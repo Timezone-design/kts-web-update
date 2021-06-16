@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="室内フロアの左右方向を高剛性スチール製パイプで結合し剛性を高める新ボディ補強パーツ。フロアトンネルを跨ぐセンター部までを一体化した溶接1ピース構造により強度を確保。ストラットタワーバーやフロアクロスバーでは補えないボディモノコック中央部付近の歪みを抑制。装着は強度の高いフロントシート後ろ側の取り付け部4点のボルトと共締めし、後席のレッグスペースを極力犠牲にしない低重心レイアウト。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="室内フロアの左右方向を高剛性スチール製パイプで結合し剛性を高める新ボディ補強パーツ。フロアトンネルを跨ぐセンター部までを一体化した溶接1ピース構造により強度を確保。ストラットタワーバーやフロアクロスバーでは補えないボディモノコック中央部付近の歪みを抑制。装着は強度の高いフロントシート後ろ側の取り付け部4点のボルトと共締めし、後席のレッグスペースを極力犠牲にしない低重心レイアウト。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

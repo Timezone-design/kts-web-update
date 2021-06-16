@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="リアが下がりづらい車種の為に開発されたリア用車高調。リアアジャスターキットとは、その名の通りリアの車高を調整することができるキットです。一般的に車高を変化させるには、ダウンサスか車高調かの2択となりますが、「ダウンサスでは柔らかくて収まりが悪い」「現状のバネレート・自由長に不満がある」「車高調ではリアの落ち幅が足りない」といった方の為の新たな選択肢です。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="リアが下がりづらい車種の為に開発されたリア用車高調。リアアジャスターキットとは、その名の通りリアの車高を調整することができるキットです。一般的に車高を変化させるには、ダウンサスか車高調かの2択となりますが、「ダウンサスでは柔らかくて収まりが悪い」「現状のバネレート・自由長に不満がある」「車高調ではリアの落ち幅が足りない」といった方の為の新たな選択肢です。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />

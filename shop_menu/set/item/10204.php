@@ -1,9 +1,9 @@
 <html>
 <head>
-<meta name="description" content="P-WRC、APRC、そして各国のラリー選手権などで鍛えられた即戦力・競技スペックのラリー専用ショックアブソーバー。「F.R.S.」「T.C.V.」「P.D.S.」など、実戦で結果を出した様々な最新機構を搭載しています。">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
+<meta name="description" content="P-WRC、APRC、そして各国のラリー選手権などで鍛えられた即戦力・競技スペックのラリー専用ショックアブソーバー。「F.R.S.」「T.C.V.」「P.D.S.」など、実戦で結果を出した様々な最新機構を搭載しています。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1"/>
+<meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="../../../web_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../header_r.css" type="text/css" />
 <link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />
