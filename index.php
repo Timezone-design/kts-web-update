@@ -291,28 +291,20 @@
 
             <table id="notice-table">
               <tr>
-                <td>2021.04.20</td>
-                <td><span class="new-notice active">NEW</span><span class="ja">テキストテキストテキストテキスト</span></td>
+                <td>2021.06.15</td>
+                <td><a href="/campaign/month.html"><span class="new-notice active">NEW</span><span class="ja">4輪アライメント強化月間開催中！期間中は「HP見た」とお伝え頂ければアライメント測定・調整料金がお得に！！</span></a></td>
               </tr>
               <tr>
-                <td>2021.04.20</td>
-                <td><span class="new-notice">NEW</span><span class="ja">テキストテキストテキストテキスト</span></td>
+                <td>2021.04.09</td>
+                <td><a href="/product/intake/kf.html"><span class="new-notice">NEW</span><span class="ja">COOL POWERサクションKIT スイフトスポーツ ZC33S用が新発売！</span></a></td>
               </tr>
               <tr>
-                <td>2021.04.20</td>
-                <td><span class="new-notice">NEW</span><span class="ja">テキストテキストテキストテキスト</span></td>
+                <td>2020.05.15</td>
+                <td><a href="/covid19.html"><span class="new-notice">NEW</span><span class="ja">新型コロナウイルスに対する弊社の対策について</span></a></td>
               </tr>
               <tr>
-                <td>2021.04.20</td>
-                <td><span class="new-notice">NEW</span><span class="ja">テキストテキストテキストテキスト</span></td>
-              </tr>
-              <tr>
-                <td>2021.04.20</td>
-                <td><span class="new-notice">NEW</span><span class="ja">テキストテキストテキストテキスト</span></td>
-              </tr>
-              <tr>
-                <td>2021.04.20</td>
-                <td><span class="new-notice">NEW</span><span class="ja">テキストテキストテキストテキスト</span></td>
+                <td>2020.02.28</td>
+                <td><a href="/neo_tune/index.html"><span class="new-notice">NEW</span><span class="ja">NeoTune ショックアブソーバー施工サービス開始しました！</span></a></td>
               </tr>
             </table>
             <div class="clearfix"></div>

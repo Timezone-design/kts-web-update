@@ -95,7 +95,7 @@ header .clearfix {
 .arrowed-link:active {
   color: black;
   text-decoration: none;
-  font-size: 1vw;
+  font-size: 15px;
 }
 
 .arrowed-title:not(#header-carousel-name) img {

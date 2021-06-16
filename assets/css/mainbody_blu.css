@@ -38,7 +38,7 @@ img {
 }
 
 #notice-table {
-  width: 42%;
+  width: 600px;
   margin: auto;
   border-collapse: collapse;
 }
@@ -47,7 +47,7 @@ img {
   padding: 25px 14px;
   display: inline-block;
   position: relative;
-  font-size: 0.9vw;
+  font-size: 14px;
 }
 
 #notice-table span.new-notice {
@@ -55,7 +55,7 @@ img {
   position: absolute;
   top: 15px;
   display: none;
-  font-size: 0.5vw;
+  font-size: 10px;
 }
 
 .four-of-a-kind-one a {
@@ -80,8 +80,22 @@ img {
   border-bottom: solid black 1px;
 }
 
+#notice-table tr td:first-child {
+  width: 20%;
+}
+
+#notice-table tr td:last-child {
+  width: 80%;
+  line-height: 1.5;
+}
+
+.grey-wrapper .pr_back {
+  width: 67%;
+  margin: auto;
+}
+
 .notice a {
-  color: white;
+  color: black;
   display: block;
   font-size: 13px;
   width: auto;
@@ -724,7 +738,7 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 }
 
 .original-product .quick-search {
-  width: 80%;
+  width: 67%;
   margin: auto;
   text-align: right;
 }
@@ -732,6 +746,87 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 .original-product .white-wrapper .image-wrapper {
   width: 80%;
   margin: auto;
+}
+
+.pr_top_cate>div>a:hover>img {
+  visibility: hidden !important;
+}
+
+.pr_top_cate_suspension a {
+  background: url(../../product/img/suspension_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_drive a {
+  background: url(../../product/img/drive_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_cooling a {
+  background: url(../../product/img/cooling_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_brake a {
+  background: url(../../product/img/brake_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_arm a {
+  background: url(../../product/img/arm_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_body a {
+  background: url(../../product/img/body_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_ex a {
+  background: url(../../product/img/ex_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_intake a {
+  background: url(../../product/img/intake_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_interior a {
+  background: url(../../product/img/interior_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_engine a {
+  background: url(../../product/img/engine_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+}
+
+.pr_top_cate_other a {
+  background: url(../../product/img/other_2.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
 }
 
 .original-product .white-wrapper .image-wrapper div {
@@ -767,24 +862,24 @@ hr.set_c_top_hr {
 }
 
 .search-block h1 {
-  font-size: 2vw;
+  font-size: 25px;
 }
 
 .search-block h2 {
-  font-size: 1.5vw;
+  font-size: 20px;
 }
 
 .search-block form {
   width: 70%;
   margin: auto;
   justify-content: center;
-  font-size: 1vw !important;
+  font-size: 15px !important;
 }
 
 .search-block form select {
   border: 0;
   width: 100%;
-  font-size: 1vw;
+  font-size: 15px;
   border-radius: 5px;
 }
 
@@ -808,6 +903,7 @@ hr.set_c_top_hr {
   width: 200px;
   background-color: lightblue;
   border-radius: 20px;
+  outline: none;
 }
 
 .search-block button.btn-search img {
@@ -1252,7 +1348,7 @@ table.bq_lineup>tbody>tr>td,
 
 .set_menu_n .item_info_text_middle,
 .houjin_text {
-  font-size: 1.5vw;
+  font-size: 21px;
 }
 
 .set_menu_n .item_info_text_middle_b,
@@ -2524,6 +2620,28 @@ a.link {
   margin-left: 0px;
 }
 
+.pr_top_cate {
+  display: flex;
+}
+
+.pr_top_cate>div {
+  width: 100%;
+}
+
+.item_info_text_middle {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.item_info_text_middle_b {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.special-table td {
+  background-color: black !important;
+  border: 0 !important;
+}
 
 
 
@@ -2541,19 +2659,6 @@ a.link {
 
 
 @media only screen and (max-width: 767px) {
-  /*#content-wrapper>div>div.special-table {
-    width: 100%;
-    margin: auto;
-  }
-
-  .main_c.row>div {
-    width: 100%;
-    margin: auto;
-  }
-
-  .special-table {
-    width: 100%;
-  }*/
 
   .four-of-a-kind-one a.arrowed-link {
     padding-top: 46%;
@@ -2601,7 +2706,7 @@ a.link {
   }
 
   #notice-table td {
-    padding: 10px 13px;
+    padding: 10px 0px;
     font-size: 13px;
   }
 
@@ -2616,10 +2721,11 @@ a.link {
   .arrowed-link:hover,
   .arrowed-link:active {
     font-size: 12px;
+    text-align: center;
   }
 
   .four-square {
-    width: 100%;
+    width: 95%;
     margin: auto;
   }
 
@@ -2637,8 +2743,16 @@ a.link {
   }
 
   .three-tiles.row {
-    width: 100%;
+    width: 95%;
     margin: auto;
+  }
+
+  .set_menu_n .swiper-container {
+    height: 70vw;
+  }
+
+  .set_menu_n .swiper-button-prev, .set_menu_n .swiper-button-next {
+    top: 35vw !important;
   }
 
   .four-square-one {
@@ -2667,7 +2781,7 @@ a.link {
   .large-category .row,
   .small-category .row,
   .tire .row {
-    width: 100% !important;
+    width: 95% !important;
     margin: auto;
   }
 
@@ -2687,7 +2801,7 @@ a.link {
   }
 
   .main_c.row>div {
-    width: 100%;
+    width: 95%;
     margin: auto;
   }
 
@@ -2905,6 +3019,10 @@ a.link {
   .al_title_sp {
     font-size: 20px;
     font-weight: bold;
+  }
+
+  .damper_info_photo {
+    width: 100%;
   }
 
   .al_yoyaku {
@@ -3137,6 +3255,14 @@ a.link {
     border: 0;
   }
 
+  .tenpo_shop_table .tenpo_table_cell1 {
+    width: 30%;
+  }
+
+  .tenpo_shop_table .tenpo_table_cell2 {
+    width: 70%;
+  }
+
   .pr_car_name {
     flex-direction: column;
   }
@@ -3152,7 +3278,7 @@ a.link {
   }
 
   .tire-wheel .top {
-    width: 100%;
+    width: 95%;
     margin: auto;
   }
 
@@ -3396,6 +3522,39 @@ a.link {
     width: 100%;
   }
 
+  .grey-wrapper .pr_back {
+    width: 95%;
+    margin: auto;
+  }
+
+  .original-product .quick-search {
+    width: 95%;
+    margin: auto;
+    text-align: right;
+  }
+
+  .tenpo_staff_cell_t1,
+  .tenpo_staff_cell_t2 {
+    padding-left: 10px !important;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3438,7 +3597,8 @@ a.link {
   .set_maker_table,
   .set_car_maker_link,
   .neotune_none_sp,
-  .set_tire_a_cell2 {
+  .set_tire_a_cell2,
+  .pr_top_title {
     display: none;
   }
 
@@ -3497,7 +3657,8 @@ a.link {
   .set_maker_table_sp,
   .set_car_maker_link_sp,
   .neotune_none_pc,
-  .set_tire_a_cell2_sp {
+  .set_tire_a_cell2_sp,
+  .pr_title_sp_photo {
     display: none;
   }
 
