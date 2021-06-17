@@ -1,5 +1,5 @@
 footer {
-  padding-top: 11px;
+  padding-top: 25px;
 }
 
 .footer-showbox-img img {
@@ -108,6 +108,7 @@ footer {
 
   .showbox-content td {
     padding: 5px;
+    padding-left: 13px;
   }
 
   .footer-showbox-title {
@@ -131,9 +132,11 @@ footer {
 
   .footer-bottom {
     background-color: black;
-    padding-top: 0px;
+    padding-top: 10px;
     color: white;
   }
+
+
 
   .footer-bottom .footer-text div {
     padding-bottom: 0px;
@@ -142,6 +145,7 @@ footer {
 
   #footer-logo-wrap img {
     width: 70%;
+    margin-left: 0px;
   }
 
 

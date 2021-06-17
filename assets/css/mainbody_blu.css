@@ -433,6 +433,8 @@ a.notype:link {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   margin: auto;
   font-size: 15px;
+  table-layout: fixed;
+  /*width: fit-content;*/
 }
 
 .damper_car_order {
@@ -862,7 +864,8 @@ hr.set_c_top_hr {
 }
 
 .search-block h1 {
-  font-size: 25px;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 .search-block h2 {
@@ -1121,7 +1124,7 @@ hr.set_c_top_hr {
 }
 
 .pr_car_title {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: bold;
 }
 
@@ -1241,7 +1244,7 @@ table.bq_lineup>tbody>tr>td,
 
 .pr_table_cell {
   text-align: center;
-  font-size: 1.2vw;
+  font-size: 17px;
 }
 
 .banner-wrapper .pr_r_text_ff0 {
@@ -1512,6 +1515,10 @@ table.bq_lineup>tbody>tr>td,
   width: auto;
 }
 
+.pr_back > .pr_info:first-child {
+  flex-direction: column;
+}
+
 .special-table-tabs table:first-child img,
 .special-table-tabs table:nth-of-type(2) img {
   width: auto;
@@ -1521,6 +1528,11 @@ table.bq_lineup>tbody>tr>td,
 .special-table-tabs>table:first-child tr:first-child td {
   background-color: black;
   color: white;
+  width: fit-content;
+}
+
+.special-table-tabs>table:first-child tr:first-child img {
+  width: 100%;
 }
 
 .black-wrapper.tire-wheel div {
@@ -1731,6 +1743,10 @@ table.bq_lineup>tbody>tr>td,
   color: deepskyblue;
   font-weight: bold;
   font-size: 20px;
+}
+
+font[color="#FFFF00"] {
+  color: orange;
 }
 
 .garagara_title {
@@ -2533,6 +2549,11 @@ div.pr_beta_set_115 {
 }
 
 .special-table td {
+  color: white !important;
+  border: 1px solid white !important;
+}
+
+td[bgcolor="#FFFF66"] {
   color: white;
 }
 
@@ -2640,10 +2661,10 @@ a.link {
 
 .special-table td {
   background-color: black !important;
-  border: 0 !important;
+  /*border: 0 !important;*/
 }
 
-.matching_table_all tr > td:nth-of-type(3) {
+.matching_table_all tr>td:nth-of-type(3) {
   color: crimson;
 }
 
@@ -2753,7 +2774,8 @@ a.link {
     height: 70vw;
   }
 
-  .set_menu_n .swiper-button-prev, .set_menu_n .swiper-button-next {
+  .set_menu_n .swiper-button-prev,
+  .set_menu_n .swiper-button-next {
     top: 35vw !important;
   }
 
@@ -2957,7 +2979,7 @@ a.link {
   }
 
   .original-product .white-wrapper .image-wrapper {
-    width: 100%;
+    width: 95%;
   }
 
   .original-product .white-wrapper .image-wrapper div {
@@ -2965,6 +2987,10 @@ a.link {
   }
 
   .original-product .image-wrapper img {
+    width: 100%;
+  }
+
+  .pr_maker_title img {
     width: 100%;
   }
 
@@ -3039,6 +3065,8 @@ a.link {
     width: 33.33333%;
     float: left;
   }
+
+
 
   .al_yoyaku_cell_sp {
     text-align: center;
@@ -3324,7 +3352,7 @@ a.link {
 
   .pr_title_sp {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
   }
 
   .pr_table .container .nav li {
@@ -3517,11 +3545,31 @@ a.link {
 
   .special-table-tabs table:first-child td,
   .special-table-tabs table:nth-of-type(2) td {
-    width: 1%;
+    /*width: 1%;*/
+  }
+
+  .special-table-tabs div.row + hr + table td {
+    white-space: inherit;
+  }
+
+  .special-table-tabs > table td {
+    white-space: inherit;
   }
 
   .special-table {
     width: 100%;
+  }
+
+  .special-table td[width^="1"],
+  .special-table td[width^="2"],
+  .special-table td[width^="3"],
+  .special-table td[width^="4"],
+  .special-table td[width^="5"],
+  .special-table td[width^="6"],
+  .special-table td[width^="7"],
+  .special-table td[width^="8"],
+  .special-table td[width^="9"] {
+    width: 50%;
   }
 
   .grey-wrapper .pr_back {
@@ -3660,7 +3708,8 @@ a.link {
   .set_car_maker_link_sp,
   .neotune_none_pc,
   .set_tire_a_cell2_sp,
-  .pr_title_sp_photo {
+  .pr_title_sp_photo,
+  .pr_title_sp {
     display: none;
   }
 

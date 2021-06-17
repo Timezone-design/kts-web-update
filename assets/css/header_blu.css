@@ -269,6 +269,10 @@ header .clearfix {
   height: 10px;
 }
 
+header + div {
+  padding-top: 30px !important;
+}
+
 @media only screen and (max-width: 767px) {
   .arrowed-title h1 {
     font-size: 25px;
