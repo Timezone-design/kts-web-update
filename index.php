@@ -141,10 +141,10 @@
           $uri = '#search-block';
           $car_manu = isset($_POST['car_manu'])?$_POST['car_manu']:'';
           $car_model_cat = isset($_POST['car_model_cat'])?$_POST['car_model_cat']:'';
-          $product_name = isset($_POST['product_name'])?$_POST['product_name']:'';
+          $model = isset($_POST['model'])?$_POST['model']:'';
           $file = $root_dir.'/db/car_manus.csv';
           $handle = fopen($file, "r");
-          $car_manus = []; $car_model_cats = []; $product_names = []; $filtered_products = [];
+          $car_manus = []; $car_model_cats = []; $product_models = []; $filtered_products = [];
           
           while (($row = fgetcsv($handle, 0, ",")) !== false) 
           {
@@ -180,8 +180,8 @@
                       $product->compliance_details = $row[12];
                       $product->specification = $row[13];
                       $product->manu_part_number = $row[5];
-                      $product_names [$product->product_name]= $product->product_name;
-                      if($product_name != '' && $product_name == $product->product_name)
+                      $product_models [$product->model]= $product->model;
+                      if($model != '' && $model == $product->model)
                         $filtered_products []= $product;
                     }	
                   }
@@ -208,7 +208,7 @@
             <form action="/<?=$uri?>" method="post" class="row ja">
               <div class="search-select col-md-4 col-sm-4">
                 <select class="custom-select-lg" name="car_manu"
-                  onchange="this.form.car_model_cat=''; this.form.product_name = ''; submit(this.form)">
+                  onchange="this.form.car_model_cat=''; this.form.model = ''; submit(this.form)">
                   <option value='' <?php if($car_manu == '') echo 'selected'; ?>>メーカーを選ぶ</option>
                   <?php foreach ($car_manus as $key => $value) { ?>
                   <option value="<?=$value?>" <?php if($car_manu == $value) echo 'selected'; ?>><?=$value?></option>
@@ -217,7 +217,7 @@
               </div>
               <div class="search-select col-md-4 col-sm-4">
                 <select class="custom-select-lg" name="car_model_cat"
-                  onchange="this.form.product_name = ''; submit(this.form)">
+                  onchange="this.form.model = ''; submit(this.form)">
                   <option value='' <?php if($car_model_cat == '') echo 'selected'; ?>>車種を選ぶ</option>
                   <?php foreach ($car_model_cats as $key => $value) { ?>
                   <option value="<?=$value?>" <?php if($car_model_cat == $value) echo 'selected'; ?>><?=$value?>
@@ -226,10 +226,10 @@
                 </select>
               </div>
               <div class="search-select col-md-4 col-sm-4">
-                <select class="custom-select-lg" name="product_name">
-                  <option value='' <?php if($product_name == '') echo 'selected'; ?>>製品を選ぶ</option>
-                  <?php foreach ($product_names as $key => $value) { ?>
-                  <option value="<?=$value?>" <?php if($product_name == $value) echo 'selected'; ?>><?=$value?></option>
+                <select class="custom-select-lg" name="model">
+                  <option value='' <?php if($model == '') echo 'selected'; ?>>型式を選ぶ</option>
+                  <?php foreach ($product_models as $key => $value) { ?>
+                  <option value="<?=$value?>" <?php if($model == $value) echo 'selected'; ?>><?=$value?></option>
                   <?php } ?>
                 </select>
               </div>
