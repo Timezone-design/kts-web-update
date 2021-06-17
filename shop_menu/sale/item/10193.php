@@ -159,7 +159,7 @@ window.open(href, "_blank");
 <div class="left_menu_2">・<a href="../../set/cat/107.html">過給機</a></div>
 <div class="left_menu_2">・<a href="../../set/cat/108.html">燃料系</a></div>
 <div class="left_menu_2">・<a href="../../set/cat/109.html">エンジン</a></div>
-<div class="left_menu_2">・<a href="../../set/cat/110.html">タイヤ・ホイール</a></div>
+<div class="left_menu_2">・<a href="../../set/cat/../../../Error_msg/404.html" page-origin="shop_menu/set/cat/110.html">タイヤ・ホイール</a></div>
 <div class="left_menu_2">・<a href="../../set/cat/111.html">電装系</a></div>
 <div class="left_menu_2">・<a href="../../set/cat/112.html">ケミカル</a></div>
 <div class="left_menu_2">・<a href="../../set/cat/113.html">インテリア</a></div>
