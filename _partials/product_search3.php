@@ -1,6 +1,6 @@
-<?php
-          $root_dir = __DIR__.'/..';
-          $uri = '#search-block';
+<a class="set_img" data-nsfw-filter-status="swf"><img src="../../img/set.jpg" alt="お得な工賃セット" style="visibility: visible;"></a>
+<p class="search_category" data-nsfw-filter-status="swf">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10001.php" data-nsfw-filter-status="swf"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ" style="visibility: visible;"></a></p>
+        <?php
           $car_manu = isset($_POST['car_manu'])?$_POST['car_manu']:'';
           $car_model_cat = isset($_POST['car_model_cat'])?$_POST['car_model_cat']:'';
           $model = isset($_POST['model'])?$_POST['model']:'';
@@ -139,3 +139,6 @@
             <?php } ?>
             <div class="clearfix"></div>
           </div>
+          <div class="item_info_text_small">
+                  ▼ご希望の商品をタップすると詳細・購入ページに遷移します。<br>※表示価格は税抜です。<br>※輸入車は平和島店・一之江店のみの対応です。</div>
+          <div class="clearfix"></div>

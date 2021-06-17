@@ -158,7 +158,7 @@
                   </tr>
                 </table>
                   <?php
-    							$root_dir = __DIR__.'/../../..';
+    							$root_dir = __DIR__.'/../../../..';
     							$uri = '#search-block';
     							$car_manu = isset($_POST['car_manu'])?$_POST['car_manu']:'';
     							$car_model_cat = isset($_POST['car_model_cat'])?$_POST['car_model_cat']:'';
