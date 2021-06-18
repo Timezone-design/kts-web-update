@@ -1,5 +1,4 @@
-<p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../set/item/10001.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ" style="visibility: visible;"></a></p>
-        <?php
+<?php
           $car_manu = isset($_POST['car_manu'])?$_POST['car_manu']:'';
           $car_model_cat = isset($_POST['car_model_cat'])?$_POST['car_model_cat']:'';
           $model = isset($_POST['model'])?$_POST['model']:'';

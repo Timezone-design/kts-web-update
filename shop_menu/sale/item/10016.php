@@ -1,7 +1,7 @@
  <html>
 								<head>
 								<meta content="別タンクによるオイルの大容量化と、伸側・縮側をそれぞれ32段に独立して減衰力調整を実現する2WAY減衰力調整機構を採用。従来よりもさらにハイスペックな車高調キットとなっており、減衰力をより高次元でバランスさせることで、サーキットに特化せずストリートを含めた幅広いシチュエーションに対応します。" name="description"/>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>KTS-web 商品ラインナップ BLITZ DAMPER ZZ-R Spec-C</title><script type="application/ld+json">{@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "商品ラインナップ"}},{@type: "ListItem",position: 3,item:{@id: "/item/10016.php",name: "DAMPER ZZ-R Spec-C"}}]}</script>
 <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
 <meta content="width=device-width" name="viewport"/>
 <title>KTS-web 商品ラインナップ BLITZ DAMPER ZZ-R Spec-C</title>
@@ -153,7 +153,7 @@
 	                <table style="table-layout:fixed;" width="100%">
 	                  <!--ココまでSP-->
 	                  <tr>
-	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10016.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
+	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../set/item/10016.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
 	                  </tr>
 	                </table>
 	                  <?php

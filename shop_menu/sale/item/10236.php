@@ -1,7 +1,7 @@
  <html>
 								<head>
 								<meta content="ショックオイルを抜き取り、専用のチューニングオイルを注入することでパフォーマンスを向上させる『ネオチューン』。本来はオーバーホール目的で中古の純正品に施工することが多いですが、それを新品のKYB製純正互換品に施工することで、もう一つ上の性能を提供します。" name="description"/>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>KTS-web 商品ラインナップ NEO TUNE KYB補修用ショック+ネオチューン施工</title><script type="application/ld+json">{@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "商品ラインナップ"}},{@type: "ListItem",position: 3,item:{@id: "/item/10236.php",name: "KYB補修用ショック+ネオチューン施工"}}]}</script>
 <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
 <meta content="width=device-width" name="viewport"/>
 <title>KTS-web 商品ラインナップ NEO TUNE KYB補修用ショック+ネオチューン施工</title>
@@ -153,7 +153,7 @@
 	                <table style="table-layout:fixed;" width="100%">
 	                  <!--ココまでSP-->
 	                  <tr>
-	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10236.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
+	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../set/item/10236.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
 	                  </tr>
 	                </table>
 	                  <?php

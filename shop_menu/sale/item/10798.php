@@ -1,7 +1,7 @@
  <html>
 								<head>
 								<meta content="AutoExeロゴ入りアルミ製エンドキャップを配した小径ホイールナット。装着に専用アダプターレンチを必要とする異形ヘプタゴン（7角形）デザインの採用で、ホイールの盗難を抑制する機能も兼ね備えている。素材には、高温時に緩みにくい高強度なクロームバナジウム鋼を採用。" name="description"/>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>KTS-web 商品ラインナップ AutoExe ホイールナットセット</title><script type="application/ld+json">{@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "商品ラインナップ"}},{@type: "ListItem",position: 3,item:{@id: "/item/10798.php",name: "ホイールナットセット"}}]}</script>
 <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
 <meta content="width=device-width" name="viewport"/>
 <title>KTS-web 商品ラインナップ AutoExe ホイールナットセット</title>
@@ -153,7 +153,7 @@
 	                <table style="table-layout:fixed;" width="100%">
 	                  <!--ココまでSP-->
 	                  <tr>
-	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10798.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
+	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../set/item/10798.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
 	                  </tr>
 	                </table>
 	                  <?php

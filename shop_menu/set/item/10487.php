@@ -1,649 +1,318 @@
-<html>
-<head>
-<meta name="description" content="">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-<meta name="viewport" content="width=device-width">
-<link rel="stylesheet" href="../../../web_r.css" type="text/css" />
-<link rel="stylesheet" href="../../../header_r.css" type="text/css" />
-<link rel="stylesheet" href="../../../pc_left_menu.css" type="text/css" />
-<link rel="stylesheet" href="../../../sp_menu.css" type="text/css" />
-<link rel="stylesheet" href="../../shop_menu.css" type="text/css" />
-<link rel="stylesheet" href="../../set/set.css" type="text/css" />
-<link rel="stylesheet" href="../../set_sale.css" type="text/css" />
-<link rel="stylesheet" href="../../../product/product.css" type="text/css" />
-<link rel="stylesheet" href="../../script/swiper/css/swiper.css">
-
+ <html>
+								<head>
+								<meta content="" name="description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/><meta content="width=device-width" name="viewport"/><title>KTS-web 工賃セットメニュー ATS カーボンクラッチキット</title><script type="application/ld+json">{@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "工賃セットメニュー"}},{@type: "ListItem",position: 3,item:{@id: "/item/10487.php",name: "カーボンクラッチキット"}}]}</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="width=device-width" name="viewport"/>
 <title>KTS-web 工賃セットメニュー ATS カーボンクラッチキット</title>
-<script type="application/ld+json">
-{
-@context: "http://schema.org",
-@type: "BreadcrumbList",
-itemListElement:
-[
-{
-@type: "ListItem",
-position: 1,
-item:
-{
-@id: "/shop_menu/",
-name: "SHOP MENU"
-}
-},
-{
-@type: "ListItem",
-position: 2,
-item:
-{
-@id: "/set/",
-name: "工賃セットメニュー"
-}
-},
-{
-@type: "ListItem",
-position: 3,
-item:
-{
-@id: "/item/10487.php",
-name: "カーボンクラッチキット"
-}
-}
-]
-}
-</script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script type="text/javascript">
-$(function(){
-$("#toggle").click(function(){
-$("#menu").slideToggle();
-return false;
-});
-$(window).resize(function(){
-var win = $(window).width();
-var p = 480 ;
-if(win > p){
-$("#menu").show();
-}
-else {
-$("#menu").hide();
-}
-});
-});
-</script>
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
-Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-73570160-3', 'auto');
-ga('send', 'pageview');
-</script>
+								<link rel="stylesheet" href="../../script/swiper/css/swiper.css">
+								<link rel="stylesheet" href="/assets/css/search.css" type="text/css" />
+							    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css" />
+							    <link rel="stylesheet" href="/assets/css/header_blu.css" type="text/css" />
+							    <link rel="stylesheet" href="/assets/css/mainbody_blu.css" type="text/css" />
+							    <link rel="stylesheet" href="/assets/css/footer_blu.css" type="text/css" />
+							    <link rel="stylesheet" href="/assets/css/slick.css" type="text/css" />
+							    <link rel="stylesheet" href="/assets/css/custom.css" type="text/css" />
+							    <script src="/assets/js/jquery-3.6.0.min.js"></script>
+							    <script src="/assets/js/popper.min.js"></script>
+							    <script src="/assets/js/bootstrap.min.js"></script>
+							    <script src="/assets/js/slick.min.js"></script>
+								  </head>
 
-<script type="text/javascript">
-jQuery(function($) {
-$('tr[data-href]').addClass('clickable')
-.click(function(e) {
-if(!$(e.target).is('a')){
-let href=$(e.target).closest('tr').data('href');
-window.open(href, "_blank");
-};
-});
-});
-</script>
+								  <body>
+								    <main>
+								      <section id="wrapper">
+								        <div class="section-container">
+								          <div id="content-wrapper">
+								            <!-- Header Start -->
+								            <header class="site-header">
+								              <nav class="navbar navbar-expand-lg navbar-dark">
+								                <a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.png" alt="Company Logo" srcset=""></a>
+								                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+								                  <span class="navbar-toggler-icon"></span>
+								                </button>
+								                <div class="collapse navbar-collapse" id="navbarText">
+								                  <ul class="navbar-nav ml-auto">
+								                    <li class="nav-item">
+								                      <a class="nav-link" href="/">
+								                        <div class="ja">トップ</div>
+								                        <div class="en">TOP</div>
+								                      </a>
+								                    </li>
+								                    <li class="nav-item">
+								                      <a class="nav-link" href="/shop_menu/sale/index.html">
+								                        <div class="ja">ショップメニュー</div>
+								                        <div class="en">SHOP MENU</div>
+								                      </a>
+								                    </li>
+								                    <li class="nav-item">
+								                      <a class="nav-link" href="/product/index.html">
+								                        <div class="ja">オリジナル商品</div>
+								                        <div class="en">ORIGINAL PRODUCT</div>
+								                      </a>
+								                    </li>
+								                    <li class="nav-item"><a class="nav-link" href="/tire_wheel/index.html">
+								                        <div class="ja">タイヤ・ホイール</div>
+								                        <div class="en">TIRE / WHEEL</div>
+								                      </a>
+								                    </li>
+								                    <li class="nav-item"><a class="nav-link" href="/campaign/index.html">
+								                        <div class="ja">キャンペーン</div>
+								                        <div class="en">CAMPAIGN</div>
+								                      </a>
+								                    </li>
+								                    <li class="nav-item"><a class="nav-link" href="/wholesale/index.html">
+								                        <div class="ja">業販</div>
+								                        <div class="en">WHOLESALE</div>
+								                      </a>
+								                    </li>
+								                    <li class="nav-item"><a class="nav-link" href="/blog/">
+								                        <div class="ja">ブログ</div>
+								                        <div class="en">BLOG</div>
+								                      </a></li>
+								                    <li class="nav-item"><a class="nav-link" href="/company.html">
+								                        <div class="ja">会社概要</div>
+								                        <div class="en">COMPANY</div>
+								                      </a>
+								                    </li>
+								                  </ul>
+								                </div>
+								              </nav>
+								              <div id="top-carousel">
+								                <div class="header-banner-wrapper">
+								                  <div class="row">
+								                    <div class="col-md-3 col-sm-6 col-xs-6"><a href="/product/index.html"><span>詳しく見る</span><img src="/assets/img/home/hks_202103_05_camp_480.png"></a></div>
+								                    <div class="col-md-3 col-sm-6 col-xs-6"><a href="/shop_menu/sale/ch_ma/liqui_moly_dpf.html"><span>詳しく見る</span><img src="/assets/img/home/liqui_moly_dpf_480.png"></a></div>
+								                    <div class="col-md-3 col-sm-6 col-xs-6"><a href="/shop_menu/sale/ch_ma/10674.html"><span>詳しく見る</span><img src="/assets/img/home/mahle_ozone_pro_480.png"></a></div>
+								                    <div class="col-md-3 col-sm-6 col-xs-6"><a href="/tire_wheel/tire/index.html"><span>詳しく見る</span><img src="/assets/img/home/tire_wheel_480.png"></a></div>
+								                  </div>
+								                </div>
+								              </div>
+								            </header>
+								            <!-- Header End -->
+								              <div class="main_c row grey-wrapper">
+	              <div class="clearfix"></div>
+	              <div class="set_sale_back">
+	                <div class="space3px"></div>
+	                <div class="set_menu_n row">
+	                  <div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
+	                    <div><img alt="カーボンクラッチキット" src="../../brand/img/1025.gif"/></div>
+	                  </div>
+	                  <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
+	                    <div class="item_info_text_middle"><p>ATS[エーティーエス]</p></div><div class="item_info_text_middle_b"><p>カーボンクラッチキット</p></div>
+	                  </div>
+	                </div>
+	                <div class="set_menu_n row">
+	                  <div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
+	                    <div>
+	                      <div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide"><img alt="カーボンクラッチキット" src="../../item_img/10487_1.jpg"/></div><div class="swiper-slide"><img alt="カーボンクラッチキット" src="../../item_img/10487_2.jpg"/></div><div class="swiper-slide"><img alt="カーボンクラッチキット" src="../../item_img/10487_3.jpg"/></div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
+	                    </div>
+		                  <div class="item_caution"><p>※写真はイメージ・代表画像です。 </p><p>※実際の商品とカラーやイメージが異なる場合がございます。</p></div>
+	                  </div>
+	                  <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
+	                    <div class="tab_wrap">
+	                      <ul class="nav nav-tabs">
+	                        <li class="active"><a data-toggle="tab" href="#home">【商品説明】</a></li>
+	                        <li><a data-toggle="tab" href="#menu2">【主な仕様】</a></li>
+	                      </ul>
+	                      <div class="tab-content">
+	                        <div id="home" class="tab-pane fade in active show">
+	                          <p></p>
+	                        </div>
+	                        <div id="menu2" class="tab-pane fade">
+	                          <p></p>
+	                        </div>
+	                      </div>
+	                      <script>
+	                        $('.nav-tabs a').click(function () {
+	  												$('.nav-tabs li.active').removeClass('active');
+	  												$(this).parent().css("background-color", "white");
+	  												$(this).parent().siblings().css("background-color", "transparent");
+	  											});
+	  										</script>
+	                      <!-- <input id="tab1" type="radio" name="tab_btn" checked>
+	          						<input id="tab2" type="radio" name="tab_btn">
+	          						<div class="tab_area">
+	          							<label class="tab1_label" for="tab1">【商品説明】</label>
+	          							<label class="tab2_label" for="tab2">【主な仕様】</label>
+	          						</div>
+	          						<div class="panel_area">
+	          							<div id="panel1" class="tab_panel">
+	          								<p>専用材高強度鋼線の採用により、耐疲労・耐へたり性に優れているほか、大幅な軽量化を実現しています。独自の加工により、高応力域での使用を実現。柔軟かつ強剛な特性が得られます。また、スプリングの軽量化により復帰速度（回復性）を従来に比べ約10％向上。路面に対する追従性、コーナリング時のより早い車体の安定性、スムーズな操舵性を実現します。<br>取付詳細は<a
+	          										href="../damper/hyperco_swift.html">コチラ</a></p>
+	          							</div>
+	          							<div id="panel2" class="tab_panel">
+	          								<p>・材質:専用材高強度鋼線H5S・TW<br>・運動性能:復帰速度(回復性)を従来比約10％向上<br>・ID:60/65/70/75(LONG)mm
+	          								</p>
+	          							</div>
+	          						</div> -->
+	                    </div>
+	                  </div>
+	                </div>
+	                <div class="clearfix"></div>
+	                <table style="table-layout:fixed;" width="100%">
+	                  <!--ココまでSP-->
+	                  <tr>
+		                  <a class="set_img"><img src="../../img/set.jpg" alt="お得な工賃セット"></a>
+	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10487.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
+	                  </tr>
+	                </table>
+	                  <?php
+	                  	$root_dir = __DIR__.'/../../..';
+						$uri = 'shop_menu/sale/item/'.basename(__FILE__).'#search-block';
+						include(__DIR__.'/../../../_partials/product_search4.php');
+						?>
+	              </div>
+	            </div>
+								            <script src="../../script/swiper/js/swiper.js"></script>
+								            <script>
+								            var swiper = new Swiper('.swiper-container', {
+								              navigation: {
+								                nextEl: '.swiper-button-next',
+								                prevEl: '.swiper-button-prev',
+								              },
+								              loop: true,
+								              pagination: {
+								                el: '.swiper-pagination',
+								                type: 'bullets',
+								                clickable: true,
+								              },
+								            });
 
-</head>
-<body>
-<div class="sp_top_logo"><a href="https://www.kts-web.com/index.html"><img src="../../../img/header_r/hearder_logo.gif" alt="KTS"></a></div>
-<table border="0" cellspacing="0" cellpadding="0" class="pc_d">
-<tr>
-<td><a class="h_logo_h" href="https://www.kts-web.com/index.html"></a></td>
-<td><img src="https://www.kts-web.com/img/header/header_15_top.gif" alt=""></td>
-<td><a class="h_twitter" href="https://twitter.com/KTScoltd" target="_blank"></a></td>
-<td><img src="https://www.kts-web.com/img/header/header_10_top.gif" alt=""></td>
-<td><a class="h_facebook" href="https://www.facebook.com/pages/KTS/333027856712283" target="_blank"></a></td>
-<td><img src="https://www.kts-web.com/img/header/header_10_top.gif" alt=""></td>
-<td><a class="h_link" href="https://www.kts-web.com/header_link.html"></a></td>
-</tr>
-</table>
-<table border="0" cellspacing="0" cellpadding="0" class="pc_d">
-<tr>
-<td><a class="h_logo_u" href="https://www.kts-web.com/index.html"></a></td>
-<td><a class="h_shopmenu" href="https://www.kts-web.com/shop_menu/index.html"></a></td>
-<td><a class="h_webshop" href="https://www.kts-web.com/shop/" target="_blank"></a></td>
-<td><a class="h_tire_wheel" href="https://www.kts-web.com/tire_wheel/index.html"></a></td>
-<td><a class="h_blog" href="https://www.kts-web.com/blog/" target="_blank"></a>
-<td><img src="https://www.kts-web.com/img/header/header_117_u.gif" alt=""></td>
-</tr>
-</table>
-<div class="top_logo_u">
-<div class="h_shop_menu"><a href="../../../shop_menu/index.html"><img src="../../../img/header_r/shop_menu.gif" alt="SHOP MENU"></a></div>
-<div class="h_webshop"><a href="https://www.kts-web.com/e-shop/" target="_blank"><img src="../../../img/header_r/web_shop.gif" alt=""></a></div>
-</div>
-<div id="menu-box" class="sp_menu_box">
-<div id="toggle"><a href="#">MENU</a></div>
-<ul id="menu">
-<li><a href="../../../product/index.html">製品情報</a></li>
-<li class="right"><a href="../../../company/index.html">会社概要</a></li>
-<li><a href="../../../blog/" target="_blank">ＢＬＯＧ</a></li>
-<li class="right"><a href="../../../tire_wheel/index.html">タイヤ・ホイール館</a></li>
-<li><a href="../../../camp/index.html">キャンペーン</a></li>
-<li class="right"><a href="../../../link/index.php">リンク</a></li>
-<li><a href="../../../faq/index.html">お問合せ</a></li>
-<li class="right"><a href="../../../recruit/index.html">求人情報</a></li>
-<li class="banner"><a href="../../../holiday.html">定休日のご案内</a></li>
-<li class="banner"><a href="../../../magazine/index.html">メールマガジン登録・解除フォーム</a></li>
-<div class="sns_t">
-<div class="sns_c"><a href="https://www.facebook.com/pages/KTS/333027856712283" target="_blank"><img src="../../../img/header_r/sp_facebook.gif" alt="facebook"></a></div>
-<div class="sns_c"><a href="https://twitter.com/KTScoltd" target="_blank"><img src="../../../img/header_r/sp_twitter.gif" alt="twitter"></a></div>
-<div class="sns_c"><a href="https://www.instagram.com/kts.carshop" target="_blank"><img src="img/header_r/sp_instagram.gif" alt="Instagram"></a></div>
-</div>
-</ul>
-</div>
-<div class="header_bar"><img src="../../../img/bar.gif"></div>
-<div class="bc_blue">
-<table class="main_item_table">
-<tr>
-<td class="pc_menu">
-<div class="pc_shop_menu"><a href="../../../shop_menu/index.html"><img src="../../../img/menu_icon/shop_menu_1.gif" width="180" height="28" alt="SHOP MENU"></a></div>
-<div class="left_menu">
-<div class="left_menu_1">∟<a href="../alignment/alignment.html">アライメント測定・調整</a></div>
-<div class="left_menu_1">∟<a href="../../set/index.html">工賃SETメニュー</a></div>
-<div class="left_menu_2">・<a href="../cat/100.html">足回り関連</a></div>
-<div class="left_menu_2">・<a href="../cat/101.html">駆動系</a></div>
-<div class="left_menu_2">・<a href="../cat/102.html">冷却系</a></div>
-<div class="left_menu_2">・<a href="../cat/103.html">ブレーキ</a></div>
-<div class="left_menu_2">・<a href="../cat/104.html">ボディ・シャーシ</a></div>
-<div class="left_menu_2">・<a href="../cat/105.html">排気系</a></div>
-<div class="left_menu_2">・<a href="../cat/106.html">吸気系</a></div>
-<div class="left_menu_2">・<a href="../cat/107.html">過給機</a></div>
-<div class="left_menu_2">・<a href="../cat/108.html">燃料系</a></div>
-<div class="left_menu_2">・<a href="../cat/109.html">エンジン</a></div>
-<div class="left_menu_2">・<a href="../cat/110.html">タイヤ・ホイール</a></div>
-<div class="left_menu_2">・<a href="../cat/111.html">電装系</a></div>
-<div class="left_menu_2">・<a href="../cat/112.html">ケミカル</a></div>
-<div class="left_menu_2">・<a href="../cat/113.html">インテリア</a></div>
-<div class="left_menu_2">・<a href="../../set/other/index.html">その他サービス</a></div>
-<div class="left_menu_1">∟<a href="../../koutin/index.html">工賃一覧</a></div>
-<div class="left_menu_1">∟<a href="../../tenpo/index.html">店舗情報</a></div>
-</div>
-<div class="space3px"></div>
-<div class="pc_web_shop"><a href="https://www.kts-web.com/e-shop/" target="_blank"><img src="../../../img/menu_icon/tsuhan_1.gif" width="180" height="28" alt="WEB SHOP"></a></div>
-<div class="space3px"></div>
-<table class="menu_table">
-<tr>
-<td width="50%"><div class="pc_product"><a href="../../../product/index.html"><img src="../../../img/menu_icon/ma_product_1.gif" width="87" height="21" alt="製品情報"></a></div></td>
-<td width="50%"><div class="pc_company"><a href="../../../company/index.html"><img src="../../../img/menu_icon/ma_company_1.gif" width="87" height="21" alt="会社概要"></a></div></td>
-</tr>
-<tr>
-<td><div class="pc_faq"><a href="../../../faq/index.html"><img src="../../../img/menu_icon/ma_faq_1.gif" width="87" height="21" alt="お問合せ"></a></div></td>
-<td><div class="pc_link"><a href="../../../link/index.php"><img src="../../../img/menu_icon/ma_link_1.gif" width="87" height="21" alt="リンク"></a></div></td>
-</tr>
-<tr>
-<td><div class="pc_event"><a href="../../../event/index.html"><img src="../../../img/menu_icon/ma_event_1.gif" alt="イベント" width="87" height="21"></a></div></td>
-<td><div class="pc_camp"><a href="../../../camp/index.html"><img src="../../../img/menu_icon/ma_camp_1.gif" width="87" height="21" alt="キャンペーン"></a></div></td>
-</tr>
-<tr>
-<td><div class="pc_recruit"><a href="../../../recruit/index.html"><img src="../../../img/menu_icon/ma_recruit_1.gif" alt="求人情報" width="87" height="21"></a></div></td>
-<td><div class="pc_car"><a href="../../../car/index.html"><img src="../../../img/menu_icon/ma_car_1.gif" width="87" height="21" alt="車輌販売"></a></div></td>
-</tr>
-</table>
-<div class="space3px"></div>
-<div class="pc_holiday"><a href="../../../holiday.html"><img src="../../../img/menu_icon/holiday_1.gif" width="180" height="28" alt="定休日のご案内"></a></div>
-<div class="space3px"></div>
-<div class="pc_mail"><a href="../../../magazine/index.html"><img src="../../../img/menu_icon/mail_magazine_1.gif" alt="KTSメールマガジン 登録・解除フォーム" width="180" height="76"></a></div>
-<div class="space3px"></div>
-<div class="pc_houjin"><a href="../../../houjin/index.html"><img src="../../../img/menu_icon/houjin_1.gif" alt="KTS法人営業部" width="180" height="50"></a></div>
-<div class="space3px"></div>
-<div class="pc_used"><a href="../../../company/index.html"><img src="../../../img/menu_icon/used_sale_1.gif" alt="古物営業法の規定に基づく表示" width="180" height="20"></a></div>
-<div class="space3px"></div>
-<div class="pc_month"><a href="../../../camp/month.html"><img src="../../../img/menu_icon/camp_menu_b_1.gif" alt="今月のキャンペーン" width="180"></a></div>
-<div class="space3px"></div>
-<div class="pc_en"><a href="../../../overseas/index.html"><img src="../../../img/menu_icon/english_1.gif" alt="English" width="180" height="30"></a></div>
-<div class="space3px"></div>
-<div class="pc_ru"><a href="../../../overseas_ru/index.html"><img src="../../../img/menu_icon/lang_ru_1.gif" width="180" height="30"></a></div>
-<div class="space3px"></div>
-<div class="pc_cn"><a href="../../../overseas_cn/index.html"><img src="../../../img/menu_icon/lang_cn_1.gif" width="180" height="30"></a></div>
-<div class="space3px"></div>
-<div class="20131030"><a href="../../../20131030/index.html" target="_blank"><img src="../../../20131030/top_menu_b_1.gif" alt="弊社を装った偽サイトについて" width="180" height="26"></a></div>
-</td>
-<td class="main_c">
-<div class="space1px"></div>
-<div class="mc_nav">
-<a class="link" href="https://www.kts-web.com/">HOME</a> &gt; <a class="link" href="../../index.html">SHOP MENU</a> &gt; <a class="link" href="../index.html">工賃セットメニュー</a> &gt; <a class="link" href="../cat/101.html">駆動系</a> &gt; <a class="link" href="../cat/124.html">クラッチ/フライホイール</a> &gt; <a class="link" href="../br/1025-124.html">ATS</a> &gt; <a class="link" href="10487.php">カーボンクラッチキット</a></div>
-<div class="space3px"></div>
-<div class="set_sale_back">
-<div class="space3px"></div>
-<div class="set_menu_n">
-<div class="set_menu_n_330">
-<div><img src="../../brand/img/1025.gif" alt="カーボンクラッチキット"></div></div>
-<div class="set_menu_n_cell">
-<div class="item_info_text_middle">
-<p>ATS[エーティーエス]</p></div>
-<div class="item_info_text_middle_b">
-<p>カーボンクラッチキット</p></div>
-</div></div>
+								            </script>
+								            <footer>
+								              <div class="footer-title">
+								                <div id="footer-title" class="arrowed-title">
+								                  <h1 class="ja">店舗情報</h1><img src="/assets/img/blue_arrow.svg" alt="Blue Arrow" srcset="">
+								                </div>
+								              </div>
+								              <div class="clearfix sp"></div>
+								              <div class="clearfix"></div>
+								              <br>
+								              <div class="footer-places row">
+								                <div class="footer-showbox row col-md-4 col-sm-12">
+								                  <div class="footer-showbox-img">
+								                    <img src="/assets/img/factory.png" alt="factory" srcset="">
+								                  </div>
+								                  <div class="footer-factory-info">
+								                    <div class="footer-showbox-title">
+								                      <span class="showbox-title">FACTORY</span>
+								                    </div>
+								                    <table class="showbox-content">
+								                      <tr id="footer-showbox-address" class="footer-showbox-text">
+								                        <td colspan="2">〒334-0013 埼玉県川口市南鳩ヶ谷1-25-3</td>
+								                      </tr>
+								                      <tr id="footer-showbox-opentime" class="footer-showbox-text">
+								                        <td class="showbox-left">営業時間</td>
+								                        <td class="showbox-right">10:00 - 19:00</td>
+								                      </tr>
+								                      <tr id="footer-showbox-holiday" class="footer-showbox-text">
+								                        <td class="showbox-left">定休日</td>
+								                        <td class="showbox-right">第3水曜日・毎週木曜日</td>
+								                      </tr>
+								                      <tr class="tel">
+								                        <td class="showbox-left">TEL</td>
+								                        <td class="showbox-right">048-285-8906</td>
+								                      </tr>
+								                      <tr class="fax">
+								                        <td class="showbox-left">FAX</td>
+								                        <td class="showbox-right">048-285-8939</td>
+								                      </tr>
+								                    </table>
+								                  </div>
+								                  <div class="showbox-bottom">
+								                    <a class="arrowed-link" href="/shop_menu/tenpo/factory.html"><span>詳しく見る</span><img src="/assets/img/black_arrow.svg" alt="Header Link"></a>
+								                  </div>
+								                </div>
+								                <div class="footer-showbox row col-md-4 col-sm-12">
+								                  <div class="footer-showbox-img">
+								                    <img src="/assets/img/heiwajima.png" alt="factory" srcset="">
+								                  </div>
+								                  <div class="footer-factory-info">
+								                    <div class="footer-showbox-title">
+								                      <span class="showbox-title">HEIWAJIMA</span>
+								                    </div>
+								                    <table class="showbox-content">
+								                      <tr id="footer-showbox-address" class="footer-showbox-text">
+								                        <td colspan="2">〒143-0016 東京都大田区大森北5ー10ー13</td>
+								                      </tr>
+								                      <tr id="footer-showbox-opentime" class="footer-showbox-text">
+								                        <td class="showbox-left">営業時間</td>
+								                        <td class="showbox-right">10:00 - 19:00</td>
+								                      </tr>
+								                      <tr id="footer-showbox-holiday" class="footer-showbox-text">
+								                        <td class="showbox-left">定休日</td>
+								                        <td class="showbox-right">第3水曜日・毎週木曜日</td>
+								                      </tr>
+								                      <tr class="tel">
+								                        <td class="showbox-left">TEL</td>
+								                        <td class="showbox-right">03-5767-5832</td>
+								                      </tr>
+								                      <tr class="fax">
+								                        <td class="showbox-left">FAX</td>
+								                        <td class="showbox-right">03-5767-5808</td>
+								                      </tr>
+								                    </table>
+								                  </div>
+								                  <div class="showbox-bottom">
+								                    <a class="arrowed-link" href="/shop_menu/tenpo/heiwajima.html"><span>詳しく見る</span><img src="/assets/img/black_arrow.svg" alt="Header Link"></a>
+								                  </div>
+								                </div>
+								                <div class="footer-showbox row col-md-4 col-sm-12">
+								                  <div class="footer-showbox-img">
+								                    <img src="/assets/img/ichinoe.png" alt="factory" srcset="">
+								                  </div>
+								                  <div class="footer-factory-info">
+								                    <div class="footer-showbox-title">
+								                      <span class="showbox-title">ICHINOE</span>
+								                    </div>
+								                    <table class="showbox-content">
+								                      <tr id="footer-showbox-address" class="footer-showbox-text">
+								                        <td colspan="2">〒143-0016 東京都大田区大森北5-10-13</td>
+								                      </tr>
+								                      <tr id="footer-showbox-opentime" class="footer-showbox-text">
+								                        <td class="showbox-left">営業時間</td>
+								                        <td class="showbox-right">10:00 - 19:00</td>
+								                      </tr>
+								                      <tr id="footer-showbox-holiday" class="footer-showbox-text">
+								                        <td class="showbox-left">定休日</td>
+								                        <td class="showbox-right">第3水曜日・毎週木曜日</td>
+								                      </tr>
+								                      <tr class="tel">
+								                        <td class="showbox-left">TEL</td>
+								                        <td class="showbox-right">03-3674-2006</td>
+								                      </tr>
+								                      <tr class="fax">
+								                        <td class="showbox-left">FAX</td>
+								                        <td class="showbox-right">03-3674-2008</td>
+								                      </tr>
+								                    </table>
+								                  </div>
+								                  <div class="showbox-bottom">
+								                    <a class="arrowed-link" href="/shop_menu/tenpo/ichinoe.html"><span class="ja">詳しく見る</span><img src="/assets/img/black_arrow.svg" alt="Header Link"></a>
+								                  </div>
+								                </div>
+								              </div>
+								              <div class="footer-bottom row">
+								                <div class="col-md-4 col-sm-4 col-xs-4">
+								                  <div class="col-md-6 col-sm-1 col-xs-1"></div>
+								                  <div id="footer-logo-wrap" class="col-md-6 col-sm-11 col-xs-11">
+								                    <img id="footer-logo" class="logo" src="/assets/img/opg.png" alt="Company Logo" srcset="">
+								                  </div>
+								                </div>
+								                <div class="footer-text col-md-8 col-sm-8 col-xs-8">
+								                  <div class="company-title">K T S — — —</div>
+								                  <div class="additional-info">フッターです</div>
+								                  <div class="additional-info">フッターです</div>
+								                  <div class="additional-info">フッターです</div>
+								                </div>
+								                <div class="copyright row"><span>&copy; — — — — — —</span></div>
+								              </div>
+								            </footer>
+								          </div>
+								        </div>
+								      </section>
+								    </main>
+								    <script src="/assets/js/header_blu.js"></script>
 
-<div class="set_menu_n">
-<div class="set_menu_n_330">
-<div class="swiper-container">
-<div class="swiper-wrapper">
-<div class="swiper-slide"><img src="../../item_img/10487_1.jpg" alt="カーボンクラッチキット"></div>
-<div class="swiper-slide"><img src="../../item_img/10487_2.jpg" alt="カーボンクラッチキット"></div>
-<div class="swiper-slide"><img src="../../item_img/10487_3.jpg" alt="カーボンクラッチキット"></div>
-</div>
-<div class="swiper-button-prev"></div>
-<div class="swiper-button-next"></div>
-</div>
-
-<div class="item_caution">
-<p>※写真はイメージ・代表画像です。 </p>
-<p>※実際の商品とカラーやイメージが異なる場合がございます。</p>
-</div>
-</div>
-
-<div class="set_menu_n_cell">
-<div class="tab_wrap">
-<input id="tab1" type="radio" name="tab_btn" checked>
-<input id="tab2" type="radio" name="tab_btn">
-<div class="tab_area">
-<label class="tab1_label" for="tab1">【商品説明】</label>
-<label class="tab2_label" for="tab2">【主な仕様】</label>
-</div>
-<div class="panel_area">
-<div id="panel1" class="tab_panel">
-<p></p>
-</div>
-<div id="panel2" class="tab_panel">
-<p></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="space5px"></div>
-
-<table style="table-layout:fixed;" width="100%">
-
-<div class="item_info_sp">
-<div class="item_info_text_middle">
-<p>ATS [エーティーエス]</p>
-</div>
-<div class="item_info_text_middle_b">
-<p>カーボンクラッチキット</p>
-</div>
-<div class="tab_wrap">
-<input id="tab3" type="radio" name="tab_btn2" checked>
-<input id="tab4" type="radio" name="tab_btn2">
-<div class="tab_area">
-<label class="tab3_label" for="tab3">【商品説明】</label>
-<label class="tab4_label" for="tab4">【主な仕様】</label>
-</div>
-<div class="panel_area">
-<div id="panel3" class="tab_panel">
-<p></p>
-</div>
-<div id="panel4" class="tab_panel">
-<p></p>
-</div>
-</div>
-</div>
-</div>
-<!--ココまでSP-->
-<!--ココからOP-->
-    <div class="space3px"></div>
-    <details><summary><div class="change_button"><img src="../../img/option_button.jpg" alt="インプットシャフトオイルシール交換"></div></summary>
-        
-<div class="set_menu_text"><span class="item_info_text_middle_b">FF/4WD/MR車向けドライブシャフトオイルシール交換</span></div>
-<div class="set_menu_n">
-<div class="set_menu_n_200"><img src="../img/oil_seal.jpg" alt="オイルシール"></div>
-<div class="set_menu_n_cell">
-<div class="option_menu_text">
-<div>FF・4WD・MRなどの横向きエンジンはクラッチ交換・LSD交換時に必ずドライブシャフトを脱着します。<br>ついでに経年劣化しているオイルシールを交換しませんか？<br>インプットシャフト部はミッション分解しないと交換ができません。分解作業時は交換をお勧めします。</div>
-</div>
-<div class="set_price_left">オイルシール交換：<span class="font_f00">￥5,000</span></div>
-<div class="option_caution">※FF・4WD・MR向けの作業です。</div>
-</div>
-        
-</div>
-        <div class="sp_option_menu">
-        <div class="option_menu_text">
-<div>FF・4WD・MRなどの横向きエンジンはクラッチ交換・LSD交換時に必ずドライブシャフトを脱着します。<br>ついでに経年劣化しているオイルシールを交換しませんか？<br>インプットシャフト部はミッション分解しないと交換ができません。分解作業時は交換をお勧めします。</div>
-</div>
-<div class="set_price_left">オイルシール交換：<span class="font_f00">￥5,000</span></div>
-<div class="option_caution">※FF・4WD・MR向けの作業です。</div>
-        </div>
-    </details>
-<div class="space5px"></div>
-<!--ココまでOP-->
-<tr>
-<a class="set_img"><img src="../../img/set.jpg" alt="お得な工賃セット"></a>
-<p class="search_category">**********【適合検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10487.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
-</tr>
-<tr>
-<td>
-<!-- 車両メーカー検索ココから -->
-<p class="search_category">【自動車メーカー】</p>
-<form method="post" action="10487.php">
-<select name="manufacture" id="manufacture" onchange="submit(this.form)" style="width: 100%">
-<?php
-function array_column ($target_data, $column_key, $index_key = null) {
-
-if (is_array($target_data) === FALSE || count($target_data) === 0) return FALSE;
-
-$result = array();
-foreach ($target_data as $array) {
-if (array_key_exists($column_key, $array) === FALSE) continue;
-if (is_null($index_key) === FALSE && array_key_exists($index_key, $array) === TRUE) {
-$result[$array[$index_key]] = $array[$column_key];
-continue;
-}
-$result[] = $array[$column_key];
-}
-
-if (count($result) === 0) return FALSE;
-return $result;
-
-}
-
-if(isset($_POST["manufacture"])) {
-$manufacture_select = $_POST["manufacture"];
-}
-$csv  = array();
-$file = "../../item_db/10487.csv";
-$fp   = fopen($file, "r");
-
-while (($data = fgetcsv($fp, 0, ",")) !== FALSE) {
-$csv[] = $data;
-}
-$manufacture = array_column($csv, "0" ) ;
-$model = array_column($csv, "1" ) ;
-$manufacturelist = array_unique($manufacture);
-rsort($manufacturelist);
-unset($manufacturelist[0]);
-
-print_r("<option disabled='disabled'>車両メーカーを選択してください</option>");
-print('<option value="' . $manufacture_select . '" selected>' . $manufacture_select . '</option>');
-foreach($manufacturelist as $manufacturelist) {
-print('<option value="' . $manufacturelist . '">' . $manufacturelist . '</option>');
-}
-?>
-
-</select>
-<input type="submit" name="maker" value="選択"  class="select_button">
-
-</form>
-</td>
-<td>
-<p class="search_category">【車種】</p>
-<form name="make" method="post" action="10487.php">
-<select select id="make" name="make" onchange="submit(this.form)" style="width: 100%">
-<?php
-
-if(isset($_POST["make"])) {
-$make_select = $_POST["make"];
-}
-
-if (($fp = fopen($file, 'r')) !== FALSE){
-$row = 0;
-
-while (($line = fgetcsv($fp)) !== FALSE) {
-
-if(isset($manufacture_select) == FALSE){}
-else if($line[0] == $manufacture_select){
-$makerlist = $line[0];
-$makelist = $line[1];
-
-$maker_make_list[] = $makerlist;
-$maker_make_list[] = $makelist;
-
-}
-}
-$maker_make_result = array_unique($maker_make_list);
-$maker_make_result = array_merge($maker_make_result);
-unset($maker_make_result[0]);
-
-print_r("<option disabled='disabled'>車種を選択してください</option>");
-print('<option value="' . $make_select . '" selected>' . $make_select . '</option>');
-foreach($maker_make_result as $maker_make_result) {
-print_r('<option value="' . $maker_make_result . '">' . $maker_make_result . '</option>');
-}
-}
-fclose($fp);
-?>
-</select>
-<input type="submit" name="make" value="選択"  class="select_button">
-<input type="hidden" value="<?php echo $manufacture_select;?>" name="manufacture"/>
-</form>
-</td>
-<td>
-<p class="search_category">【型式】</p>
-<form method="post" action="10487.php">
-<select id="model" name="model" onchange="submit(this.form)" style="width: 100%">
-<?php
-if(isset($_POST["model"])) {
-$model_select = $_POST["model"];
-}
-
-if (($fp = fopen($file, 'r')) !== FALSE){
-$row = 0;
-while (($line = fgetcsv($fp)) !== FALSE) {
-
-if(isset($make_select) == FALSE){}
-else if($line[1] == $make_select){
-$makelist = $line[1];
-$modellist = $line[2];
-
-$make_model_list[] = $makelist;
-$make_model_list[] = $modellist;
-
-}
-}
-$make_model_result = array_unique($make_model_list);
-$make_model_result = array_merge($make_model_result);
-unset($make_model_result[0]);
-
-print_r("<option disabled='disabled'>型式を選択してください</option>");
-print('<option value="' . $model_select . '" selected>' . $model_select . '</option>');
-foreach($make_model_result as $make_model_result) {
-print_r('<option value="' . $make_model_result . '">' . $make_model_result . '</option>');
-}
-
-}
-fclose($fp);
-
-?>
-</select>
-<input type="hidden" value="<?php echo $manufacture_select;?>" name="manufacture"/>
-<input type="hidden" value="<?php echo $make_select;?>" name="make"/>
-<input type="submit" name="model" value="検索"  class="select_button">
-</form>
-</td>
-
-</tr>
-</table>
-<div class="item_info_text_small">▼ご希望の車種をタップすると詳細・購入ページに遷移します。<br>※表示価格は税抜です。<br>※輸入車は平和島店・一之江店のみの対応です。</div>
-<div class="scroll">
-<table class="matching_table_all">
-<tr>
-<?php
-if (($fp = fopen($file, 'r')) !== FALSE){
-$row = 0;
-}
-
-if(isset($manufacture_select) == FALSE || $manufacture_select == ""){print_r('<div class="noselect_car"><br>車両情報を選択してください<br>&nbsp;</div>');}
-else if(isset($make_select) == FALSE || $make_select == ""){print_r('<div class="noselect_car"><br>車種を選択してください<br>&nbsp;</div>');}
-/*
-
-else if(isset($make_select) == FALSE || $make_select == ""){
-print_r('<tr><th>車種</th>');
-print_r('<th>工賃セット価格</th>');
-print_r('<th>型式</th>');
-print_r('<th>年式</th>');
-print_r('<th>適合詳細</th>');
-print_r('<th>メーカー品番</th>');
-print_r('<th>取付位置</th>');
-print_r('<th>タイプ</th>');
-print_r('<th>仕様</th>');
-print_r('<th>備考</th></tr>');
-
-while (($line = fgetcsv($fp)) !== FALSE) {
-if($line[0] == $manufacture_select){
-
-print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
-<td>' . $line[1] . '
-</td>');
-if( empty($line[13]) ){
-echo('<td>お問い合わせ下さい</td>');}
-else{$price = number_format((float)$line[13]);
-if( empty($line[14]) ){
-echo('<td class="matching_table_price">￥' . $price . '</td>');}
-else{
-$price_camp = number_format($line[14]);
-echo('<td class="matching_table_price"><del><a>￥' . $price . '</a></del><br>￥' . $price_camp . '</td>');
-}
-}
-print_r('<td>' . $line[2] . '</td>');
-print_r('<td>' . $line[3] . '</td>');
-print_r('<td>' . $line[4] . '</td>');
-print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
-print_r('<td>' . $line[6] . '</td>');
-print_r('<td>' . $line[7] . '</td>');
-print_r('<td>' . $line[8] . '</td>');
-print_r('<td>' . $line[10] . '</td></tr>');
-}
-}
-}
-*/
-else if(isset($model_select) == FALSE || $model_select == ""){
-print_r('<tr><th>車種</th>');
-print_r('<th>工賃セット価格</th>');
-print_r('<th>型式</th>');
-print_r('<th>年式</th>');
-print_r('<th>適合詳細</th>');
-print_r('<th>メーカー品番</th>');
-print_r('<th>取付位置</th>');
-print_r('<th>タイプ</th>');
-print_r('<th>仕様</th>');
-print_r('<th>備考</th></tr>');
-
-while (($line = fgetcsv($fp)) !== FALSE) {
-
-if($line[0] == $manufacture_select && $line[1] == $make_select){
-
-print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
-<td>' . $line[1] . '
-</td>');
-if( empty($line[13]) ){
-echo('<td>お問い合わせ下さい</td>');}
-else{$price = number_format((float)$line[13]);
-if( empty($line[14]) ){
-echo('<td class="matching_table_price">￥' . $price . '</td>');}
-else{
-$price_camp = number_format($line[14]);
-echo('<td class="matching_table_price"><del><a>￥' . $price . '</a></del><br>￥' . $price_camp . '</td>');
-}
-}
-print_r('<td>' . $line[2] . '</td>');
-print_r('<td>' . $line[3] . '</td>');
-print_r('<td>' . $line[4] . '</td>');
-print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
-print_r('<td>' . $line[6] . '</td>');
-print_r('<td>' . $line[7] . '</td>');
-print_r('<td>' . $line[8] . '</td>');
-print_r('<td>' . $line[10] . '</td></tr>');
-}
-}
-}
-
-else if(isset($model_select) == TRUE){
-print_r('<tr><th>車種</th>');
-print_r('<th>工賃セット価格</th>');
-print_r('<th>型式</th>');
-print_r('<th>年式</th>');
-print_r('<th>適合詳細</th>');
-print_r('<th>メーカー品番</th>');
-print_r('<th>取付位置</th>');
-print_r('<th>タイプ</th>');
-print_r('<th>仕様</th>');
-print_r('<th>備考</th></tr>');
-
-while (($line = fgetcsv($fp)) !== FALSE) {
-
-if($line[0] == $manufacture_select && $line[1] == $make_select && $line[2] == $model_select){
-print_r('<tr data-href=https://www.kts-web.com/ec_shop/products/detail/' . $line[15] . ' class="matching_table">
-<td>' . $line[1] . '
-</td>');
-if( empty($line[13]) ){
-echo('<td>お問い合わせ下さい</td>');}
-else{$price = number_format((float)$line[13]);
-if( empty($line[14]) ){
-echo('<td class="matching_table_price">￥' . $price . '</td>');}
-else{
-$price_camp = number_format($line[14]);
-echo('<td class="matching_table_price"><del><a>￥' . $price . '</a></del><br>￥' . $price_camp . '</td>');
-}
-}
-print_r('<td>' . $line[2] . '</td>');
-print_r('<td>' . $line[3] . '</td>');
-print_r('<td>' . $line[4] . '</td>');
-print_r('<td class="matching_table_cell">' . $line[5] . '</td>');
-print_r('<td>' . $line[6] . '</td>');
-print_r('<td>' . $line[7] . '</td>');
-print_r('<td>' . $line[8] . '</td>');
-print_r('<td>' . $line[10] . '</td></tr>');
-}
-}
-}
-
-fclose($fp);
-
-?>
-</tr>
-
-</table>
-</div>
-<br>&nbsp;
-</div>
-</td>
-</tr>
-</table>
-</div>
-<table class="footer_sp">
-<div class="footer_back">
-<div class="header_bar"><img src="../../../img/bar.gif"></div>
-<div class="space5px"></div>
-<div class="footer_shop_info">
-<div class="footer_shop_name"><a href="../../../../shop_menu/tenpo/factory.html">KTS FACTORY</a></div>
-<div class="footer_shop_tel">&nbsp;&nbsp;TEL：048-285-8906&nbsp;&nbsp;FAX：048-285-8939</div>
-</div>
-<div class="footer_shop_info">
-<div class="footer_shop_name"><a href="../../../../shop_menu/tenpo/ichinoe.html">KTS一之江店</a></div>
-<div class="footer_shop_tel">&nbsp;&nbsp;TEL：03-3674-2006&nbsp;&nbsp;FAX：03-3674-2008</div>
-</div>
-<div class="footer_shop_info">
-<div class="footer_shop_name"><a href="../../../../shop_menu/tenpo/heiwajima.html">KTS平和島店</a></div>
-<div class="footer_shop_tel">&nbsp;&nbsp;TEL：03-5767-5832&nbsp;&nbsp;FAX：03-5767-5808</div>
-</div>
-</div>
-</table>
-<script src="../../script/swiper/js/swiper.js"></script>
-<script>
-var swiper = new Swiper('.swiper-container', {
-navigation: {
-nextEl: '.swiper-button-next',
-prevEl: '.swiper-button-prev',
-},
-loop: true,
-pagination: {
-el: '.swiper-pagination',
-type: 'bullets',
-clickable: true,
-},
-});
-</script>
-<div class="header_bar"><img src="../../../img/bar.gif">
-<div class="footer">Copyright (C) Kind Techno Structure Corporation. All Rights Reserved.</div>
-</div>
-</body>
-</html>
+								</html>

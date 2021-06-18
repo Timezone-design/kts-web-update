@@ -1,7 +1,7 @@
  <html>
 								<head>
 								<meta content="ロアアームバーの発展形。ロアアームバーが左右のピボットをダイレクトに結んだ｢線｣であるのに対して、こちらは言わば｢面｣として、より広範囲な部分をカバー。前後のクロスメンバー部を中心に、オープン構造のフロア下に立体的なトラス状の高剛性スチールオーバルシャフトを張り巡らしている。負荷が大きい取付け部には強靭なガセットを配することで路面からの入力が一点に集中しないように配慮されている。" name="description"/>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>KTS-web 商品ラインナップ AutoExe メンバーブレースセット</title><script type="application/ld+json">{@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "商品ラインナップ"}},{@type: "ListItem",position: 3,item:{@id: "/item/10799.php",name: "メンバーブレースセット"}}]}</script>
 <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
 <meta content="width=device-width" name="viewport"/>
 <title>KTS-web 商品ラインナップ AutoExe メンバーブレースセット</title>
@@ -153,7 +153,7 @@
 	                <table style="table-layout:fixed;" width="100%">
 	                  <!--ココまでSP-->
 	                  <tr>
-	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10799.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
+	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../set/item/10799.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
 	                  </tr>
 	                </table>
 	                  <?php

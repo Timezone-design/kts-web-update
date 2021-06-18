@@ -1,7 +1,7 @@
  <html>
 								<head>
 								<meta content="純正品は蛇腹形状ゆえ吸入空気の乱流を招き抵抗を増大させてしまう傾向にあるためフレキシブルジョイントを廃し、有効流路面積を最大限確保した仕様。各エンジン別に専用デザインされたホースの素材には、吸入負圧による変形抑制効果が高い多層ポリスターシリコンやFRPを採用。結果、アクセルレスポンスの向上を実現。真紅に統一されたカラーリングはエンジンルームにアクセントを添える。" name="description"/>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>KTS-web 商品ラインナップ AutoExe インテークサクションキット</title><script type="application/ld+json">{@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "商品ラインナップ"}},{@type: "ListItem",position: 3,item:{@id: "/item/10772.php",name: "インテークサクションキット"}}]}</script>
 <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
 <meta content="width=device-width" name="viewport"/>
 <title>KTS-web 商品ラインナップ AutoExe インテークサクションキット</title>
@@ -153,7 +153,7 @@
 	                <table style="table-layout:fixed;" width="100%">
 	                  <!--ココまでSP-->
 	                  <tr>
-	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10772.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
+	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../set/item/10772.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
 	                  </tr>
 	                </table>
 	                  <?php

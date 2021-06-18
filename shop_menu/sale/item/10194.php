@@ -1,7 +1,7 @@
  <html>
 								<head>
 								<meta content="インチアップ&amp;ローダウンを前提にストリートでの乗り心地を追求し、 複筒式構造のショックアブソーバを採用しました。荒れた路面も存在するストリートにおいて乗り心地を確保するには、十分なストロークと、ローフリクションでスムーズに動くショックアブソーバが必要です。その点、複筒式はオイル室とガス室が直列配置ではないためストロークを確保しやすく、封入ガス圧が低いため、ローフリクション。スムーズにストロークすることで荒れた路面や凹凸をしっかりと捉え、低速ではしなやかに、高速ではフラットで安定感ある走りをもたらします。" name="description"/>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>KTS-web 商品ラインナップ TEIN STREET BASIS</title><script type="application/ld+json">{@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "商品ラインナップ"}},{@type: "ListItem",position: 3,item:{@id: "/item/10194.php",name: "STREET BASIS"}}]}</script>
 <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
 <meta content="width=device-width" name="viewport"/>
 <title>KTS-web 商品ラインナップ TEIN STREET BASIS</title>
@@ -153,7 +153,7 @@
 	                <table style="table-layout:fixed;" width="100%">
 	                  <!--ココまでSP-->
 	                  <tr>
-	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10194.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
+	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../set/item/10194.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
 	                  </tr>
 	                </table>
 	                  <?php

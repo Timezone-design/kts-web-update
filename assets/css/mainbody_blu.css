@@ -1,6 +1,7 @@
 * {
   font-family: "ヒラギノゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
   word-break: break-all;
+  line-height: 1.5;
 }
 
 img {
@@ -396,6 +397,7 @@ a.notype:link {
 .store-introduction .section-title {
   width: 100%;
   text-align: center;
+  margin: 20px 0;
 }
 
 .store-introduction .two-button-wrapper {
@@ -469,9 +471,30 @@ a.notype:link {
 .store-introduction .workcost-table tr.koutin_price_box_title,
 .store-introduction .daisya_table_cell tr.daisya_list_table_title,
 .search-results table thead th,
-.main_c table tr.pr_app_box_title {
-  background-color: #383838;
+.main_c table tr.pr_app_box_title,
+.th_yeti_table_title,
+.th_yukidaruma_table {
+  background-color: #383838 !important;
   color: white !important;
+}
+
+.th_yeti_price_pc td,
+.th_yeti_price_sp td,
+.th_table_2w_yukidaruma td,
+.th_yukidaruma_kamotsu {
+    text-align: center;
+}
+
+.th_yeti_price_pc td a,
+.th_yeti_price_sp td a,
+.th_table_2w_yukidaruma td a {
+  text-decoration: none;
+  color: black;
+}
+
+
+.th_yeti_table_price {
+  color: crimson;
 }
 
 .store-introduction .workcost-table tbody td,
@@ -2262,6 +2285,7 @@ table.pr_app_box_100p {
 
 .pr_info_title {
   font-weight: bold;
+  margin-top: 10px;
 }
 
 .pr_right_link img {
@@ -2342,6 +2366,16 @@ div.pr_beta_set_115 {
 
 .set_c_title img {
   width: auto;
+}
+
+.pr_back.re .pr_info {
+  flex-direction: column;
+}
+
+.pr_back.re .pr_table {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 .set_maker_hp {
@@ -2682,6 +2716,11 @@ a.link {
 
 
 @media only screen and (max-width: 767px) {
+
+  * {
+    font-size: 15px;
+    line-height: 1.4;
+  }
 
   .four-of-a-kind-one a.arrowed-link {
     padding-top: 46%;
@@ -3161,7 +3200,7 @@ a.link {
   }
 
   .store-introduction .works-and-prices {
-    width: 100%;
+    width: 95%;
     margin: auto;
   }
 
@@ -3172,7 +3211,7 @@ a.link {
   }
 
   .store-introduction .workcost-table {
-    width: 100%;
+    width: 95%;
     margin: auto;
   }
 
@@ -3213,13 +3252,13 @@ a.link {
 
   div.grey-wrapper.row.change-tire>div.table-bottom-info.ja,
   .store-introduction .tire-replace-note {
-    width: 100%;
+    width: 95%;
     margin: auto;
     font-size: 15px;
   }
 
   .store-introduction .other-info {
-    width: 100%;
+    width: 95%;
     margin: auto;
   }
 
@@ -3588,7 +3627,11 @@ a.link {
     padding-left: 10px !important;
   }
 
-
+  .pr_back.re .pr_table {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
 
 
 
@@ -3648,7 +3691,8 @@ a.link {
   .set_car_maker_link,
   .neotune_none_sp,
   .set_tire_a_cell2,
-  .pr_top_title {
+  .pr_top_title,
+  .th_yeti_price_pc {
     display: none;
   }
 
@@ -3709,7 +3753,8 @@ a.link {
   .neotune_none_pc,
   .set_tire_a_cell2_sp,
   .pr_title_sp_photo,
-  .pr_title_sp {
+  .pr_title_sp,
+  .th_yeti_price_sp {
     display: none;
   }
 

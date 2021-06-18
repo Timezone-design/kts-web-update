@@ -1,7 +1,7 @@
  <html>
 								<head>
 								<meta content="「Area35 リフトアップサス」に降雪/海沿い仕様として「Area35-Black」を追加。&lt;br&gt;冬季に、凍結防止剤/融雪剤等を使用する雪国や沿岸地域からのご要望に、錆び・腐食対策として新しく導入。&lt;br&gt;一般塗装の1.5倍(当社仕様塗装比)の防腐・耐久性を持つパーカー処理塗装(腐食防止塗装)を施し、塗装剥がれ・錆び・腐食折れをより長期間防ぐことができます。" name="description"/>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>KTS-web 商品ラインナップ JIC MAGIC Area35-Black</title><script type="application/ld+json">{@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "商品ラインナップ"}},{@type: "ListItem",position: 3,item:{@id: "/item/10093.php",name: "Area35-Black"}}]}</script>
 <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
 <meta content="width=device-width" name="viewport"/>
 <title>KTS-web 商品ラインナップ JIC MAGIC Area35-Black</title>
@@ -153,7 +153,7 @@
 	                <table style="table-layout:fixed;" width="100%">
 	                  <!--ココまでSP-->
 	                  <tr>
-	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../sale/item/10093.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
+	                    <p class="search_category">**********【商品検索】**********&nbsp;&nbsp;<a class="change_button" href="../../set/item/10093.php"><img src="../../img/sale_button.jpg" alt="単品販売の価格表はコチラ"></a></p>
 	                  </tr>
 	                </table>
 	                  <?php
