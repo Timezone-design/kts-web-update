@@ -284,7 +284,7 @@ header + div {
 
   .arrowed-title:not(#header-carousel-name) img {
     height: 13px;
-    width: 100%;
+    width: 72%;
     position: absolute;
     top: 21px;
     left: 49%;
