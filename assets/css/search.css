@@ -33,7 +33,8 @@
     table.matching_table_all td{
         border-collapse: collapse;
         border:1px solid black;
-        white-space: nowrap;padding-left:5px;
+        /*white-space: nowrap;*/
+        padding-left:5px;
         padding-right:5px;
         padding-top: 3px;
         padding-bottom: 3px;
