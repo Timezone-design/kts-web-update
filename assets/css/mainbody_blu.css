@@ -189,6 +189,11 @@ img {
   font-size: 14px;
 }
 
+.matching_table_all td {
+  white-space: nowrap;
+  width: auto;
+}
+
 .four-square-one .inner-wrapper>a>img {
   width: 100%;
 }
@@ -426,8 +431,7 @@ a.notype:link {
 
 .store-introduction .workcost-table table,
 .daisya_table_cell table,
-.search-results table,
-.main_c table {
+.main_c table:not(.matching_table_all) {
   width: 100%;
   border-collapse: collapse;
   border: solid 1px rgba(128, 128, 128, 0.8);
@@ -2825,7 +2829,7 @@ a.link {
 
   .search-results .matching_table_all th,
   .search-results .matching_table_all td {
-    font-size: 10px;
+    font-size: 13px;
     padding: 2px;
   }
 

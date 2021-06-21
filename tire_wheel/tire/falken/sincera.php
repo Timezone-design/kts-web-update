@@ -67,11 +67,11 @@
                         <div class="en">WHOLESALE</div>
                       </a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="/blog/">
+                    <li class="nav-item"><a class="nav-link" href="/blog/index.html">
                         <div class="ja">ブログ</div>
                         <div class="en">BLOG</div>
                       </a></li>
-                    <li class="nav-item"><a class="nav-link" href="/company.html">
+                    <li class="nav-item"><a class="nav-link" href="/company/index.html">
                         <div class="ja">会社概要</div>
                         <div class="en">COMPANY</div>
                       </a>
