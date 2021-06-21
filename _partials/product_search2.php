@@ -5,13 +5,15 @@ $inch = isset($_POST['inch'])?$_POST['inch']:'';
 $tire_width = isset($_POST['tire_width'])?$_POST['tire_width']:'';
 $flatness = isset($_POST['flatness'])?$_POST['flatness']:'';
 $product = isset($_POST['product'])?$_POST['product']:'';
-$file = $root_dir.'/db/tire.csv';
+$file = $root_dir.'/db/item-tire.csv';
+$filename = basename($_SERVER['PHP_SELF'], '.php');
 $handle = fopen($file, "r");
 $inches = []; $tire_widthes = []; $flatnesses = []; $filtered_products = [];
 $row = fgetcsv($handle, 0, ",");
 
 while (($row = fgetcsv($handle, 0, ",")) !== false) 
 {
+	if($row[0] != $filename) continue;
     $product = array(
     	'manufacturer' => (string) $row[1],
     	'brand' => (string) $row[2],
@@ -23,7 +25,8 @@ while (($row = fgetcsv($handle, 0, ",")) !== false)
     	'four_set' => (string) $row[8],
     	'note' => (string) $row[9],
     	'speed_notation' => (string) $row[10],
-    	'genre' => (string) $row[11]
+    	'genre' => (string) $row[11],
+    	'id' => (string) $row[12]
     );
 
     $products []= $product;
@@ -82,9 +85,10 @@ fclose($handle);
 		<table class="matching_table_all">
 			<thead>
 				<tr>
-					<th>メーカー</th>
-					<th>ブランド</th>
-					<th>商品名</th>
+					<!-- 【インチ・扁平率・タイヤ幅・販売価格・4本セット・備考・速度表記】 -->
+					<!-- <th>メーカー</th> -->
+					<!-- <th>ブランド</th> -->
+					<!-- <th>商品名</th> -->
 					<th>インチ</th>
 					<th>扁平率</th>
 					<th>タイヤ幅</th>
@@ -92,15 +96,15 @@ fclose($handle);
 					<th>4本セット</th>
 					<th>備考</th>
 					<th>速度表記</th>
-					<th>ジャンル</th>
+					<!-- <th>ジャンル</th> -->
 				</tr>
 			</thead>
 			<tbody>
 				<?php foreach ($filtered_products as $key => $value) { ?>
-				<tr>
-					<td><?=$value['manufacturer']?></td>
-					<td><?=$value['brand']?></td>
-					<td><?=$value['product_name']?></td>
+				<tr onclick="window.location = 'https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'">
+					<!-- <td><?=$value['manufacturer']?></td> -->
+					<!-- <td><?=$value['brand']?></td> -->
+					<!-- <td><?=$value['product_name']?></td> -->
 					<td><?=$value['inch']?></td>
 					<td><?=$value['flatness']?></td>
 					<td><?=$value['tire_width']?></td>
@@ -108,7 +112,7 @@ fclose($handle);
 					<td><?=$value['four_set']?></td>
 					<td><?=$value['note']?></td>
 					<td><?=$value['speed_notation']?></td>
-					<td><?=$value['genre']?></td>
+					<!-- <td><?=$value['genre']?></td> -->
 				</tr>
 				<?php } ?>
 			</tbody>

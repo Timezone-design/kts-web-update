@@ -4,30 +4,19 @@
           $car_manu = isset($_POST['car_manu'])?$_POST['car_manu']:'';
           $car_model_cat = isset($_POST['car_model_cat'])?$_POST['car_model_cat']:'';
           $model = isset($_POST['model'])?$_POST['model']:'';
-          $file = $root_dir.'/db/car_manus.csv';
-          $handle = fopen($file, "r");
           $car_manus = []; $car_model_cats = []; $product_models = []; $filtered_products = [];
           
-          while (($row = fgetcsv($handle, 0, ",")) !== false) 
-          {
-              if($row[0] != '') $car_manus[$row[0]] = $row[0];
-          }
-          
-          fclose($handle);
-          
-          if($car_manu != ''){
             $file = $root_dir.'/db/item.csv';
-            // $handle = fopen($file, "r");
             $buffer=explode("\n",file_get_contents($file));
-            // echo(count($buffer));
+
             foreach($buffer as $row_buf){
                 $row = explode(",", $row_buf);
                 if(count($row) < 19) continue;
-                
+                if($row[7] == "") continue;
                 $product = new stdClass();
                 $product->car_manu = $row[7];
-                
-                if($product->car_manu == $car_manu){
+                $car_manus[$row[7]] = $row[7];
+                if($product->car_manu == $car_manu && $car_manu != ''){
                   $product->car_model_cat = $row[1];
                   if($product->car_model_cat != ''){
                     $car_model_cats[$product->car_model_cat] = $product->car_model_cat;
@@ -42,17 +31,20 @@
                       $product->compliance_details = $row[12];
                       $product->specification = $row[13];
                       $product->manu_part_number = $row[5];
-                      $product_models [$product->model]= $product->model;
-                      if($model != '' && $model == $product->model)
+                      $product->id = $row[14];
+                      $product_models [$product->product_name]= $product->product_name;
+                      if($product->price == "出さない"){
+                        $product->price = "お問い合わせください";
+                      }else{
+                        $product->price = number_format($product->price);
+                      }
+                      if($model != '' && $model == $product->product_name)
                         $filtered_products []= $product;
                     }	
                   }
                   
                 }
             }
-          
-            // fclose($handle);
-          }
           
           ?>
           <div class="search-block grey-wrapper" id="search-block">
@@ -88,8 +80,8 @@
                 </select>
               </div>
               <div class="search-select col-md-4 col-sm-4">
-                <select class="custom-select-lg" name="model">
-                  <option value='' <?php if($model == '') echo 'selected'; ?>>型式を選ぶ</option>
+                <select class="custom-select-lg" name="model" onchange="enableSearchButton(this.value);">
+                  <option value='' <?php if($model == '') echo 'selected'; ?>>商品を選ぶ</option>
                   <?php foreach ($product_models as $key => $value) { ?>
                   <option value="<?=$value?>" <?php if($model == $value) echo 'selected'; ?>><?=$value?></option>
                   <?php } ?>
@@ -99,12 +91,13 @@
               <div class="clearfix"></div>
               <div class="clearfix"></div>
               <div class="clearfix"></div>
-              <button type="submit" class="btn-search">検索</button>
+              <button type="submit" class="btn-search" disabled>検索</button>
             </form>
             <?php if(count($filtered_products) > 0){ ?>
             <div class="search-results">
               <table class="matching_table_all">
                 <thead>
+                  <!-- 【メーカー名・商品名・価格・車種・型式・年式・駆動・適合詳細・仕様・メーカー品番】 -->
                   <tr>
                     <th>メーカー名</th>
                     <th>商品名</th>
@@ -118,9 +111,9 @@
                     <th>メーカー品番</th>
                   </tr>
                 </thead>
-                <tbody>
+                <tbody class="top">
                   <?php foreach ($filtered_products as $key => $value) { ?>
-                  <tr>
+                  <tr onclick="window.location = 'https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'">
                     <td><?=$value->manufacturer_name?></td>
                     <td><?=$value->product_name?></td>
                     <td><?=$value->price?></td>
@@ -139,3 +132,13 @@
             <?php } ?>
             <div class="clearfix"></div>
           </div>
+
+<script>
+function enableSearchButton(value){
+  if(value != ""){
+    document.getElementsByClassName("btn-search")[0].disabled=false;
+  }else{
+    document.getElementsByClassName("btn-search")[0].disabled=true;
+  }
+}
+</script>
