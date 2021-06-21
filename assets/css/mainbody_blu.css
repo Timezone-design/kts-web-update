@@ -2719,9 +2719,19 @@ a.link {
   color: black;
 }
 
+.set-sale-switch {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+  color: black;
+  margin: 10px 0px;
+}
 
-
-
+.search_category {
+  display: none;
+}
 
 
 
