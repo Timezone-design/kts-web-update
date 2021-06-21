@@ -159,7 +159,7 @@
 	                  <?php
 	                  	$root_dir = __DIR__.'/../../..';
 						$uri = 'shop_menu/sale/item/'.basename(__FILE__).'#search-block';
-						include(__DIR__.'/../../../_partials/product_search4.php');
+						include(__DIR__.'/../../../_partials/product_search41.php');
 						?>
 	              </div>
 	            </div>
