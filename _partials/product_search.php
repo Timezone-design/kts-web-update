@@ -19,7 +19,7 @@
             $file = $root_dir.'/db/item.csv';
             // $handle = fopen($file, "r");
             $buffer=explode("\n",file_get_contents($file));
-            echo(count($buffer));
+            // echo(count($buffer));
             foreach($buffer as $row_buf){
                 $row = explode(",", $row_buf);
                 if(count($row) < 19) continue;
@@ -113,8 +113,8 @@
                     <th>型式</th>
                     <th>年式</th>
                     <th>駆動</th>
-                    <th>適合詳細</th>
-                    <th>仕様</th>
+                    <!-- <th>適合詳細</th> -->
+                    <!-- <th>仕様</th> -->
                     <th>メーカー品番</th>
                   </tr>
                 </thead>
@@ -128,8 +128,8 @@
                     <td><?=$value->model?></td>
                     <td><?=$value->model_year?></td>
                     <td><?=$value->driving?></td>
-                    <td><?=$value->compliance_details?></td>
-                    <td><?=$value->specification?></td>
+                    <!-- <td><?=$value->compliance_details?></td> -->
+                    <!-- <td><?=$value->specification?></td> -->
                     <td><?=$value->manu_part_number?></td>
                   </tr>
                   <?php } ?>

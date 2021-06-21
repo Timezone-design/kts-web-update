@@ -95,6 +95,10 @@ footer {
     padding: 0 0 !important;
   }
 
+  .set_menu_n_info_text {
+    padding-left: 10px !important;
+  }
+
   .footer-factory-info {
     flex: 0 0 70%;
   }
@@ -107,8 +111,10 @@ footer {
   }
 
   .showbox-content td {
-    padding: 5px;
-    padding-left: 13px;
+    padding: 1px;
+    padding-left: 10px;
+    font-size: 13px;
+    line-height: 1.2;
   }
 
   .footer-showbox-title {

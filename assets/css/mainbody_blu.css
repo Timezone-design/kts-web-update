@@ -2730,6 +2730,7 @@ a.link {
     color: white;
     display: block;
     position: absolute;
+    width: 100%;
     top: 40%;
     left: 50%;
     transform: translateX(-50%);

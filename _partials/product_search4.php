@@ -17,7 +17,7 @@
             $file = $root_dir.'/db/item.csv';
             // $handle = fopen($file, "r");
             $buffer=explode("\n",file_get_contents($file));
-            echo(count($buffer));
+            // echo(count($buffer));
             foreach($buffer as $row_buf){
                 $row = explode(",", $row_buf);
                 if(count($row) < 19) continue;
