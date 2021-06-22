@@ -109,7 +109,7 @@
 <div class="item_caution"><p>※写真はイメージ・代表画像です。 </p><p>※実際の商品とカラーやイメージが異なる場合がございます。</p></div>
 </div>
 <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
-<a class="set-sale-switch" href="../../sale/item/10489.php">取付へのリンク</a><div class="tab_wrap">
+<a class="set-sale-switch" href="../../sale/item/10489.php">メニュー内容・物販へのリンク</a><div class="tab_wrap">
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#home">商品 + 取付工賃</a></li>
 <li><a data-toggle="tab" href="#menu2">アライメント測定・調整</a></li>

@@ -3218,7 +3218,12 @@ a.link {
   .al_tuv_text_sp {
     font-size: 36px;
   }
-
+  .search-results {
+    width: 95%;
+    margin: auto;
+    overflow: scroll;
+    margin-top: 50px;
+}
   .store-introduction .payment-note .title {
     color: deepskyblue;
     font-size: 15px;
