@@ -37,12 +37,12 @@
                       if($product->price == "出さない"){
                         $product->price = "お問い合わせください";
                       }else{
-                        $product->price = number_format($product->price);
+                        $product->price = "\\".number_format($product->price);
                       }
                       if($product->price1 == "出さない"){
                         $product->price1 = "お問い合わせください";
                       }else{
-                        if($product->price1 != "" && $product->price1 != null) $product->price1= number_format((int)$product->price1);
+                        if($product->price1 != "" && $product->price1 != null) $product->price1= "\\".number_format((int)$product->price1);
                       }
                       if($model != '' && $model == $product->model)
                         $filtered_products []= $product;
