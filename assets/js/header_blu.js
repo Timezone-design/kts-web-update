@@ -67,4 +67,9 @@ $( document ).ready(function(){
 
     element.parent().css({"flex-direction": "column"});
   }
+
+  if ($('.small-category-top-text').children().text().trim() == 'Placeholder') {
+    $('.small-category-top-text').children().css({'display': 'none'});
+  }
 });
+
