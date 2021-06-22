@@ -2733,9 +2733,13 @@ a.link {
   display: none;
 }
 
+.th_back .pr_table .container .nav li {
+  width: 100%;
+}
 
-
-
+.th_back .pr_table .container .tab-content .tab-pane div {
+  width: 100%;
+}
 
 
 
