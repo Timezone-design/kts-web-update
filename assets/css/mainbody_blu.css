@@ -312,6 +312,11 @@ a.notype:link {
 .four-tiles-one img,
 .small-category-top-img img {
   width: 100%;
+  filter: contrast(0.5);
+}
+
+.small-category-top-img {
+  padding: 0;
 }
 
 .four-tiles-title {
@@ -929,11 +934,20 @@ hr.set_c_top_hr {
   border: none;
   position: relative;
   height: 40px;
-  /* border: 1px solid; */
   width: 200px;
   background-color: lightblue;
   border-radius: 20px;
   outline: none;
+
+  -webkit-font-size: 15px;
+  -webkit-color: black;
+  -webkit-border: none;
+  -webkit-position: relative;
+  -webkit-height: 40px;
+  -webkit-width: 200px;
+  -webkit-background-color: lightblue;
+  -webkit-border-radius: 20px;
+  -webkit-outline: none;
 }
 
 .search-block button.btn-search img {
