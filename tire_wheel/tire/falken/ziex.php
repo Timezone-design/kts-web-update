@@ -202,23 +202,58 @@
               </div>
              </a>
             </li>
-            <li>
-             <a data-toggle="tab" href="#_2">
-              <div class="th_comm_bar_00f">
-               <div class="th_comm_bar_3px">
-                従来モデル・その他商品
-               </div>
-              </div>
-             </a>
-            </li>
            </ul>
            <br/>
            <div class="tab-content">
             <div class="tab-pane fade in active show" id="_0">
+                <div class="th_table">
+        <div class="th_table_photo_350">
+         <img alt="FALKEN ZIEX S/TZ05" class="th_tire_img" src="img/ziex/s_tz05.jpg"/>
+        </div>
+        <div class="th_table_cell">
+         <div class="th_table_comm">
+          <span class="font_3fc_b">
+           街中でも高速路でも優雅なドライブに欠かせないSUV専用タイヤ
+          </span>
+         </div>
+         <div class="th_table_comm">
+          高速走行時のウエット性能を確保しながらも、高い静粛性能を実現。高級SUVやスポーツトラック等をドレスアップします。
+         </div>
+         <div class="th_tire_price">
+          <form action="../maker_item.php" method="post" target="_blank">
+           <input name="maker" type="hidden" value="FALKEN"/>
+           <input name="brand" type="hidden" value="ZIEX"/>
+           <input name="item" type="hidden" value="S/TZ05"/>
+           <input name="image" src="../img/price.gif" type="image"/>
+          </form>
+         </div>
+        </div>
+       </div>
             </div>
             <div class="tab-pane fade" id="_1">
-            </div>
-            <div class="tab-pane fade" id="_2">
+                <div class="th_table">
+        <div class="th_table_photo_350">
+         <img alt="FALKEN ZIEX ZE914F" class="th_tire_img" src="img/ziex/ze914f.jpg"/>
+        </div>
+        <div class="th_table_cell">
+         <div class="th_table_comm">
+          <span class="font_3fc_b">
+           操縦性、低燃費、乗り心地など万能性を追求した高品質タイヤ
+          </span>
+         </div>
+         <div class="th_table_comm">
+          スポーツ性と快適性をハイレベルに引き上げることで安定したハンドリングを実現。幅広いユーザーにフィットします。
+         </div>
+         <div class="th_tire_price">
+          <form action="../maker_item.php" method="post" target="_blank">
+           <input name="maker" type="hidden" value="FALKEN"/>
+           <input name="brand" type="hidden" value="ZIEX"/>
+           <input name="item" type="hidden" value="ZE914F"/>
+           <input name="image" src="../img/price.gif" type="image"/>
+          </form>
+         </div>
+        </div>
+       </div>
             </div>
            </div>
           </div>
