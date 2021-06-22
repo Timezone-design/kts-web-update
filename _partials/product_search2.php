@@ -101,7 +101,7 @@ fclose($handle);
 			</thead>
 			<tbody>
 				<?php foreach ($filtered_products as $key => $value) { ?>
-				<tr onclick="window.location = 'https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'">
+				<tr onclick="window.open('https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>')">
 					<!-- <td><?=$value['manufacturer']?></td> -->
 					<!-- <td><?=$value['brand']?></td> -->
 					<!-- <td><?=$value['product_name']?></td> -->

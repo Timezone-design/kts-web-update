@@ -118,7 +118,7 @@
                 </thead>
                 <tbody>
                   <?php foreach ($filtered_products as $key => $value) { ?>
-                  <tr onclick="window.location = 'https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'">
+                  <tr onclick="window.open('https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>')">
                     <td>
                     <?php 
                     if($value->price1 != "" && $value->price1 > 0){

@@ -81,7 +81,7 @@
               </div>
               <div class="search-select col-md-4 col-sm-4">
                 <select class="custom-select-lg" name="model" onchange="enableSearchButton(this.value);">
-                  <option value='' <?php if($model == '') echo 'selected'; ?>>商品を選ぶ</option>
+                  <option value='' <?php if($model == '') echo 'selected'; ?>>製品を選ぶ</option>
                   <?php foreach ($product_models as $key => $value) { ?>
                   <option value="<?=$value?>" <?php if($model == $value) echo 'selected'; ?>><?=$value?></option>
                   <?php } ?>
@@ -101,7 +101,7 @@
                   <tr>
                     <th>メーカー名</th>
                     <th>商品名</th>
-                    <th>価格</th>
+                    <th>工賃セット価格</th>
                     <th>車種</th>
                     <th>型式</th>
                     <th>年式</th>
@@ -113,7 +113,7 @@
                 </thead>
                 <tbody class="top">
                   <?php foreach ($filtered_products as $key => $value) { ?>
-                  <tr onclick="window.location = 'https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'">
+                  <tr onclick="window.open('https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>')">
                     <td><?=$value->manufacturer_name?></td>
                     <td><?=$value->product_name?></td>
                     <td><?=$value->price?></td>
