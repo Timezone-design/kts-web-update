@@ -109,17 +109,17 @@
 <div class="item_caution"><p>※写真はイメージ・代表画像です。 </p><p>※実際の商品とカラーやイメージが異なる場合がございます。</p></div>
 </div>
 <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
-<a class="set-sale-switch" href="../../sale/item/10695.php">メニュー内容・物販へのリンク</a><div class="tab_wrap">
+<div class="tab_wrap">
 <ul class="nav nav-tabs">
-<li class="active"><a data-toggle="tab" href="#home">商品 + 取付工賃</a></li>
-<li><a data-toggle="tab" href="#menu2">アライメント測定・調整</a></li>
+<li class="active"><a data-toggle="tab" href="#home">メニュー内容</a></li>
+<li><a data-toggle="tab" href="#menu2">物販へのリンク</a></li>
 </ul>
 <div class="tab-content">
 <div class="tab-pane fade in active show" id="home">
 <p> </p>
 </div>
 <div class="tab-pane fade" id="menu2">
-<p> </p>
+<a class="set-sale-switch" href="../../sale/item/10695.php">単品販売の価格表はコチラ</a>
 </div>
 </div>
 <script>
