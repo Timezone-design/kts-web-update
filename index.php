@@ -9,8 +9,8 @@
   <meta property="og:type" content="article">
   <meta property="og:title" content="KTS-web">
   <meta property="og:description" content="KTSは車好きの為のチューニングショップです。オイル交換からエンジンの載せ換えまで、チューニングの事ならお任せを！">
-  <meta property="og:url" content="/">
-  <meta property="og:image" content="/favicon.ico">
+  <meta property="og:url" content="https://www.kts-web.com/">
+  <meta property="og:image" content="https://www.kts-web.com/favicon.ico">
   <meta property="og:site_name" content="KTS-web">
   <meta property="og:locale" content="ja_JP">
   <title>KTS-web</title>
