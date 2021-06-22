@@ -14,6 +14,12 @@ $row = fgetcsv($handle, 0, ",");
 while (($row = fgetcsv($handle, 0, ",")) !== false) 
 {
 	if($row[0] != $filename) continue;
+	$price = (string) $row[7];
+	if($price == "出さない"){
+		$price = "お問い合わせください";
+	}else{
+		$price = "\\".number_format((int)$price);
+	}
     $product = array(
     	'manufacturer' => (string) $row[1],
     	'brand' => (string) $row[2],
@@ -21,7 +27,7 @@ while (($row = fgetcsv($handle, 0, ",")) !== false)
     	'inch' => (string) $row[4],
     	'flatness' => (string) $row[5],
     	'tire_width' => (string) $row[6],
-    	'price' => (string) $row[7],
+    	'price' => $price,
     	'four_set' => (string) $row[8],
     	'note' => (string) $row[9],
     	'speed_notation' => (string) $row[10],
