@@ -1,13 +1,13 @@
- <html>
+<html>
 <head>
 <meta content="多彩な機能を備えた、進化系ローダウンブロック!“ハイトダウンブロックキット”は、ハイエースをローダウンするうえで必要となるダウンブロックとUボルトのキットです。ブロック本体を多機能化することにより、従来製品では補えなかった欠点を完全に克服しました。​" name="description"/>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>KTS-web 商品ラインナップ Genb(玄武) Height down block kit</title><script type="application/ld+json">{@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "商品ラインナップ"}},{@type: "ListItem",position: 3,item:{@id: "/item/10072.php",name: "Height down block kit"}}]}</script>
-<meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport">
-<meta content="width=device-width" name="viewport"/>
+<meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="width=device-width" name="viewport">
 <title>KTS-web 商品ラインナップ Genb(玄武) Height down block kit</title>
 <link href="../../script/swiper/css/swiper.css" rel="stylesheet"/>
-<link href="/assets/css/search.css" rel="stylesheet" type="text/css">
-<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="/assets/css/search.css" rel="stylesheet" type="text/css"/>
+<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/assets/css/header_blu.css" rel="stylesheet" type="text/css"/>
 <link href="/assets/css/mainbody_blu.css" rel="stylesheet" type="text/css"/>
 <link href="/assets/css/footer_blu.css" rel="stylesheet" type="text/css"/>
@@ -109,7 +109,7 @@
 <div class="item_caution"><p>※写真はイメージ・代表画像です。 </p><p>※実際の商品とカラーやイメージが異なる場合がございます。</p></div>
 </div>
 <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
-<a class="set-sale-switch" href="../../set/item/10072.php">取付へのリンク</a>
+<a class="set-sale-switch" href="../../set/item/10072.php"><img alt="取付へのリンク" src="../../img/itemlead_to_tori.jpg"/></a>
 </div>
 </div>
 <div class="clearfix"></div>

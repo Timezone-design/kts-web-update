@@ -1,4 +1,4 @@
- <html>
+<html>
 <head>
 <meta content="KTS,SC DAMPER SYSTEM β,車高調,アライメント測定・調整,取付,工賃" name="keywords"/>
 <meta content="高性能・多機能・低価格を実現したKTSオリジナル車高調の商品ラインナップです。アライメント測定・調整込み！！" name="description"/>
@@ -7,8 +7,8 @@
 <meta content="width=device-width" name="viewport"/>
 <title>KTS-web 商品ラインナップ KTS SC DAMPER SYSTEM β</title>
 <link href="../../script/swiper/css/swiper.css" rel="stylesheet"/>
-<link href="/assets/css/search.css" rel="stylesheet" type="text/css">
-<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="/assets/css/search.css" rel="stylesheet" type="text/css"/>
+<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/assets/css/header_blu.css" rel="stylesheet" type="text/css"/>
 <link href="/assets/css/mainbody_blu.css" rel="stylesheet" type="text/css"/>
 <link href="/assets/css/footer_blu.css" rel="stylesheet" type="text/css"/>
@@ -110,7 +110,7 @@
 <div class="item_caution"> <p>※写真はイメージ・代表画像です。 </p> <p>※実際の商品とカラーやイメージが異なる場合がございます。</p> </div>
 </div>
 <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
-<a class="set-sale-switch" href="../../set/item/10000.php">取付へのリンク</a>
+<a class="set-sale-switch" href="../../set/item/10000.php"><img alt="取付へのリンク" src="../../img/itemlead_to_tori.jpg"/></a>
 </div>
 </div>
 <div class="clearfix"></div>
