@@ -6,6 +6,13 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
   <meta name="viewport" content="width=device-width">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="KTS-web">
+  <meta property="og:description" content="KTSは車好きの為のチューニングショップです。オイル交換からエンジンの載せ換えまで、チューニングの事ならお任せを！">
+  <meta property="og:url" content="/">
+  <meta property="og:image" content="/favicon.ico">
+  <meta property="og:site_name" content="KTS-web">
+  <meta property="og:locale" content="ja_JP">
   <title>KTS-web</title>
 
   <link rel="stylesheet" href="/assets/css/search.css" type="text/css" />
