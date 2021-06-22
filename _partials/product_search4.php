@@ -37,12 +37,12 @@
                       if($product->price == "出さない"){
                         $product->price = "お問い合わせください";
                       }else{
-                        $product->price = "\\".number_format($product->price);
+                        $product->price = "￥".number_format($product->price);
                       }
                       if($product->price1 == "出さない"){
                         $product->price1 = "お問い合わせください";
                       }else{
-                        if($product->price1 != "" && $product->price1 != null) $product->price1= "\\".number_format((int)$product->price1);
+                        if($product->price1 != "" && $product->price1 != null) $product->price1= "￥".number_format((int)$product->price1);
                       }
                       if($model != '' && $model == $product->model)
                         $filtered_products []= $product;
@@ -106,7 +106,7 @@
                 <thead>
                   <!-- 【価格・車種・型式・年式・駆動・適合詳細・仕様・メーカー品番】 -->
                   <tr>
-                    <th>価格</th>
+                    <th>工賃セット価格</th>
                     <th>車種</th>
                     <th>型式</th>
                     <th>年式</th>
