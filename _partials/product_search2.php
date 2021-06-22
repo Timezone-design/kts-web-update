@@ -18,7 +18,7 @@ while (($row = fgetcsv($handle, 0, ",")) !== false)
 	if($price == "出さない"){
 		$price = "お問い合わせください";
 	}else{
-		$price = "\\".number_format((int)$price);
+		$price = "￥".number_format((int)$price);
 	}
     $product = array(
     	'manufacturer' => (string) $row[1],
