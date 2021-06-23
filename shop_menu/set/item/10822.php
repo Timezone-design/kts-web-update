@@ -7,16 +7,16 @@
 <title>
     KTS-web 工賃セットメニュー nismo 強化クロス6速トランスミッション
    </title>
-<meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport">
-<meta content="width=device-width" name="viewport"/>
+<meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="width=device-width" name="viewport">
 <title>
     KTS-web 工賃セットメニュー nismo 強化クロス6速トランスミッション
    </title>
 <link href="../../script/swiper/css/swiper.css" rel="stylesheet"/>
 <link href="/assets/css/search.css" rel="stylesheet" type="text/css"/>
 <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-<link href="/assets/css/header_blu.css" rel="stylesheet" type="text/css">
-<link href="/assets/css/mainbody_blu.css" rel="stylesheet" type="text/css"/>
+<link href="/assets/css/header_blu.css" rel="stylesheet" type="text/css"/>
+<link href="/assets/css/mainbody_blu.css" rel="stylesheet" type="text/css">
 <link href="/assets/css/footer_blu.css" rel="stylesheet" type="text/css"/>
 <link href="/assets/css/slick.css" rel="stylesheet" type="text/css"/>
 <link href="/assets/css/custom.css" rel="stylesheet" type="text/css"/>
@@ -226,8 +226,7 @@
            </p>
 </div>
 </div>
-<div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
-<a href="../../sale/item/10822.php"><img alt="物販へのリンク" src="../img/itemlead_to_mono.jpg"/></a><div class="menu_content_heading">メニュー内容</div><div class="menu_content_text"></div></div>
+<div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12"><div class="menu_content_heading">メニュー内容</div><div class="menu_content_text"></div><a href="../../sale/item/10822.php"><img alt="物販へのリンク" src="../img/itemlead_to_mono.jpg"/></a></div>
 </div>
 <div class="clearfix">
 </div>
