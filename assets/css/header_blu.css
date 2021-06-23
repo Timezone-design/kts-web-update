@@ -269,8 +269,9 @@ header .clearfix {
   height: 10px;
 }
 
-header + div {
+header + div.main_c {
   padding-top: 30px !important;
+  padding-bottom: 10px;
 }
 
 @media only screen and (max-width: 767px) {

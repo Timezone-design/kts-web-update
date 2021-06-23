@@ -190,6 +190,11 @@ img {
   white-space: nowrap;
 }
 
+.large-category .row.banner-wrapper {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 .matching_table_all td {
   white-space: nowrap;
   width: auto;
@@ -876,6 +881,31 @@ div.grey-wrapper.row.change-tire>div.table-bottom-info.ja .cyan {
 
 .large-category-top-img>img {
   width: 100% !important;
+}
+
+.large-category-top-img {
+  padding-top: 0 !important;
+  padding-right: 0 !important;
+  padding-bottom: 0 !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 10px;
+}
+
+.large-category .grey-wrapper {
+  padding-top: 20px;
+}
+
+.large-category .three-tiles {
+  padding-top: 20px;
+}
+
+.large-category .banner-wrapper {
+  padding: 2px !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
 }
 
 .rc_title {
@@ -1956,6 +1986,10 @@ hr.hr_form_600 {
   width: 12vw;
 }
 
+summary::marker {
+  content: none;
+}
+
 .symbol_info1,
 .camp_text_cell_1,
 .faq_text_a_cell_1,
@@ -2055,6 +2089,10 @@ span.font_ff0_b {
 
 .garagara_hr_sp {
   width: 100%;
+}
+
+.special-table-tabs > table {
+  table-layout: unset !important;
 }
 
 .mochikomi_table {
@@ -2293,6 +2331,11 @@ hr.hr_form {
   font-size: 20px;
 }
 
+
+.tire .white-wrapper {
+  margin-top: 10px;
+}
+
 .pr_rbs_fd3s {
   display: flex;
   flex-direction: row;
@@ -2335,6 +2378,14 @@ table.pr_app_box_100p {
 
 hr {
   border: 0;
+}
+
+details {
+  width: 100%;
+}
+
+details summary img {
+  width: auto;
 }
 
 .pr_app3 {
@@ -2454,6 +2505,8 @@ div.pr_beta_set_115 {
   justify-content: center;
   padding-left: 20px;
 }
+
+
 
 .brand-banner li,
 .item-banner li {
@@ -2973,6 +3026,7 @@ a.link {
   .tire .row .col-md-3 div {
     margin: 0px 0;
   }
+
 
   .main_c>hr {
     width: 90%;
@@ -3649,10 +3703,7 @@ a.link {
     width: 100%;
   }
 
-  .special-table-tabs table:first-child td,
-  .special-table-tabs table:nth-of-type(2) td {
-    /*width: 1%;*/
-  }
+
 
   .special-table-tabs div.row + hr + table td {
     white-space: inherit;
@@ -3700,7 +3751,9 @@ a.link {
     justify-content: space-around;
   }
 
-
+  header + div {
+    padding-top: 0px !important;
+  }
 
 
 
@@ -3759,7 +3812,8 @@ a.link {
   .neotune_none_sp,
   .set_tire_a_cell2,
   .pr_top_title,
-  .th_yeti_price_pc {
+  .th_yeti_price_pc,
+  details .set_menu_n_cell {
     display: none;
   }
 
@@ -3821,7 +3875,8 @@ a.link {
   .set_tire_a_cell2_sp,
   .pr_title_sp_photo,
   .pr_title_sp,
-  .th_yeti_price_sp {
+  .th_yeti_price_sp,
+  .sp_option_menu {
     display: none;
   }
 
