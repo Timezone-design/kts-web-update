@@ -167,7 +167,7 @@
                       <div class="en">WHOLESALE</div>
                     </a>
                   </li>
-                  <li class="nav-item"><a class="nav-link" href="/blog/">
+                  <li class="nav-item"><a class="nav-link" href="https://www.kts-web.com/blog/" target="_blank">
                       <div class="ja">ブログ</div>
                       <div class="en">BLOG</div>
                     </a></li>

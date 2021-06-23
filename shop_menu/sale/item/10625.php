@@ -63,7 +63,7 @@
 </a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/shop_menu/sale/index.html">
+<a class="nav-link" href="/shop_menu/set/index.html">
 <div class="ja">
              ショップメニュー
             </div>
@@ -113,7 +113,7 @@
 </a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="https://www.kts-web.com/blog/">
+<a class="nav-link" href="https://www.kts-web.com/blog/" target="_blank">
 <div class="ja">
              ブログ
             </div>
