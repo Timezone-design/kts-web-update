@@ -60,7 +60,7 @@
            </a>
           </li>
           <li class="nav-item">
-           <a class="nav-link" href="/shop_menu/sale/index.html">
+           <a class="nav-link" href="/shop_menu/set/index.html">
             <div class="ja">
              ショップメニュー
             </div>
@@ -100,7 +100,7 @@
            </a>
           </li>
           <li class="nav-item">
-           <a class="nav-link" href="/wholesale/index.html">
+           <a class="nav-link" href="/houjin/index.html">
             <div class="ja">
              業販
             </div>
@@ -110,7 +110,7 @@
            </a>
           </li>
           <li class="nav-item">
-           <a class="nav-link" href="/blog/index.html">
+           <a class="nav-link" href="https://www.kts-web.com/blog/">
             <div class="ja">
              ブログ
             </div>

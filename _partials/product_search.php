@@ -130,6 +130,9 @@
             </div>
             <?php } ?>
             <div class="clearfix"></div>
+            <div class="item_info_text_small" style="text-align:right;">
+                    ▼ご希望の商品をタップすると詳細・購入ページに遷移します。<br>※表示価格は税込です。<br>※輸入車は平和島店・一之江店のみの対応です。</div>
+            <div class="clearfix"></div>
           </div>
 
 <script>

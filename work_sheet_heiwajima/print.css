@@ -1,0 +1,221 @@
+@charset "utf-8";
+/* リセット */
+* { margin:0; padding:0; }
+
+/* はみ出し対策 */
+body {
+	width:100%;
+	background-color: #FFF;
+	color: #000
+	/* iOS明朝体対策 */
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+/* HTML5に対応していないOS対策 */
+article, aside, figure, footer, header, hgroup, nav, section { display:block; }
+
+/* 以下通常CSS */
+
+/* 表題部分 */
+.print_title {
+	margin: 0 auto 5px;
+	width: 900px;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+/* フォントサイズ・カラー */
+.font_f00 {
+	color: #F00;
+}
+
+.font_10 {
+	font-size: 10px;
+}
+
+.font_14 {
+	font-size: 14px;
+}
+
+.font_24 {
+	font-size: 24px;
+}
+
+.font_24_b_right {
+	font-size: 24px;
+	font-weight: bold;
+	text-align: right;
+}
+
+.font_20 {
+	font-size: 20px;
+}
+
+.font_20_center {
+	font-size: 20px;
+	text-align: center;
+}
+
+.font_20_b {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.font_b {
+	font-weight: bold;
+}
+
+.font_24_b_ub {
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.font_b_center {
+	font-weight: bold;
+	text-align: center;
+}
+
+.font_b_f00 {
+	font-weight: bold;
+	color: #F00;
+}
+
+/* 改行余白 */
+.
+
+/* テキスト左寄せ */
+/print_text_left {
+	text-align: left;
+}
+
+/* テキスト真ん中寄せ */
+.print_text_center {
+	text-align: center;
+}
+
+/* テキスト右寄せ */
+.print_text_right {
+	text-align: right;
+}
+
+.print_text_right_sama {
+	font-size: 150%;
+	vertical-align: bottom;
+	text-align: right;
+}
+
+/* プリントボタン用 */
+.print_none {
+	text-align: left;
+}
+
+/* BOX右寄せ */
+.box_right {
+	width: 98%;
+	margin: auto 0 auto auto;
+}
+
+/* セル内上寄せ */
+.va_top {
+	vertical-align: top;
+}
+
+/* セル内中断寄せ */
+.va_middle {
+	vertical-align: middle;
+}
+
+/* セル内下寄せ */
+.va_bottom {
+	vertical-align: bottom;
+}
+
+/* 作業書テーブル */
+.print_om_mein {
+	margin: 0 auto;
+	width: 900px;
+	border: 1px #000 solid;
+	border-collapse: collapse;
+}
+
+.print_om_mein td {
+	padding: 2px;
+	border: 1px #000 solid;
+	border-collapse: collapse;
+}
+
+/* 作業書テーブル 2nd */
+.print_om_2nd {
+	margin: 0 auto;
+	width: 900px;
+}
+
+.print_om_2nd td {
+	vertical-align: top;
+}
+
+/* 作業書 内容内罫線 */
+.hr_sagyou {
+	width: 99%;
+	height: 1px;
+	border-top: 1px #000 solid;
+	margin: 1px auto;
+}
+
+/* チェックリスト 罫線 */
+.print_check_list {
+	font-size: 12px;
+	text-align: center;
+	border: 1px #000 solid;
+	border-collapse: collapse;
+}
+
+.print_check_list td {
+	height: 23px;
+	vertical-align: middle;
+	padding: 1px;
+	border: 1px #000 solid;
+	border-collapse: collapse;
+}
+
+/* 署名欄下線 */
+.name_sign {
+	width: 300px;
+	border-bottom: 1px #000 solid;
+}
+
+/* スペース */
+.space5px {
+	margin: 5px 0 0 0;
+}
+
+.space10px {
+	margin: 10px 0 0 0;
+}
+
+.space20px {
+	margin: 20px 0 0 0;
+}
+
+.space25px {
+	margin: 25px 0 0 0;
+}
+
+.space40px {
+	margin: 40px 0 0 0;
+}
+
+.space100px {
+	margin: 100px 0 0 0;
+}
+
+/* 罫線なし */
+
+
+/* 印刷無効 */
+@media print {
+	.print_none {
+		display: none;
+	}
+}

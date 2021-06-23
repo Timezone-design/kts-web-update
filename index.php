@@ -99,7 +99,7 @@
            </a>
           </li>
           <li class="nav-item">
-           <a class="nav-link" href="/wholesale/index.html">
+           <a class="nav-link" href="/houjin/index.html">
             <div class="ja">
              業販
             </div>
@@ -109,7 +109,7 @@
            </a>
           </li>
           <li class="nav-item">
-           <a class="nav-link" href="/blog/index.html">
+           <a class="nav-link" href="https://www.kts-web.com/blog/">
             <div class="ja">
              ブログ
             </div>
@@ -223,7 +223,7 @@
        </div>
        <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/4.png');">
         <img alt="" src="/assets/img/four-of-a-kind/4.png" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
-        <a class="arrowed-link white" href="/wholesale/index.html">
+        <a class="arrowed-link white" href="/houjin/index.html">
          <span class="title ja">
           業販
          </span>
