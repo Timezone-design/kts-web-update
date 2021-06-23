@@ -1,0 +1,484 @@
+@charset "utf-8";
+/* リセット */
+* { margin:0; padding:0; }
+
+/* はみ出し対策 */
+body {
+	width:100%;
+	background-color: #FFF;
+	color: #000
+	/* iOS明朝体対策 */
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+/* HTML5に対応していないOS対策 */
+article, aside, figure, footer, header, hgroup, nav, section { display:block; }
+
+/* 以下通常CSS */
+
+/* ページ内マージン */
+.space30px {
+	margin: 30px 0 0 0;
+}
+
+.space10px {
+	margin: 10px 0 0 0;
+}
+
+.space5px {
+	margin: 5px 0 0 0;
+}
+
+.space3px {
+	margin: 3px 0 0 0;
+}
+
+/* 中央寄せ（一般） */
+.center {
+	margin: 0 auto;
+}
+
+.print_center {
+	margin: 0 auto;
+}
+
+.center_900 {
+	width: 900px;
+	margin: 0 auto 0;
+}
+
+.center_900_center {
+	width: 900px;
+	margin: 0 auto 0;
+	text-align: center;
+}
+
+.center_900_right {
+	width: 900px;
+	margin: 0 auto;
+	text-align: right;
+}
+
+/* フォント */
+.font_b_110 {
+	font-size: 110%;
+	font-weight: bold;
+}
+
+/* カレンダー内 */
+.cal {
+	margin: 5px auto;
+	font-weight: bold;
+	font-size: 180%;
+	text-align: center;
+	border: 1px #333 solid;
+}
+
+.cal_sun {
+	color: #F00;
+	vertical-align: top;
+	border: 1px #333 solid;
+}
+
+.cal_sun_t {
+	color: #F00;
+	vertical-align: top;
+	border: 1px #333 solid;
+	background-color: #0FF
+}
+
+.cal_sat {
+	color: #00F;
+	vertical-align: top;
+	border: 1px #333 solid;
+}
+
+.cal_sat_t {
+	color: #00F;
+	vertical-align: top;
+	border: 1px #333 solid;
+	background-color: #0FF
+}
+
+.cal_normal {
+	vertical-align: top;
+	border: 1px #333 solid;
+}
+
+.cal_normal_t {
+	vertical-align: top;
+	border: 1px #333 solid;
+	background-color: #0FF
+}
+
+/* カレンダー内日付ボタン */
+input#submit_cal {
+	width: 90px;
+	height: 80px;
+	font-size: 200%;
+	font-weight: bold;
+	color: #000;
+	background-color: transparent;
+	border-style: none;
+}
+
+input#submit_cal:hover {
+	background-color: #FF9;
+}
+
+input#submit_cal_sun {
+	width: 90px;
+	height: 80px;
+	font-size: 200%;
+	font-weight: bold;
+	color: #F00;
+	background-color: transparent;
+	border-style: none;
+}
+
+input#submit_cal_sun:hover {
+	background-color: #FF9;
+}
+
+input#submit_cal_sat {
+	width: 90px;
+	height: 80px;
+	font-size: 200%;
+	font-weight: bold;
+	color: #00F;
+	background-color: transparent;
+	border-style: none;
+}
+
+input#submit_cal_sat:hover {
+	background-color: #FF9;
+}
+
+/* タイトル部分 */
+.title {
+	width: 900px;
+	margin: 5px auto 3px;
+	font-size: 180%;
+	font-weight: bold;
+}
+
+.send_mail_title {
+	width: 900px;
+	margin: 5px auto 3px;
+	font-size: 180%;
+	font-weight: bold;
+	color: #F00;
+}
+
+.shop_title {
+	font-size: 18px;
+}
+
+.title_ymd {
+	margin: 0 auto;
+	font-size: 250%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.font_ymd {
+	width: 50%;
+	font-size: 150%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.last_ymd {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+/* 作業一覧コメント欄 */
+.day_work_comm {
+	width: 900px;
+	margin: 3px auto;
+}
+
+/* 日時移動ボタン */
+.time_move {
+	padding: 2px;
+	font-size: 110%;
+}
+
+/* 作業一覧ページ タイトル日付 */
+.day_work_date {
+	color: #000;
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+/* 作業一覧ページ 各リフト用 */
+table.sheet_l {
+	width: 100%;
+	border-collapse: collapse;
+	empty-cells: show;
+	font-weight: bold;
+	text-align: center;
+}
+
+table.sheet {
+	width: 100%;
+	border-collapse: collapse;
+	empty-cells: show;
+	text-align: center;
+}
+
+/* 予約済セル */
+.sheet_yoyaku {
+	background-color: #6FC;
+}
+
+.sheet_yoyaku_30 {
+	background-color: #FCC;
+}
+
+.sheet_yoyaku_red {
+	background-color: #F00;
+}
+
+.sheet_yoyaku_blue {
+	background-color: #00F;
+}
+
+/* 作業一覧ページ 車輌型式表示部分 */
+.car_model {
+	font-size: 70%;
+	text-align: left;
+	vertical-align: top;
+	padding: 0 0 0 1px;
+}
+
+.car_model_30 {
+	font-size: 60%;
+	text-align: left;
+	vertical-align: top;
+	padding: 0 0 0 1px;
+}
+
+/* 作業一覧ページ 作業連番表示分 */
+.work_sn {
+	font-size: 80%;
+	font-weight: bold;
+	color: #F06;
+	text-align: right;
+	padding: 0 3px;
+}
+
+.work_sn_30 {
+	font-size: 60%;
+	color: #F06;
+	text-align: right;
+	padding: 0 3px;
+}
+
+/* 作業一覧ページ 空白セル リンク用 */
+input#submit_reserve {
+	width: 100%;
+	height: 100%;
+	color: #FFF;
+	font-size: 110%;
+	font-weight: bold;
+	background-color: #FFF;
+	border-style: none;
+}
+
+input#submit_reserve:hover {
+	color: #FFF;
+	background-color: #F90;
+}
+
+/* 作業一覧ページ お客様名・作業内容リンク用 */
+input#work_sheet {
+	width: 100%;
+	color: #000;
+	font-size: 90%;
+	background-color: rgba(0,0,255,0);
+	border-style: none;
+}
+
+/* 作業一覧ページ　作業内容フォント */
+input#work_sheet_sagyou {
+	width: 100%;
+	color: #000;
+	font-size: 70%;
+	background-color: rgba(0,0,255,0);
+	border-style: none;
+}
+
+input#work_sheet:hover {
+	color: #00F;
+}
+
+input#work_sheet_sagyou:hover {
+	color: #00F;
+}
+
+input#work_sheet_30 {
+	width: 100%;
+	color: #000;
+	font-size: 60%;
+	background-color: rgba(0,0,255,0);
+	border-style: none;
+}
+
+input#work_sheet_30:hover {
+	color: #00F;
+}
+
+.icon_para1_modi {
+	color: #F00;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* 新規入力ページ テーブル */
+table.reserve {
+	width: 900px;
+	margin: 0 auto;
+	border: solid 1px #333;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+table.reserve td {
+	margin: 0;
+	padding: 3px;
+	border: solid 1px #333;
+}
+
+.td_title {
+	width: 130px;
+	color: #000;
+	font-weight: bold;
+	background-color: #FFC;
+	text-align: center;
+}
+
+.td_title2 {
+	width: 130px;
+	color: #000;
+	font-weight: bold;
+	background-color: #6FF;
+	text-align: center;
+}
+
+.reserve_input {
+	width: 120px;
+}
+
+.reserve_input2 {
+	width: 100%;
+}
+
+.input_comm {
+	color: #F00;
+	font-size: xx-small;
+}
+
+.input_comm2 {
+	width: 900px;
+	margin: 0 auto;
+	color: #F00;
+	font-weight: bold;
+}
+
+.sub_but {
+	width: 900px;
+	margin: 0 auto;
+	padding: 5px;
+	text-align: center;
+}
+
+.icon_td {
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.icon_span {
+	vertical-align: middle;
+}
+
+input#icon_radio {
+	vertical-align: middle;
+}
+
+/* ログ表示用 */
+.log_table {
+	width: 900px;
+	margin: 3px auto;
+	padding: 1px;
+}
+
+/* 修正ボタン用 */
+.modi {
+	width: 900px;
+	margin: 0 auto;
+	text-align: right;
+}
+
+/* 全削除ボタン用 */
+.del_all {
+	width: 900px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.del_all_cau {
+	padding: 3px;
+	font-weight: bold;
+	font-size: 120%;
+	background-color: #F30;
+	color: #FFF;
+}
+
+.user_check {
+	margin: 0 auto;
+	width: 800px;
+	color: #F00;
+	font-size: 150%;
+	text-align: center;
+}
+
+/* 作業情報追加ボタン */
+.sagyou_push {
+	padding: 3px;
+	font-weight: bold;
+	font-size: 120%;
+	background-color: #0FF;
+	color: #000;
+}
+
+.footer {
+	margin: 5px;
+	font-size: 90%;
+	text-align: center;
+}
+
+/* コメント欄修正ボタン用 */
+.comm_w {
+	width: 900px;
+	margin: 1px auto 3px;
+	text-align: right;
+}
+
+.comm_b {
+	background-color: #FF9;
+}
+
+/* 印刷用ボタン */
+.print_right {
+	text-align: right;
+}
+
+/* 印刷無効 */
+@media print {
+	.none_print, .print_right, .comm_b, .print_center, .modi, .del_all, .last_ymd {
+		display: none;
+	}
+}

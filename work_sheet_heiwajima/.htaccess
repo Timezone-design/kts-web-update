@@ -1,0 +1,13 @@
+AuthUserFile /var/www/vhosts/kts-web.com/work_sheet_heiwajima/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Protected Area"
+AuthType Basic
+<Limit GET POST>
+require valid-user
+</Limit>
+<Files ~ "\.(html|php|jpe?g|gif|png)$">
+Header set Pragma no-cache
+Header set Cache-Control no-cache
+</Files>
+php_flag mbstring.encoding_translation on
+php_value default_charset "UTF-8"

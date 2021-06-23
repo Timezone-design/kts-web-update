@@ -111,7 +111,7 @@
                       <div class="en">CAMPAIGN</div>
                     </a>
                   </li>
-                  <li class="nav-item"><a class="nav-link" href="/wholesale/index.html">
+                  <li class="nav-item"><a class="nav-link" href="/houjin/index.html">
                       <div class="ja">業販</div>
                       <div class="en">WHOLESALE</div>
                     </a>
