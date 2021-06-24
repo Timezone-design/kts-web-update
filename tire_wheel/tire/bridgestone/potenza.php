@@ -180,23 +180,6 @@
          BRIDGESTONE
         </a>
        </div>
-       <div class="mc_nav">
-        <a class="link" href="../../../index.html">
-         HOME
-        </a>
-        &gt;
-        <a class="link" href="../../index.html">
-         タイヤ・ホイール館
-        </a>
-        &gt;
-        <a class="link" href="../index.html">
-         タイヤ
-        </a>
-        &gt;
-        <a class="link" href="index.html">
-         BRIDGESTONE
-        </a>
-       </div>
       </div>
       <div class="main_c row grey-wrapper">
        <div class="clearfix-s">

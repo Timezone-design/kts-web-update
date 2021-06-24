@@ -180,23 +180,6 @@
          FALKEN
         </a>
        </div>
-       <div class="mc_nav">
-        <a class="link" href="../../../index.html">
-         HOME
-        </a>
-        &gt;
-        <a class="link" href="../../index.html">
-         タイヤ・ホイール館
-        </a>
-        &gt;
-        <a class="link" href="../index.html">
-         タイヤ
-        </a>
-        &gt;
-        <a class="link" href="index.html">
-         FALKEN
-        </a>
-       </div>
        <div class="clearfix">
        </div>
        <div class="th_back row">
