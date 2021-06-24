@@ -22,25 +22,23 @@
   <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
   <link href="/assets/css/header_blu.css" rel="stylesheet" type="text/css"/>
   <link href="/assets/css/mainbody_blu.css" rel="stylesheet" type="text/css"/>
-  <link href="/assets/css/footer_blu.css" rel="stylesheet" type="text/css">
-   <link href="/assets/css/slick.css" rel="stylesheet" type="text/css"/>
-   <link href="/assets/css/custom.css" rel="stylesheet" type="text/css"/>
-   <script src="/assets/js/jquery-3.6.0.min.js">
-   </script>
-   <script src="/assets/js/popper.min.js">
-   </script>
-   <script src="/assets/js/bootstrap.min.js">
-   </script>
-   <script src="/assets/js/slick.min.js">
-   </script>
-  </link>
+  <link href="/assets/css/footer_blu.css" rel="stylesheet" type="text/css"/>
+  <link href="/assets/css/slick.css" rel="stylesheet" type="text/css"/>
+  <link href="/assets/css/custom.css" rel="stylesheet" type="text/css"/>
+  <script src="/assets/js/jquery-3.6.0.min.js">
+  </script>
+  <script src="/assets/js/popper.min.js">
+  </script>
+  <script src="/assets/js/bootstrap.min.js">
+  </script>
+  <script src="/assets/js/slick.min.js">
+  </script>
  </head>
  <body>
   <main>
    <section id="wrapper">
     <div class="section-container">
      <div id="content-wrapper">
-      <!-- Header Start -->
       <header class="site-header">
        <nav class="navbar navbar-expand-lg navbar-dark">
         <a class="navbar-brand" href="/">
@@ -174,8 +172,36 @@
         </div>
        </div>
       </header>
-      <!-- Header End -->
       <div class="main_c row grey-wrapper">
+       <div class="mc_nav">
+        <a class="link" href="https://www.kts-web.com/">
+         HOME
+        </a>
+        &gt;
+        <a class="link" href="../../index.html">
+         SHOP MENU
+        </a>
+        &gt;
+        <a class="link" href="../index.html">
+         工賃セットメニュー
+        </a>
+        &gt;
+        <a class="link" href="../cat/101.html">
+         駆動系
+        </a>
+        &gt;
+        <a class="link" href="../cat/124.html">
+         クラッチ/フライホイール
+        </a>
+        &gt;
+        <a class="link" href="../br/1059-124.html">
+         CUSCO
+        </a>
+        &gt;
+        <a class="link" href="10464.php">
+         メタルディスク
+        </a>
+       </div>
        <div class="clearfix">
        </div>
        <div class="set_sale_back">
@@ -301,7 +327,6 @@
         <div class="clearfix">
         </div>
         <table style="table-layout:fixed;" width="100%">
-         <!--ココまでSP-->
          <tr>
           <a class="set_img">
            <img alt="お得な工賃セット" src="../../img/set.jpg"/>

@@ -29,7 +29,6 @@
    <section id="wrapper">
     <div class="section-container">
      <div id="content-wrapper">
-      <!-- Header Start -->
       <header class="site-header">
        <nav class="navbar navbar-expand-lg navbar-dark">
         <a class="navbar-brand" href="/">
@@ -163,8 +162,41 @@
         </div>
        </div>
       </header>
-      <!-- Header End -->
       <div class="clearfix-s">
+       <div class="mc_nav">
+        <a class="link" href="../../../index.html">
+         HOME
+        </a>
+        &gt;
+        <a class="link" href="../../index.html">
+         タイヤ・ホイール館
+        </a>
+        &gt;
+        <a class="link" href="../index.html">
+         タイヤ
+        </a>
+        &gt;
+        <a class="link" href="index.html">
+         FALKEN
+        </a>
+       </div>
+       <div class="mc_nav">
+        <a class="link" href="../../../index.html">
+         HOME
+        </a>
+        &gt;
+        <a class="link" href="../../index.html">
+         タイヤ・ホイール館
+        </a>
+        &gt;
+        <a class="link" href="../index.html">
+         タイヤ
+        </a>
+        &gt;
+        <a class="link" href="index.html">
+         FALKEN
+        </a>
+       </div>
       </div>
       <div class="main_c row grey-wrapper">
        <div class="clearfix-s">
@@ -206,54 +238,54 @@
            <br/>
            <div class="tab-content">
             <div class="tab-pane fade in active show" id="_0">
-                <div class="th_table">
-        <div class="th_table_photo_350">
-         <img alt="FALKEN ZIEX S/TZ05" class="th_tire_img" src="img/ziex/s_tz05.jpg"/>
-        </div>
-        <div class="th_table_cell">
-         <div class="th_table_comm">
-          <span class="font_3fc_b">
-           街中でも高速路でも優雅なドライブに欠かせないSUV専用タイヤ
-          </span>
-         </div>
-         <div class="th_table_comm">
-          高速走行時のウエット性能を確保しながらも、高い静粛性能を実現。高級SUVやスポーツトラック等をドレスアップします。
-         </div>
-         <div class="th_tire_price">
-          <form action="../maker_item.php" method="post" target="_blank">
-           <input name="maker" type="hidden" value="FALKEN"/>
-           <input name="brand" type="hidden" value="ZIEX"/>
-           <input name="item" type="hidden" value="S/TZ05"/>
-           <input name="image" src="../img/price.gif" type="image"/>
-          </form>
-         </div>
-        </div>
-       </div>
+             <div class="th_table">
+              <div class="th_table_photo_350">
+               <img alt="FALKEN ZIEX S/TZ05" class="th_tire_img" src="img/ziex/s_tz05.jpg"/>
+              </div>
+              <div class="th_table_cell">
+               <div class="th_table_comm">
+                <span class="font_3fc_b">
+                 街中でも高速路でも優雅なドライブに欠かせないSUV専用タイヤ
+                </span>
+               </div>
+               <div class="th_table_comm">
+                高速走行時のウエット性能を確保しながらも、高い静粛性能を実現。高級SUVやスポーツトラック等をドレスアップします。
+               </div>
+               <div class="th_tire_price">
+                <form action="../maker_item.php" method="post" target="_blank">
+                 <input name="maker" type="hidden" value="FALKEN"/>
+                 <input name="brand" type="hidden" value="ZIEX"/>
+                 <input name="item" type="hidden" value="S/TZ05"/>
+                 <input name="image" src="../img/price.gif" type="image"/>
+                </form>
+               </div>
+              </div>
+             </div>
             </div>
             <div class="tab-pane fade" id="_1">
-                <div class="th_table">
-        <div class="th_table_photo_350">
-         <img alt="FALKEN ZIEX ZE914F" class="th_tire_img" src="img/ziex/ze914f.jpg"/>
-        </div>
-        <div class="th_table_cell">
-         <div class="th_table_comm">
-          <span class="font_3fc_b">
-           操縦性、低燃費、乗り心地など万能性を追求した高品質タイヤ
-          </span>
-         </div>
-         <div class="th_table_comm">
-          スポーツ性と快適性をハイレベルに引き上げることで安定したハンドリングを実現。幅広いユーザーにフィットします。
-         </div>
-         <div class="th_tire_price">
-          <form action="../maker_item.php" method="post" target="_blank">
-           <input name="maker" type="hidden" value="FALKEN"/>
-           <input name="brand" type="hidden" value="ZIEX"/>
-           <input name="item" type="hidden" value="ZE914F"/>
-           <input name="image" src="../img/price.gif" type="image"/>
-          </form>
-         </div>
-        </div>
-       </div>
+             <div class="th_table">
+              <div class="th_table_photo_350">
+               <img alt="FALKEN ZIEX ZE914F" class="th_tire_img" src="img/ziex/ze914f.jpg"/>
+              </div>
+              <div class="th_table_cell">
+               <div class="th_table_comm">
+                <span class="font_3fc_b">
+                 操縦性、低燃費、乗り心地など万能性を追求した高品質タイヤ
+                </span>
+               </div>
+               <div class="th_table_comm">
+                スポーツ性と快適性をハイレベルに引き上げることで安定したハンドリングを実現。幅広いユーザーにフィットします。
+               </div>
+               <div class="th_tire_price">
+                <form action="../maker_item.php" method="post" target="_blank">
+                 <input name="maker" type="hidden" value="FALKEN"/>
+                 <input name="brand" type="hidden" value="ZIEX"/>
+                 <input name="item" type="hidden" value="ZE914F"/>
+                 <input name="image" src="../img/price.gif" type="image"/>
+                </form>
+               </div>
+              </div>
+             </div>
             </div>
            </div>
           </div>
@@ -302,215 +334,214 @@
        </div>
        <div class="clearfix">
        </div>
-       <br>
-        <div class="footer-places row">
-         <div class="footer-showbox row col-md-4 col-sm-12">
-          <div class="footer-showbox-img">
-           <img alt="factory" src="/assets/img/factory.png" srcset=""/>
-          </div>
-          <div class="footer-factory-info">
-           <div class="footer-showbox-title">
-            <span class="showbox-title">
-             FACTORY
-            </span>
-           </div>
-           <table class="showbox-content">
-            <tr class="footer-showbox-text" id="footer-showbox-address">
-             <td colspan="2">
-              〒334-0013 埼玉県川口市南鳩ヶ谷1-25-3
-             </td>
-            </tr>
-            <tr class="footer-showbox-text" id="footer-showbox-opentime">
-             <td class="showbox-left">
-              営業時間
-             </td>
-             <td class="showbox-right">
-              10:00 - 19:00
-             </td>
-            </tr>
-            <tr class="footer-showbox-text" id="footer-showbox-holiday">
-             <td class="showbox-left">
-              定休日
-             </td>
-             <td class="showbox-right">
-              第3水曜日・毎週木曜日
-             </td>
-            </tr>
-            <tr class="tel">
-             <td class="showbox-left">
-              TEL
-             </td>
-             <td class="showbox-right">
-              048-285-8906
-             </td>
-            </tr>
-            <tr class="fax">
-             <td class="showbox-left">
-              FAX
-             </td>
-             <td class="showbox-right">
-              048-285-8939
-             </td>
-            </tr>
-           </table>
-           <div class="showbox-bottom">
-            <a class="arrowed-link" href="/shop_menu/tenpo/factory.html">
-             <span>
-              詳しく見る
-             </span>
-             <img alt="Header Link" src="/assets/img/black_arrow.svg"/>
-            </a>
-           </div>
-          </div>
+       <br/>
+       <div class="footer-places row">
+        <div class="footer-showbox row col-md-4 col-sm-12">
+         <div class="footer-showbox-img">
+          <img alt="factory" src="/assets/img/factory.png" srcset=""/>
          </div>
-         <div class="footer-showbox row col-md-4 col-sm-12">
-          <div class="footer-showbox-img">
-           <img alt="factory" src="/assets/img/heiwajima.png" srcset=""/>
+         <div class="footer-factory-info">
+          <div class="footer-showbox-title">
+           <span class="showbox-title">
+            FACTORY
+           </span>
           </div>
-          <div class="footer-factory-info">
-           <div class="footer-showbox-title">
-            <span class="showbox-title">
-             HEIWAJIMA
+          <table class="showbox-content">
+           <tr class="footer-showbox-text" id="footer-showbox-address">
+            <td colspan="2">
+             〒334-0013 埼玉県川口市南鳩ヶ谷1-25-3
+            </td>
+           </tr>
+           <tr class="footer-showbox-text" id="footer-showbox-opentime">
+            <td class="showbox-left">
+             営業時間
+            </td>
+            <td class="showbox-right">
+             10:00 - 19:00
+            </td>
+           </tr>
+           <tr class="footer-showbox-text" id="footer-showbox-holiday">
+            <td class="showbox-left">
+             定休日
+            </td>
+            <td class="showbox-right">
+             第3水曜日・毎週木曜日
+            </td>
+           </tr>
+           <tr class="tel">
+            <td class="showbox-left">
+             TEL
+            </td>
+            <td class="showbox-right">
+             048-285-8906
+            </td>
+           </tr>
+           <tr class="fax">
+            <td class="showbox-left">
+             FAX
+            </td>
+            <td class="showbox-right">
+             048-285-8939
+            </td>
+           </tr>
+          </table>
+          <div class="showbox-bottom">
+           <a class="arrowed-link" href="/shop_menu/tenpo/factory.html">
+            <span>
+             詳しく見る
             </span>
-           </div>
-           <table class="showbox-content">
-            <tr class="footer-showbox-text" id="footer-showbox-address">
-             <td colspan="2">
-              〒143-0016 東京都大田区大森北5ー10ー13
-             </td>
-            </tr>
-            <tr class="footer-showbox-text" id="footer-showbox-opentime">
-             <td class="showbox-left">
-              営業時間
-             </td>
-             <td class="showbox-right">
-              10:00 - 19:00
-             </td>
-            </tr>
-            <tr class="footer-showbox-text" id="footer-showbox-holiday">
-             <td class="showbox-left">
-              定休日
-             </td>
-             <td class="showbox-right">
-              第3水曜日・毎週木曜日
-             </td>
-            </tr>
-            <tr class="tel">
-             <td class="showbox-left">
-              TEL
-             </td>
-             <td class="showbox-right">
-              03-5767-5832
-             </td>
-            </tr>
-            <tr class="fax">
-             <td class="showbox-left">
-              FAX
-             </td>
-             <td class="showbox-right">
-              03-5767-5808
-             </td>
-            </tr>
-           </table>
-           <div class="showbox-bottom">
-            <a class="arrowed-link" href="/shop_menu/tenpo/heiwajima.html">
-             <span>
-              詳しく見る
-             </span>
-             <img alt="Header Link" src="/assets/img/black_arrow.svg"/>
-            </a>
-           </div>
-          </div>
-         </div>
-         <div class="footer-showbox row col-md-4 col-sm-12">
-          <div class="footer-showbox-img">
-           <img alt="factory" src="/assets/img/ichinoe.png" srcset=""/>
-          </div>
-          <div class="footer-factory-info">
-           <div class="footer-showbox-title">
-            <span class="showbox-title">
-             ICHINOE
-            </span>
-           </div>
-           <table class="showbox-content">
-            <tr class="footer-showbox-text" id="footer-showbox-address">
-             <td colspan="2">
-              〒143-0016 東京都大田区大森北5-10-13
-             </td>
-            </tr>
-            <tr class="footer-showbox-text" id="footer-showbox-opentime">
-             <td class="showbox-left">
-              営業時間
-             </td>
-             <td class="showbox-right">
-              10:00 - 19:00
-             </td>
-            </tr>
-            <tr class="footer-showbox-text" id="footer-showbox-holiday">
-             <td class="showbox-left">
-              定休日
-             </td>
-             <td class="showbox-right">
-              第3水曜日・毎週木曜日
-             </td>
-            </tr>
-            <tr class="tel">
-             <td class="showbox-left">
-              TEL
-             </td>
-             <td class="showbox-right">
-              03-3674-2006
-             </td>
-            </tr>
-            <tr class="fax">
-             <td class="showbox-left">
-              FAX
-             </td>
-             <td class="showbox-right">
-              03-3674-2008
-             </td>
-            </tr>
-           </table>
-           <div class="showbox-bottom">
-            <a class="arrowed-link" href="/shop_menu/tenpo/ichinoe.html">
-             <span class="ja">
-              詳しく見る
-             </span>
-             <img alt="Header Link" src="/assets/img/black_arrow.svg"/>
-            </a>
-           </div>
+            <img alt="Header Link" src="/assets/img/black_arrow.svg"/>
+           </a>
           </div>
          </div>
         </div>
-        <div class="footer-bottom row">
-         <div class="col-md-4 col-sm-4 col-xs-4">
-          <div class="col-md-6 col-sm-1 col-xs-1">
-          </div>
-          <div class="col-md-6 col-sm-11 col-xs-11" id="footer-logo-wrap">
-           <img alt="Company Logo" class="logo" id="footer-logo" src="/assets/img/opg.png" srcset=""/>
-          </div>
+        <div class="footer-showbox row col-md-4 col-sm-12">
+         <div class="footer-showbox-img">
+          <img alt="factory" src="/assets/img/heiwajima.png" srcset=""/>
          </div>
-         <div class="footer-text col-md-8 col-sm-8 col-xs-8">
-          <div class="company-title">
-           K T S — — —
+         <div class="footer-factory-info">
+          <div class="footer-showbox-title">
+           <span class="showbox-title">
+            HEIWAJIMA
+           </span>
           </div>
-          <div class="additional-info">
-           フッターです
+          <table class="showbox-content">
+           <tr class="footer-showbox-text" id="footer-showbox-address">
+            <td colspan="2">
+             〒143-0016 東京都大田区大森北5ー10ー13
+            </td>
+           </tr>
+           <tr class="footer-showbox-text" id="footer-showbox-opentime">
+            <td class="showbox-left">
+             営業時間
+            </td>
+            <td class="showbox-right">
+             10:00 - 19:00
+            </td>
+           </tr>
+           <tr class="footer-showbox-text" id="footer-showbox-holiday">
+            <td class="showbox-left">
+             定休日
+            </td>
+            <td class="showbox-right">
+             第3水曜日・毎週木曜日
+            </td>
+           </tr>
+           <tr class="tel">
+            <td class="showbox-left">
+             TEL
+            </td>
+            <td class="showbox-right">
+             03-5767-5832
+            </td>
+           </tr>
+           <tr class="fax">
+            <td class="showbox-left">
+             FAX
+            </td>
+            <td class="showbox-right">
+             03-5767-5808
+            </td>
+           </tr>
+          </table>
+          <div class="showbox-bottom">
+           <a class="arrowed-link" href="/shop_menu/tenpo/heiwajima.html">
+            <span>
+             詳しく見る
+            </span>
+            <img alt="Header Link" src="/assets/img/black_arrow.svg"/>
+           </a>
           </div>
-          <div class="additional-info">
-           フッターです
-          </div>
-          <div class="additional-info">
-           フッターです
-          </div>
-         </div>
-         <div class="copyright row">
-          <span>
-           © — — — — — —
-          </span>
          </div>
         </div>
-       </br>
+        <div class="footer-showbox row col-md-4 col-sm-12">
+         <div class="footer-showbox-img">
+          <img alt="factory" src="/assets/img/ichinoe.png" srcset=""/>
+         </div>
+         <div class="footer-factory-info">
+          <div class="footer-showbox-title">
+           <span class="showbox-title">
+            ICHINOE
+           </span>
+          </div>
+          <table class="showbox-content">
+           <tr class="footer-showbox-text" id="footer-showbox-address">
+            <td colspan="2">
+             〒143-0016 東京都大田区大森北5-10-13
+            </td>
+           </tr>
+           <tr class="footer-showbox-text" id="footer-showbox-opentime">
+            <td class="showbox-left">
+             営業時間
+            </td>
+            <td class="showbox-right">
+             10:00 - 19:00
+            </td>
+           </tr>
+           <tr class="footer-showbox-text" id="footer-showbox-holiday">
+            <td class="showbox-left">
+             定休日
+            </td>
+            <td class="showbox-right">
+             第3水曜日・毎週木曜日
+            </td>
+           </tr>
+           <tr class="tel">
+            <td class="showbox-left">
+             TEL
+            </td>
+            <td class="showbox-right">
+             03-3674-2006
+            </td>
+           </tr>
+           <tr class="fax">
+            <td class="showbox-left">
+             FAX
+            </td>
+            <td class="showbox-right">
+             03-3674-2008
+            </td>
+           </tr>
+          </table>
+          <div class="showbox-bottom">
+           <a class="arrowed-link" href="/shop_menu/tenpo/ichinoe.html">
+            <span class="ja">
+             詳しく見る
+            </span>
+            <img alt="Header Link" src="/assets/img/black_arrow.svg"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="footer-bottom row">
+        <div class="col-md-4 col-sm-4 col-xs-4">
+         <div class="col-md-6 col-sm-1 col-xs-1">
+         </div>
+         <div class="col-md-6 col-sm-11 col-xs-11" id="footer-logo-wrap">
+          <img alt="Company Logo" class="logo" id="footer-logo" src="/assets/img/opg.png" srcset=""/>
+         </div>
+        </div>
+        <div class="footer-text col-md-8 col-sm-8 col-xs-8">
+         <div class="company-title">
+          K T S — — —
+         </div>
+         <div class="additional-info">
+          フッターです
+         </div>
+         <div class="additional-info">
+          フッターです
+         </div>
+         <div class="additional-info">
+          フッターです
+         </div>
+        </div>
+        <div class="copyright row">
+         <span>
+          © — — — — — —
+         </span>
+        </div>
+       </div>
       </footer>
      </div>
     </div>

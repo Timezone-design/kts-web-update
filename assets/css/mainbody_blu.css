@@ -316,7 +316,7 @@ a.notype:link {
 }
 
 .four-tiles-one img,
-.small-category-top-img img {
+.small-category-top-img>img {
   width: 100%;
   filter: contrast(0.5);
 }
@@ -337,8 +337,14 @@ a.notype:link {
 .large-category .row,
 .small-category .row,
 .tire .row {
-  width: 50%;
+  width: 67%;
   margin: auto;
+}
+
+.clearfix-s .mc_nav {
+  width: 67%;
+  margin: auto;
+  margin-top: 20px;
 }
 
 .large-category .row.banner-wrapper,
@@ -497,7 +503,7 @@ a.notype:link {
 .th_yeti_price_sp td,
 .th_table_2w_yukidaruma td,
 .th_yukidaruma_kamotsu {
-    text-align: center;
+  text-align: center;
 }
 
 .th_yeti_price_pc td a,
@@ -959,21 +965,21 @@ hr.set_c_top_hr {
 }
 
 .menu_content_text {
-    background-color: rgba(100, 100, 100, 0.1);
-    width: 100%;
-    height: 70px;
-    display: none;
+  background-color: rgba(100, 100, 100, 0.1);
+  width: 100%;
+  height: 70px;
+  display: none;
 }
 
 .menu_content_heading {
-    margin: 10px 0;
-    text-align: center;
-    font-size: 16px;
-    font-weight: bold;
-    background-color: rgba(100, 100, 100, 0.1);
-    width: 100%;
-    height: 70px;
-    line-height: 70px;
+  margin: 10px 0;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: rgba(100, 100, 100, 0.1);
+  width: 100%;
+  height: 70px;
+  line-height: 70px;
 }
 
 .search-block button.btn-search,
@@ -1605,7 +1611,7 @@ table.bq_lineup>tbody>tr>td,
   width: auto;
 }
 
-.pr_back > .pr_info:first-child {
+.pr_back>.pr_info:first-child {
   flex-direction: column;
 }
 
@@ -2091,7 +2097,7 @@ span.font_ff0_b {
   width: 100%;
 }
 
-.special-table-tabs > table {
+.special-table-tabs>table {
   table-layout: unset !important;
 }
 
@@ -2466,6 +2472,31 @@ div.pr_beta_set_115 {
   justify-content: space-around;
 }
 
+.grey-wrapper .mc_nav {
+  width: 67%;
+  margin: auto;
+}
+
+.fax {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently
+  supported by Chrome, Edge, Opera and Firefox */
+}
+
+header+div[class*='wrapper'] .mc_nav {
+  padding-top: 20px;
+}
+
 .set_maker_hp {
   text-align: right;
   font-weight: bold;
@@ -2624,6 +2655,23 @@ div.pr_beta_set_115 {
   border: solid 1px rgba(128, 128, 128, 0.8);
   /*background-color: grey;*/
   color: white;
+}
+
+.tire .mc_nav {
+  width: 67%;
+  margin: auto;
+}
+
+.tire {
+  margin: 20px 0;
+}
+
+.campaign .grey-wrapper {
+  padding: 20px 0;
+}
+
+.campaign .white-wrapper {
+  padding: 20px 0;
 }
 
 .cat-banner_s li {
@@ -2826,10 +2874,20 @@ a.link {
   color: crimson;
 }
 
-.matching_table_all tr>td:nth-of-type(1) p{
+.matching_table_all tr>td:nth-of-type(1) p {
   text-decoration: line-through;
   color: black;
 }
+
+.clearfix-s+.main_c {
+  margin-top: 20px;
+}
+
+/* div[class*='th_review'] img {
+  display: block;
+  width: auto;
+  margin: auto;
+} */
 
 .set-sale-switch {
   display: block;
@@ -2853,7 +2911,17 @@ a.link {
   width: 100%;
 }
 
+.pr_back .mc_nav {
+  width: 100%;
+}
 
+#content-wrapper > .mc_nav,
+.store-introduction > .mc_nav {
+  width: 67%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
 @media only screen and (max-width: 767px) {
 
@@ -2964,7 +3032,8 @@ a.link {
   }
 
   .search-results .matching_table_all th,
-  .search-results .matching_table_all td, .search-results .matching_table_all td p {
+  .search-results .matching_table_all td,
+  .search-results .matching_table_all td p {
     font-size: 13px;
     padding: 2px;
   }
@@ -3220,9 +3289,24 @@ a.link {
     width: 100%;
   }
 
+
+
   .al_menu_sp a {
     text-decoration: underline;
     color: black;
+  }
+
+  .cat-info-txt {
+    width: 60%;
+  }
+
+  .cat-info-img {
+    width: 40%;
+  }
+
+  header+div.main_c {
+    padding-top: 0px !important;
+    padding-bottom: 10px;
   }
 
   .al_title_sp {
@@ -3331,12 +3415,14 @@ a.link {
   .al_tuv_text_sp {
     font-size: 36px;
   }
+
   .search-results {
     width: 95%;
     margin: auto;
     overflow: scroll;
     margin-top: 50px;
-}
+  }
+
   .store-introduction .payment-note .title {
     color: deepskyblue;
     font-size: 15px;
@@ -3731,11 +3817,11 @@ a.link {
 
 
 
-  .special-table-tabs div.row + hr + table td {
+  .special-table-tabs div.row+hr+table td {
     white-space: inherit;
   }
 
-  .special-table-tabs > table td {
+  .special-table-tabs>table td {
     white-space: inherit;
   }
 
@@ -3777,7 +3863,7 @@ a.link {
     justify-content: space-around;
   }
 
-  header + div {
+  header+div {
     padding-top: 0px !important;
   }
 
@@ -3786,7 +3872,7 @@ a.link {
     width: 50%;
     float: left;
   }
-  
+
   .cat-banner_s li img {
     outline: 3px solid grey;
   }
@@ -3847,7 +3933,8 @@ a.link {
   .set_tire_a_cell2,
   .pr_top_title,
   .th_yeti_price_pc,
-  details .set_menu_n_cell {
+  details .set_menu_n_cell,
+  .mc_nav {
     display: none;
   }
 

@@ -8,36 +8,34 @@
   <script type="application/ld+json">
    {@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "商品ラインナップ"}},{@type: "ListItem",position: 3,item:{@id: "/item/10016.php",name: "DAMPER ZZ-R Spec-C"}}]}
   </script>
-  <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport">
-   <meta content="width=device-width" name="viewport"/>
-   <title>
-    KTS-web 商品ラインナップ BLITZ DAMPER ZZ-R Spec-C
-   </title>
-   <link href="../../script/swiper/css/swiper.css" rel="stylesheet"/>
-   <link href="/assets/css/search.css" rel="stylesheet" type="text/css">
-    <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-    <link href="/assets/css/header_blu.css" rel="stylesheet" type="text/css"/>
-    <link href="/assets/css/mainbody_blu.css" rel="stylesheet" type="text/css"/>
-    <link href="/assets/css/footer_blu.css" rel="stylesheet" type="text/css"/>
-    <link href="/assets/css/slick.css" rel="stylesheet" type="text/css"/>
-    <link href="/assets/css/custom.css" rel="stylesheet" type="text/css"/>
-    <script src="/assets/js/jquery-3.6.0.min.js">
-    </script>
-    <script src="/assets/js/popper.min.js">
-    </script>
-    <script src="/assets/js/bootstrap.min.js">
-    </script>
-    <script src="/assets/js/slick.min.js">
-    </script>
-   </link>
-  </meta>
+  <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
+  <meta content="width=device-width" name="viewport"/>
+  <title>
+   KTS-web 商品ラインナップ BLITZ DAMPER ZZ-R Spec-C
+  </title>
+  <link href="../../script/swiper/css/swiper.css" rel="stylesheet"/>
+  <link href="/assets/css/search.css" rel="stylesheet" type="text/css"/>
+  <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/assets/css/header_blu.css" rel="stylesheet" type="text/css"/>
+  <link href="/assets/css/mainbody_blu.css" rel="stylesheet" type="text/css"/>
+  <link href="/assets/css/footer_blu.css" rel="stylesheet" type="text/css">
+   <link href="/assets/css/slick.css" rel="stylesheet" type="text/css"/>
+   <link href="/assets/css/custom.css" rel="stylesheet" type="text/css"/>
+   <script src="/assets/js/jquery-3.6.0.min.js">
+   </script>
+   <script src="/assets/js/popper.min.js">
+   </script>
+   <script src="/assets/js/bootstrap.min.js">
+   </script>
+   <script src="/assets/js/slick.min.js">
+   </script>
+  </link>
  </head>
  <body>
   <main>
    <section id="wrapper">
     <div class="section-container">
      <div id="content-wrapper">
-      <!-- Header Start -->
       <header class="site-header">
        <nav class="navbar navbar-expand-lg navbar-dark">
         <a class="navbar-brand" href="/">
@@ -171,8 +169,36 @@
         </div>
        </div>
       </header>
-      <!-- Header End -->
       <div class="main_c row grey-wrapper">
+       <div class="mc_nav">
+        <a class="link" href="https://www.kts-web.com/">
+         HOME
+        </a>
+        &gt;
+        <a class="link" href="../../index.html">
+         SHOP MENU
+        </a>
+        &gt;
+        <a class="link" href="../../set/index.html">
+         商品ラインナップ
+        </a>
+        &gt;
+        <a class="link" href="../../set/cat/100.html">
+         足回り
+        </a>
+        &gt;
+        <a class="link" href="../../set/cat/116.html">
+         車高調/セッティングパーツ
+        </a>
+        &gt;
+        <a class="link" href="../../set/br/1144-116.html">
+         BLITZ
+        </a>
+        &gt;
+        <a class="link" href="10016.php">
+         DAMPER ZZ-R Spec-C
+        </a>
+       </div>
        <div class="clearfix">
        </div>
        <div class="set_sale_back">
@@ -272,29 +298,12 @@
 	  												$(this).parent().siblings().css("background-color", "transparent");
 	  											});
            </script>
-           <!-- <input id="tab1" type="radio" name="tab_btn" checked>
-	          						<input id="tab2" type="radio" name="tab_btn">
-	          						<div class="tab_area">
-	          							<label class="tab1_label" for="tab1">【商品説明】</label>
-	          							<label class="tab2_label" for="tab2">【主な仕様】</label>
-	          						</div>
-	          						<div class="panel_area">
-	          							<div id="panel1" class="tab_panel">
-	          								<p>専用材高強度鋼線の採用により、耐疲労・耐へたり性に優れているほか、大幅な軽量化を実現しています。独自の加工により、高応力域での使用を実現。柔軟かつ強剛な特性が得られます。また、スプリングの軽量化により復帰速度（回復性）を従来に比べ約10％向上。路面に対する追従性、コーナリング時のより早い車体の安定性、スムーズな操舵性を実現します。<br>取付詳細は<a
-	          										href="../damper/hyperco_swift.html">コチラ</a></p>
-	          							</div>
-	          							<div id="panel2" class="tab_panel">
-	          								<p>・材質:専用材高強度鋼線H5S・TW<br>・運動性能:復帰速度(回復性)を従来比約10％向上<br>・ID:60/65/70/75(LONG)mm
-	          								</p>
-	          							</div>
-	          						</div> -->
           </div>
          </div>
         </div>
         <div class="clearfix">
         </div>
         <table style="table-layout:fixed;" width="100%">
-         <!--ココまでSP-->
          <tr>
           <p class="search_category">
            **********【商品検索】**********
