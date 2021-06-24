@@ -2626,6 +2626,32 @@ div.pr_beta_set_115 {
   color: white;
 }
 
+.cat-banner_s li {
+  padding: 15px;
+  width: 25%;
+  float: left;
+}
+
+.cat-info-img {
+  width: 20%;
+}
+
+.cat-info-txt {
+  width: 80%
+}
+
+.cat-banner_s li img {
+  outline: 5px solid grey;
+}
+
+.cat-banner_s li::marker {
+  content: none;
+}
+
+.cat-banner_s {
+  padding: 0;
+}
+
 .set_c_top_maker_4 {
   display: flex;
   justify-content: space-evenly;
@@ -3755,7 +3781,15 @@ a.link {
     padding-top: 0px !important;
   }
 
-
+  .cat-banner_s li {
+    padding: 5px;
+    width: 50%;
+    float: left;
+  }
+  
+  .cat-banner_s li img {
+    outline: 3px solid grey;
+  }
 
 
 
