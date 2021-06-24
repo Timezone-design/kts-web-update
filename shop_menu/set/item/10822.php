@@ -169,7 +169,7 @@
       </header>
       <div class="main_c row grey-wrapper">
        <div class="mc_nav">
-        <a class="link" href="https://www.kts-web.com/">
+        <a class="link" href="/">
          HOME
         </a>
         &gt;

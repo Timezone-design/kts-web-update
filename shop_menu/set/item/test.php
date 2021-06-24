@@ -210,7 +210,7 @@ window.open(href, "_blank");
 <td class="main_c">
 <div class="space1px"></div>
 <div class="mc_nav">
-<a class="link" href="https://www.kts-web.com/">HOME</a> &gt; <a class="link" href="../../index.html">SHOP MENU</a> &gt; <a class="link" href="../index.html">工賃セットメニュー</a> &gt; <a class="link" href="../cat/101.html">駆動系</a> &gt; <a class="link" href="../cat/124.html">クラッチ/フライホイール</a> &gt; <a class="link" href="../br/1111-124.html">戸田レーシング</a> &gt; <a class="link" href="10483.php">超軽量クロモリフライホイール&クラッチKIT</a></div>
+<a class="link" href="/">HOME</a> &gt; <a class="link" href="../../index.html">SHOP MENU</a> &gt; <a class="link" href="../index.html">工賃セットメニュー</a> &gt; <a class="link" href="../cat/101.html">駆動系</a> &gt; <a class="link" href="../cat/124.html">クラッチ/フライホイール</a> &gt; <a class="link" href="../br/1111-124.html">戸田レーシング</a> &gt; <a class="link" href="10483.php">超軽量クロモリフライホイール&クラッチKIT</a></div>
 <div class="space3px"></div>
 <div class="set_sale_back">
 <div class="space3px"></div>

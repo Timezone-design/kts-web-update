@@ -175,7 +175,7 @@ window.open(href, "_blank");
 <td class="main_c">
 <div class="space1px"></div>
 <div class="mc_nav">
-<a class="link" href="https://www.kts-web.com/">HOME</a> &gt; <a class="link" href="../../../../index.html">SHOP MENU</a> &gt; <a class="link" href="../../../index.html">商品ラインナップ</a> &gt; <a class="link" href="../../index.html">足回り</a> &gt; <a class="link" href="../index.html">車高調/セッティングパーツ</a> &gt; <a class="link" href="index.html">KTS</a></div>
+<a class="link" href="/">HOME</a> &gt; <a class="link" href="../../../../index.html">SHOP MENU</a> &gt; <a class="link" href="../../../index.html">商品ラインナップ</a> &gt; <a class="link" href="../../index.html">足回り</a> &gt; <a class="link" href="../index.html">車高調/セッティングパーツ</a> &gt; <a class="link" href="index.html">KTS</a></div>
 <div class="space3px"></div>
 <div class="set_sale_back">
     <div class="space3px"></div>
@@ -619,5 +619,6 @@ if($line[0] == $manufacture_select && $line[1] == $make_select && $line[2] == $m
 });
 </script>
     <div class="header_bar"><img src="../../../img/bar.gif"></div>
-<div class="footer">Copyright (C) Kind Techno Structure Corporation. All Rights Reserved.</div></body>
+<div class="footer">Copyright (C) Kind Techno Structure Corporation. All Rights Reserved.</div>
+</body>
 </html>
