@@ -1517,12 +1517,17 @@ table.bq_lineup>tbody>tr>td,
 .pr_bd_info_cell1,
 .pr_bd_info_cell2,
 .pr_bd_text_c_l_80r,
-.damper_info1 {
+.damper_info1,
+.footer_text_c1 {
   float: left;
 }
 
 .pr_bd_text_c_l_15 {
   margin-left: 10px;
+}
+
+.link_close {
+  text-align: center;
 }
 
 .houjin_cell_text {
@@ -2899,6 +2904,10 @@ a.link {
   margin: 10px 0px;
 }
 
+.main_c .table_php {
+  width: 65% !important;
+}
+
 .search_category {
   display: none;
 }
@@ -2921,6 +2930,11 @@ a.link {
   margin: auto;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.main_c.special > * {
+  margin: 5px 0 !important;
+  margin: auto !important;
 }
 
 @media only screen and (max-width: 767px) {
@@ -3877,7 +3891,9 @@ a.link {
     outline: 3px solid grey;
   }
 
-
+  .main_c .table_php {
+    width: 95% !important;
+}
 
 
 
@@ -3934,7 +3950,8 @@ a.link {
   .pr_top_title,
   .th_yeti_price_pc,
   details .set_menu_n_cell,
-  .mc_nav {
+  .mc_nav,
+  .main_c.special > div:nth-of-type(7) {
     display: none;
   }
 
@@ -3997,7 +4014,8 @@ a.link {
   .pr_title_sp_photo,
   .pr_title_sp,
   .th_yeti_price_sp,
-  .sp_option_menu {
+  .sp_option_menu,
+  .main_c.special > div:nth-of-type(8) {
     display: none;
   }
 

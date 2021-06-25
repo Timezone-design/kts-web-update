@@ -34,32 +34,50 @@
 	// HTTP/1.0
 	header( 'Pragma: no-chache' );
 ?>
-	<head>
-		<meta name="keywords" content="">
-		<meta name="description" content="">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
-		<meta name="viewport" content="width=device-width">
-		<link rel="stylesheet" href="../list_php.css" type="text/css" />
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-		<script type="text/javascript">
-			jQuery(function($) {
-				$('tr[data-href]').addClass('clickable')
-					.click(function(e) {
-						if(!$(e.target).is('a')){
-							let href=$(e.target).closest('tr').data('href');
-							window.open(href, "_blank");
-						};
-					});
-			});
-		</script>
-		<title><?php print "$maker $brand $item"; ?></title>
-	</head>
-	<body>
-		<div class="shipping_free"><img class="shipping_img" src="img/shipping_free_900.gif"></div>
-		<div class="set_title"><?php print "$maker $brand $item"; ?></div>
-		<table class="table_php">
-<?php
+
+<head>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="/assets/css/search.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/header_blu.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/mainbody_blu.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/footer_blu.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/slick.css" type="text/css" />
+	<link rel="stylesheet" href="/assets/css/custom.css" type="text/css" />
+	<script src="/assets/js/jquery-3.6.0.min.js"></script>
+	<script src="/assets/js/popper.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js"></script>
+	<script src="/assets/js/slick.min.js"></script>
+	<script type="text/javascript">
+		jQuery(function ($) {
+			$('tr[data-href]').addClass('clickable')
+				.click(function (e) {
+					if (!$(e.target).is('a')) {
+						let href = $(e.target).closest('tr').data('href');
+						window.open(href, "_blank");
+					};
+				});
+		});
+	</script>
+	<title><?php print "$maker $brand $item"; ?></title>
+</head>
+
+<body>
+	<section id="wrapper">
+		<div class="section-container">
+			<div id="content-wrapper">
+				<!-- Header Start -->
+
+				<!-- Header End -->
+				<div class="main_c grey-wrapper row special">
+					<div class="shipping_free"><img class="shipping_img" src="img/shipping_free_900.gif"></div>
+					<div class="set_title"><?php print "$maker $brand $item"; ?></div>
+					<table class="table_php">
+						<?php
 	/* 読み込みデータを展開 */
 	/* 先頭行の処理（タイトル行） */
 	print "			<tr class=table_php_title>\n";
@@ -102,27 +120,38 @@
 		}
 	}
 ?>
-		</table>
-		<div class="footer_text_t">
-			<div class="footer_text_c1">※：</div>
-			<div class="footer_text_c2">本ページ掲載価格はすべて税抜価格となります。</div>
+					</table>
+					<div class="footer_text_t">
+						<div class="footer_text_c1">※：</div>
+						<div class="footer_text_c2">本ページ掲載価格はすべて税抜価格となります。</div>
+					</div>
+					<div class="footer_text_t">
+						<div class="footer_text_c1">※：</div>
+						<div class="footer_text_c2">本ページ掲載商品の送料は無料となります。（沖縄・離島を除く）</div>
+					</div>
+					<div class="footer_text_t">
+						<div class="footer_text_c1">※：</div>
+						<div class="footer_text_c2">「XL」はエクストラロード（荷重能力強化タイプ）のタイヤです。</div>
+					</div>
+					<div class="footer_text_t">
+						<div class="footer_text_c1">※：</div>
+						<div class="footer_text_c2">掲載に無い商品・サイズについてはお問い合わせ下さい。</div>
+					</div>
+					<div class="th_top_b"><a href="size.php" target="_blank"><img class="pc_img" src="img/size_link_900.gif"
+								alt="タイヤサイズからの検索はコチラ"></a></div>
+					<div class="th_top_b"><a href="size.php" target="_blank"><img class="sp_img" src="img/size_link_sp.gif"
+								alt="タイヤサイズからの検索はコチラ"></a></div>
+					<div class="link_close"><a href="#" onClick="window.close(); return false;">閉じる</a></div>
+					<hr>
+				</div>
+				<!-- Footer Start -->
+				
+				</div>
+			</div>
 		</div>
-		<div class="footer_text_t">
-			<div class="footer_text_c1">※：</div>
-			<div class="footer_text_c2">本ページ掲載商品の送料は無料となります。（沖縄・離島を除く）</div>
-		</div>
-		<div class="footer_text_t">
-			<div class="footer_text_c1">※：</div>
-			<div class="footer_text_c2">「XL」はエクストラロード（荷重能力強化タイプ）のタイヤです。</div>
-		</div>
-		<div class="footer_text_t">
-			<div class="footer_text_c1">※：</div>
-			<div class="footer_text_c2">掲載に無い商品・サイズについてはお問い合わせ下さい。</div>
-		</div>
-		<div class="th_top_b"><a href="size.php" target="_blank"><img class="pc_img" src="img/size_link_900.gif" alt="タイヤサイズからの検索はコチラ"></a></div>
-		<div class="th_top_b"><a href="size.php" target="_blank"><img class="sp_img" src="img/size_link_sp.gif" alt="タイヤサイズからの検索はコチラ"></a></div>
-		<div class="link_close"><a href="#" onClick="window.close(); return false;">閉じる</a></div>
-		<hr>
-		<div class="footer">Copyright (C) Kind Techno Structure Corporation. All Rights Reserved.</div>
-	</body>
+	</section>
+	</main>
+	<script src="/assets/js/header_blu.js"></script>
+
 </html>
+<!-- Footer End -->
