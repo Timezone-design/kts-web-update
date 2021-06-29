@@ -139,7 +139,7 @@
                     <td><?=$value->compliance_details?></td>
                     <td><?=$value->specification?></td>
                     <td><?=$value->manu_part_number?></td>
-                    <td><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
+                    <td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
                   </tr>
                   <?php } ?>
                 </tbody>

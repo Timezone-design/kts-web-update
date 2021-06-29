@@ -81,6 +81,17 @@ function resizeIframe(obj) {
 
 $('head').prepend('<meta name="format-detection" content="telephone=no">');
 
+$(document).ready(function() {
+  var target = $('.tel, .fax').find('.showbox-right');
+  for (let l = 0; l < target.length; l++) {
+    const element = target.eq(l);
+    var temp = element.text().trim();
+    temp = "<a href='javascript:void(0)'>" + temp + "</a>";
+    element.html(temp);
+  }
+  
+});
+
   // $(window).resize(function() { 
   //   resizeIframe(document.getElementsByTagName('iframe')[0]);
   //   });

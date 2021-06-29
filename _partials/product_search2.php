@@ -122,7 +122,7 @@ fclose($handle);
 					<td style="color: black;"><?=$value['four_set']?></td>
 					<td style="color: black;"><?=$value['note']?></td>
 					<td style="color: black;"><?=$value['speed_notation']?></td>
-					<td><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
+					<td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value["id"]?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
 					<!-- <td><?=$value['genre']?></td> -->
 				</tr>
 				<?php } ?>

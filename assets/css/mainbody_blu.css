@@ -2918,6 +2918,7 @@ a.link {
 .matching_table_all td a img,
 .pr_sp_none a img {
   height: auto;
+  width: auto;
 }
 
 .matching_table_all td a:hover img,
@@ -2941,6 +2942,12 @@ a.link {
 .iframe_wrapper iframe {
   width: 100%;
   border: 0;
+}
+
+.showbox-right a {
+  text-decoration: none;
+  color: black;
+  cursor: default;
 }
 
 .set-sale-switch {
