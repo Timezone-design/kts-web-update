@@ -5,6 +5,7 @@
           $car_model_cat = isset($_POST['car_model_cat'])?$_POST['car_model_cat']:'';
           $model = isset($_POST['model'])?$_POST['model']:'';
           $car_manus = []; $car_model_cats = []; $product_models = []; $filtered_products = [];
+          $button_pressed = isset($_POST['buttonpress'])?$_POST['buttonpress']:'0';
           
             $file = $root_dir.'/db/item.csv';
             $buffer=explode("\n",file_get_contents($file));
@@ -63,6 +64,7 @@
             <div class="clearfix"></div>
             <div class="clearfix"></div>
             <form action="/<?=$uri?>" method="post" class="row ja">
+            <input type="hidden" name="buttonpress" value="0" id="buttonpress">
               <div class="search-select col-md-4 col-sm-4">
                 <select class="custom-select-lg" name="car_manu"
                   onchange="this.form.car_model_cat=''; this.form.model = ''; submit(this.form)">
@@ -94,8 +96,9 @@
               <div class="clearfix"></div>
               <div class="clearfix"></div>
               <div class="clearfix"></div>
-              <button type="submit" class="btn-search" style="-webkit-font-size: 15px; -webkit-color: black;  -webkit-border: none;  -webkit-position: relative;  -webkit-height: 40px;  -webkit-width: 200px;  -webkit-background-color: lightblue;  -webkit-border-radius: 20px;  -webkit-outline: none;  font-size: 15px;  color: black;  border: none;  position: relative;  height: 40px;  width: 200px;  background-color: lightblue;  border-radius: 20px;  outline: none;" <?=count($filtered_products)==0?'disabled':''?>>検索</button>            </form>
-            <?php if(count($filtered_products) > 0){ ?>
+              <button onclick="$('form.row').find('#buttonpress').val(1);" type="submit" class="btn-search" style="-webkit-font-size: 15px; -webkit-color: black;  -webkit-border: none;  -webkit-position: relative;  -webkit-height: 40px;  -webkit-width: 200px;  -webkit-background-color: lightblue;  -webkit-border-radius: 20px;  -webkit-outline: none;  font-size: 15px;  color: black;  border: none;  position: relative;  height: 40px;  width: 200px;  background-color: lightblue;  border-radius: 20px;  outline: none;<?=count($filtered_products)==0?'background-color: grey':''?>" <?=count($filtered_products)==0?'disabled':''?>>検索</button>
+            </form>
+            <?php if(count($filtered_products) > 0 && $button_pressed == '1'){ ?>
             <div class="search-results">
               <table class="matching_table_all">
                 <thead>

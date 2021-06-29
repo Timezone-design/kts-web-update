@@ -295,11 +295,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN SPORT V105" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/sport_v105.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN SPORT V105" class="th_tire_img"  src="img/advan/sport_v105.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ADVANスポーツが新たにより高性能へと進化
                 </span>
                </div>
@@ -320,11 +320,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN SPORT V103" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/sport_v103.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN SPORT V103" class="th_tire_img"  src="img/advan/sport_v103.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  伝統のスポーツ性能に快適性を高次元でバランス
                 </span>
                </div>
@@ -348,11 +348,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN SPORT V105 Z・P・S" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/sport_v105_zps.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN SPORT V105 Z・P・S" class="th_tire_img"  src="img/advan/sport_v105_zps.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  「ADVAN Sport V105」の高速性能を受け継いだランフラットモデル
                 </span>
                </div>
@@ -373,11 +373,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN SPORT V103 Z・P・S" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/sport_v103_zps.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN SPORT V103 Z・P・S" class="th_tire_img"  src="img/advan/sport_v103_zps.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  「ADVAN Sport V103」の性能を持ったランフラットモデル
                 </span>
                </div>
@@ -398,11 +398,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN dB V552" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/db_v552.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN dB V552" class="th_tire_img"  src="img/advan/db_v552.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  目指したものは、かつてない静粛性
                 </span>
                </div>
@@ -423,11 +423,11 @@
             <div class="tab-pane fade" id="_5">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN FLEVA V701" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/fleva_v701.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN FLEVA V701" class="th_tire_img"  src="img/advan/fleva_v701.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  「楽しいハンドリング」をテーマにしたハイパフォーマンス・スポーティ・タイヤ
                 </span>
                </div>
@@ -449,36 +449,36 @@
              </div>
              <div class="th_table">
               <div class="th_review_main">
-               <img data-nsfw-filter-status="sfw" src="../img/review/main_4h.gif" style="visibility: visible;"/>
+               <img  src="../img/review/main_4h.gif" style="visibility: visible;"/>
                4.71点
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_1/5.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_1/5.gif" style="visibility: visible;"/>
                 5.0
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_2/5.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_2/5.gif" style="visibility: visible;"/>
                 5.0
                </div>
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_3/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_3/4.gif" style="visibility: visible;"/>
                 4.3
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
                 4.8
                </div>
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_5/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_5/4h.gif" style="visibility: visible;"/>
                 4.5
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_6/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_6/4.gif" style="visibility: visible;"/>
                 4.3
                </div>
               </div>
@@ -487,11 +487,11 @@
             <div class="tab-pane fade" id="_6">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN NEOVA AD08R" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/neova_ad08r.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN NEOVA AD08R" class="th_tire_img"  src="img/advan/neova_ad08r.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  走りを追求したADVAN最強のストリートタイヤ
                 </span>
                </div>
@@ -515,11 +515,11 @@
             <div class="tab-pane fade" id="_7">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN NEOVA AD07" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/neova_ad07.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN NEOVA AD07" class="th_tire_img"  src="img/advan/neova_ad07.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  魂をグリップするタイヤがある
                 </span>
                </div>
@@ -546,11 +546,11 @@
             <div class="tab-pane fade" id="_8">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN A052" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/a052.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN A052" class="th_tire_img"  src="img/advan/a052.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  自宅からサーキットまで履き替え不要
                 </span>
                </div>
@@ -571,11 +571,11 @@
             <div class="tab-pane fade" id="_9">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA ADVAN A08B" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/advan/a08b.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA ADVAN A08B" class="th_tire_img"  src="img/advan/a08b.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  スポーツ走行を強く意識したストリートスポーツラジアル
                 </span>
                </div>
@@ -625,7 +625,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

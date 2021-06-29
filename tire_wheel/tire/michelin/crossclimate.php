@@ -223,11 +223,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN CROSSCLIMATE" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/crossclimate/crossclimate.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN CROSSCLIMATE" class="th_tire_img"  src="img/crossclimate/crossclimate.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  雪も走れる夏タイヤ
                 </span>
                </div>
@@ -238,7 +238,7 @@
                 また、ロングライフ性能はENERGY SAVER＋よりさらに向上。
                </div>
                <div class="th_table_comm">
-                <span class="font_ff0" data-nsfw-filter-status="swf">
+                <span class="font_ff0">
                  ※冬季における運転環境等、ご使用の状況をご確認の上ご使用下さい。凍結路面でのご使用の可能性がある場合は、スタッドレスタイヤのご使用をお勧め致します。
                 </span>
                </div>
@@ -256,11 +256,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN CROSSCLIMATE＋" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/crossclimate/crossclimate_plus.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN CROSSCLIMATE＋" class="th_tire_img"  src="img/crossclimate/crossclimate_plus.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  雪も走れる夏タイヤ
                 </span>
                </div>
@@ -271,7 +271,7 @@
                 また、ロングライフ性能はENERGY SAVER＋よりさらに向上。
                </div>
                <div class="th_table_comm">
-                <span class="font_ff0" data-nsfw-filter-status="swf">
+                <span class="font_ff0">
                  ※冬季における運転環境等、ご使用の状況をご確認の上ご使用下さい。凍結路面でのご使用の可能性がある場合は、スタッドレスタイヤのご使用をお勧め致します。
                 </span>
                </div>
@@ -315,7 +315,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

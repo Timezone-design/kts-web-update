@@ -223,11 +223,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン Playz PX2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/playz/px_2.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン Playz PX2" class="th_tire_img"  src="img/playz/px_2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  雨に強い、長く強い。疲れにくいだけじゃない。
                 </span>
                </div>
@@ -251,11 +251,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン Playz PX-RV2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/playz/px_rv2.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン Playz PX-RV2" class="th_tire_img"  src="img/playz/px_rv2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  雨に強い、長く強い。疲れにくいだけじゃない。
                 </span>
                </div>
@@ -305,7 +305,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

@@ -232,11 +232,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン REGNO GR-X2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/regno/gr_x2.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン REGNO GR-X2" class="th_tire_img"  src="img/regno/gr_x2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  進化を遂げた、グレートバランス。
                 </span>
                </div>
@@ -257,11 +257,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン REGNO GRV2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/regno/grv2.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン REGNO GRV2" class="th_tire_img"  src="img/regno/grv2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  より上質で快適な車内空間へ。
                 </span>
                </div>
@@ -285,11 +285,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン REGNO GR-Leggera" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/regno/gr_leggera.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン REGNO GR-Leggera" class="th_tire_img"  src="img/regno/gr_leggera.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  軽自動車にワンランク上の快適性。
                 </span>
                </div>
@@ -342,7 +342,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

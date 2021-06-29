@@ -223,11 +223,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA PARADA Spec-X PA02" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/parada/spec_x_pa02.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA PARADA Spec-X PA02" class="th_tire_img"  src="img/parada/spec_x_pa02.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ドレスアップ志向のインチアップに最適
                 </span>
                </div>
@@ -248,11 +248,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA PARADA PA03" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/parada/pa03.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA PARADA PA03" class="th_tire_img"  src="img/parada/pa03.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ホワイトレターが際立つバン・小型トラック用ドレスアップタイヤ
                 </span>
                </div>
@@ -302,7 +302,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

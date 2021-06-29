@@ -277,11 +277,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES PROXES Soort SUV" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/proxes/sport_suv.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES PROXES Soort SUV" class="th_tire_img"  src="img/proxes/sport_suv.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ウェット性能に秀でたPROXES Sportに、待望のSUV専用モデルが登場。
                 </span>
                </div>
@@ -302,11 +302,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES PROXES CF2 SUV" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/proxes/cf2_suv.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES PROXES CF2 SUV" class="th_tire_img"  src="img/proxes/cf2_suv.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  もっと上質へ。もっと低燃費へ。
                 </span>
                </div>
@@ -327,11 +327,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES PROXES Soort" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/proxes/sport.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES PROXES Soort" class="th_tire_img"  src="img/proxes/sport.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  驚きのウェット性能を実現。妥協なきウルトラ・ハイパフォーマンスタイヤ。
                 </span>
                </div>
@@ -352,11 +352,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES PROXES C1S" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/proxes/c1s.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES PROXES C1S" class="th_tire_img"  src="img/proxes/c1s.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  上質な移動空間を創造する、高次元のコンフォート・クルージング性能。
                 </span>
                </div>
@@ -377,11 +377,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES PROXES CF2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/proxes/cf2.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES PROXES CF2" class="th_tire_img"  src="img/proxes/cf2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  もっと上質へ。もっと低燃費へ。
                 </span>
                </div>
@@ -405,11 +405,11 @@
             <div class="tab-pane fade" id="_5">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES PROXES R1R" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/proxes/r1r.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES PROXES R1R" class="th_tire_img"  src="img/proxes/r1r.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  高いグリップ力を秘めたリアルスポーツラジアル。
                 </span>
                </div>
@@ -430,11 +430,11 @@
             <div class="tab-pane fade" id="_6">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES PROXES R888R" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/proxes/r888r.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES PROXES R888R" class="th_tire_img"  src="img/proxes/r888r.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  走りを追求したモータースポーツ用タイヤ。
                 </span>
                </div>
@@ -455,11 +455,11 @@
             <div class="tab-pane fade" id="_7">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES PROXES R888R Drift" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/proxes/r888r_drift.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES PROXES R888R Drift" class="th_tire_img"  src="img/proxes/r888r_drift.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  主にドリフト競技向けにチューンされたスペック
                 </span>
                </div>
@@ -506,7 +506,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

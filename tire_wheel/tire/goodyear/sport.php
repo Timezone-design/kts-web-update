@@ -232,7 +232,7 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR EAGLE F1 ASYMMETRIC 5" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/sport/eagle_f1_asymmetric_5.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR EAGLE F1 ASYMMETRIC 5" class="th_tire_img"  src="img/sport/eagle_f1_asymmetric_5.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -252,7 +252,7 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR EAGLE RS SPORT S-SPEC" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/sport/eagle_rs_sport_s_spec.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR EAGLE RS SPORT S-SPEC" class="th_tire_img"  src="img/sport/eagle_rs_sport_s_spec.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -272,7 +272,7 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR EAGLE REVSPEC RS-02" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/sport/eagle_revspec_rs_02.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR EAGLE REVSPEC RS-02" class="th_tire_img"  src="img/sport/eagle_revspec_rs_02.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">

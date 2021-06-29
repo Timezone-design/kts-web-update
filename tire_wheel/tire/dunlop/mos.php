@@ -214,11 +214,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="DUNLOP DIREZZA 03G" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/mos/direzza_03g.jpg" style="visibility: visible;"/>
+               <img alt="DUNLOP DIREZZA 03G" class="th_tire_img"  src="img/mos/direzza_03g.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  優れたグリップと高度な操作性が最速を目指す
                 </span>
                </div>
@@ -268,7 +268,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

@@ -10,6 +10,7 @@ $file = $root_dir.'/db/item-tire.csv';
 $handle = fopen($file, "r");
 $inches = []; $tire_widthes = []; $flatnesses = []; $filtered_products = [];
 $row = fgetcsv($handle, 0, ",");
+$button_pressed = isset($_POST['buttonpress'])?$_POST['buttonpress']:'0';
 
 while (($row = fgetcsv($handle, 0, ",")) !== false) 
 {
@@ -61,6 +62,7 @@ fclose($handle);
 	<h2 class="ja">車種別に商品の適合を検索できます。</h2>
 	<div class="clearfix"></div>
 	<form action="<?=$uri?>" method="post" class="row ja">
+            <input type="hidden" name="buttonpress" value="0" id="buttonpress">
 		<div class="search-select col-md-4 col-sm-4">
 			<select class="custom-select-lg" name="inch" onchange="this.form.tire_width=''; this.form.flatness = ''; submit(this.form)">
 				<option value='' <?php if($inch == '') echo 'selected'; ?>>インチを選ぶ</option>
@@ -87,9 +89,9 @@ fclose($handle);
 		</div>
 	  	<br>
 			<div class="clearfix"></div>
-	  	<button class="btn-search" type="submit" style="-webkit-font-size: 15px; -webkit-color: black;  -webkit-border: none;  -webkit-position: relative;  -webkit-height: 40px;  -webkit-width: 200px;  -webkit-background-color: lightblue;  -webkit-border-radius: 20px;  -webkit-outline: none;  font-size: 15px;  color: black;  border: none;  position: relative;  height: 40px;  width: 200px;  background-color: lightblue;  border-radius: 20px;  outline: none;" <?=count($filtered_products)==0?'disabled':''?>>検索</button>
+	  	<button class="btn-search" type="submit" style="-webkit-font-size: 15px; -webkit-color: black;  -webkit-border: none;  -webkit-position: relative;  -webkit-height: 40px;  -webkit-width: 200px;  -webkit-background-color: lightblue;  -webkit-border-radius: 20px;  -webkit-outline: none;  font-size: 15px;  color: black;  border: none;  position: relative;  height: 40px;  width: 200px;  background-color: lightblue;  border-radius: 20px;  outline: none;<?=count($filtered_products)==0?'background-color: grey':''?>" <?=count($filtered_products)==0?'disabled':''?>>検索</button>
 	</form>
-	<?php if(count($filtered_products) > 0){ ?>
+	<?php if(count($filtered_products) > 0 && $button_pressed == '1'){ ?>
 	<div class="search-results">	
 		<table class="matching_table_all">
 			<thead>

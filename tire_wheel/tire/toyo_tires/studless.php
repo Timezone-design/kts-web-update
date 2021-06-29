@@ -241,11 +241,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES STUDLESS TIRE OVSERVE GIZ2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/studless/observe_giz2.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES STUDLESS TIRE OVSERVE GIZ2" class="th_tire_img"  src="img/studless/observe_giz2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  冬の路面へしなやかに密着し、より高度なアイス性能と持続する効きを実現。進化を遂げたNEWスタッドレス！
                 </span>
                </div>
@@ -266,11 +266,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES STUDLESS TIRE Winter TRANPATH TX" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/studless/winter_tranpath_tx.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES STUDLESS TIRE Winter TRANPATH TX" class="th_tire_img"  src="img/studless/winter_tranpath_tx.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ふらつきを抑えた安定感のある走りと、進化したアイス性能をそなえた、ハイト系専用スタッドレス！
                 </span>
                </div>
@@ -291,11 +291,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES STUDLESS TIRE OBSERVE GSi-5" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/studless/observe_gsi_5.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES STUDLESS TIRE OBSERVE GSi-5" class="th_tire_img"  src="img/studless/observe_gsi_5.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  CCV専用設計でアイス・スノー・シャーベットをはじめ多様な路面をしっかりグリップ！
                 </span>
                </div>
@@ -316,11 +316,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES STUDLESS TIRE OBSERVE GARIT GIZ" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/studless/observe_garit_giz.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES STUDLESS TIRE OBSERVE GARIT GIZ" class="th_tire_img"  src="img/studless/observe_garit_giz.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  高次元でバランスのとれた氷雪上性能を発揮するメジャースタッドレス！
                 </span>
                </div>
@@ -367,7 +367,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

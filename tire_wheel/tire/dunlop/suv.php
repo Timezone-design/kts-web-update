@@ -232,11 +232,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="DUNLOP GRANDTREK PT3" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/grandtrek_pt3.jpg" style="visibility: visible;"/>
+               <img alt="DUNLOP GRANDTREK PT3" class="th_tire_img"  src="img/suv/grandtrek_pt3.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  高い走行性能と環境性能を両立させたオンロード向けSUV用タイヤ
                 </span>
                </div>
@@ -260,11 +260,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="DUNLOP GRANDTREK AT5" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/grandtrek_at5.jpg" style="visibility: visible;"/>
+               <img alt="DUNLOP GRANDTREK AT5" class="th_tire_img"  src="img/suv/grandtrek_at5.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  オールラウンドタイプSUV用タイヤ
                 </span>
                </div>
@@ -288,11 +288,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="DUNLOP GRANDTREK MT2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/grandtrek_mt2.jpg" style="visibility: visible;"/>
+               <img alt="DUNLOP GRANDTREK MT2" class="th_tire_img"  src="img/suv/grandtrek_mt2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  オフロード向けSUVタイヤ
                 </span>
                </div>
@@ -342,7 +342,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

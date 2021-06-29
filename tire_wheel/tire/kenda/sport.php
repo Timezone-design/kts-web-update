@@ -223,7 +223,7 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="KENDA KR20A" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/sport/kr20a.jpg" style="visibility: visible;"/>
+               <img alt="KENDA KR20A" class="th_tire_img"  src="img/sport/kr20a.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -246,7 +246,7 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="KENDA KR20" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/sport/kr20.jpg" style="visibility: visible;"/>
+               <img alt="KENDA KR20" class="th_tire_img"  src="img/sport/kr20.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -295,7 +295,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

@@ -241,11 +241,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES TRANPATH mpZ" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/tranpath/mpz.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES TRANPATH mpZ" class="th_tire_img"  src="img/tranpath/mpz.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  フラつきを抑えてしっかり走り、経済性も兼ね備えたミニバン専用スタンダードタイヤ。
                 </span>
                </div>
@@ -266,11 +266,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES TRANPATH ML" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/tranpath/ml.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES TRANPATH ML" class="th_tire_img"  src="img/tranpath/ml.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  低燃費タイヤグレード「AA-b」獲得と安定した走りの両立。ミドルクラスミニバン専用タイヤ。
                 </span>
                </div>
@@ -291,11 +291,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES TRANPATH Lu2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/tranpath/lu2.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES TRANPATH Lu2" class="th_tire_img"  src="img/tranpath/lu2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  専用設計が創り出す快適な居住空間。ラグジュアリーミニバン専用タイヤ。
                 </span>
                </div>
@@ -316,11 +316,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES TRANPATH LuK" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/tranpath/luk.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES TRANPATH LuK" class="th_tire_img"  src="img/tranpath/luk.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  Luシリーズの魂が宿る軽自動車専用タイヤ。
                 </span>
                </div>
@@ -370,7 +370,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

@@ -223,11 +223,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PRIMACY4" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/primacy/primacy_4.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PRIMACY4" class="th_tire_img"  src="img/primacy/primacy_4.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  濡れた路面にも強い、プレミアムコンフォートタイヤ
                 </span>
                </div>
@@ -248,11 +248,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PRIMACY3" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/primacy/primacy_3.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PRIMACY3" class="th_tire_img"  src="img/primacy/primacy_3.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  快適性と高速安定性を融合したアクティブコンフォートタイヤ
                 </span>
                </div>
@@ -302,7 +302,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

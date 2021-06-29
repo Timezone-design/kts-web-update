@@ -277,11 +277,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA GEOLANDAR CV G058" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/geolandar/cv_g058.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA GEOLANDAR CV G058" class="th_tire_img"  src="img/geolandar/cv_g058.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  クロスオーバーSUV向けグランドツーリングタイヤ
                 </span>
                </div>
@@ -305,11 +305,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA GEOLANDAR H/T G056" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/geolandar/ht_g056.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA GEOLANDAR H/T G056" class="th_tire_img"  src="img/geolandar/ht_g056.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  耐摩耗性・快適性を大幅にレベルアップ。中・大型SUV用ハイウェイテレーンタイヤ。
                 </span>
                </div>
@@ -333,11 +333,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA GEOLANDAR X-CV G057" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/geolandar/x_cv_g057.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA GEOLANDAR X-CV G057" class="th_tire_img"  src="img/geolandar/x_cv_g057.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  快適性と安全性を両立したパフォーマンスコンフォートタイヤ
                 </span>
                </div>
@@ -361,11 +361,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA GEOLANDAR A/T G015" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/geolandar/at_g015.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA GEOLANDAR A/T G015" class="th_tire_img"  src="img/geolandar/at_g015.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  オフロード性能もオンロード性能も。SUV向けオールテレーンタイヤ
                 </span>
                </div>
@@ -389,11 +389,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA GEOLANDAR X-AT G016" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/geolandar/x_at_g016.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA GEOLANDAR X-AT G016" class="th_tire_img"  src="img/geolandar/x_at_g016.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  よりアグレッシブなデザインを求める”エクストリーマーのためのオールテレーンタイヤ”
                 </span>
                </div>
@@ -414,11 +414,11 @@
             <div class="tab-pane fade" id="_5">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA GEOLANDAR M/T G003" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/geolandar/mt_g003.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA GEOLANDAR M/T G003" class="th_tire_img"  src="img/geolandar/mt_g003.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  耐久性・耐摩耗性を追求しオフロードを堪能したい方へ
                 </span>
                </div>
@@ -439,11 +439,11 @@
             <div class="tab-pane fade" id="_6">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA GEOLANDAR X-MT G005" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/geolandar/x_mt_g005.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA GEOLANDAR X-MT G005" class="th_tire_img"  src="img/geolandar/x_mt_g005.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  SUV・ピックアップトラック向けマッドテレーンタイヤ
                 </span>
                </div>
@@ -467,13 +467,13 @@
             <div class="tab-pane fade" id="_7">
              <div class="th_table">
               <div class="th_table_cell_c">
-               <a data-nsfw-filter-status="swf" href="../../../shop_menu/koutin/change_tire.html">
-                <img data-nsfw-filter-status="sfw" src="../img/wheel_kouchin.gif" style="visibility: visible;"/>
+               <a href="../../../shop_menu/koutin/change_tire.html">
+                <img  src="../img/wheel_kouchin.gif" style="visibility: visible;"/>
                </a>
               </div>
               <div class="th_table_cell_c">
-               <a data-nsfw-filter-status="swf" href="../../../shop_menu/set/tire_wheel/alignment_tire.html">
-                <img data-nsfw-filter-status="sfw" src="../img/wheel_set.gif" style="visibility: visible;"/>
+               <a href="../../../shop_menu/set/tire_wheel/alignment_tire.html">
+                <img  src="../img/wheel_set.gif" style="visibility: visible;"/>
                </a>
               </div>
              </div>
@@ -507,7 +507,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

@@ -28,7 +28,9 @@ img {
   font-weight: bold;
   top: 50%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%, -50%);
+  width: 95%;
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
 .four-of-a-kind-one a.arrowed-link {
@@ -71,14 +73,24 @@ img {
   transition: background-color 0.35s ease;
 }
 
-.four-of-a-kind-one a span,
+.four-of-a-kind-one a span:last-of-type,
 .four-of-a-kind-one a img {
   opacity: 0;
   transition: opacity 0.35s ease;
 }
 
+.four-of-a-kind-one a span:first-of-type {
+  color: black;
+  /* -webkit-text-stroke-width: .1px;
+  -webkit-text-stroke-color: white; */
+  font-size: 20px;
+}
+
+
 .four-of-a-kind-one a:hover span,
 .four-of-a-kind-one a:hover img {
+  background-color: transparent;
+  color: white !important;
   opacity: 1;
 }
 

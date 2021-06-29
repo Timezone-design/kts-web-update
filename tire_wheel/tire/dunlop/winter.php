@@ -229,11 +229,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="DUNLOP WINTER MAXX 03" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/winter/winter_maxx_03.jpg" style="visibility: visible;"/>
+               <img alt="DUNLOP WINTER MAXX 03" class="th_tire_img"  src="img/winter/winter_maxx_03.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  氷に超速で効く氷上性能特化型
                 </span>
                </div>
@@ -257,11 +257,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="DUNLOP WINTER MAXX 02" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/winter/winter_maxx_02.jpg" style="visibility: visible;"/>
+               <img alt="DUNLOP WINTER MAXX 02" class="th_tire_img"  src="img/winter/winter_maxx_02.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  バランス型スタッドレスタイヤ
                 </span>
                </div>
@@ -282,11 +282,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="DUNLOP WINTER MAXX SJ8" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/winter/winter_maxx_sj8.jpg" style="visibility: visible;"/>
+               <img alt="DUNLOP WINTER MAXX SJ8" class="th_tire_img"  src="img/winter/winter_maxx_sj8.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ちがいは、密着力。よく粘る、長くもつ。
                 </span>
                </div>
@@ -336,7 +336,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

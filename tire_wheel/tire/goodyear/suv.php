@@ -268,7 +268,7 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR EAGLE F1 ASYMMETRIC 3 SUV" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/eagle_f1_asymmetric_3_suv.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR EAGLE F1 ASYMMETRIC 3 SUV" class="th_tire_img"  src="img/suv/eagle_f1_asymmetric_3_suv.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -288,7 +288,7 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR EfficientGrip Performance SUV" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/eg_performance_suv.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR EfficientGrip Performance SUV" class="th_tire_img"  src="img/suv/eg_performance_suv.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -308,7 +308,7 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR EfficientGrip SUV HP01" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/eg_suv_hp01.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR EfficientGrip SUV HP01" class="th_tire_img"  src="img/suv/eg_suv_hp01.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -328,7 +328,7 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR WRANGLER DURATRAC" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/wrangler_duratrac.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR WRANGLER DURATRAC" class="th_tire_img"  src="img/suv/wrangler_duratrac.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -348,7 +348,7 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR WRANGLER ALL-TERRAIN ADVENTURE with Kevlar" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/wrangler_all_ta_with_k.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR WRANGLER ALL-TERRAIN ADVENTURE with Kevlar" class="th_tire_img"  src="img/suv/wrangler_all_ta_with_k.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -368,7 +368,7 @@
             <div class="tab-pane fade" id="_5">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR WRANGLER AT SILENTTRAC" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/wrangler_at_st.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR WRANGLER AT SILENTTRAC" class="th_tire_img"  src="img/suv/wrangler_at_st.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                aaaaa
@@ -389,7 +389,7 @@
             <div class="tab-pane fade" id="_6">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR WRANGLER AT/S" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/suv/wrangler_at_s.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR WRANGLER AT/S" class="th_tire_img"  src="img/suv/wrangler_at_s.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -435,7 +435,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

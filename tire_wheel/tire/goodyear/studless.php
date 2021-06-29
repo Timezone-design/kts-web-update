@@ -250,7 +250,7 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR ICE NAVI 7" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/studless/ice_navi_7.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR ICE NAVI 7" class="th_tire_img"  src="img/studless/ice_navi_7.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -270,7 +270,7 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR ICE NAVI 6" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/studless/ice_navi_6.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR ICE NAVI 6" class="th_tire_img"  src="img/studless/ice_navi_6.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -290,7 +290,7 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR ICE NAVI 6 RUN ON FLAT" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/studless/ice_navi_6_runflat.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR ICE NAVI 6 RUN ON FLAT" class="th_tire_img"  src="img/studless/ice_navi_6_runflat.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -313,7 +313,7 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR ICE NAVI SUV" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/studless/ice_navi_suv.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR ICE NAVI SUV" class="th_tire_img"  src="img/studless/ice_navi_suv.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -333,7 +333,7 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="GOODYEAR ICE NAVI CARGO" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/studless/ice_navi_cargo.jpg" style="visibility: visible;"/>
+               <img alt="GOODYEAR ICE NAVI CARGO" class="th_tire_img"  src="img/studless/ice_navi_cargo.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -379,7 +379,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

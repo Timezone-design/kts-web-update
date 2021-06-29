@@ -232,7 +232,7 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="NANKANG AS-1" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/nk_comfort/as_1.jpg" style="visibility: visible;"/>
+               <img alt="NANKANG AS-1" class="th_tire_img"  src="img/nk_comfort/as_1.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -258,7 +258,7 @@
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_1/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_1/4.gif" style="visibility: visible;"/>
                 4.4
                </div>
                <div class="th_review_mini_cell">
@@ -272,7 +272,7 @@
                 4.3
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_4/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_4/4.gif" style="visibility: visible;"/>
                 4.4
                </div>
               </div>
@@ -291,7 +291,7 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="NANKANG RX-615" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/nk_comfort/rx_615.jpg" style="visibility: visible;"/>
+               <img alt="NANKANG RX-615" class="th_tire_img"  src="img/nk_comfort/rx_615.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -350,7 +350,7 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="NANKANG XR-611" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/nk_comfort/xr_611.jpg" style="visibility: visible;"/>
+               <img alt="NANKANG XR-611" class="th_tire_img"  src="img/nk_comfort/xr_611.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -435,7 +435,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

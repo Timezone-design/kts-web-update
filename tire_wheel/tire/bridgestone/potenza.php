@@ -268,11 +268,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン POTENZA RE-71RS" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/potenza/re_71rs.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン POTENZA RE-71RS" class="th_tire_img"  src="img/potenza/re_71rs.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  最速へのこだわりが生んだ、リアル・スポーツPOTENZA
                 </span>
                </div>
@@ -305,11 +305,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン POTENZA S007A" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/potenza/s007a.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン POTENZA S007A" class="th_tire_img"  src="img/potenza/s007a.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  さらなる高みに到達した、プレミアムPOTENZA
                 </span>
                </div>
@@ -336,11 +336,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン POTENZA Adrenalin RE004" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/potenza/adrenalin_re004.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン POTENZA Adrenalin RE004" class="th_tire_img"  src="img/potenza/adrenalin_re004.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  幅広い車種に対応する、スタイリッシュPOTENZA
                 </span>
                </div>
@@ -367,11 +367,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン POTENZA RE-12D" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/potenza/re_12d.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン POTENZA RE-12D" class="th_tire_img"  src="img/potenza/re_12d.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  サーキットでのラップタイム短縮を追求した、リアル・スポーツPOTENZA
                 </span>
                </div>
@@ -395,11 +395,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン POTENZA RE-12D TYPE A" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/potenza/re_12d_type_a.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン POTENZA RE-12D TYPE A" class="th_tire_img"  src="img/potenza/re_12d_type_a.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ジムカーナー競技でのラップタイム短縮を追求した、リアル・スポーツPOTENZA
                 </span>
                </div>
@@ -423,11 +423,11 @@
             <div class="tab-pane fade" id="_5">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン POTENZA RE-07D" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/potenza/re_07d.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン POTENZA RE-07D" class="th_tire_img"  src="img/potenza/re_07d.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  サーキットでのラップタイム短縮を追求 ハイグリップスポーツタイヤ
                 </span>
                </div>
@@ -451,11 +451,11 @@
             <div class="tab-pane fade" id="_6">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン POTENZA RE-11S" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/potenza/re_11s.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン POTENZA RE-11S" class="th_tire_img"  src="img/potenza/re_11s.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  さらに熱く、速く。生まれ変わったポテンザ。
                 </span>
                </div>
@@ -505,7 +505,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

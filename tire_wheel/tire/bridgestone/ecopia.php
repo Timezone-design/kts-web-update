@@ -259,11 +259,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン ECOPIA NH100" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ecopia/nh100.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン ECOPIA NH100" class="th_tire_img"  src="img/ecopia/nh100.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  安全性能、長持ち！ セダン・クーペ専用
                 </span>
                </div>
@@ -287,11 +287,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン ECOPIA NH100RV" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ecopia/nh100rv.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン ECOPIA NH100RV" class="th_tire_img"  src="img/ecopia/nh100rv.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  安全性能、長持ち！ ミニバン専用
                 </span>
                </div>
@@ -318,11 +318,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン ECOPIA NH100RV" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ecopia/nh100c.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン ECOPIA NH100RV" class="th_tire_img"  src="img/ecopia/nh100c.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  安全性能、長持ち！ 軽・コンパクト専用
                 </span>
                </div>
@@ -346,11 +346,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン ECOPIA EX20C TYPE H" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ecopia/ex20c.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン ECOPIA EX20C TYPE H" class="th_tire_img"  src="img/ecopia/ex20c.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  雨に強く、タイヤが長持ち「ハイト系軽自動車専用」
                 </span>
                </div>
@@ -377,11 +377,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン ECOPIA EP001S" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ecopia/ep001s.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン ECOPIA EP001S" class="th_tire_img"  src="img/ecopia/ep001s.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  低燃費タイヤグレードの頂点
                 </span>
                </div>
@@ -405,11 +405,11 @@
             <div class="tab-pane fade" id="_5">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン ECOPIA EV-01" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ecopia/ev_01.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン ECOPIA EV-01" class="th_tire_img"  src="img/ecopia/ev_01.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  もっと遠くまで、もっと静かに。電気自動車[EV]専用タイヤ。
                 </span>
                </div>
@@ -462,7 +462,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

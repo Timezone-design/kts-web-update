@@ -250,11 +250,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA iceGUARD6 iG60" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ice_guard/ice_guard6_ig60.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA iceGUARD6 iG60" class="th_tire_img"  src="img/ice_guard/ice_guard6_ig60.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  氷に効く・永く効く・燃費に効く＋ウェットと音に効く
                 </span>
                </div>
@@ -278,11 +278,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA iceGUARD6 Z・P・S iG60" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ice_guard/ice_guard6_ig60zps.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA iceGUARD6 Z・P・S iG60" class="th_tire_img"  src="img/ice_guard/ice_guard6_ig60zps.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  乗用車用プレミアムランフラットスタッドレスタイヤ
                 </span>
                </div>
@@ -306,11 +306,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA iceGUARD5 PLUS" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ice_guard/ice_guard5_plus.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA iceGUARD5 PLUS" class="th_tire_img"  src="img/ice_guard/ice_guard5_plus.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  氷に効く・永く効く・燃費に効く
                 </span>
                </div>
@@ -331,11 +331,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA iceGUARD SUV G075" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ice_guard/suv_g075.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA iceGUARD SUV G075" class="th_tire_img"  src="img/ice_guard/suv_g075.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  SUVに、飛躍の氷上性能を。
                 </span>
                </div>
@@ -356,11 +356,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA iceGUARD iG91 for VAN" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/ice_guard/ice_guard_ig91_for_van.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA iceGUARD iG91 for VAN" class="th_tire_img"  src="img/ice_guard/ice_guard_ig91_for_van.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  氷上性能重視型 バン用スタッドレスタイヤ
                 </span>
                </div>
@@ -407,7 +407,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

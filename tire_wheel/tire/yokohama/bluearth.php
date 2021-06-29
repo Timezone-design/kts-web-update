@@ -268,11 +268,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA BlueEarth GT AE51" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/bluearth/gt_ae51.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA BlueEarth GT AE51" class="th_tire_img"  src="img/bluearth/gt_ae51.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  高い操縦安定性と低燃費性能を融合したグランドツーリングタイヤ
                 </span>
                </div>
@@ -299,11 +299,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA BlueEarth A AE50" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/bluearth/a_ae50.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA BlueEarth A AE50" class="th_tire_img"  src="img/bluearth/a_ae50.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  高い操縦安定性と低燃費性能を融合したグランドツーリングタイヤ
                 </span>
                </div>
@@ -327,11 +327,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA BlueEarth AE-01F" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/bluearth/ae_01f.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA BlueEarth AE-01F" class="th_tire_img"  src="img/bluearth/ae_01f.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  AE01の転がり抵抗性能をより高め、AAAグレードを取得したスタンダードな低燃費タイヤ
                 </span>
                </div>
@@ -355,11 +355,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA BlueEarth AE-01" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/bluearth/ae_01.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA BlueEarth AE-01" class="th_tire_img"  src="img/bluearth/ae_01.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  低燃費性能と経済性を備えた、環境にも、人にも優しい低燃費タイヤのスタンダード
                 </span>
                </div>
@@ -383,11 +383,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA BlueEarth XT AE61" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/bluearth/xt_ae61.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA BlueEarth XT AE61" class="th_tire_img"  src="img/bluearth/xt_ae61.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  高いハンドリング性能と、優れた静粛性を備えたクロスオーバーSUV専用サマータイヤ
                 </span>
                </div>
@@ -411,11 +411,11 @@
             <div class="tab-pane fade" id="_5">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA BlueEarth RV-02" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/bluearth/rv_02.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA BlueEarth RV-02" class="th_tire_img"  src="img/bluearth/rv_02.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ミニバン/SUVに求められる性能はもちろん、低燃費性能とウェット性能を両立したミニバン/SUV専用タイヤ
                 </span>
                </div>
@@ -442,11 +442,11 @@
             <div class="tab-pane fade" id="_6">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="YOKOHAMA BlueEarth 4S AW21" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/bluearth/4s_aw21.jpg" style="visibility: visible;"/>
+               <img alt="YOKOHAMA BlueEarth 4S AW21" class="th_tire_img"  src="img/bluearth/4s_aw21.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  雪に強いオールシーズンタイヤ
                 </span>
                </div>
@@ -493,7 +493,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

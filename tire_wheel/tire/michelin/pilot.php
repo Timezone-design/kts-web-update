@@ -287,11 +287,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PILOT SPORT 4S" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/pilot/pilot_sport_4s.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PILOT SPORT 4S" class="th_tire_img"  src="img/pilot/pilot_sport_4s.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  技術と情熱を結集した次世代の走りを生み出すハイスペック・スポーツタイヤ
                 </span>
                </div>
@@ -318,11 +318,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PILOT SUPER SPORT" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/pilot/pilot_super_sport.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PILOT SUPER SPORT" class="th_tire_img"  src="img/pilot/pilot_super_sport.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  積み重ねた実績で世界に選ばれる信頼のスポーツタイヤ
                 </span>
                </div>
@@ -346,11 +346,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PILOT SPORT 4" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/pilot/pilot_sport_4.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PILOT SPORT 4" class="th_tire_img"  src="img/pilot/pilot_sport_4.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  直感的な走りを愉しむダイナミックグリップスポーツタイヤ
                 </span>
                </div>
@@ -374,11 +374,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PILOT SPORT CUP 2 R" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/pilot/pilot_sport_cup_2_r.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PILOT SPORT CUP 2 R" class="th_tire_img"  src="img/pilot/pilot_sport_cup_2_r.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  レースを極めたミシュランの最新技術 公道も走れるサーキットタイヤ
                 </span>
                </div>
@@ -402,11 +402,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PILOT SPORT 3" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/pilot/pilot_sport_3.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PILOT SPORT 3" class="th_tire_img"  src="img/pilot/pilot_sport_3.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ウェットでもドライでもクルマとの一体感を引き出すプレジャーグリップタイヤ
                 </span>
                </div>
@@ -430,11 +430,11 @@
             <div class="tab-pane fade" id="_5">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PILOT SPORT PS2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/pilot/pilot_sport_ps2.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PILOT SPORT PS2" class="th_tire_img"  src="img/pilot/pilot_sport_ps2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  世界のスポーツカーに選ばれている、ハイパフォーマンス。
                 </span>
                </div>
@@ -458,11 +458,11 @@
             <div class="tab-pane fade" id="_6">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PILOT EXALTO PE2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/pilot/pilot_exalto_pe2.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PILOT EXALTO PE2" class="th_tire_img"  src="img/pilot/pilot_exalto_pe2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  世界のスポーツカーに選ばれている、ハイパフォーマンス。
                 </span>
                </div>
@@ -486,11 +486,11 @@
             <div class="tab-pane fade" id="_7">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PILOT SPORT CUP 2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/pilot/pilot_sport_cup_2.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PILOT SPORT CUP 2" class="th_tire_img"  src="img/pilot/pilot_sport_cup_2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  レースを極めたミシュランの最新技術 公道も走れるサーキットタイヤ
                 </span>
                </div>
@@ -514,11 +514,11 @@
             <div class="tab-pane fade" id="_8">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN PILOT SPORT CUP 2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/pilot/pilot_sport_cup_2.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN PILOT SPORT CUP 2" class="th_tire_img"  src="img/pilot/pilot_sport_cup_2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  レースを極めたミシュランの最新技術 公道も走れるサーキットタイヤ
                 </span>
                </div>
@@ -568,7 +568,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

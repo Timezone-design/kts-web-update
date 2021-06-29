@@ -250,11 +250,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン BLIZZAK VRX2" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/blizzak/vrx2.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン BLIZZAK VRX2" class="th_tire_img"  src="img/blizzak/vrx2.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ブリザック史上最高性能
                 </span>
                </div>
@@ -284,11 +284,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン BLIZZAK VRX" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/blizzak/vrx.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン BLIZZAK VRX" class="th_tire_img"  src="img/blizzak/vrx.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  信頼と実績のブリザック
                 </span>
                </div>
@@ -315,11 +315,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン BLIZZAK DM-V3" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/blizzak/dm_v3.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン BLIZZAK DM-V3" class="th_tire_img"  src="img/blizzak/dm_v3.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  SUV専用ブリザックの最高峰 冬道に力強さと安心感を
                 </span>
                </div>
@@ -343,11 +343,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン BLIZZAK RFT" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/blizzak/rft.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン BLIZZAK RFT" class="th_tire_img"  src="img/blizzak/rft.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ランフラットテクノロジー採用タイヤ
                 </span>
                </div>
@@ -368,11 +368,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="ブリヂストン BLIZZAK NV ologic" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/blizzak/nv_ologic.jpg" style="visibility: visible;"/>
+               <img alt="ブリヂストン BLIZZAK NV ologic" class="th_tire_img"  src="img/blizzak/nv_ologic.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  「低燃費」と「安全性」を高次元で両立
                 </span>
                </div>
@@ -428,7 +428,7 @@
         </div>
         
        <div class="iframe_wrapper">
-          <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+          <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

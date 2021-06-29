@@ -241,11 +241,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES OPEN COUNTRY M/T" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/open_country/m_t.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES OPEN COUNTRY M/T" class="th_tire_img"  src="img/open_country/m_t.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  オフロードを走破するパフォーマンスを実現。タフネス構造のアグレッシブなタイヤ。
                 </span>
                </div>
@@ -266,11 +266,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES OPEN COUNTRY R/T" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/open_country/r_t.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES OPEN COUNTRY R/T" class="th_tire_img"  src="img/open_country/r_t.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  オフロード性能とオンロードタイヤ性能を両立する新カテゴリータイヤ
                 </span>
                </div>
@@ -291,11 +291,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES OPEN COUNTRY A/T plus" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/open_country/a_t_plus.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES OPEN COUNTRY A/T plus" class="th_tire_img"  src="img/open_country/a_t_plus.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ドライ・マッドをスマートに走り抜けるオールラウンドSUV・CCV専用タイヤ
                 </span>
                </div>
@@ -316,11 +316,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="TOYO TIRES OPEN COUNTRY U/T" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/open_country/u_t.jpg" style="visibility: visible;"/>
+               <img alt="TOYO TIRES OPEN COUNTRY U/T" class="th_tire_img"  src="img/open_country/u_t.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  静かで快適な乗り心地を実現する都市型仕様のSUV・CCV専用タイヤ。
                 </span>
                </div>
@@ -367,7 +367,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

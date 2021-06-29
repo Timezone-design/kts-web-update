@@ -176,31 +176,31 @@
       <!-- Header End -->
       <div class="main_c row grey-wrapper">
         <div class="mc_nav">
-        <a class="link" href="/" data-nsfw-filter-status="swf">
+        <a class="link" href="/">
          HOME
         </a>
         &gt;
-        <a class="link" href="../../index.html" data-nsfw-filter-status="swf">
+        <a class="link" href="../../index.html">
          SHOP MENU
         </a>
         &gt;
-        <a class="link" href="../index.html" data-nsfw-filter-status="swf">
+        <a class="link" href="../index.html">
          工賃セットメニュー
         </a>
         &gt;
-        <a class="link" href="../cat/107.html" data-nsfw-filter-status="swf">
+        <a class="link" href="../cat/107.html">
          過給機
         </a>
         &gt;
-        <a class="link" href="../cat/151.html" data-nsfw-filter-status="swf">
+        <a class="link" href="../cat/151.html">
          ブローオフバルブ
         </a>
         &gt;
-        <a class="link" href="../br/1144-151.html" data-nsfw-filter-status="swf">
+        <a class="link" href="../br/1144-151.html">
          BLITZ
         </a>
         &gt;
-        <a class="link" href="10625.php" data-nsfw-filter-status="swf">
+        <a class="link" href="10625.php">
          SUPER SOUND BLOW OFF VALVE BR
         </a>
        </div>

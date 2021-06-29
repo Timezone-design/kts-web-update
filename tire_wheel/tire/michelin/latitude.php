@@ -250,11 +250,11 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN LATITUDE SPORT 3" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/latitude/latitude_sport_3.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN LATITUDE SPORT 3" class="th_tire_img"  src="img/latitude/latitude_sport_3.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  走りの楽しみを妥協しないスポーツSUVタイヤ
                 </span>
                </div>
@@ -278,11 +278,11 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN LATITUDE SPORT" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/latitude/latitude_sport.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN LATITUDE SPORT" class="th_tire_img"  src="img/latitude/latitude_sport.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  ミシュランのスピリットを継承する、リアル・スポーツSUVタイヤ。
                 </span>
                </div>
@@ -306,11 +306,11 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN LATITUDE TOUR HP" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/latitude/latitude_tour_hp.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN LATITUDE TOUR HP" class="th_tire_img"  src="img/latitude/latitude_tour_hp.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  優れた快適性と耐久性をもたらす、オンロードSUVタイヤ。
                 </span>
                </div>
@@ -334,11 +334,11 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN LATITUDE TOUR" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/latitude/latitude_tour.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN LATITUDE TOUR" class="th_tire_img"  src="img/latitude/latitude_tour.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  優れた快適性と耐久性をもたらす、オンロードSUVタイヤ。
                 </span>
                </div>
@@ -362,11 +362,11 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="MICHELIN LATITUDE CROSS" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/latitude/latitude_cross.jpg" style="visibility: visible;"/>
+               <img alt="MICHELIN LATITUDE CROSS" class="th_tire_img"  src="img/latitude/latitude_cross.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
-                <span class="font_3fc_b" data-nsfw-filter-status="swf">
+                <span class="font_3fc_b">
                  オフロードもオンロードも自由に走り続ける、オールラウンドSUVタイヤ。
                 </span>
                </div>
@@ -416,7 +416,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>

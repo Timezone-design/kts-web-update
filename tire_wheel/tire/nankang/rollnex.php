@@ -250,7 +250,7 @@
             <div class="tab-pane fade in active show" id="_0">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="NANKANG FT-4" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/rollnex/ft_4.jpg" style="visibility: visible;"/>
+               <img alt="NANKANG FT-4" class="th_tire_img"  src="img/rollnex/ft_4.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -271,12 +271,12 @@
              </div>
              <div class="th_table">
               <div class="th_review_main">
-               <img data-nsfw-filter-status="sfw" src="../img/review/main_4h.gif" style="visibility: visible;"/>
+               <img  src="../img/review/main_4h.gif" style="visibility: visible;"/>
                4.54点
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_1/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_1/4.gif" style="visibility: visible;"/>
                 4.4
                </div>
                <div class="th_review_mini_cell">
@@ -286,21 +286,21 @@
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_3/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_3/4.gif" style="visibility: visible;"/>
                 4.3
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_4/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_4/4.gif" style="visibility: visible;"/>
                 4.4
                </div>
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_5/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_5/4.gif" style="visibility: visible;"/>
                 4.3
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_6/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_6/4.gif" style="visibility: visible;"/>
                 4.0
                </div>
               </div>
@@ -309,7 +309,7 @@
             <div class="tab-pane fade" id="_1">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="NANKANG FT-7" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/rollnex/ft_7.jpg" style="visibility: visible;"/>
+               <img alt="NANKANG FT-7" class="th_tire_img"  src="img/rollnex/ft_7.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -330,7 +330,7 @@
              </div>
              <div class="th_table">
               <div class="th_review_main">
-               <img data-nsfw-filter-status="sfw" src="../img/review/main_4.gif" style="visibility: visible;"/>
+               <img  src="../img/review/main_4.gif" style="visibility: visible;"/>
                4.47点
               </div>
               <div class="th_review_mini">
@@ -339,27 +339,27 @@
                 4.7
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_2/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_2/4h.gif" style="visibility: visible;"/>
                 4.6
                </div>
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_3/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_3/4.gif" style="visibility: visible;"/>
                 4.4
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
                 4.5
                </div>
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_5/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_5/4.gif" style="visibility: visible;"/>
                 4.0
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_6/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_6/4h.gif" style="visibility: visible;"/>
                 4.5
                </div>
               </div>
@@ -368,7 +368,7 @@
             <div class="tab-pane fade" id="_2">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="NANKANG N-889" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/rollnex/n_889.jpg" style="visibility: visible;"/>
+               <img alt="NANKANG N-889" class="th_tire_img"  src="img/rollnex/n_889.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -389,12 +389,12 @@
              </div>
              <div class="th_table">
               <div class="th_review_main">
-               <img data-nsfw-filter-status="sfw" src="../img/review/main_4.gif" style="visibility: visible;"/>
+               <img  src="../img/review/main_4.gif" style="visibility: visible;"/>
                4.07点
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_1/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_1/4.gif" style="visibility: visible;"/>
                 4.0
                </div>
                <div class="th_review_mini_cell">
@@ -404,21 +404,21 @@
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_3/3h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_3/3h.gif" style="visibility: visible;"/>
                 3.5
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
                 4.5
                </div>
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_5/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_5/4.gif" style="visibility: visible;"/>
                 4.0
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_6/5.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_6/5.gif" style="visibility: visible;"/>
                 5.0
                </div>
               </div>
@@ -427,7 +427,7 @@
             <div class="tab-pane fade" id="_3">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="NANKANG SP-9" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/rollnex/sp_9.jpg" style="visibility: visible;"/>
+               <img alt="NANKANG SP-9" class="th_tire_img"  src="img/rollnex/sp_9.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -448,7 +448,7 @@
              </div>
              <div class="th_table">
               <div class="th_review_main">
-               <img data-nsfw-filter-status="sfw" src="../img/review/main_4h.gif" style="visibility: visible;"/>
+               <img  src="../img/review/main_4h.gif" style="visibility: visible;"/>
                4.67点
               </div>
               <div class="th_review_mini">
@@ -457,27 +457,27 @@
                 4.7
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_2/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_2/4h.gif" style="visibility: visible;"/>
                 4.5
                </div>
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_3/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_3/4h.gif" style="visibility: visible;"/>
                 4.7
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
                 4.7
                </div>
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_5/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_5/4h.gif" style="visibility: visible;"/>
                 4.6
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_6/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_6/4h.gif" style="visibility: visible;"/>
                 4.8
                </div>
               </div>
@@ -486,7 +486,7 @@
             <div class="tab-pane fade" id="_4">
              <div class="th_table">
               <div class="th_table_photo_350">
-               <img alt="NANKANG AT-5" class="th_tire_img" data-nsfw-filter-status="sfw" src="img/rollnex/at_5.jpg" style="visibility: visible;"/>
+               <img alt="NANKANG AT-5" class="th_tire_img"  src="img/rollnex/at_5.jpg" style="visibility: visible;"/>
               </div>
               <div class="th_table_cell">
                <div class="th_table_comm">
@@ -507,12 +507,12 @@
              </div>
              <div class="th_table">
               <div class="th_review_main">
-               <img data-nsfw-filter-status="sfw" src="../img/review/main_4.gif" style="visibility: visible;"/>
+               <img  src="../img/review/main_4.gif" style="visibility: visible;"/>
                4.41点
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_1/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_1/4.gif" style="visibility: visible;"/>
                 4.4
                </div>
                <div class="th_review_mini_cell">
@@ -522,21 +522,21 @@
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_3/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_3/4.gif" style="visibility: visible;"/>
                 4.3
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_4/4h.gif" style="visibility: visible;"/>
                 4.9
                </div>
               </div>
               <div class="th_review_mini">
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_5/4h.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_5/4h.gif" style="visibility: visible;"/>
                 4.5
                </div>
                <div class="th_review_mini_cell">
-                <img data-nsfw-filter-status="sfw" src="../img/review/mini_6/4.gif" style="visibility: visible;"/>
+                <img  src="../img/review/mini_6/4.gif" style="visibility: visible;"/>
                 4.3
                </div>
               </div>
@@ -571,7 +571,7 @@
         </div>
         
        <div class="iframe_wrapper">
-           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+           <iframe id="tire" name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe()"></iframe>
 					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
        </div>
        </div>
