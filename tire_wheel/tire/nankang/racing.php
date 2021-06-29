@@ -233,11 +233,11 @@
                 特殊セミスリックコンパウンドを配合することでウォームアップ時間を有効に短縮でき、タイヤを素早く有効作業温度へと上げ、グリップ性能を向上。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="NANKANG"/>
                  <input name="brand" type="hidden" value="RACING"/>
                  <input name="item" type="hidden" value="AR-1"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -292,11 +292,11 @@
                 ドライバーは晴れの日でも雨の日でもタイヤを交換することなく、確かな走りでサーキットやコースを訪れることができます。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="NANKANG"/>
                  <input name="brand" type="hidden" value="RACING"/>
                  <input name="item" type="hidden" value="NS-2R"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -366,6 +366,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

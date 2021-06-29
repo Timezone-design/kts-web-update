@@ -234,11 +234,11 @@
                 アクティブポリマーを採用し、高い耐摩耗性能と転がり抵抗の低減を両立。さらにグリップポリマーを配合することで高いウェットグリップ性能も実現しました。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="SD-7"/>
                  <input name="item" type="hidden" value="SD-7"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -259,11 +259,11 @@
                 排水性を高めるワイドグルーブや、パターンノイズを低減するサイレントウォールを採用。さらに操縦安定性を高めてくれるので、バランスのよいドライビングを実現します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="SD-7"/>
                  <input name="item" type="hidden" value="SD-K7"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -297,6 +297,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

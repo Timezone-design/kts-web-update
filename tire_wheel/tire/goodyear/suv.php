@@ -275,11 +275,11 @@
                 SUV向けに最適化された高剛性、軽量構造により、高速走行時の操縦安定性とコーナリング性能を発揮。ハイパフォーマンスSUVのフラッグシップモデル。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="SUV"/>
                  <input name="item" type="hidden" value="EAGLE F1 ASYMMETRIC 3 SUV"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -295,11 +295,11 @@
                 ラグジュアリーオンロードSUV向けに設計したタイヤ。GOODYEARの技術を惜しみなく投入し、都市部でのドライビングコンディションで高い性能を発揮するSUVタイヤ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="SUV"/>
                  <input name="item" type="hidden" value="EfficientGrip Performance SUV"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -315,11 +315,11 @@
                 都市生活をメインとする、現代のSUVにふさわしい性能をバランス。高いレベルで低燃費性能、ロングライフ性能、ウエット性能、そしてコンフォート性能を実現しています。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="SUV"/>
                  <input name="item" type="hidden" value="EfficientGrip SUV HP01"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -335,11 +335,11 @@
                 2種類のトレッド・パターンによりオンロード・オフロード両方で高い走行性能を発揮できるマッド・テイレン・タイヤ。トラクティブ・グルーヴ・テクノロジーにより悪路や深い雪でも高いグリップ力を実現します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="SUV"/>
                  <input name="item" type="hidden" value="WRANGLER DURATRAC"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -355,11 +355,11 @@
                 高強度素材「ケブラー」の採用により、トレッド面からサイドウォールまで強靭な構造が実現。排土性・排雪性にも優れ、あらゆるステージで、安定した信頼性の高い走行性能を提供します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="SUV"/>
                  <input name="item" type="hidden" value="WRANGLER ALL-TERRAIN ADVENTURE with Kevlar"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -376,11 +376,11 @@
                 オンロードでの静粛性、乗り心地を向上させながら、オフロードでの耐久性とロングライフ性能を実現。オンとオフの性能をバランスよく両立させた、街乗り中心のユーザにも適したマルチパーパスタイヤ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="SUV"/>
                  <input name="item" type="hidden" value="WRANGLER AT SilentTrac"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -396,11 +396,11 @@
                 オンロードではさっっこんのSUVに求められる快適性と優れた操縦安定性を兼ね備え、オフロードでは高いトラクション特性で、ステージを選ばない高い走破性を約束します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="SUV"/>
                  <input name="item" type="hidden" value="WRANGLER AT/S"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -434,6 +434,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

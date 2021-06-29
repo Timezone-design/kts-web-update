@@ -244,11 +244,11 @@
                 ナノ凹凸ゴムによって滑りの原因「水膜」除去スピードUP。タイヤ接地面の密着時間を長くし、密着面を最大化することで氷上でのブレーキ・コーナリング性能を向上させます。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="DUNLOP"/>
                  <input name="brand" type="hidden" value="WINTER"/>
                  <input name="item" type="hidden" value="WINTER MAXX 03"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -269,11 +269,11 @@
                 凍結、雪上、ウエット、ドライなど様々な路面での走行性やライフ性能含む経済性において高いレベルでバランスの取れたスタッドレスタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="DUNLOP"/>
                  <input name="brand" type="hidden" value="WINTER"/>
                  <input name="item" type="hidden" value="WINTER MAXX 02"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -297,11 +297,11 @@
                 また、高重量・高重心からくるSUV独特の「ふらつき」にも対応し、高速走行時の安定性を向上させた、SUV用スタッドレスタイヤ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="DUNLOP"/>
                  <input name="brand" type="hidden" value="WINTER"/>
                  <input name="item" type="hidden" value="WINTER MAXX SJ8"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -335,6 +335,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

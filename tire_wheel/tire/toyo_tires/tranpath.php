@@ -253,11 +253,11 @@
                 剛性を高めるスーパーハイターンアップ構造と非対称の3本溝タイヤパターンにより、高速でのレーンチェンジでもフラつきを抑制。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="TRANPATH"/>
                  <input name="item" type="hidden" value="mpZ"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -278,11 +278,11 @@
                 超低燃費ポリマーを採用した新トレッドベース配合などで、シリーズ最高の低燃費グレードを実現。スーパーハイターンアップ構造とワイドトレッド化により、フラつきも抑制します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="TRANPATH"/>
                  <input name="item" type="hidden" value="ML"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -303,11 +303,11 @@
                 タイヤシミュレーションを駆使したパターン・構造設計により、特に高音域においてノイズを大幅に低減。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="TRANPATH"/>
                  <input name="item" type="hidden" value="Lu2"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -331,11 +331,11 @@
                 ワイドトレッドや深溝設計、ナノバランステクノロジーにより、摩耗ライフと転がり抵抗性能を高次元で両立。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="TRANPATH"/>
                  <input name="item" type="hidden" value="LuK"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -369,6 +369,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

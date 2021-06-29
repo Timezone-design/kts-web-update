@@ -253,11 +253,11 @@
                 アグレッシブで機能的なトレッドデザインを採用。OFF ROAD性能/ON ROAD性能の両立。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="OPEN COUNTRY"/>
                  <input name="item" type="hidden" value="M/T"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -278,11 +278,11 @@
                 オフロードでのトラクション性能と、オンロードでの耐摩耗性能や走行安定性を両立した「遊び心」ある新カテゴリータイヤ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="OPEN COUNTRY"/>
                  <input name="item" type="hidden" value="R/T"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -303,11 +303,11 @@
                 ヨーロッパでも人気になったアクティブなデザイン性とドライ・マッドを走破するオールテレインタイヤならではの高い性能を実現しました。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="OPEN COUNTRY"/>
                  <input name="item" type="hidden" value="A/T plus"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -328,11 +328,11 @@
                 タイヤパターンに「サイレントウォール」「5バリアブルピッチ」等の技術を採用。オンロードにおける静粛性と快適な乗り心地を確保し、ノイズ低減を実現しました。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="OPEN COUNTRY"/>
                  <input name="item" type="hidden" value="U/T"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -366,6 +366,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

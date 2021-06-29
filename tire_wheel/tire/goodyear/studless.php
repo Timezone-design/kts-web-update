@@ -257,11 +257,11 @@
                 ICE NAVIシリーズ7代目。20年の集大成。氷上・雪上性能を追求したプレミアムスタッドレスタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="スタッドレス"/>
                  <input name="item" type="hidden" value="ICE NAVI 7"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -277,11 +277,11 @@
                 ICE NAVIシリーズ6代目。高いウインター性能とライフ性能を併せ持ち、安全性と経済性を両立したスタッドレスタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="スタッドレス"/>
                  <input name="item" type="hidden" value="ICE NAVI 6"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -300,11 +300,11 @@
                 ランフラットタイヤはパンクをしても所定のスピードで所定の距離を走れるタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="スタッドレス"/>
                  <input name="item" type="hidden" value="ICE NAVI 6 RUN ON FLAT"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -320,11 +320,11 @@
                 氷上＆雪上で大柄なSUVボディを支える性能に加えて、ドライ路面での操縦安定性もケア。路面を選ばず、快適かつ安心感のある走りを楽しめるスタッドレスタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="スタッドレス"/>
                  <input name="item" type="hidden" value="ICE NAVI SUV"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -340,11 +340,11 @@
                 氷上ブレーキ性能と、経済性に直結するロングライフ性能において大きな進化を遂げた、運びのプロが選ぶVAN用スタッドレスタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="スタッドレス"/>
                  <input name="item" type="hidden" value="ICE NAVI CARGO"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -378,6 +378,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

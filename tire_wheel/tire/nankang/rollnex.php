@@ -260,11 +260,11 @@
                 ショルダーにノイズ防止バーを設け、無駄な摩耗も防止し、騒音の発生も抑制。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="NANKANG"/>
                  <input name="brand" type="hidden" value="Rollnex"/>
                  <input name="item" type="hidden" value="FT-4"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -319,11 +319,11 @@
                 泥道走行用にジグザグの主溝を採用。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="NANKANG"/>
                  <input name="brand" type="hidden" value="Rollnex"/>
                  <input name="item" type="hidden" value="FT-7"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -378,11 +378,11 @@
                 どんな地形にも適応できるスタッドホールデザイン。必要時には、操縦性と制動力向上のためスタッド取り付けも可能。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="NANKANG"/>
                  <input name="brand" type="hidden" value="Rollnex"/>
                  <input name="item" type="hidden" value="N-889"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -437,11 +437,11 @@
                 均等に細かいサイブにより、路面の衝撃が減り、ドライブ中の快適さが改善。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="NANKANG"/>
                  <input name="brand" type="hidden" value="Rollnex"/>
                  <input name="item" type="hidden" value="SP-9"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -496,11 +496,11 @@
                 ブロックパターンでバーを繋ぎ、チオレッドブロックを安定させることで偏磨耗を抑制。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="NANKANG"/>
                  <input name="brand" type="hidden" value="Rollnex"/>
                  <input name="item" type="hidden" value="AT-5"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -570,6 +570,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

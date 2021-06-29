@@ -74,8 +74,9 @@
 
 				<!-- Header End -->
 				<div class="main_c grey-wrapper row special">
-					<div class="shipping_free"><img class="shipping_img" src="img/shipping_free_900.gif"></div>
+					<!-- <div class="shipping_free"><img class="shipping_img" src="img/shipping_free_900.gif"></div> -->
 					<div class="set_title"><?php print "$maker $brand $item"; ?></div>
+					<div class="php_table_wrapper">
 					<table class="table_php">
 						<?php
 	/* 読み込みデータを展開 */
@@ -121,6 +122,7 @@
 	}
 ?>
 					</table>
+					</div>
 					<div class="footer_text_t">
 						<div class="footer_text_c1">※：</div>
 						<div class="footer_text_c2">本ページ掲載価格はすべて税抜価格となります。</div>
@@ -141,7 +143,6 @@
 								alt="タイヤサイズからの検索はコチラ"></a></div>
 					<div class="th_top_b"><a href="size.php" target="_blank"><img class="sp_img" src="img/size_link_sp.gif"
 								alt="タイヤサイズからの検索はコチラ"></a></div>
-					<div class="link_close"><a href="#" onClick="window.close(); return false;">閉じる</a></div>
 					<hr>
 				</div>
 				<!-- Footer Start -->

@@ -241,11 +241,11 @@
                 ミニバン特有のふらつきを抑制して、トータルライフや静粛性にも配慮した、より安全・快適が続くミニバン専用タイヤ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="DUNLOP"/>
                  <input name="brand" type="hidden" value="ECO"/>
                  <input name="item" type="hidden" value="エナセーブ RV505"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -272,11 +272,11 @@
                 豊富なサイズラインアップで幅広いユーザーに対応する長持ち低燃費タイヤの新スタンダード。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="DUNLOP"/>
                  <input name="brand" type="hidden" value="ECO"/>
                  <input name="item" type="hidden" value="エナセーブ EC204"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -310,6 +310,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

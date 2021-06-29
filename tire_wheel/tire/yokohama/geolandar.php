@@ -292,11 +292,11 @@
                 ワイド＆フラットな接地を実現する新マウンドプロファイル、新形状のリブブロックで耐摩耗性・耐偏摩耗性も向上。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="GEOLANDAR"/>
                  <input name="item" type="hidden" value="CV G058"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -320,11 +320,11 @@
                 「M＋S」対応で、さまざまな路面において確かな性能を発揮。急な天候の変化の際にもしっかり頼れるタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="GEOLANDAR"/>
                  <input name="item" type="hidden" value="H/T G056"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -348,11 +348,11 @@
                 ウェット性能・耐摩耗性能両立のために最適化したハイシリカ・コンパウンドを採用。一般的に低温条件下ではトレッドが固くなり、走行性能も低下する傾向がありますが、新コンパウンドは低温域の路面でもしなやかさをキープし、高いグリップ性能を発揮します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="GEOLANDAR"/>
                  <input name="item" type="hidden" value="X-CV G057"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -376,11 +376,11 @@
                 また、オフロード性能もさらにレベルアップ。ラグ溝の面積比率を高めた新開発のパターンにより、高いトラクション性能を発揮。スノー性能をも向上させました。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="GEOLANDAR"/>
                  <input name="item" type="hidden" value="A/T G015"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -401,11 +401,11 @@
                 トレッドデザインが伸張した形で凹凸量の大きいブロックをサイド上部まで展開。両側のサイド部で異なるサイドデザインを採用しており、好きなデザインを表にできます。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="GEOLANDAR"/>
                  <input name="item" type="hidden" value="X-AT G016"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -426,11 +426,11 @@
                 多くの新技術を投入し、かつてない領域まで耐久性・耐摩耗性を追求。オフロード性能をさらに研ぎ澄ませアグレッシブに大地へ挑む。道なき道を駆け抜ける。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="GEOLANDAR"/>
                  <input name="item" type="hidden" value="M/T G003"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -454,11 +454,11 @@
                 深いマッド、ダート、ロック路面、様々なオフロード路面で高いオフロード性能を発揮します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="GEOLANDAR"/>
                  <input name="item" type="hidden" value="X-MT G005"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -506,6 +506,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

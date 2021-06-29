@@ -305,11 +305,11 @@
                 広い接地面による優れたグリップがもたらす高い走行性能と高速安定性能を実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="PILOTシリーズ"/>
                  <input name="item" type="hidden" value="PILOT SPORT 4S"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -333,11 +333,11 @@
                 アウトサイドにはル・マン24時間耐久レースで培われた強化カーボンを、インサイドにはウェットグリップに優れた最新のエラストマー技術を採用。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="PILOTシリーズ"/>
                  <input name="item" type="hidden" value="PILOT SUPER SPORT"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -361,11 +361,11 @@
                 縦方向の撥水性を高めるストレートグルーブ、横方向の撥水性を高めるアンチ・サーフ・システムによりウェットグリップが向上。また、、新コンパウンドによりグリップとブレーキングの性能も高めました。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="PILOTシリーズ"/>
                  <input name="item" type="hidden" value="PILOT SPORT 4"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -389,11 +389,11 @@
                 ラップタイム短縮のためサーキットでのドライ性能を更に向上。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="PILOTシリーズ"/>
                  <input name="item" type="hidden" value="PILOT SPORT CUP 2 R"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -417,11 +417,11 @@
                 ショルダー部の形状を最適化し、接地面に水が残るのを抑制。ヨコ方向への撥水性に優れ、ウェット路面でのグリップ確保に貢献します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="PILOTシリーズ"/>
                  <input name="item" type="hidden" value="PILOT SPORT 3"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -445,11 +445,11 @@
                 VCP（バリアブル・コンタクト・パッチ）を採用し、急なコーナーやワインディングロードでも、タイヤがしっかり路面をつかみ、力強く安定したグリップパワーを発揮します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="PILOTシリーズ"/>
                  <input name="item" type="hidden" value="PILOT SPORT PS2"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -473,11 +473,11 @@
                 鋭いコーナリングに呼応する強力なグリップ、ノイズを抑えた静かな走りを実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="PILOTシリーズ"/>
                  <input name="item" type="hidden" value="PILOT EXALTO PE2"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -501,11 +501,11 @@
                 また、アウトサイドショルダー部に耐摩耗性に優れたコンパウンドを採用することで、サーキット走行において特に負荷のかかるアウトサイドの摩耗を抑制し、レーシングタイヤとしての寿命を延ばします。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="PILOTシリーズ"/>
                  <input name="item" type="hidden" value="PILOT SPORT CUP 2"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -529,11 +529,11 @@
                 また、アウトサイドショルダー部に耐摩耗性に優れたコンパウンドを採用することで、サーキット走行において特に負荷のかかるアウトサイドの摩耗を抑制し、レーシングタイヤとしての寿命を延ばします。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="PILOTシリーズ"/>
                  <input name="item" type="hidden" value="PILOT SPORT CUP 2"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -567,6 +567,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

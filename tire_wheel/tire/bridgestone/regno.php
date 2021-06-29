@@ -244,11 +244,11 @@
                 REGNOは静かで快適な車内空間を追求するため、「路面ごと」の音の違いに着目。進化したサイレントテクノロジーにより、荒れた路面と滑らかな路面、それぞれのノイズ抑制を実現し、静粛性を向上。さらに、通常はタイヤの摩耗度に比例して大きくなるノイズに対し、REGNO GR-X2は摩耗時でも高い静粛性を維持するために、新たなトレッドパターン技術を開発。飽くなき技術の探求により、REGNOは更に上のステージへ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="REGNO"/>
                  <input name="item" type="hidden" value="GR-X2"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -272,11 +272,11 @@
                 さらなる進化を遂げたサイレントテクノロジーが、車内のすべてのシートで音楽、映画、そして会話を楽しめる上質な車内空間を実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="REGNO"/>
                  <input name="item" type="hidden" value="GRV2"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -303,11 +303,11 @@
                 GR-Leggeraは、REGNOのサイレントテクノロジーを採用することでロードノイズを抑制し、上質な静粛性を実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="REGNO"/>
                  <input name="item" type="hidden" value="GR-Leggera"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -341,6 +341,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

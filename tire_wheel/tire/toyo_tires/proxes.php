@@ -289,11 +289,11 @@
                 「分析」「解析」「素材設計」「加工」といったプロセスを横断的に統合したナノテクノロジーを用いることで、優れたウェットグリップ性能を実現。低発熱性のコンパウンドにより、操縦安定性を向上させました。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="PROXES"/>
                  <input name="item" type="hidden" value="Sport SUV"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -314,11 +314,11 @@
                 長距離を運転する時でも快適でスッキリとした乗り心地を実現。雨の日でもより安心して運転できさらに燃費も向上。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="PROXES"/>
                  <input name="item" type="hidden" value="CF2 SUV"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -339,11 +339,11 @@
                 ナノ分析・ナノ解析・ナノ素材設計・ナノ加工という4つの体系を横断的に統合した基盤技術を用いて、低燃費性能とウェット性能の二律背反する性能を両立しました。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="PROXES"/>
                  <input name="item" type="hidden" value="Sport"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -364,11 +364,11 @@
                 荒れた路面からのロードノイズとタイヤから生じるパターンノイズを低減。さらに各種グルーブにより上質な乗り心地を実現しました。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="PROXES"/>
                  <input name="item" type="hidden" value="C1S"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -392,11 +392,11 @@
                 タイヤサイド部を強化することで路面からの入力を素早く抑制し、スッキリとした乗り心地を実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="PROXES"/>
                  <input name="item" type="hidden" value="CF2"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -417,11 +417,11 @@
                 接地面積を拡大するワイドトレッドパターン、高いケース剛性でコーナリング時の変形を抑えるハイスチールサイドプライが、無類のグリップ性能を発揮。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="PROXES"/>
                  <input name="item" type="hidden" value="R1R"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -442,11 +442,11 @@
                 高いドライグリップ性能と優れたトラクション・コントロール性能を実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="PROXES"/>
                  <input name="item" type="hidden" value="R888R"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -467,11 +467,11 @@
                 高いドライグリップ性能と優れたトラクション・コントロール性能を実現。加えて、主にドリフト競技向けにスペックをチューンしました。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="PROXES"/>
                  <input name="item" type="hidden" value="R888R Drift"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -505,6 +505,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

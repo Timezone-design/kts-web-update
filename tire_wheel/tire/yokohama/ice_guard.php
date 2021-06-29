@@ -265,11 +265,11 @@
                 イン側でのエッジ量を従来比8％向上させています。また、この専用パターンは、ウェット性能の向上にも貢献しています。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="iceGUARD"/>
                  <input name="item" type="hidden" value="iceGUARD6 iG60"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -293,11 +293,11 @@
                 イン側でのエッジ量を従来比8％向上させています。また、この専用パターンは、ウェット性能の向上にも貢献しています。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="iceGUARD"/>
                  <input name="item" type="hidden" value="iceGUARD6 iG60 Z・P・S"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -318,11 +318,11 @@
                 従来の「新マイクロ吸水バルーン」「ブラックポリマー2」に加え、従来比で最大30倍の大きさとなる「エボ吸水ホワイトゲル」を新たに採用。「エボ吸水ホワイトゲル」は、氷への密着効果と吸水効果を補完します。3つの素材の新たな組み合わせによって、「スーパー吸水ゴム」はさらに優れた氷上性能を発揮します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="iceGUARD"/>
                  <input name="item" type="hidden" value="iceGUARD5 PLUS iG50"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -343,11 +343,11 @@
                 従来の「新マイクロ吸水バルーン」「ブラックポリマー2」に加え、従来比で最大30倍の大きさとなる「エボ吸水ホワイトゲル」を新たに採用。「エボ吸水ホワイトゲル」は、氷への密着効果と吸水効果を補完します。3つの素材の新たな組み合わせによって、「スーパー吸水ゴム」はさらに優れた氷上性能を発揮します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="iceGUARD"/>
                  <input name="item" type="hidden" value="SUV G075"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -368,11 +368,11 @@
                 高剛性なセンターリブとショルダー部には、優れた接地としっかり感でドライ・ウェット路面に効くトリプルピラミッドサイプを採用し、トレッド全体のブロック剛性を均一化。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="iceGUARD"/>
                  <input name="item" type="hidden" value="iceGUARD iG91 for VAN"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -406,6 +406,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

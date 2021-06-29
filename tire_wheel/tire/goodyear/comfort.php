@@ -260,11 +260,11 @@
                 ハイレベルな運動性能、静粛性も兼ね備えたタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="コンフォート"/>
                  <input name="item" type="hidden" value="EfficientGrip Performance"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -280,11 +280,11 @@
                 高い静粛性とシャープなハンドリングを高次元でバランス。エレガントな乗り心地と走りの歓びを叶えるコンフォートタイヤ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="コンフォート"/>
                  <input name="item" type="hidden" value="EfficientGrip Comfort"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -300,11 +300,11 @@
                 経済性と快適性を両立したスタンダードなエコタイヤです。優れたロングライフ性能に、低燃費性能と静粛性を備えています。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="コンフォート"/>
                  <input name="item" type="hidden" value="EfficientGrip ECO EG02"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -320,11 +320,11 @@
                 シャープなハンドリング性能に加え、時代の求める快適性や経済性、環境性能、さらにはスタイリッシュな側面も兼ね備えた、オールラウンドな低燃費タイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="コンフォート"/>
                  <input name="item" type="hidden" value="EAGLE LS EXE"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -376,11 +376,11 @@
                 振動とロードノイズを抑え、ハイレベルな静粛性、しなやかで質の高い乗り心地を実現した、プレミアムセダンにふさわしいトータルバランスを提供するラグジュアリーなコンフォートタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="コンフォート"/>
                  <input name="item" type="hidden" value="EAGLE LS Premium"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -414,6 +414,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

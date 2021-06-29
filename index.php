@@ -12,7 +12,7 @@
   <meta content="https://www.kts-web.com/favicon.ico" property="og:image"/>
   <meta content="KTS-web" property="og:site_name"/>
   <meta content="ja_JP" property="og:locale"/>
-  <meta name="format-detection" content="telephone=no">
+  
   <title>
    KTS-web
   </title>

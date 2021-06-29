@@ -239,11 +239,11 @@
                 高いグリップ力、ブレーキング力および優れたハンドリング性能を兼ね備えたEAGLEシリーズのフラッグシップモデルのタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="スポーツ"/>
                  <input name="item" type="hidden" value="EAGLE F1 ASYMMETRIC 5"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -259,11 +259,11 @@
                 新コンパウンドによりグリップ力がさらに強化、熱ダレに強く、高いステアリング応答性を実現しコーナーの立ち上がりの良さにも貢献。スポーツ走行のためのハイグリップタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="スポーツ"/>
                  <input name="item" type="hidden" value="EAGLE RS SPORT S-SPEC"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -279,11 +279,11 @@
                 スポーティなクルマの運動性能を存分に引き出す性能を持ちながら、デイリーユースでの扱いやすさも確保。多様なシーンで活躍できるスタンダードなスポーツタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="GOODYEAR"/>
                  <input name="brand" type="hidden" value="スポーツ"/>
                  <input name="item" type="hidden" value="EAGLE REVSPEC RS-02"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>

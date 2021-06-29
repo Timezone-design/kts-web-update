@@ -73,3 +73,14 @@ $( document ).ready(function(){
   }
 });
 
+function resizeIframe(obj) {
+  setTimeout(function(params) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }, 1000);
+  }
+
+$('head').prepend('<meta name="format-detection" content="telephone=no">');
+
+  // $(window).resize(function() { 
+  //   resizeIframe(document.getElementsByTagName('iframe')[0]);
+  //   });

@@ -265,11 +265,11 @@
                 SUVスポーツパワーコンパウンド採用。引っ張り強度の高い長寿命なエラストマーが加減速時にも破壊されず、耐摩耗性能が向上。ロングライフを実現します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="LATITUDEシリーズ"/>
                  <input name="item" type="hidden" value="LATITUDE SPORT 3"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -293,11 +293,11 @@
                 荷重の大きなSUVでも躍動的なパフォーマンスを堪能でき、高性能SUV本来の性能を余すところなく引き出します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="LATITUDEシリーズ"/>
                  <input name="item" type="hidden" value="LATITUDE SPORT"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -321,11 +321,11 @@
                 ノイズ低減と優れた居住性を追求したパターンデザインと相まって、くつろぎある走りを堪能できます。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="LATITUDEシリーズ"/>
                  <input name="item" type="hidden" value="LATITUDE TOUR HP"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -349,11 +349,11 @@
                 ノイズ低減と優れた居住性を追求したパターンデザインと相まって、くつろぎある走りを堪能できます。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="LATITUDEシリーズ"/>
                  <input name="item" type="hidden" value="LATITUDE TOUR"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -377,11 +377,11 @@
                 さらにショルダーからサイドウォールにかけて深溝のマッドキャッチャーを配置し、ぬかるみでも高いグリップを発揮します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="LATITUDEシリーズ"/>
                  <input name="item" type="hidden" value="LATITUDE CROSS"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -415,6 +415,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

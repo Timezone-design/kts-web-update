@@ -292,11 +292,11 @@
                 非対称トレッドプロファイル、スリックショルダーブロック採用によりハイグリップタイヤとして高い耐摩耗性、耐久性を実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="POTENZA"/>
                  <input name="item" type="hidden" value="RE-71RS"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -323,11 +323,11 @@
                 周方向のブロック配列を最適化することで、パタンノイズを抑制。スポーティーな走りを損なうことなく、ハイパフォーマンスカーにふさわしいコンフォート性能を確保。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="POTENZA"/>
                  <input name="item" type="hidden" value="S007A"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -354,11 +354,11 @@
                 高い運動性能を確保しながら、高い転がり抵抗性能を追求。高次元で性能を両立させるため、シリカ配合Adrenalin RE004専用コンパウンドを採用。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="POTENZA"/>
                  <input name="item" type="hidden" value="AdrenalinRE004"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -382,11 +382,11 @@
                 DRY性能とWET性能を高いレベルで両立することで、サーキットでのあらゆる場面に対応可能なハイグリップスポーツタイヤ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="POTENZA"/>
                  <input name="item" type="hidden" value="RE-12D"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -410,11 +410,11 @@
                 DRY性能とWET性能を高いレベルで両立することで、ジムカーナ競技でのあらゆる場面に対応可能なハイグリップスポーツタイヤ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="POTENZA"/>
                  <input name="item" type="hidden" value="RE-12D TYPE A"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -438,11 +438,11 @@
                 「TOYOTA GAXOO Racing 86/BRZ Race」における「プロフェッショナルシリーズ」の競技規定を満たしており、同レースでも使用可能。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="POTENZA"/>
                  <input name="item" type="hidden" value="RE-07D"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -466,11 +466,11 @@
                 ドライバーの熱い想いに応える、高次元のグリップとコントロール性。モータースポーツの世界で鍛え抜かれた、ポテンザの極みがここに。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="BRIDGESTONE"/>
                  <input name="brand" type="hidden" value="POTENZA"/>
                  <input name="item" type="hidden" value="RE-11S"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -504,6 +504,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

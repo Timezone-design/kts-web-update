@@ -286,11 +286,11 @@
                 高速走行を支える剛性の向上。新開発のブルーアースGT専用構造。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="BluEarth"/>
                  <input name="item" type="hidden" value="GT AE51"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -314,11 +314,11 @@
                 摩耗時も静かさが持続する。「ノイズコントロールピッチ」を継承。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="BluEarth"/>
                  <input name="item" type="hidden" value="A AE50"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -342,11 +342,11 @@
                 JC08モードでテストを実施。低燃費性能Aのタイヤに対し、4.0％の燃費向上を実証しています。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="BluEarth"/>
                  <input name="item" type="hidden" value="AE-01F"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -370,11 +370,11 @@
                 転がり抵抗係数「AA」、ウェットグリップ性能「c」を実現。「低燃費タイヤをもっと身近に」をテーマに、使う人の視点から考えたグローバルコンセプト。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="BluEarth"/>
                  <input name="item" type="hidden" value="AE-01"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -398,11 +398,11 @@
                 長さの異なる5種類のピッチ・バリエーションを最適に配置。街乗りで気になるパターンノイズを抑制。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="BluEarth"/>
                  <input name="item" type="hidden" value="XT AE61"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -429,11 +429,11 @@
                 優れた静粛性を実現。運転席はもちろん、3列目での会話も快適。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="BluEarth"/>
                  <input name="item" type="hidden" value="RV-02"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -454,11 +454,11 @@
                 突然の降雪に慌てたくない、非降雪圏の冬季走行、シーズンごとのタイヤ交換が面倒、タイヤの保管場所がない、そんな方におすすめのタイヤです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="BluEarth"/>
                  <input name="item" type="hidden" value="4S AW21"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -492,6 +492,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

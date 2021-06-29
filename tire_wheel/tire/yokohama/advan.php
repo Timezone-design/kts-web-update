@@ -307,11 +307,11 @@
                 専用開発された3＋1グループの非対称トレッドパターンによりドライ・ウェットでの性能が更に鍛え上げられ、最適化された接地状態で、さらなるグリップ力を獲得。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="Sport V105"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -335,11 +335,11 @@
                 ポルシェやベントレーなどOEタイヤ開発で培われてきた世界トップレベルのテクノロジーが活かされています。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="Sport V103"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -360,11 +360,11 @@
                 世界有数のプレミアムカーに数多く新車装着されているグローバル・フラッグシップタイヤ「ADVAN Sport V105」の特徴である超高速域での運動性能、ウェット性能や静粛性、快適性を高次元でバランスしたランフラットモデル。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="Sport V105 Z・P・S"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -385,11 +385,11 @@
                 超高速域での運動性能、ウェット性能や静粛性、快適性を高次元でバランスした「ADVAN Sport V103」のランフラットモデル。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="Sport V103 Z・P・S"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -410,11 +410,11 @@
                 144のブロックに細分化されたパターン、さらに5種類の大きさのブロックを織り交ぜ、正確に配置することによって、タイヤが地面に接地する際に発生するノイズを低減。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="dB V552"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -438,11 +438,11 @@
                 優れたハンドリング性能とグリップ力、そして快適性能。ADVANならでは楽しさを、存分に味わえます。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="FLEVA V701"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -502,11 +502,11 @@
                 WTCCなど最高峰のモータースポーツタイヤに採用されている技術を採用し、コンパウンドグリップを向上。速さ・楽しさはNEOVAが切り開きます。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="NEOVA AD08R"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -533,11 +533,11 @@
                 また、ブロックの溝壁に刻まれた「グルーブイングルーブ」がタイヤの偏摩耗を抑制し、過酷な走行条件での耐久性を高めています。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="NEOVA AD07"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -558,11 +558,11 @@
                 突出した走行性能だけでなく、転がり抵抗の抑制はもちろん走行時に発生する車外通過音の国際基準の規制値をクリアした次世代のストリートスポーツラジアルタイヤ。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="A052"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -586,11 +586,11 @@
                 これにより、高速域での優れた操縦安定性に加え、ドライ・ウェット性能を高次元で両立。スポーツ走行を強く意識したストリートラジアルタイヤとなっており、サーキット走行やラリー、ジムカーナなど様々な競技に使用できるタイヤとなっています。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="YOKOHAMA"/>
                  <input name="brand" type="hidden" value="ADVAN"/>
                  <input name="item" type="hidden" value="A08B"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -624,6 +624,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

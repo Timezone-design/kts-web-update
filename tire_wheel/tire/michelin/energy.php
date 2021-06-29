@@ -250,11 +250,11 @@
                 アンダートレッドラバーにより、他の性能を犠牲にすることなく、低転がり抵抗を実現、燃費性能の向上を実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="ENERGYシリーズ"/>
                  <input name="item" type="hidden" value="ENERGY SAVER 4"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -278,11 +278,11 @@
                 接地面圧がより均一になり、確実に路面を捉えることが可能に。さらに、接地面圧の均一化によってトレッド部の極端な温度上昇を防ぐことで転がり抵抗性能のロスを回避。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="ENERGYシリーズ"/>
                  <input name="item" type="hidden" value="ENERGY SAVER＋"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -303,11 +303,11 @@
                 確かな安全性と省燃費性を備えながら、優れた耐摩耗性能を実現。低ランニングコストかつ省資源にも貢献する、環境にもドライバーにも優しいモデルです。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="MICHELIN"/>
                  <input name="brand" type="hidden" value="ENERGYシリーズ"/>
                  <input name="item" type="hidden" value="ENERGY SAVER"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -341,6 +341,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

@@ -233,11 +233,11 @@
                 トレッド半径の第3断面を拡大させることにより、とレッドショルダーの接地圧を少なくし、さらにとレッドショルダー上の側溝から生じるノイズを減少。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="NANKANG"/>
                  <input name="brand" type="hidden" value="ECONEX"/>
                  <input name="item" type="hidden" value="NA-1"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -292,11 +292,11 @@
                 高分散性シリカコンパウンドおよび特殊結合剤配合によって転がり抵抗を大幅に抑え、ウェットグリップを向上。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="NANKANG"/>
                  <input name="brand" type="hidden" value="ECONEX"/>
                  <input name="item" type="hidden" value="ECO-2＋"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -366,6 +366,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>

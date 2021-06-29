@@ -71,13 +71,13 @@ img {
   transition: background-color 0.35s ease;
 }
 
-.four-of-a-kind-one a span, 
+.four-of-a-kind-one a span,
 .four-of-a-kind-one a img {
   opacity: 0;
   transition: opacity 0.35s ease;
 }
 
-.four-of-a-kind-one a:hover span, 
+.four-of-a-kind-one a:hover span,
 .four-of-a-kind-one a:hover img {
   opacity: 1;
 }
@@ -2853,6 +2853,10 @@ a.link {
   white-space: nowrap;
 }
 
+.link_ec {
+  color: crimson;
+}
+
 .special-table table[cellpadding="0"]:first-child {
   display: none;
 }
@@ -2929,6 +2933,16 @@ a.link {
   display: block;
 }
 
+.iframe_wrapper {
+  display: none;
+  width: 100%;
+}
+
+.iframe_wrapper iframe {
+  width: 100%;
+  border: 0;
+}
+
 .set-sale-switch {
   display: block;
   text-align: center;
@@ -2939,8 +2953,38 @@ a.link {
   margin: 10px 0px;
 }
 
+.set_maker select {
+  border: 0;
+  width: 100%;
+  font-size: 15px;
+  border-radius: 5px;
+  background-color: white;
+}
+
 .main_c .table_php {
-  width: 65% !important;
+  width: 100% !important;
+}
+
+
+.main_c.special .set_title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px !important;
+}
+
+.php_table_wrapper {
+  width: 100%;
+  overflow-x: scroll;
+}
+
+.php_table_wrapper .table_php_title {
+  font-weight: bold;
+}
+
+.php_table_wrapper table th,
+.php_table_wrapper table td {
+  width: auto;
+  white-space: nowrap;
 }
 
 .search_category {
@@ -2959,15 +3003,15 @@ a.link {
   width: 100%;
 }
 
-#content-wrapper > .mc_nav,
-.store-introduction > .mc_nav {
+#content-wrapper>.mc_nav,
+.store-introduction>.mc_nav {
   width: 67%;
   margin: auto;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
-.main_c.special > * {
+.main_c.special>* {
   margin: 5px 0 !important;
   margin: auto !important;
 }
@@ -3927,12 +3971,17 @@ a.link {
   }
 
   .main_c .table_php {
-    width: 95% !important;
-}
+    width: 100% !important;
+  }
 
+  .php_table_wrapper {
+    width: 100%;
+    overflow-x: scroll;
+  }
 
-
-
+  .php_table_wrapper table {
+    table-layout: unset !important;
+  }
 
 
 
@@ -3986,7 +4035,8 @@ a.link {
   .th_yeti_price_pc,
   details .set_menu_n_cell,
   .mc_nav,
-  .main_c.special > div:nth-of-type(7) {
+  .main_c.special>div:nth-of-type(7),
+  .pc_img {
     display: none;
   }
 
@@ -4050,7 +4100,8 @@ a.link {
   .pr_title_sp,
   .th_yeti_price_sp,
   .sp_option_menu,
-  .main_c.special > div:nth-of-type(8) {
+  .main_c.special>div:nth-of-type(8),
+  .sp_img {
     display: none;
   }
 

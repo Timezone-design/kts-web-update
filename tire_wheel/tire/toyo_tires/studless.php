@@ -253,11 +253,11 @@
                 独自の設計技術が生み出した非対称パターンや新コンパウンドが、ロングライフの効きを実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="STUDLESS"/>
                  <input name="item" type="hidden" value="OBSERVE GIZ2"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -278,11 +278,11 @@
                 ブロック壁面の凹凸を支え合うことによりサイプも倒れ込みを抑制。サイプエッジ端の接地圧を均一化し、制動時に高いエッジ効果を生み出します。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="STUDLESS"/>
                  <input name="item" type="hidden" value="Winter TRANPATH TX"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -303,11 +303,11 @@
                 「吸水カーボニックパウダー」を配合し、ミクロの水膜をより効率よく吸水します。またシリカ配合により、低温下での柔軟性も向上。さらに「鬼クルミの殻」が氷をひっかき、高いグリップ力を発揮。アイスバーンの凹凸にしっかりと密着して強力なグリップ力を支えます。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="STUDLESS"/>
                  <input name="item" type="hidden" value="OBSERVE GSi-5"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -328,11 +328,11 @@
                 除水効果・エッジ効果を瞬時に実感。吸着3Dサイプの採用で、アイス路面での青銅製・コーナリング性が向上し、厳しいアイス路面で、信頼のある走りを実現。
                </div>
                <div class="th_tire_price">
-                <form action="../maker_item.php" method="post" target="_blank">
+                <form target="my_iframe" action="../maker_item.php" method="post">
                  <input name="maker" type="hidden" value="TOYO TIRES"/>
                  <input name="brand" type="hidden" value="STUDLESS"/>
                  <input name="item" type="hidden" value="OBSERVE GARIT GIZ"/>
-                 <input name="image" src="../img/price.gif" type="image"/>
+                 <input name="image" src="../img/price.gif" type="image" onclick="setTimeout(function(){$('.iframe_wrapper').css('display', 'block');}, 1000);"/>
                 </form>
                </div>
               </div>
@@ -366,6 +366,10 @@
          </div>
         </div>
         
+       <div class="iframe_wrapper">
+           <iframe name="my_iframe" src="../maker_item.php"  scrolling="no" onload="resizeIframe(this)"></iframe>
+					<div class="link_close"><a href="javascript:void(0)" onClick="$('.iframe_wrapper').css('display', 'none')">閉じる</a></div>
+       </div>
        </div>
        <div class="clearfix-s">
        </div>
