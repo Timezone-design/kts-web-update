@@ -6,14 +6,14 @@ $tire_width = isset($_POST['tire_width'])?$_POST['tire_width']:'';
 $flatness = isset($_POST['flatness'])?$_POST['flatness']:'';
 $product = isset($_POST['product'])?$_POST['product']:'';
 $file = $root_dir.'/db/item-tire.csv';
-$filename = basename($_SERVER['PHP_SELF'], '.php');
+//$filename = basename($_SERVER['PHP_SELF'], '.php');
 $handle = fopen($file, "r");
 $inches = []; $tire_widthes = []; $flatnesses = []; $filtered_products = [];
 $row = fgetcsv($handle, 0, ",");
 
 while (($row = fgetcsv($handle, 0, ",")) !== false) 
 {
-	if($row[0] != $filename) continue;
+	//if($row[0] != $filename) continue;
 	$price = (string) $row[7];
 	if($price == "出さない"){
 		$price = "お問い合わせください";
@@ -42,8 +42,11 @@ while (($row = fgetcsv($handle, 0, ",")) !== false)
 		$tire_widthes[$product['tire_width']] = $product['tire_width'];
 		if($tire_width == $product['tire_width'] && $tire_width != ''){
 			$flatnesses[$product['flatness']] = $product['flatness'];
-			if($flatness != '' && $flatness == $product['flatness'])
+			if($flatness != '' && $flatness == $product['flatness']){
 				$filtered_products []= $product;
+			}else if($flatness == ''){
+				$filtered_products []= $product;
+			}
 		}	
 	}
 				
@@ -84,7 +87,7 @@ fclose($handle);
 		</div>
 	  	<br>
 			<div class="clearfix"></div>
-	  	<button class="btn-search" type="submit" style="-webkit-font-size: 15px; -webkit-color: black;  -webkit-border: none;  -webkit-position: relative;  -webkit-height: 40px;  -webkit-width: 200px;  -webkit-background-color: lightblue;  -webkit-border-radius: 20px;  -webkit-outline: none;  font-size: 15px;  color: black;  border: none;  position: relative;  height: 40px;  width: 200px;  background-color: lightblue;  border-radius: 20px;  outline: none;" >検索</button>
+	  	<button class="btn-search" type="submit" style="-webkit-font-size: 15px; -webkit-color: black;  -webkit-border: none;  -webkit-position: relative;  -webkit-height: 40px;  -webkit-width: 200px;  -webkit-background-color: lightblue;  -webkit-border-radius: 20px;  -webkit-outline: none;  font-size: 15px;  color: black;  border: none;  position: relative;  height: 40px;  width: 200px;  background-color: lightblue;  border-radius: 20px;  outline: none;" <?=count($filtered_products)==0?'disabled':''?>>検索</button>
 	</form>
 	<?php if(count($filtered_products) > 0){ ?>
 	<div class="search-results">	
