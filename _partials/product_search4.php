@@ -44,8 +44,11 @@
                       }else{
                         if($product->price1 != "" && $product->price1 != null) $product->price1= "￥".number_format((int)$product->price1);
                       }
-                      if($model != '' && $model == $product->model)
+                      if($model != '' && $model == $product->model){
                         $filtered_products []= $product;
+					  }else if($model == ''){
+						$filtered_products []= $product;
+					  }
                     }	
                   }
                   
@@ -87,7 +90,7 @@
                 </select>
               </div>
               <div class="search-select col-md-4 col-sm-4">
-                <select class="custom-select-lg" name="model" onchange="enableSearchButton(this.value);">
+                <select class="custom-select-lg" name="model">
                   <option value='' <?php if($model == '') echo 'selected'; ?>>型式を選ぶ</option>
                   <?php foreach ($product_models as $key => $value) { ?>
                   <option value="<?=$value?>" <?php if($model == $value) echo 'selected'; ?>><?=$value?></option>
@@ -98,7 +101,7 @@
               <div class="clearfix"></div>
               <div class="clearfix"></div>
               <div class="clearfix"></div>
-              <button type="submit" class="btn-search" style="-webkit-font-size: 15px; -webkit-color: black;  -webkit-border: none;  -webkit-position: relative;  -webkit-height: 40px;  -webkit-width: 200px;  -webkit-background-color: lightblue;  -webkit-border-radius: 20px;  -webkit-outline: none;  font-size: 15px;  color: black;  border: none;  position: relative;  height: 40px;  width: 200px;  background-color: lightblue;  border-radius: 20px;  outline: none;" disabled>検索</button>
+              <button type="submit" class="btn-search" style="-webkit-font-size: 15px; -webkit-color: black;  -webkit-border: none;  -webkit-position: relative;  -webkit-height: 40px;  -webkit-width: 200px;  -webkit-background-color: lightblue;  -webkit-border-radius: 20px;  -webkit-outline: none;  font-size: 15px;  color: black;  border: none;  position: relative;  height: 40px;  width: 200px;  background-color: lightblue;  border-radius: 20px;  outline: none;" <?=count($filtered_products)==0?'disabled':''?>>検索</button>
             </form>
             <?php if(count($filtered_products) > 0){ ?>
             <div class="search-results">
