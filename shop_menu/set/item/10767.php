@@ -161,7 +161,7 @@
            </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6">
-           <a href="/tire_wheel/tire/index.html">
+           <a href="/tire_wheel/tire/index.php">
             <span>
              詳しく見る
             </span>
@@ -279,13 +279,13 @@
           </div>
          </tr>
         </table>
-        <?php
+       </div>
+      </div>
+      <?php
 	                  	$root_dir = __DIR__.'/../../..';
 						$uri = 'shop_menu/sale/item/'.basename(__FILE__).'#search-block';
 						include(__DIR__.'/../../../_partials/product_search4.php');
 						?>
-       </div>
-      </div>
       <script src="../../script/swiper/js/swiper.js">
       </script>
       <script>

@@ -110,11 +110,12 @@
                     <th>適合詳細</th>
                     <th>仕様</th>
                     <th>メーカー品番</th>
+                    <th></th>
                   </tr>
                 </thead>
                 <tbody>
                   <?php foreach ($filtered_products as $key => $value) { ?>
-                  <tr onclick="window.open('https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>')">
+                  <tr>
                     <td><?=$value->price?></td>
                     <td><?=$value->car_type?></td>
                     <td><?=$value->model?></td>
@@ -123,6 +124,7 @@
                     <td><?=$value->compliance_details?></td>
                     <td><?=$value->specification?></td>
                     <td><?=$value->manu_part_number?></td>
+                    <td><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
                   </tr>
                   <?php } ?>
                 </tbody>
@@ -130,9 +132,9 @@
             </div>
             <?php } ?>
             <div class="clearfix"></div>
+            <div class="item_info_text_small" style="text-align: right;">
+                    ▼ご希望の商品をタップすると詳細・購入ページに遷移します。<br>※表示価格は税込です。<br>※輸入車は平和島店・一之江店のみの対応です。</div>
           </div>
-          <div class="item_info_text_small">
-                  ▼ご希望の商品をタップすると詳細・購入ページに遷移します。<br>※表示価格は税込です。<br>※輸入車は平和島店・一之江店のみの対応です。</div>
           <div class="clearfix"></div>
 <script>
 function enableSearchButton(value){

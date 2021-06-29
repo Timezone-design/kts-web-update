@@ -12,6 +12,7 @@
   <meta content="https://www.kts-web.com/favicon.ico" property="og:image"/>
   <meta content="KTS-web" property="og:site_name"/>
   <meta content="ja_JP" property="og:locale"/>
+  <meta name="format-detection" content="telephone=no">
   <title>
    KTS-web
   </title>
@@ -159,7 +160,7 @@
            </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6">
-           <a href="/tire_wheel/tire/index.html">
+           <a href="/tire_wheel/tire/index.php">
             <span>
              詳しく見る
             </span>
@@ -317,14 +318,6 @@
         </tr>
        </table>
        <div class="clearfix">
-       </div>
-       <div class="row">
-        <a class="arrowed-link" href="/">
-         <span class="ja">
-          もっと見る
-         </span>
-         <img alt="Menu Link" src="/assets/img/black_arrow.svg"/>
-        </a>
        </div>
       </div>
       <!-- <div class="clearfix"></div> -->

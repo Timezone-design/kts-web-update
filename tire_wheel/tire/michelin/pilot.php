@@ -152,7 +152,7 @@
            </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6">
-           <a href="/tire_wheel/tire/index.html">
+           <a href="/tire_wheel/tire/index.php">
             <span>
              詳しく見る
             </span>
@@ -173,7 +173,7 @@
          タイヤ・ホイール館
         </a>
         &gt;
-        <a class="link" href="../index.html">
+        <a class="link" href="../index.php">
          タイヤ
         </a>
         &gt;
@@ -566,7 +566,7 @@
           ※掲載商品以外の取扱いもございます。詳しくは店頭、または下記連絡先までお気軽にお問い合わせ下さい。
          </div>
         </div>
-        <?php include(__DIR__."/../../../_partials/product_search2.php") ?>
+        
        </div>
        <div class="clearfix-s">
        </div>

@@ -102,12 +102,13 @@ fclose($handle);
 					<th>4本セット</th>
 					<th>備考</th>
 					<th>速度表記</th>
+					<th></th>
 					<!-- <th>ジャンル</th> -->
 				</tr>
 			</thead>
 			<tbody>
 				<?php foreach ($filtered_products as $key => $value) { ?>
-				<tr onclick="window.open('https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>')">
+				<tr>
 					<!-- <td><?=$value['manufacturer']?></td> -->
 					<!-- <td><?=$value['brand']?></td> -->
 					<!-- <td><?=$value['product_name']?></td> -->
@@ -118,6 +119,7 @@ fclose($handle);
 					<td style="color: black;"><?=$value['four_set']?></td>
 					<td style="color: black;"><?=$value['note']?></td>
 					<td style="color: black;"><?=$value['speed_notation']?></td>
+					<td><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
 					<!-- <td><?=$value['genre']?></td> -->
 				</tr>
 				<?php } ?>

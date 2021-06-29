@@ -108,11 +108,12 @@
                     <!-- <th>適合詳細</th> -->
                     <!-- <th>仕様</th> -->
                     <th>メーカー品番</th>
+                    <th>&nbsp;</th>
                   </tr>
                 </thead>
                 <tbody class="top">
                   <?php foreach ($filtered_products as $key => $value) { ?>
-                  <tr onclick="window.open('https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>')">
+                  <tr>
                     <td><?=$value->manufacturer_name?></td>
                     <td><?=$value->product_name?></td>
                     <td><?=$value->price?></td>
@@ -123,6 +124,7 @@
                     <!-- <td><?=$value->compliance_details?></td> -->
                     <!-- <td><?=$value->specification?></td> -->
                     <td><?=$value->manu_part_number?></td>
+                    <td><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
                   </tr>
                   <?php } ?>
                 </tbody>
