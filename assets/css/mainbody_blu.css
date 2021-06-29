@@ -229,6 +229,10 @@ img {
   width: auto;
 }
 
+/* .matching_table_all tr td:last-of-type {
+  display: block;
+} */
+
 .four-square-one .inner-wrapper>a>img {
   width: 100%;
 }
@@ -2929,8 +2933,8 @@ a.link {
 
 .matching_table_all td a img,
 .pr_sp_none a img {
-  height: auto;
-  width: auto;
+  height: auto !important;
+  width: auto !important;
 }
 
 .matching_table_all td a:hover img,
