@@ -125,6 +125,10 @@ footer {
     line-height: 1.2;
   }
 
+  .showbox-content td a {
+    font-size: 13px;
+  }
+
   .footer-showbox-title {
     text-align: center;
     padding-bottom: 8px;
