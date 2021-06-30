@@ -139,9 +139,9 @@
 						<div class="footer_text_c1">※：</div>
 						<div class="footer_text_c2">掲載に無い商品・サイズについてはお問い合わせ下さい。</div>
 					</div>
-					<div class="th_top_b"><a href="size.php" target="_blank"><img class="pc_img" src="img/size_link_900.gif"
+					<div class="th_top_b"><a href="/tire_wheel/tire/index.php" target="_blank"><img class="pc_img" src="img/size_link_900.gif"
 								alt="タイヤサイズからの検索はコチラ"></a></div>
-					<div class="th_top_b"><a href="size.php" target="_blank"><img class="sp_img" src="img/size_link_sp.gif"
+					<div class="th_top_b"><a href="/tire_wheel/tire/index.php" target="_blank"><img class="sp_img" src="img/size_link_sp.gif"
 								alt="タイヤサイズからの検索はコチラ"></a></div>
 					<hr>
 				</div>

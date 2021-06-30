@@ -286,6 +286,13 @@
        </div>
        <div class="clearfix"></div>
        <?php include(__DIR__."/../../_partials/product_search2.php") ?>
+       <!-- <div class="th_top_b_wrapper">
+         <div class="clearfix-s"></div>
+        <div class="th_top_b"><a href="size.php" target="_blank"><img class="pc_img" src="img/size_link_900.gif"
+                  alt="タイヤサイズからの検索はコチラ"></a></div>
+        <div class="th_top_b"><a href="size.php" target="_blank"><img class="sp_img" src="img/size_link_sp.gif"
+                  alt="タイヤサイズからの検索はコチラ"></a></div>
+       </div> -->
       </div>
       <footer>
        <div class="footer-title">

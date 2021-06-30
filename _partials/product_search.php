@@ -104,6 +104,7 @@
                 <thead>
                   <!-- 【メーカー名・商品名・価格・車種・型式・年式・駆動・適合詳細・仕様・メーカー品番】 -->
                   <tr>
+                    <th>&nbsp;</th>
                     <th>メーカー名</th>
                     <th>商品名</th>
                     <th>工賃セット価格</th>
@@ -114,12 +115,12 @@
                     <!-- <th>適合詳細</th> -->
                     <!-- <th>仕様</th> -->
                     <th>メーカー品番</th>
-                    <th>&nbsp;</th>
                   </tr>
                 </thead>
                 <tbody class="top">
                   <?php foreach ($filtered_products as $key => $value) { ?>
                   <tr>
+                    <td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
                     <td><?=$value->manufacturer_name?></td>
                     <td><?=$value->product_name?></td>
                     <td><?=$value->price?></td>
@@ -130,7 +131,6 @@
                     <!-- <td><?=$value->compliance_details?></td> -->
                     <!-- <td><?=$value->specification?></td> -->
                     <td><?=$value->manu_part_number?></td>
-                    <td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
                   </tr>
                   <?php } ?>
                 </tbody>

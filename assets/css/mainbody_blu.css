@@ -2937,6 +2937,15 @@ a.link {
   width: auto !important;
 }
 
+.th_top_b {
+  width: 67%;
+  margin: auto;
+}
+
+.th_top_b_wrapper{
+  background-color: #ececec;
+}
+
 .matching_table_all td a:hover img,
 .pr_sp_none a:hover img {
   opacity: 0;
@@ -4006,7 +4015,10 @@ a.link {
     table-layout: unset !important;
   }
 
-
+  .th_top_b {
+    width: 95%;
+    margin: auto;
+  }
 
 
 
