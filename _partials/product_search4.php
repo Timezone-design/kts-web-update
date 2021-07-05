@@ -126,7 +126,7 @@
                   <?php foreach ($filtered_products as $key => $value) { ?>
                   <tr>
                     <td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
-                    <td>
+                    <td style="color: crimson;">
                     <?php 
                     if($value->price1 != "" && $value->price1 > 0){
                       echo "<p>".$value->price."</p>".$value->price1;

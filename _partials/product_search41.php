@@ -122,7 +122,7 @@
                   <?php foreach ($filtered_products as $key => $value) { ?>
                   <tr>
                     <td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
-                    <td><?=$value->price?></td>
+                    <td style="color: crimson;"><?=$value->price?></td>
                     <td><?=$value->car_type?></td>
                     <td><?=$value->model?></td>
                     <td><?=$value->model_year?></td>

@@ -21,6 +21,8 @@ while (($row = fgetcsv($handle, 0, ",")) !== false)
 	}else{
 		$price = "￥".number_format((int)$price);
 	}
+	$four_set = (string) $row[8];
+	$four_set = "￥".number_format((int)$four_set);
     $product = array(
     	'manufacturer' => (string) $row[1],
     	'brand' => (string) $row[2],
@@ -29,7 +31,7 @@ while (($row = fgetcsv($handle, 0, ",")) !== false)
     	'flatness' => (string) $row[5],
     	'tire_width' => (string) $row[6],
     	'price' => $price,
-    	'four_set' => (string) $row[8],
+    	'four_set' => $four_set,
     	'note' => (string) $row[9],
     	'speed_notation' => (string) $row[10],
     	'genre' => (string) $row[11],
@@ -37,13 +39,13 @@ while (($row = fgetcsv($handle, 0, ",")) !== false)
     );
 
     $products []= $product;
-    if($row[4] != '') $inches[$row[4]] = $row[4];
+    if($row[4] != '') $inches[$row[1]] = $row[1];
 
-    if($inch != '' && $product['inch'] == $inch && $product['tire_width'] != ''){
-		$tire_widthes[$product['tire_width']] = $product['tire_width'];
-		if($tire_width == $product['tire_width'] && $tire_width != ''){
-			$flatnesses[$product['flatness']] = $product['flatness'];
-			if($flatness != '' && $flatness == $product['flatness']){
+    if($inch != '' && $product['manufacturer'] == $inch && $product['brand'] != ''){
+		$tire_widthes[$product['brand']] = $product['brand'];
+		if($tire_width == $product['brand'] && $tire_width != ''){
+			$flatnesses[$product['product_name']] = $product['product_name'];
+			if($flatness != '' && $flatness == $product['product_name']){
 				$filtered_products []= $product;
 			}else if($flatness == ''){
 				$filtered_products []= $product;
@@ -114,15 +116,15 @@ fclose($handle);
 			<tbody>
 				<?php foreach ($filtered_products as $key => $value) { ?>
 				<tr>
-					<!-- <td><?=$value['manufacturer']?></td> -->
-					<!-- <td><?=$value['brand']?></td> -->
-					<!-- <td><?=$value['product_name']?></td> -->
 					<td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value["id"]?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
-					<td style="color: black;"><?=$value['inch']?></td>
-					<td style="color: black;"><?=$value['flatness']?></td>
-					<td style="color: black;"><?=$value['tire_width']?></td>
+					<td><?=$value['manufacturer']?></td>
+					<td><?=$value['brand']?></td>
+					<td><?=$value['product_name']?></td>
+					<!-- <td style="color: black;"><?=$value['inch']?></td> -->
+					<!-- <td style="color: black;"><?=$value['flatness']?></td> -->
+					<!-- <td style="color: black;"><?=$value['tire_width']?></td> -->
 					<td style="color: crimson;"><?=$value['price']?></td>
-					<td style="color: black;"><?=$value['four_set']?></td>
+					<td style="color: crimson;"><?=$value['four_set']?></td>
 					<td style="color: black;"><?=$value['note']?></td>
 					<td style="color: black;"><?=$value['speed_notation']?></td>
 					<!-- <td><?=$value['genre']?></td> -->

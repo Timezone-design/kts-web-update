@@ -34,10 +34,11 @@
                       $product->manu_part_number = $row[5];
                       $product->id = $row[14];
                       $product_models [$product->product_name]= $product->product_name;
-                      if($product->price == "出さない"){
+                      // if($product->price == "出さない"){
+                      if(!is_numeric($product->price)){
                         $product->price = "お問い合わせください";
                       }else{
-                        $product->price = "￥".number_format($product->price);
+                        $product->price = "￥".number_format((int) $product->price);
                       }
                       if($model != '' && $model == $product->product_name){
                         $filtered_products []= $product;
@@ -123,7 +124,7 @@
                     <td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
                     <td><?=$value->manufacturer_name?></td>
                     <td><?=$value->product_name?></td>
-                    <td><?=$value->price?></td>
+                    <td style="color: crimson;"><?=$value->price?></td>
                     <td><?=$value->car_type?></td>
                     <td><?=$value->model?></td>
                     <td><?=$value->model_year?></td>
