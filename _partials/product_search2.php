@@ -100,14 +100,14 @@ fclose($handle);
 				<tr>
 					<!-- 【インチ・扁平率・タイヤ幅・販売価格・4本セット・備考・速度表記】 -->
 					<th></th>
+					<th>販売価格</th>
+					<th>4本セット</th>
 					<th>メーカー</th>
 					<th>ブランド</th>
 					<th>商品名</th>
-					<!-- <th>インチ</th>
+					<th>インチ</th>
+					<th>タイヤ幅</th>
 					<th>扁平率</th>
-					<th>タイヤ幅</th> -->
-					<th>販売価格</th>
-					<th>4本セット</th>
 					<th>備考</th>
 					<th>速度表記</th>
 					<!-- <th>ジャンル</th> -->
@@ -117,14 +117,14 @@ fclose($handle);
 				<?php foreach ($filtered_products as $key => $value) { ?>
 				<tr>
 					<td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value["id"]?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
+					<td style="color: crimson;"><?=$value['price']?></td>
+					<td style="color: crimson;"><?=$value['four_set']?></td>
 					<td><?=$value['manufacturer']?></td>
 					<td><?=$value['brand']?></td>
 					<td><?=$value['product_name']?></td>
-					<!-- <td style="color: black;"><?=$value['inch']?></td> -->
-					<!-- <td style="color: black;"><?=$value['flatness']?></td> -->
-					<!-- <td style="color: black;"><?=$value['tire_width']?></td> -->
-					<td style="color: crimson;"><?=$value['price']?></td>
-					<td style="color: crimson;"><?=$value['four_set']?></td>
+					<td style="color: black;"><?=$value['inch']?></td>
+					<td style="color: black;"><?=$value['tire_width']?></td>
+					<td style="color: black;"><?=$value['flatness']?></td>
 					<td style="color: black;"><?=$value['note']?></td>
 					<td style="color: black;"><?=$value['speed_notation']?></td>
 					<!-- <td><?=$value['genre']?></td> -->
