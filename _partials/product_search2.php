@@ -39,18 +39,18 @@ while (($row = fgetcsv($handle, 0, ",")) !== false)
     );
 
     $products []= $product;
-    if($row[4] != '') $inches[$row[1]] = $row[1];
+    if($row[4] != '') $inches[$row[4]] = $row[4];
 
-    if($inch != '' && $product['manufacturer'] == $inch && $product['brand'] != ''){
-		$tire_widthes[$product['brand']] = $product['brand'];
-		if($tire_width == $product['brand'] && $tire_width != ''){
-			$flatnesses[$product['product_name']] = $product['product_name'];
-			if($flatness != '' && $flatness == $product['product_name']){
+    if($inch != '' && $product['inch'] == $inch && $product['tire_width'] != ''){
+		$tire_widthes[$product['tire_width']] = $product['tire_width'];
+		if($tire_width == $product['tire_width'] && $tire_width != ''){
+			$flatnesses[$product['flatness']] = $product['flatness'];
+			if($flatness != '' && $flatness == $product['flatness']){
 				$filtered_products []= $product;
 			}else if($flatness == ''){
 				$filtered_products []= $product;
 			}
-		}	
+		}
 	}
 				
 }
