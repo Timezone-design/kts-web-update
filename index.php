@@ -43,7 +43,6 @@
         <div id="content-wrapper">
           <!-- Header Start -->
           <?php include(__DIR__.'/_partials/header.html'); ?>
-          
           <!-- Header End -->
           <div class="clearfix-s">
           </div>
