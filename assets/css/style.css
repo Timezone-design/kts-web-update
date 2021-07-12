@@ -1,21 +1,13 @@
 .wf-notosansjapanese { font-family: "Noto Sans JP"; }
 
 .title_ja {
-	font-family: 'Noto Sans JP', sans-serif!important;
-	margin: 0 auto 50%!important;
+	font-family: 'Noto Sans JP', sans-serif !important;
+	margin: 0 auto 19% !important;
 	width: 80%;
 	color: #FFFFFF;
 	font-size: 15px;
 	background:rgba(0,84,205,0.90);
 	border-radius: 50px;
-	
-	
-}
-
-.title_ja {
-	font-family: 'Noto Sans JP', sans-serif!important;
-	margin-bottom: 19% auto 50%!important;
-	color:#FFFFFF!important;
 }
 
 .en {
