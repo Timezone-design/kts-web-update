@@ -77,9 +77,10 @@ header .clearfix {
 
 .arrowed-title {
   display: inline-block;
-  position: absolute;
+  position: relative!important;
   left: 6.25vw;
-  margin-bottom: 30px;
+  margin: 0 auto;
+
 }
 
 .arrowed-title h1 {
@@ -93,7 +94,7 @@ header .clearfix {
 .arrowed-link:visited,
 .arrowed-link:hover,
 .arrowed-link:active {
-  color: black;
+  color: white;
   text-decoration: none;
   font-size: 15px;
 }
@@ -118,7 +119,8 @@ header .clearfix {
 .arrowed-link img {
     transform: translate(3px, -4px);
     /* zoom: 48%; */
-    width: 20%;
+    width: 50%;
+	margin-bottom: 50%;
 }
 
 .arrowed-link.black {
