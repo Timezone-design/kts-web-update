@@ -40,7 +40,7 @@
     <div class="section-container">
      <div id="content-wrapper">
       <!-- Header Start -->
-      <?php include(__DIR__.'/_partials/header.html'); ?>
+      <?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/header.html'); ?>
 <!-- <header class="site-header">
        <nav class="navbar navbar-expand-lg navbar-dark">
         <a class="navbar-brand" href="/">
@@ -283,7 +283,7 @@
       <script>
        var swiper = new Swiper('.swiper-container', {								              navigation: {								                nextEl: '.swiper-button-next',								                prevEl: '.swiper-button-prev',								              },								              loop: true,								              pagination: {								                el: '.swiper-pagination',								                type: 'bullets',								                clickable: true,								              },								            });
       </script>
-      <?php include(__DIR__.'/_partials/footer.html'); ?> <!-- <footer>
+      <?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/footer.html'); ?> <!-- <footer>
        <div class="footer-title">
         <div class="arrowed-title" id="footer-title">
          <h1 class="ja">

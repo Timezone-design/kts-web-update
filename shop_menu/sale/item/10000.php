@@ -25,7 +25,7 @@
 <div class="section-container">
 <div id="content-wrapper">
 <!-- Header Start -->
-<?php include(__DIR__.'/_partials/header.html'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/header.html'); ?>
 <!-- <header class="site-header">
 <nav class="navbar navbar-expand-lg navbar-dark">
 <a class="navbar-brand" href="/"><img alt="Company Logo" class="logo" id="header-logo" src="/img/opg.png" srcset=""/></a>
@@ -144,7 +144,7 @@
 								            });
 
 								            </script>
-<?php include(__DIR__.'/_partials/footer.html'); ?> <!-- <footer>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/footer.html'); ?> <!-- <footer>
 <div class="footer-title">
 <div class="arrowed-title" id="footer-title">
 <h1 class="ja">店舗情報</h1><img alt="Blue Arrow" src="/assets/img/blue_arrow.svg" srcset=""/>

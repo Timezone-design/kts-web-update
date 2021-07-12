@@ -126,7 +126,7 @@
 				<div id="content-wrapper">
 					<!-- Header Start -->
 
-					<?php include(__DIR__.'/_partials/header.html'); ?>
+					<?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/header.html'); ?>
 <!-- <header class="site-header">
             <nav class="navbar navbar-expand-lg navbar-dark">
               <a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.png" alt="Company Logo" srcset=""></a>
@@ -643,7 +643,7 @@
 							</table>
 						</div>
 					</div>
-					<?php include(__DIR__.'/_partials/footer.html'); ?> <!-- <footer>
+					<?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/footer.html'); ?> <!-- <footer>
 
             <div class="footer-title">
               <div id="footer-title" class="arrowed-title">

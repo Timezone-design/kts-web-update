@@ -42,7 +42,7 @@
       <div class="section-container">
         <div id="content-wrapper">
           <!-- Header Start -->
-          <?php include(__DIR__.'/_partials/header.html'); ?>
+          <?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/header.html'); ?>
           <!-- Header End -->
           <div class="clearfix-s">
           </div>
@@ -183,7 +183,7 @@
           </div>
           <!-- <div class="clearfix"></div> -->
           <!-- Footer Start -->
-          <?php include(__DIR__.'/_partials/footer.html'); ?>
+          <?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/footer.html'); ?>
         </div>
       </div>
 <<<<<<< .mine
