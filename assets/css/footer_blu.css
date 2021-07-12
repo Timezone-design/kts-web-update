@@ -79,6 +79,15 @@ footer {
   margin-left: -18px;
 }
 
+footer .arrowed-link {
+  color: black !important;
+}
+
+footer .arrowed-link img {
+  width: 20%;
+  margin-bottom: 0;
+}
+
 @media only screen and (max-width: 575px) {
   #footer-logo-wrap img {
     width: 100%;
