@@ -223,7 +223,7 @@
        </div>
        <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/4.jpg');">
         <img alt="" src="/assets/img/four-of-a-kind/4.jpg" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
-        <a class="arrowed-link white" href="/houjin/index.html">
+        <a class="arrowed-link white" href="/shop_menu/alignment/index.html">
          <div class="title_ja">
           <b>アライメント予約</b>
          </div>
