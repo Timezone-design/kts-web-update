@@ -120,7 +120,7 @@ header .clearfix {
     transform: translate(3px, -4px);
     /* zoom: 48%; */
     width: 50%;
-	margin-bottom: 50%;
+	/* margin-bottom: 20%; */
 }
 
 .arrowed-link.black {
