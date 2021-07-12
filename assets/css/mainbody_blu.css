@@ -1,5 +1,5 @@
 * {
-  font-family: "ヒラギノゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+  font-family: 'Noto Sans JP', sans-serif!important;
   word-break: break-all;
   line-height: 1.5;
 }
@@ -24,6 +24,7 @@ img {
   color: white;
   display: block;
   position: absolute;
+  font-family: 'Noto Sans JP', sans-serif!important;
   font-size: 16px;
   font-weight: bold;
   top: 50%;
@@ -34,9 +35,14 @@ img {
 }
 
 .four-of-a-kind-one a.arrowed-link {
-  font-size: 12px;
-  padding-top: 51%;
+  font-size: 10px;
+  padding-top: 30%;
 }
+
+
+
+
+
 
 .notice {
   width: 100%;
@@ -69,7 +75,6 @@ img {
   left: 0px;
   width: 100%;
   height: 100%;
-  padding-top: 56%;
   transition: background-color 0.35s ease;
 }
 
@@ -90,16 +95,16 @@ img {
 .four-of-a-kind-one a:hover span,
 .four-of-a-kind-one a:hover img {
   background-color: transparent;
-  color: white !important;
+  color: #FFFFFF;
   opacity: 1;
 }
 
 .four-of-a-kind-one a:hover {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 #menu_title {
-  background-position: 32% 106%;
+  background-position: 32% 16%;
 }
 
 #notice-table span.new-notice.active {
@@ -3048,7 +3053,7 @@ a.link {
   }
 
   .four-of-a-kind-one a.arrowed-link {
-    padding-top: 46%;
+    padding-top:30%!important;
   }
 
   .four-of-a-kind-one .title {

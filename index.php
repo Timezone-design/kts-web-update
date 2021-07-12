@@ -1,5 +1,5 @@
 <html>
- <head>
+<head>
   <meta content="アライメント,車高調,KTS,走行会,クラッチ,LSD,取付,工賃" name="keywords"/>
   <meta content="KTSは車好きの為のチューニングショップです。オイル交換からエンジンの載せ換えまで、チューニングの事ならお任せを！" name="description"/>
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
@@ -31,6 +31,11 @@
   </script>
   <script src="/assets/js/slick.min.js">
   </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
+  <link href="/assets/css/style.css" rel="stylesheet" type="text/css"/>
+	
  </head>
  <body>
   <main>
@@ -137,7 +142,7 @@
          <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-6">
            <a href="/product/index.html">
-            <span>
+            <span class="ja">
              詳しく見る
             </span>
             <img src="/assets/img/home/hks_202103_05_camp_480.png"/>
@@ -145,15 +150,15 @@
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6">
            <a href="/shop_menu/set/ch_ma/liqui_moly_dpf.html">
-            <span>
+            <span class="ja">
              詳しく見る
             </span>
-            <img src="/assets/img/home/liqui_moly_dpf_480.png"/>
+            <img src="/assets/img/home/8800_480.jpg"/>
            </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6">
            <a href="/shop_menu/set/ch_ma/10674.html">
-            <span>
+            <span class="ja">
              詳しく見る
             </span>
             <img src="/assets/img/home/mahle_ozone_pro_480.png"/>
@@ -161,7 +166,7 @@
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6">
            <a href="/tire_wheel/tire/index.php">
-            <span>
+            <span class="ja">
              詳しく見る
             </span>
             <img src="/assets/img/home/tire_wheel_480.png"/>
@@ -175,9 +180,11 @@
       <div class="clearfix-s">
       </div>
       <div class="arrowed-title" id="menu-title">
+		<div class="ja">
        <h1>
         MENU
        </h1>
+		</div>
        <img alt="Blue Arrow" src="/assets/img/blue_arrow.svg" srcset=""/>
       </div>
       <div class="clearfix">
@@ -186,51 +193,40 @@
       </div>
       <br/>
       <div class="four-of-a-kind row">
-       <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/1.png');">
-        <img alt="" src="/assets/img/four-of-a-kind/1.png" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
+       <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/1.jpg');">
+        <img alt="" src="/assets/img/four-of-a-kind/1.jpg" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
         <a class="arrowed-link white" href="/shop_menu/set/index.html">
-         <span class="title ja">
-          ショップメニュー
-         </span>
-         <span class="ja">
-          詳しく見る
-         </span>
+         <div class="title_ja">
+          <b>ショップメニュー</b>
+         </div>
          <img alt="Menu Link" src="/assets/img/white_arrow.svg"/>
         </a>
        </div>
-       <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/2.png');">
-        <img alt="" src="/assets/img/four-of-a-kind/2.png" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
+       <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/2.jpg');">
+        <img alt="" src="/assets/img/four-of-a-kind/2.jpg" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
         <a class="arrowed-link white" href="/product/index.html">
-         <span class="title ja">
-          オリジナル商品
-         </span>
-         <span class="ja">
-          詳しく見る
-         </span>
+         <div class="title_ja">
+          <b>オリジナル商品</b>
+         </div>
          <img alt="Menu Link" src="/assets/img/white_arrow.svg"/>
         </a>
        </div>
-       <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/3.png');">
-        <img alt="" src="/assets/img/four-of-a-kind/3.png" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
+       <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/3.jpg');">
+        <img alt="" src="/assets/img/four-of-a-kind/3.jpg" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
         <a class="arrowed-link white" href="/tire_wheel/index.html">
-         <span class="title ja">
-          タイヤ・ホイール
-         </span>
-         <span class="ja">
-          詳しく見る
-         </span>
+         <div class="title_ja">
+          <b>タイヤ・ホイール</b>
+         </div>
+
          <img alt="Menu Link" src="/assets/img/white_arrow.svg"/>
         </a>
        </div>
-       <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/4.png');">
-        <img alt="" src="/assets/img/four-of-a-kind/4.png" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
+       <div class="four-of-a-kind-one col-md-3 col-sm-6 col-xs-6" style="background-image: url('/assets/img/four-of-a-kind/4.jpg');">
+        <img alt="" src="/assets/img/four-of-a-kind/4.jpg" srcset="" style="visibility: hidden; max-width: 100%; max-height: 100%;"/>
         <a class="arrowed-link white" href="/houjin/index.html">
-         <span class="title ja">
-          業販
-         </span>
-         <span class="ja">
-          詳しく見る
-         </span>
+         <div class="title_ja">
+          <b>アライメント予約</b>
+         </div>
          <img alt="Menu Link" src="/assets/img/white_arrow.svg"/>
         </a>
        </div>
