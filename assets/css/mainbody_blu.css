@@ -2071,10 +2071,10 @@ summary::marker {
   text-decoration: none;
 }
 
-.sp_none {
+/* .sp_none {
   font-size: 32px;
   line-height: 31px;
-}
+} */
 
 .al_text_tb_09f {
   color: blueviolet;

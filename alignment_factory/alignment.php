@@ -126,7 +126,8 @@
 				<div id="content-wrapper">
 					<!-- Header Start -->
 
-					<header class="site-header">
+					<?php include(__DIR__.'/_partials/header.html'); ?>
+<!-- <header class="site-header">
             <nav class="navbar navbar-expand-lg navbar-dark">
               <a class="navbar-brand" href="/"><img id="header-logo" class="logo" src="/img/opg.png" alt="Company Logo" srcset=""></a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -189,7 +190,7 @@
                 </div>
               </div>
             </div>
-          </header>
+          </header> -->
 					<!-- Header End -->
 
 					<div class="alignment row white-wrapper">
@@ -642,7 +643,7 @@
 							</table>
 						</div>
 					</div>
-					<footer>
+					<?php include(__DIR__.'/_partials/footer.html'); ?> <!-- <footer>
 
             <div class="footer-title">
               <div id="footer-title" class="arrowed-title">
@@ -774,7 +775,7 @@
               </div>
               <div class="copyright row"><span>&copy; — — — — — —</span></div>
             </div>
-          </footer>
+          </footer> -->
 				</div>
 			</div>
 		</section>

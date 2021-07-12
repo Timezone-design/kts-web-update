@@ -28,7 +28,8 @@
    <section id="wrapper">
     <div class="section-container">
      <div id="content-wrapper">
-      <header class="site-header">
+      <?php include(__DIR__.'/_partials/header.html'); ?>
+<!-- <header class="site-header">
        <nav class="navbar navbar-expand-lg navbar-dark">
         <a class="navbar-brand" href="/">
          <img alt="Company Logo" class="logo" id="header-logo" src="/img/opg.png" srcset=""/>
@@ -160,7 +161,7 @@
          </div>
         </div>
        </div>
-      </header>
+      </header> -->
       <div class="clearfix-s">
        <div class="mc_nav">
         <a class="link" href="../../../index.html">
@@ -307,7 +308,7 @@
       </div>
       <div class="clearfix-s">
       </div>
-      <footer>
+      <?php include(__DIR__.'/_partials/footer.html'); ?> <!-- <footer>
        <div class="footer-title">
         <div class="arrowed-title" id="footer-title">
          <h1 class="ja">
@@ -528,7 +529,7 @@
          </span>
         </div>
        </div>
-      </footer>
+      </footer> -->
      </div>
     </div>
    </section>
