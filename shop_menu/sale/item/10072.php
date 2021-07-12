@@ -121,9 +121,9 @@
 </tr>
 </table>
 <?php
-	                  	$root_dir = __DIR__.'/../../..';
-						$uri = 'shop_menu/sale/item/'.basename(__FILE__).'#search-block';
-						include(__DIR__.'/../../../_partials/product_search41.php');
+	                  	
+						
+						include($_SERVER['DOCUMENT_ROOT'].'/_partials/product_search41.php');
 						?>
 </div>
 </div>
