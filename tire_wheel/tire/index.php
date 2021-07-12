@@ -286,7 +286,7 @@
         </div>
        </div>
        <div class="clearfix"></div>
-       <?php include(__DIR__."/../../_partials/product_search2.php") ?>
+       <?php include($_SERVER['DOCUMENT_ROOT']."/_partials/product_search2.php") ?>
        <!-- <div class="th_top_b_wrapper">
          <div class="clearfix-s"></div>
         <div class="th_top_b"><a href="size.php" target="_blank"><img class="pc_img" src="img/size_link_900.gif"
