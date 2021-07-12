@@ -1,6 +1,4 @@
 <html>
-<<<<<<< .mine
-
 <head>
   <meta content="アライメント,車高調,KTS,走行会,クラッチ,LSD,取付,工賃" name="keywords" />
   <meta content="KTSは車好きの為のチューニングショップです。オイル交換からエンジンの載せ換えまで、チューニングの事ならお任せを！" name="description" />
@@ -15,23 +13,6 @@
   <meta content="KTS-web" property="og:site_name" />
   <meta content="ja_JP" property="og:locale" />
 
-=======
-<head>
-  <meta content="アライメント,車高調,KTS,走行会,クラッチ,LSD,取付,工賃" name="keywords"/>
-  <meta content="KTSは車好きの為のチューニングショップです。オイル交換からエンジンの載せ換えまで、チューニングの事ならお任せを！" name="description"/>
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-  <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
-  <meta content="width=device-width" name="viewport"/>
-  <meta content="article" property="og:type"/>
-  <meta content="KTS-web" property="og:title"/>
-  <meta content="KTSは車好きの為のチューニングショップです。オイル交換からエンジンの載せ換えまで、チューニングの事ならお任せを！" property="og:description"/>
-  <meta content="https://www.kts-web.com/" property="og:url"/>
-  <meta content="https://www.kts-web.com/favicon.ico" property="og:image"/>
-  <meta content="KTS-web" property="og:site_name"/>
-  <meta content="ja_JP" property="og:locale"/>
-  
-
->>>>>>> .theirs
   <title>
     KTS-web
   </title>
@@ -48,23 +29,9 @@
   </script>
   <script src="/assets/js/slick.min.js">
   </script>
-<<<<<<< .mine
 </head>
 
 <body>
-
-
-
-
-=======
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
-  <link href="/assets/css/style.css" rel="stylesheet" type="text/css"/>
-	
- </head>
- <body>
->>>>>>> .theirs
   <main>
     <section id="wrapper">
       <div class="section-container">
