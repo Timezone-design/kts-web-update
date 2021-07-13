@@ -174,7 +174,7 @@
          タイヤ・ホイール館
         </a>
         &gt;
-        <a class="link" href="../index.php">
+        <a class="link" href="../">
          タイヤ
         </a>
         &gt;
