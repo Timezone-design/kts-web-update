@@ -8,8 +8,8 @@
           $button_pressed = isset($_POST['buttonpress'])?$_POST['buttonpress']:'0';
           
             $file = $root_dir.'/db/item.csv';
-            $buffer=explode("\n",file_get_contents($file));
-
+			$context = stream_context_create(array('http'=>array('ignore_errors'=>true)));
+            $buffer=explode("\n",file_get_contents($file, false, $context));
             foreach($buffer as $row_buf){
                 $row = explode(",", $row_buf);
                 if(count($row) < 19) continue;
