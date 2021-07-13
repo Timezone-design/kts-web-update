@@ -10,7 +10,6 @@
             $file = $root_dir.'/db/item.csv';
 			$context = stream_context_create(array('http'=>array('ignore_errors'=>true)));
             $buffer=explode("\n",file_get_contents($file, false, $context));
-
             foreach($buffer as $row_buf){
                 $row = explode(",", $row_buf);
                 if(count($row) < 19) continue;
