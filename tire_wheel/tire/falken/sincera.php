@@ -165,11 +165,11 @@
       </header> -->
       <div class="main_c row grey-wrapper">
        <div class="mc_nav">
-        <a class="link" href="../../../index.html">
+        <a class="link" href="../../../">
          HOME
         </a>
         &gt;
-        <a class="link" href="../../index.html">
+        <a class="link" href="../../">
          タイヤ・ホイール館
         </a>
         &gt;

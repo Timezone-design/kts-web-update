@@ -144,7 +144,7 @@
                       </header> -->
           <!-- Header End -->
 				<div class="main_c row grey-wrapper">
-        <div class="mc_nav"><a class="link" href="../index.html">HOME</a> &gt; 各メーカーリンク</div>
+        <div class="mc_nav"><a class="link" href="../">HOME</a> &gt; 各メーカーリンク</div>
 					<div class="clearfix-s"></div>
 					<div class="link_back">
 						<div class="link_text">下記メーカー・ブランド以外の商品も取り扱っております。掲載外のメーカー・ブランドがございましたらお気軽にお問い合わせ下さい。</div>

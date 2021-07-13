@@ -177,7 +177,7 @@
 <td class="main_c">
 <div class="space1px"></div>
 <div class="mc_nav">
-<a class="link" href="/">HOME</a> &gt; <a class="link" href="../../../../index.html">SHOP MENU</a> &gt; <a class="link" href="../../../index.html">工賃セットメニュー</a> &gt; <a class="link" href="../cat/100.html">足回り</a> &gt; <a class="link" href="../cat/116.html">車高調/セッティングパーツ</a> &gt; <a class="link" href="1162-116.html">KTS</a></div>
+<a class="link" href="/">HOME</a> &gt; <a class="link" href="../../../../index.html">SHOP MENU</a> &gt; <a class="link" href="../../../">工賃セットメニュー</a> &gt; <a class="link" href="../cat/100.html">足回り</a> &gt; <a class="link" href="../cat/116.html">車高調/セッティングパーツ</a> &gt; <a class="link" href="1162-116.html">KTS</a></div>
 <div class="space3px"></div>
 <div class="set_sale_back">
 <div class="space3px"></div>

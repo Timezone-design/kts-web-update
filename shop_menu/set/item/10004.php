@@ -179,11 +179,11 @@
          HOME
         </a>
         &gt;
-        <a class="link" href="../../index.html">
+        <a class="link" href="../../">
          SHOP MENU
         </a>
         &gt;
-        <a class="link" href="../index.html">
+        <a class="link" href="../">
          工賃セットメニュー
         </a>
         &gt;
