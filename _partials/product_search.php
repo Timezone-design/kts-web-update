@@ -23,7 +23,7 @@
                     $car_model_cats[$product->car_model_cat] = $product->car_model_cat;
                     if($car_model_cat == $product->car_model_cat && $car_model_cat != ''){
                       $product->manufacturer_name = $row[3];
-                      $product->product_name = $row[4];
+                      $product->product_name = $row[2];
                       $product->price = $row[18];
                       $product->car_type = $row[8];
                       $product->model = $row[9];
