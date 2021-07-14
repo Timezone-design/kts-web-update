@@ -23,7 +23,8 @@
                     $car_model_cats[$product->car_model_cat] = $product->car_model_cat;
                     if($car_model_cat == $product->car_model_cat && $car_model_cat != ''){
                       $product->manufacturer_name = $row[3];
-                      $product->product_name = $row[2];
+                      $product->product_cat = $row[4];
+					  $product->product_name = $row[2];
                       $product->price = $row[18];
                       $product->car_type = $row[8];
                       $product->model = $row[9];
@@ -123,7 +124,7 @@
                   <tr>
                     <td style="width: 1%;"><a href='https://www.kts-web.com/ec_shop/products/detail/<?=$value->id?>'><img src="/product/img/buy_1.gif" alt="buy"></a></td>
                     <td><?=$value->manufacturer_name?></td>
-                    <td><?=$value->product_name?></td>
+                    <td><?=$value->product_cat?></td>
                     <td style="color: crimson;"><?=$value->price?></td>
                     <td><?=$value->car_type?></td>
                     <td><?=$value->model?></td>
