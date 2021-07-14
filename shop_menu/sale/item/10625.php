@@ -1,47 +1,75 @@
 <html>
- <head>
-  <meta content="高品質アルミダイカスト製ボディを採用。高精度CNC加工でクリアランスの適正化を行いレスポンスよくスムーズなピストン動作を実現。ピストンにはデフリックコーティングを施し、耐腐食性の向上はもちろん、厳しいクリアランスでも抜群の潤滑性能を発揮。腐食に強いブラック特殊コーティングとレッドアルマイトを採用。エンジンルームのドレスアップにも最適。取付部のフランジ形状、ファンネルの大きさなどを従来品と同等とすることで従来モデルからの付け替えも可能。" name="description"/>
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-  <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
-  <meta content="width=device-width" name="viewport"/>
-  <link href="../../../web_r.css" rel="stylesheet" type="text/css"/>
+
+<head>
+  <meta
+    content="高品質アルミダイカスト製ボディを採用。高精度CNC加工でクリアランスの適正化を行いレスポンスよくスムーズなピストン動作を実現。ピストンにはデフリックコーティングを施し、耐腐食性の向上はもちろん、厳しいクリアランスでも抜群の潤滑性能を発揮。腐食に強いブラック特殊コーティングとレッドアルマイトを採用。エンジンルームのドレスアップにも最適。取付部のフランジ形状、ファンネルの大きさなどを従来品と同等とすることで従来モデルからの付け替えも可能。"
+    name="description" />
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+  <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport" />
+  <meta content="width=device-width" name="viewport" />
   <title>
-   KTS-web 工賃セットメニュー BLITZ SUPER SOUND BLOW OFF VALVE BR
+    KTS-web 工賃セットメニュー BLITZ SUPER SOUND BLOW OFF VALVE BR
   </title>
   <script type="application/ld+json">
-   {@context: "http://schema.org",@type: "BreadcrumbList",itemListElement:[{@type: "ListItem",position: 1,item:{@id: "/shop_menu/",name: "SHOP MENU"}},{@type: "ListItem",position: 2,item:{@id: "/set/",name: "工賃セットメニュー"}},{@type: "ListItem",position: 3,item:{@id: "/item/10625.php",name: "SUPER SOUND BLOW OFF VALVE BR"}}]}
+    {
+      @context: "http://schema.org",
+      @type: "BreadcrumbList",
+      itemListElement: [{
+        @type: "ListItem",
+        position: 1,
+        item: {
+          @id: "/shop_menu/",
+          name: "SHOP MENU"
+        }
+      }, {
+        @type: "ListItem",
+        position: 2,
+        item: {
+          @id: "/set/",
+          name: "工賃セットメニュー"
+        }
+      }, {
+        @type: "ListItem",
+        position: 3,
+        item: {
+          @id: "/item/10625.php",
+          name: "SUPER SOUND BLOW OFF VALVE BR"
+        }
+      }]
+    }
   </script>
-  <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport"/>
-  <meta content="width=device-width" name="viewport"/>
+  <meta content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=1" name="viewport" />
+  <meta content="width=device-width" name="viewport" />
   <title>
-   KTS-web 工賃セットメニュー BLITZ SUPER SOUND BLOW OFF VALVE BR
+    KTS-web 工賃セットメニュー BLITZ SUPER SOUND BLOW OFF VALVE BR
   </title>
-  <link href="../../script/swiper/css/swiper.css" rel="stylesheet"/>
-  <link href="/assets/css/search.css" rel="stylesheet" type="text/css"/>
-  <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-  <link href="/assets/css/header_blu.css" rel="stylesheet" type="text/css"/>
-  <link href="/assets/css/mainbody_blu.css" rel="stylesheet" type="text/css"/>
-  <link href="/assets/css/footer_blu.css" rel="stylesheet" type="text/css"/>
+  <link href="../../script/swiper/css/swiper.css" rel="stylesheet" />
+  <link href="/assets/css/search.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/css/header_blu.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/css/mainbody_blu.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/css/footer_blu.css" rel="stylesheet" type="text/css" />
   <link href="/assets/css/slick.css" rel="stylesheet" type="text/css">
-   <link href="/assets/css/custom.css" rel="stylesheet" type="text/css"/>
-   <script src="/assets/js/jquery-3.6.0.min.js">
-   </script>
-   <script src="/assets/js/popper.min.js">
-   </script>
-   <script src="/assets/js/bootstrap.min.js">
-   </script>
-   <script src="/assets/js/slick.min.js">
-   </script>
+  <link href="/assets/css/custom.css" rel="stylesheet" type="text/css" />
+  <script src="/assets/js/jquery-3.6.0.min.js">
+  </script>
+  <script src="/assets/js/popper.min.js">
+  </script>
+  <script src="/assets/js/bootstrap.min.js">
+  </script>
+  <script src="/assets/js/slick.min.js">
+  </script>
   </link>
- </head>
- <body>
+</head>
+
+<body>
   <main>
-   <section id="wrapper">
-    <div class="section-container">
-     <div id="content-wrapper">
-      <!-- Header Start -->
-      <?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/header.html'); ?>
-<!-- <header class="site-header">
+    <section id="wrapper">
+      <div class="section-container">
+        <div id="content-wrapper">
+          <!-- Header Start -->
+          <?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/header.html'); ?>
+          <!-- <header class="site-header">
        <nav class="navbar navbar-expand-lg navbar-dark">
         <a class="navbar-brand" href="/">
          <img alt="Company Logo" class="logo" id="header-logo" src="/img/opg.png" srcset=""/>
@@ -174,116 +202,128 @@
         </div>
        </div>
       </header> -->
-      <!-- Header End -->
-      <div class="main_c row grey-wrapper">
-        <div class="mc_nav">
-        <a class="link" href="/">
-         HOME
-        </a>
-        &gt;
-        <a class="link" href="../../">
-         SHOP MENU
-        </a>
-        &gt;
-        <a class="link" href="../">
-         工賃セットメニュー
-        </a>
-        &gt;
-        <a class="link" href="../cat/107.html">
-         過給機
-        </a>
-        &gt;
-        <a class="link" href="../cat/151.html">
-         ブローオフバルブ
-        </a>
-        &gt;
-        <a class="link" href="../br/1144-151.html">
-         BLITZ
-        </a>
-        &gt;
-        <a class="link" href="10625.php">
-         SUPER SOUND BLOW OFF VALVE BR
-        </a>
-       </div>
-       <div class="clearfix">
-       </div>
-       <div class="set_sale_back">
-        <div class="space3px">
-        </div>
-        <div class="set_menu_n row">
-         <div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
-          <div>
-           <img alt="SUPER SOUND BLOW OFF VALVE BR" src="../../brand/img/1144.gif"/>
-          </div>
-         </div>
-         <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
-          <div class="item_info_text_middle">
-           <p>
-            BLITZ[ブリッツ]
-           </p>
-          </div>
-          <div class="item_info_text_middle_b">
-           <p>
-            SUPER SOUND BLOW OFF VALVE BR[スーパーサウンドブローオフバルブ]
-           </p>
-          </div>
-         </div>
-        </div>
-        <div class="set_menu_n row">
-         <div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
-          <div>
-           <div class="swiper-container">
-            <div class="swiper-wrapper">
-             <div class="swiper-slide">
-              <img alt="SUPER SOUND BLOW OFF VALVE BR" src="../../item_img/10625_1.jpg"/>
-             </div>
-             <div class="swiper-slide">
-              <img alt="SUPER SOUND BLOW OFF VALVE BR" src="../../item_img/10625_2.jpg"/>
-             </div>
-             <div class="swiper-slide">
-              <img alt="SUPER SOUND BLOW OFF VALVE BR" src="../../item_img/10625_3.jpg"/>
-             </div>
+          <!-- Header End -->
+          <div class="main_c row grey-wrapper">
+            <div class="mc_nav">
+              <a class="link" href="/">
+                HOME
+              </a>
+              &gt;
+              <a class="link" href="../../">
+                SHOP MENU
+              </a>
+              &gt;
+              <a class="link" href="../">
+                工賃セットメニュー
+              </a>
+              &gt;
+              <a class="link" href="../cat/107.html">
+                過給機
+              </a>
+              &gt;
+              <a class="link" href="../cat/151.html">
+                ブローオフバルブ
+              </a>
+              &gt;
+              <a class="link" href="../br/1144-151.html">
+                BLITZ
+              </a>
+              &gt;
+              <a class="link" href="10625.php">
+                SUPER SOUND BLOW OFF VALVE BR
+              </a>
             </div>
-            <div class="swiper-button-prev">
+            <div class="clearfix">
             </div>
-            <div class="swiper-button-next">
+            <div class="set_sale_back">
+              <div class="space3px">
+              </div>
+              <div class="set_menu_n row">
+                <div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
+                  <div>
+                    <img alt="SUPER SOUND BLOW OFF VALVE BR" src="../../brand/img/1144.gif" />
+                  </div>
+                </div>
+                <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
+                  <div class="item_info_text_middle">
+                    <p>
+                      BLITZ[ブリッツ]
+                    </p>
+                  </div>
+                  <div class="item_info_text_middle_b">
+                    <p>
+                      SUPER SOUND BLOW OFF VALVE BR[スーパーサウンドブローオフバルブ]
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="set_menu_n row">
+                <div class="set_menu_n_330 col-md-6 col-sm-12 col-xs-12">
+                  <div>
+                    <div class="swiper-container">
+                      <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                          <img alt="SUPER SOUND BLOW OFF VALVE BR" src="../../item_img/10625_1.jpg" />
+                        </div>
+                        <div class="swiper-slide">
+                          <img alt="SUPER SOUND BLOW OFF VALVE BR" src="../../item_img/10625_2.jpg" />
+                        </div>
+                        <div class="swiper-slide">
+                          <img alt="SUPER SOUND BLOW OFF VALVE BR" src="../../item_img/10625_3.jpg" />
+                        </div>
+                      </div>
+                      <div class="swiper-button-prev">
+                      </div>
+                      <div class="swiper-button-next">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item_caution">
+                    <p>
+                      ※写真はイメージ・代表画像です。
+                    </p>
+                    <p>
+                      ※実際の商品とカラーやイメージが異なる場合がございます。
+                    </p>
+                  </div>
+                </div>
+                <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
+                  <a class="set-sale-switch" href="../../set/item/10625.php">
+                    <img alt="取付へのリンク" src="../../img/itemlead_to_tori.jpg" />
+                  </a>
+                </div>
+              </div>
+              <div class="clearfix">
+              </div>
+              <table style="table-layout:fixed;" width="100%">
+                <!--ココまでSP-->
+                <tr>
+                  <div class="search_category">
+                    **********【商品検索】**********
+                  </div>
+                </tr>
+              </table>
             </div>
-           </div>
           </div>
-          <div class="item_caution">
-           <p>
-            ※写真はイメージ・代表画像です。
-           </p>
-           <p>
-            ※実際の商品とカラーやイメージが異なる場合がございます。
-           </p>
-          </div>
-         </div>
-         <div class="set_menu_n_cell col-md-6 col-sm-12 col-xs-12">
-          <a class="set-sale-switch" href="../../set/item/10625.php">
-           <img alt="取付へのリンク" src="../../img/itemlead_to_tori.jpg"/>
-          </a>
-         </div>
-        </div>
-        <div class="clearfix">
-        </div>
-        <table style="table-layout:fixed;" width="100%">
-         <!--ココまでSP-->
-         <tr>
-          <div class="search_category">
-           **********【商品検索】**********
-          </div>
-         </tr>
-        </table>
-        <?php	                  													include($_SERVER['DOCUMENT_ROOT'].'/_partials/product_search41.php');						?>
-       </div>
-      </div>
-      <script src="../../script/swiper/js/swiper.js">
-      </script>
-      <script>
-       var swiper = new Swiper('.swiper-container', {								              navigation: {								                nextEl: '.swiper-button-next',								                prevEl: '.swiper-button-prev',								              },								              loop: true,								              pagination: {								                el: '.swiper-pagination',								                type: 'bullets',								                clickable: true,								              },								            });
-      </script>
-      <?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/footer.html'); ?> <!-- <footer>
+          <?php	                  													include($_SERVER['DOCUMENT_ROOT'].'/_partials/product_search41.php');						?>
+          <script src="../../script/swiper/js/swiper.js">
+          </script>
+          <script>
+            var swiper = new Swiper('.swiper-container', {
+              navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+              },
+              loop: true,
+              pagination: {
+                el: '.swiper-pagination',
+                type: 'bullets',
+                clickable: true,
+              },
+            });
+          </script>
+          <?php include($_SERVER['DOCUMENT_ROOT'].'/_partials/footer.html'); ?>
+          <!-- <footer>
        <div class="footer-title">
         <div class="arrowed-title" id="footer-title">
          <h1 class="ja">
@@ -505,11 +545,12 @@
         </div>
        </div>
       </footer> -->
-     </div>
-    </div>
-   </section>
+        </div>
+      </div>
+    </section>
   </main>
   <script src="/assets/js/header_blu.js">
   </script>
- </body>
+</body>
+
 </html>

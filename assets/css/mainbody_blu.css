@@ -3045,6 +3045,10 @@ a.link {
   margin: auto !important;
 }
 
+/* .set_sale_back #search-block form {
+  width: 100%;
+} */
+
 @media only screen and (max-width: 767px) {
 
   * {
